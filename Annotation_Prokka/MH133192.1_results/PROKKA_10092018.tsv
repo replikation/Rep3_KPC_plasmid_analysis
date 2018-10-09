@@ -1,0 +1,14 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+ADHDEBJI_00001	CDS	432				hypothetical protein
+ADHDEBJI_00002	CDS	2442				hypothetical protein
+ADHDEBJI_00003	CDS	864	repA			Regulatory protein RepA
+ADHDEBJI_00004	CDS	882				hypothetical protein
+ADHDEBJI_00005	CDS	252				hypothetical protein
+ADHDEBJI_00006	CDS	657			COG1357	Pentapeptide repeat protein
+ADHDEBJI_00007	CDS	426	klcA			Antirestriction protein KlcA
+ADHDEBJI_00008	CDS	156				hypothetical protein
+ADHDEBJI_00009	CDS	297				hypothetical protein
+ADHDEBJI_00010	CDS	981				hypothetical protein
+ADHDEBJI_00011	CDS	882	bla	3.5.2.6		Carbapenem-hydrolyzing beta-lactamase KPC
+ADHDEBJI_00012	CDS	1029				hypothetical protein
+ADHDEBJI_00013	CDS	579				hypothetical protein

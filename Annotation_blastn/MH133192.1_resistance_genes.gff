@@ -1,0 +1,7 @@
+##gff-version	3
+MH133192.1	.	mobA	1109	3492	.	.	.	name=mobA;description=MobA protein;accession=YP_005473816.1;missmatches=58;evalue=0.0
+MH133192.1	.	blaKPC	9508	10389	.	-	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-21;accession=WP_063860711.1;missmatches=0;evalue=0.0
+MH133192.1	.	tnpA	8394	9258	.	.	.	name=tnpA;description=transposase;accession=YP_009328370.1;missmatches=0;evalue=0.0
+MH133192.1	.	repA	3621	4459	.	.	.	name=repA;description=RepA protein;accession=YP_005473817.1;missmatches=35;evalue=0.0
+MH133192.1	.	qnrS	5896	6552	.	-	.	name=qnrS;description=quinolone resistance pentapeptide repeat protein QnrS2;accession=WP_012537714.1;missmatches=0;evalue=0.0
+MH133192.1	.	IncQ2	3815	4264	.	-	.	name=IncQ2;description=unknown_protein;accession=unknown_accession;missmatches=5;evalue=0.0

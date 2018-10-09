@@ -1,0 +1,648 @@
+>Feature CP023725.1
+11	922	CDS
+			dbxref	COG:COG1475
+			gene	virB_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A247
+			locus_tag	CNNAOPIG_00001
+			product	Virulence regulon transcriptional activator VirB
+2329	1058	CDS
+			dbxref	COG:COG0389
+			gene	umuC_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04152
+			locus_tag	CNNAOPIG_00002
+			product	Protein UmuC
+2751	2329	CDS
+			EC_number	3.4.21.-
+			dbxref	COG:COG1974
+			gene	umuD_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AG11
+			locus_tag	CNNAOPIG_00003
+			product	Protein UmuD
+3602	2931	CDS
+			EC_number	3.4.-.-
+			dbxref	COG:COG2135
+			gene	yedK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P76318
+			locus_tag	CNNAOPIG_00004
+			product	Putative SOS response-associated peptidase YedK
+3961	4638	CDS
+			EC_number	2.1.1.72
+			dbxref	COG:COG0863
+			gene	yhdJ_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P28638
+			locus_tag	CNNAOPIG_00005
+			product	DNA adenine methyltransferase YhdJ
+4638	4859	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00006
+			product	hypothetical protein
+4870	5289	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00007
+			product	hypothetical protein
+5343	6122	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00008
+			product	hypothetical protein
+6527	7033	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00009
+			product	hypothetical protein
+7076	7267	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00010
+			product	hypothetical protein
+7270	7506	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00011
+			product	hypothetical protein
+7454	7714	CDS
+			EC_number	2.7.7.7
+			gene	holE_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ABS8
+			locus_tag	CNNAOPIG_00012
+			product	DNA polymerase III subunit theta
+7749	7901	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00013
+			product	hypothetical protein
+8407	8105	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00014
+			product	hypothetical protein
+8692	8922	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P75677
+			locus_tag	CNNAOPIG_00015
+			note	UPF0401 protein YkfF
+			product	hypothetical protein
+8993	9655	CDS
+			dbxref	COG:COG1475
+			gene	spo0C_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q72H91
+			locus_tag	CNNAOPIG_00016
+			product	Chromosome-partitioning protein Spo0J
+9704	11002	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00017
+			product	hypothetical protein
+11045	11476	CDS
+			gene	psiB_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P10031
+			locus_tag	CNNAOPIG_00018
+			product	Protein PsiB
+11473	12201	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00019
+			product	hypothetical protein
+12198	12521	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00020
+			product	hypothetical protein
+12583	12942	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00021
+			product	hypothetical protein
+13568	13942	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00022
+			product	hypothetical protein
+14970	13978	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00023
+			product	hypothetical protein
+16335	16057	CDS
+			dbxref	COG:COG1396
+			gene	higA1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WJA7
+			locus_tag	CNNAOPIG_00024
+			product	Antitoxin HigA1
+16645	16325	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00025
+			product	hypothetical protein
+16950	16726	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00026
+			product	hypothetical protein
+17173	16961	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00027
+			product	hypothetical protein
+17590	17234	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00028
+			product	hypothetical protein
+18748	18431	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00029
+			product	hypothetical protein
+19113	18763	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00030
+			product	hypothetical protein
+19382	19110	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00031
+			product	hypothetical protein
+20233	20075	CDS
+			gene	flmA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P62670
+			locus_tag	CNNAOPIG_00032
+			product	Stable plasmid inheritance protein
+20835	20461	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00033
+			product	hypothetical protein
+21217	20891	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00034
+			product	hypothetical protein
+21942	21214	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00035
+			product	hypothetical protein
+22370	21939	CDS
+			gene	psiB_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P10031
+			locus_tag	CNNAOPIG_00036
+			product	Protein PsiB
+24472	22415	CDS
+			dbxref	COG:COG1475
+			gene	spo0C_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q72H91
+			locus_tag	CNNAOPIG_00037
+			product	Chromosome-partitioning protein Spo0J
+24790	24542	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P75677
+			locus_tag	CNNAOPIG_00038
+			note	UPF0401 protein YkfF
+			product	hypothetical protein
+25381	24839	CDS
+			gene	ssb
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P28044
+			locus_tag	CNNAOPIG_00039
+			product	Plasmid-derived single-stranded DNA-binding protein
+25554	25880	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00040
+			product	hypothetical protein
+25999	26319	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00041
+			product	hypothetical protein
+26777	26214	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00042
+			product	hypothetical protein
+28180	26825	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00043
+			product	hypothetical protein
+28462	28232	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00044
+			product	hypothetical protein
+28781	28554	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00045
+			product	hypothetical protein
+28942	29199	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00046
+			product	hypothetical protein
+29781	29461	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00047
+			product	hypothetical protein
+30070	29816	CDS
+			EC_number	2.7.7.7
+			gene	holE_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ABS8
+			locus_tag	CNNAOPIG_00048
+			product	DNA polymerase III subunit theta
+30449	30258	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00049
+			product	hypothetical protein
+30998	30492	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00050
+			product	hypothetical protein
+31469	31041	CDS
+			gene	klcA_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P52603
+			locus_tag	CNNAOPIG_00051
+			product	Antirestriction protein KlcA
+32917	32150	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00052
+			product	hypothetical protein
+33390	32971	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00053
+			product	hypothetical protein
+33621	33400	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00054
+			product	hypothetical protein
+34322	33621	CDS
+			EC_number	2.1.1.72
+			dbxref	COG:COG0863
+			gene	yhdJ_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P28638
+			locus_tag	CNNAOPIG_00055
+			product	DNA adenine methyltransferase YhdJ
+34989	34759	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00056
+			product	hypothetical protein
+35723	35052	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00057
+			product	hypothetical protein
+36697	35726	CDS
+			gene	parM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P11904
+			locus_tag	CNNAOPIG_00058
+			product	Plasmid segregation protein ParM
+37225	37641	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00059
+			product	hypothetical protein
+38533	37931	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00060
+			product	hypothetical protein
+38840	39271	CDS
+			EC_number	3.4.21.-
+			dbxref	COG:COG1974
+			gene	umuD_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AG11
+			locus_tag	CNNAOPIG_00061
+			product	Protein UmuD
+39271	40542	CDS
+			dbxref	COG:COG0389
+			gene	umuC_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04152
+			locus_tag	CNNAOPIG_00062
+			product	Protein UmuC
+41598	40624	CDS
+			dbxref	COG:COG1475
+			gene	virB_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A247
+			locus_tag	CNNAOPIG_00063
+			product	Virulence regulon transcriptional activator VirB
+42614	41598	CDS
+			gene	parA_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P07620
+			locus_tag	CNNAOPIG_00064
+			product	Plasmid partition protein A
+42867	44147	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00065
+			product	hypothetical protein
+44895	44173	CDS
+			gene	repE_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P03856
+			locus_tag	CNNAOPIG_00066
+			product	Replication initiation protein
+45257	45532	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00067
+			product	hypothetical protein
+45817	46074	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00068
+			product	hypothetical protein
+46899	46120	CDS
+			dbxref	COG:COG4974
+			gene	xerD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WF33
+			locus_tag	CNNAOPIG_00069
+			product	Tyrosine recombinase XerD
+48087	47083	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00070
+			product	hypothetical protein
+48887	48366	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00071
+			product	hypothetical protein
+49337	48945	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00072
+			product	hypothetical protein
+50318	49374	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00073
+			product	hypothetical protein
+50897	51127	CDS
+			dbxref	COG:COG4456
+			gene	vapB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7CPV2
+			locus_tag	CNNAOPIG_00074
+			product	Antitoxin VapB
+51169	51540	CDS
+			EC_number	3.1.-.-
+			dbxref	COG:COG1487
+			gene	vapC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8ZM86
+			locus_tag	CNNAOPIG_00075
+			product	tRNA(fMet)-specific endonuclease VapC
+51614	53176	CDS
+			gene	recF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00365
+			locus_tag	CNNAOPIG_00076
+			product	DNA replication and repair protein RecF
+53161	54183	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00077
+			product	hypothetical protein
+54633	55136	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00078
+			product	hypothetical protein
+55441	55590	CDS
+			gene	pndA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P11902
+			locus_tag	CNNAOPIG_00079
+			product	Protein PndA
+55874	56122	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00080
+			product	hypothetical protein
+56434	57291	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00081
+			product	hypothetical protein
+58272	58883	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00082
+			product	hypothetical protein
+58976	59233	CDS
+			gene	pemI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P13975
+			locus_tag	CNNAOPIG_00083
+			product	Antitoxin PemI
+59235	59567	CDS
+			EC_number	3.1.-.-
+			gene	pemK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P13976
+			locus_tag	CNNAOPIG_00084
+			product	Endoribonuclease PemK
+60064	59849	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00085
+			product	hypothetical protein
+60872	60267	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00086
+			product	hypothetical protein
+61582	60878	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00087
+			product	hypothetical protein
+61662	62237	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00088
+			product	hypothetical protein
+63220	62603	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00089
+			product	hypothetical protein
+63470	63997	CDS
+			dbxref	COG:COG1961
+			gene	hin
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P03013
+			locus_tag	CNNAOPIG_00090
+			product	DNA-invertase hin
+63994	64146	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00091
+			product	hypothetical protein
+64869	64153	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00092
+			product	hypothetical protein
+66676	65201	CDS
+			dbxref	COG:COG0653
+			gene	secA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:C0QZS7
+			locus_tag	CNNAOPIG_00093
+			product	Protein translocase subunit SecA
+67312	67118	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00094
+			product	hypothetical protein
+68555	67533	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00095
+			product	hypothetical protein
+69319	68600	CDS
+			gene	repE_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P03856
+			locus_tag	CNNAOPIG_00096
+			product	Replication initiation protein
+69879	70220	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00097
+			product	hypothetical protein
+71026	70235	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00098
+			product	hypothetical protein
+71692	71189	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00099
+			product	hypothetical protein
+72519	71815	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00100
+			product	hypothetical protein
+72599	73174	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00101
+			product	hypothetical protein
+74157	73540	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00102
+			product	hypothetical protein
+74446	74847	CDS
+			gene	tnpR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ADI2
+			locus_tag	CNNAOPIG_00103
+			product	Transposon Tn3 resolvase
+75296	74883	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00104
+			product	hypothetical protein
+75704	75309	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00105
+			product	hypothetical protein
+75890	75777	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00106
+			product	hypothetical protein
+76226	77107	CDS
+			EC_number	3.5.2.6
+			gene	bla
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9F663
+			locus_tag	CNNAOPIG_00107
+			product	Carbapenem-hydrolyzing beta-lactamase KPC
+78337	77357	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00108
+			product	hypothetical protein
+78638	78342	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00109
+			product	hypothetical protein
+78839	78684	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00110
+			product	hypothetical protein
+79389	78967	CDS
+			gene	klcA_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P52603
+			locus_tag	CNNAOPIG_00111
+			product	Antirestriction protein KlcA
+79781	79503	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00112
+			product	hypothetical protein
+80743	80315	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00113
+			product	hypothetical protein
+82196	81168	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00114
+			product	hypothetical protein
+82823	82332	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00115
+			product	hypothetical protein
+83421	82801	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00116
+			product	hypothetical protein
+83665	84996	CDS
+			gene	traD_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P09130
+			locus_tag	CNNAOPIG_00117
+			product	Coupling protein TraD
+84996	90131	CDS
+			gene	traI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P14565
+			locus_tag	CNNAOPIG_00118
+			product	Multifunctional conjugation protein TraI
+90342	90962	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00119
+			product	hypothetical protein
+91802	90906	CDS
+			gene	traD_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P09130
+			locus_tag	CNNAOPIG_00120
+			product	Coupling protein TraD
+92590	91853	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00121
+			product	hypothetical protein
+93527	92793	CDS
+			gene	ylpA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P27461
+			locus_tag	CNNAOPIG_00122
+			product	Lipoprotein YlpA
+94070	93549	CDS
+			gene	traS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P09129
+			locus_tag	CNNAOPIG_00123
+			product	Protein TraS
+96919	94103	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00124
+			product	hypothetical protein
+97468	97539	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	CNNAOPIG_00125
+			product	tRNA-Thr(ggt)
+98109	98804	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00126
+			product	hypothetical protein
+98785	99252	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00127
+			product	hypothetical protein
+99249	99860	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00128
+			product	hypothetical protein
+100807	99857	CDS
+			EC_number	3.1.21.-
+			dbxref	COG:COG5464
+			gene	rpnA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P31667
+			locus_tag	CNNAOPIG_00129
+			product	Recombination-promoting nuclease RpnA
+101154	100954	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CNNAOPIG_00130
+			product	hypothetical protein
+101840	101208	CDS
+			gene	bin3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P20384
+			locus_tag	CNNAOPIG_00131
+			product	Putative transposon Tn552 DNA-invertase bin3
+102203	103408	CDS
+			gene	parA_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P07620
+			locus_tag	CNNAOPIG_00132
+			product	Plasmid partition protein A

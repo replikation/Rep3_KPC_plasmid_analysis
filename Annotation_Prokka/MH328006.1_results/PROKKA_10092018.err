@@ -1,0 +1,333 @@
+Discrepancy Report Results
+
+Summary
+FATAL: MISSING_PROTEIN_ID:54 proteins have invalid IDs.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:CDS: 54 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:54 features have inconsistent gene locations.
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+SHORT_PROT_SEQUENCES:3 protein sequences are shorter than 50 aa.
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:55 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:MISSING_PROTEIN_ID::54 proteins have invalid IDs.
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_1 (length 326)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_2 (length 185)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_3 (length 1001)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_4 (length 57)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_5 (length 172)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_6 (length 119)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_7 (length 143)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_8 (length 326)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_9 (length 119)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_10 (length 174)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_11 (length 180)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_12 (length 81)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_13 (length 73)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_14 (length 93)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_15 (length 70)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_16 (length 86)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_17 (length 45)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_18 (length 74)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_19 (length 91)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_20 (length 88)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_21 (length 184)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_22 (length 396)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_23 (length 108)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_24 (length 212)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_25 (length 95)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_26 (length 919)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_27 (length 233)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_28 (length 85)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_29 (length 358)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_30 (length 45)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_31 (length 246)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_32 (length 306)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_33 (length 503)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_34 (length 353)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_35 (length 655)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_36 (length 128)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_37 (length 130)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_38 (length 115)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_39 (length 248)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_40 (length 799)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_41 (length 69)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_42 (length 156)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_43 (length 214)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_44 (length 94)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_45 (length 42)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_46 (length 988)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_47 (length 186)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_48 (length 186)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_49 (length 92)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_50 (length 141)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_51 (length 51)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_52 (length 98)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_53 (length 326)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_54 (length 293)
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 54 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1 (length 42848)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::54 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:c1182-202	HLCJMCGC_00001
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	Transposon Tn3 resolvase	MH328006.1:c1862-1305	HLCJMCGC_00002
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:2025-5030	HLCJMCGC_00003
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:5167-5340	HLCJMCGC_00004
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:c5863-5345	HLCJMCGC_00005
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:c6235-5876	HLCJMCGC_00006
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:c6768-6337	HLCJMCGC_00007
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:c7748-6768	HLCJMCGC_00008
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:c8668-8309	HLCJMCGC_00009
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	Chaperone protein DnaJ	MH328006.1:8776-9300	HLCJMCGC_00010
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:9391-9933	HLCJMCGC_00011
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:9930-10175	HLCJMCGC_00012
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:10172-10393	HLCJMCGC_00013
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:10398-10679	HLCJMCGC_00014
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:11063-11275	HLCJMCGC_00015
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:11321-11581	HLCJMCGC_00016
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:11658-11795	HLCJMCGC_00017
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:11885-12109	HLCJMCGC_00018
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:12121-12396	HLCJMCGC_00019
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:12418-12684	HLCJMCGC_00020
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:13126-13680	HLCJMCGC_00021
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:13682-14872	HLCJMCGC_00022
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:c15228-14902	HLCJMCGC_00023
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	Type IV secretion system protein virB1	MH328006.1:15448-16086	HLCJMCGC_00024
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:16073-16360	HLCJMCGC_00025
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	Type IV secretion system protein virB4	MH328006.1:16379-19138	HLCJMCGC_00026
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:19195-19896	HLCJMCGC_00027
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:19904-20161	HLCJMCGC_00028
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:20175-21251	HLCJMCGC_00029
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:21254-21391	HLCJMCGC_00030
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	Type IV secretion system protein PtlE	MH328006.1:21378-22118	HLCJMCGC_00031
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	Type IV secretion system protein virB9	MH328006.1:22123-23043	HLCJMCGC_00032
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	Type IV secretion system protein virB10	MH328006.1:23040-24551	HLCJMCGC_00033
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	Type IV secretion system protein VirB11	MH328006.1:24553-25614	HLCJMCGC_00034
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	Protein VirD4	MH328006.1:25616-27583	HLCJMCGC_00035
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:27593-27979	HLCJMCGC_00036
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:27982-28374	HLCJMCGC_00037
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:28379-28726	HLCJMCGC_00038
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:28870-29616	HLCJMCGC_00039
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	DNA topoisomerase 3	MH328006.1:29622-32021	HLCJMCGC_00040
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	Modulating protein YmoA	MH328006.1:32025-32234	HLCJMCGC_00041
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	DNA-binding protein H-NS	MH328006.1:32293-32763	HLCJMCGC_00042
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	Septum site-determining protein MinD	MH328006.1:33020-33664	HLCJMCGC_00043
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:33745-34029	HLCJMCGC_00044
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:34041-34169	HLCJMCGC_00045
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:c37112-34146	HLCJMCGC_00046
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	DNA-invertase hin	MH328006.1:c37676-37116	HLCJMCGC_00047
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:38125-38685	HLCJMCGC_00048
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:39219-39497	HLCJMCGC_00049
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	Antirestriction protein KlcA	MH328006.1:39608-40033	HLCJMCGC_00050
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:40161-40316	HLCJMCGC_00051
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:40362-40658	HLCJMCGC_00052
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	hypothetical protein	MH328006.1:40663-41643	HLCJMCGC_00053
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:CDS	Carbapenem-hydrolyzing beta-lactamase KPC	MH328006.1:c42774-41893	HLCJMCGC_00054
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1:Annotated using prokka 1.14-dev from https://github.com/tseemann/prokka
+
+DiscRep_ALL:SHORT_PROT_SEQUENCES::3 protein sequences are shorter than 50 aa.
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_17 (length 45)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_30 (length 45)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_45 (length 42)
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1 (length 42848)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1 (length 42848)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1 (length 42848)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1 (length 42848)
+
+DiscRep_ALL:MISSING_PROJECT::55 sequences do not include project.
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1 (length 42848)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_1 (length 326)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_2 (length 185)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_3 (length 1001)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_4 (length 57)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_5 (length 172)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_6 (length 119)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_7 (length 143)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_8 (length 326)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_9 (length 119)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_10 (length 174)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_11 (length 180)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_12 (length 81)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_13 (length 73)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_14 (length 93)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_15 (length 70)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_16 (length 86)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_17 (length 45)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_18 (length 74)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_19 (length 91)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_20 (length 88)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_21 (length 184)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_22 (length 396)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_23 (length 108)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_24 (length 212)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_25 (length 95)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_26 (length 919)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_27 (length 233)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_28 (length 85)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_29 (length 358)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_30 (length 45)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_31 (length 246)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_32 (length 306)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_33 (length 503)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_34 (length 353)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_35 (length 655)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_36 (length 128)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_37 (length 130)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_38 (length 115)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_39 (length 248)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_40 (length 799)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_41 (length 69)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_42 (length 156)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_43 (length 214)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_44 (length 94)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_45 (length 42)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_46 (length 988)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_47 (length 186)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_48 (length 186)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_49 (length 92)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_50 (length 141)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_51 (length 51)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_52 (length 98)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_53 (length 326)
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1_54 (length 293)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+plasmid_files_fasta/MH328006.1_results/PROKKA_10092018:MH328006.1 (length 42848)
+

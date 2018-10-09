@@ -1,0 +1,54 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+LADMFGBK_00001	CDS	1392				hypothetical protein
+LADMFGBK_00002	CDS	573	hin_1		COG1961	DNA-invertase hin
+LADMFGBK_00003	CDS	546				hypothetical protein
+LADMFGBK_00004	CDS	1557				hypothetical protein
+LADMFGBK_00005	CDS	558	tnpR			Transposon Tn3 resolvase
+LADMFGBK_00006	CDS	981				hypothetical protein
+LADMFGBK_00007	CDS	483	bla_1	3.5.2.6		Beta-lactamase TEM
+LADMFGBK_00008	CDS	882	bla_2	3.5.2.6		Carbapenem-hydrolyzing beta-lactamase KPC
+LADMFGBK_00009	CDS	981				hypothetical protein
+LADMFGBK_00010	CDS	297				hypothetical protein
+LADMFGBK_00011	CDS	156				hypothetical protein
+LADMFGBK_00012	CDS	426	klcA			Antirestriction protein KlcA
+LADMFGBK_00013	CDS	279				hypothetical protein
+LADMFGBK_00014	CDS	561				hypothetical protein
+LADMFGBK_00015	CDS	546				hypothetical protein
+LADMFGBK_00016	CDS	573	hin_2		COG1961	DNA-invertase hin
+LADMFGBK_00017	CDS	1392				hypothetical protein
+LADMFGBK_00018	CDS	237				hypothetical protein
+LADMFGBK_00019	CDS	273				hypothetical protein
+LADMFGBK_00020	CDS	327				hypothetical protein
+LADMFGBK_00021	CDS	360				hypothetical protein
+LADMFGBK_00022	CDS	693	slt	4.2.2.-	COG0741	Soluble lytic murein transglycosylase
+LADMFGBK_00023	CDS	198				hypothetical protein
+LADMFGBK_00024	CDS	519				hypothetical protein
+LADMFGBK_00025	CDS	1443				hypothetical protein
+LADMFGBK_00026	CDS	846				hypothetical protein
+LADMFGBK_00027	CDS	723				hypothetical protein
+LADMFGBK_00028	CDS	975				hypothetical protein
+LADMFGBK_00029	CDS	456				hypothetical protein
+LADMFGBK_00030	CDS	816				hypothetical protein
+LADMFGBK_00031	CDS	2580	virB4		COG3451	Type IV secretion system protein virB4
+LADMFGBK_00032	CDS	360				hypothetical protein
+LADMFGBK_00033	CDS	369				hypothetical protein
+LADMFGBK_00034	CDS	342				hypothetical protein
+LADMFGBK_00035	CDS	420				hypothetical protein
+LADMFGBK_00036	CDS	1017			COG4962	Putative conjugal transfer protein
+LADMFGBK_00037	CDS	714				hypothetical protein
+LADMFGBK_00038	CDS	2040				hypothetical protein
+LADMFGBK_00039	CDS	837				hypothetical protein
+LADMFGBK_00040	CDS	456				hypothetical protein
+LADMFGBK_00041	CDS	603				hypothetical protein
+LADMFGBK_00042	CDS	372				hypothetical protein
+LADMFGBK_00043	CDS	255				hypothetical protein
+LADMFGBK_00044	CDS	192				hypothetical protein
+LADMFGBK_00045	CDS	756	xerD		COG4974	Tyrosine recombinase XerD
+LADMFGBK_00046	CDS	453				hypothetical protein
+LADMFGBK_00047	CDS	654				hypothetical protein
+LADMFGBK_00048	CDS	264				hypothetical protein
+LADMFGBK_00049	CDS	282				hypothetical protein
+LADMFGBK_00050	CDS	204				hypothetical protein
+LADMFGBK_00051	CDS	288				hypothetical protein
+LADMFGBK_00052	CDS	441				hypothetical protein
+LADMFGBK_00053	CDS	426				hypothetical protein

@@ -1,0 +1,322 @@
+>Feature MG886286.1
+720	1	CDS
+			gene	repE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P03856
+			locus_tag	OAAPCMAL_00001
+			product	Replication initiation protein
+1214	1555	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00002
+			product	hypothetical protein
+2361	1570	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00003
+			product	hypothetical protein
+3777	2512	CDS
+			dbxref	COG:COG0389
+			gene	umuC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04152
+			locus_tag	OAAPCMAL_00004
+			product	Protein UmuC
+4205	3765	CDS
+			EC_number	3.4.21.-
+			dbxref	COG:COG1974
+			gene	umuD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AG11
+			locus_tag	OAAPCMAL_00005
+			product	Protein UmuD
+4621	5046	CDS
+			gene	klcA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P52603
+			locus_tag	OAAPCMAL_00006
+			product	Antirestriction protein KlcA
+5104	5508	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00007
+			product	hypothetical protein
+5518	5757	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00008
+			product	hypothetical protein
+5829	5984	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00009
+			product	hypothetical protein
+5984	6529	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00010
+			product	hypothetical protein
+6642	6938	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00011
+			product	hypothetical protein
+6935	7294	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00012
+			product	hypothetical protein
+7363	7647	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00013
+			product	hypothetical protein
+7856	8188	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00014
+			product	hypothetical protein
+8673	8780	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00015
+			product	hypothetical protein
+9548	10057	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00016
+			product	hypothetical protein
+10889	11068	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00017
+			product	hypothetical protein
+11874	11530	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00018
+			product	hypothetical protein
+12443	12075	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00019
+			product	hypothetical protein
+13161	12445	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00020
+			product	hypothetical protein
+13556	13170	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00021
+			product	hypothetical protein
+14146	14562	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00022
+			product	hypothetical protein
+14564	16093	CDS
+			gene	traD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P09130
+			locus_tag	OAAPCMAL_00023
+			product	Coupling protein TraD
+16093	19329	CDS
+			gene	traI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P14565
+			locus_tag	OAAPCMAL_00024
+			product	Multifunctional conjugation protein TraI
+19329	19727	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00025
+			product	hypothetical protein
+19791	20081	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00026
+			product	hypothetical protein
+20078	20479	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00027
+			product	hypothetical protein
+20469	20825	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00028
+			product	hypothetical protein
+21080	21394	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00029
+			product	hypothetical protein
+21938	21567	CDS
+			EC_number	3.1.4.4
+			gene	pld
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q92G53
+			locus_tag	OAAPCMAL_00030
+			product	Phospholipase D
+22712	22056	CDS
+			gene	xerD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A0P0
+			locus_tag	OAAPCMAL_00031
+			product	Tyrosine recombinase XerD
+22858	24048	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00032
+			product	hypothetical protein
+24155	25180	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00033
+			product	hypothetical protein
+25177	25956	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q45619
+			locus_tag	OAAPCMAL_00034
+			product	Insertion sequence IS5376 putative ATP-binding protein
+26343	27224	CDS
+			EC_number	3.5.2.6
+			gene	bla
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9F663
+			locus_tag	OAAPCMAL_00035
+			product	Carbapenem-hydrolyzing beta-lactamase KPC
+28793	27474	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00036
+			product	hypothetical protein
+29249	29070	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00037
+			product	hypothetical protein
+30244	29249	CDS
+			dbxref	COG:COG0630
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RNC7
+			locus_tag	OAAPCMAL_00038
+			product	Type IV secretion system protein VirB11
+31446	30286	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P17800
+			locus_tag	OAAPCMAL_00039
+			product	Protein virB10
+32330	31446	CDS
+			gene	virB9
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RPX6
+			locus_tag	OAAPCMAL_00040
+			product	Type IV secretion system protein virB9
+33039	32341	CDS
+			gene	virB8
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7CEG3
+			locus_tag	OAAPCMAL_00041
+			product	Type IV secretion system protein virB8
+34298	33258	CDS
+			gene	virB6
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RPX9
+			locus_tag	OAAPCMAL_00042
+			product	Type IV secretion system protein VirB6
+34541	34314	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00043
+			product	hypothetical protein
+35262	34549	CDS
+			gene	virB5
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RPY0
+			locus_tag	OAAPCMAL_00044
+			product	Type IV secretion system protein virB5
+37880	35280	CDS
+			gene	virB4
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RPY1
+			locus_tag	OAAPCMAL_00045
+			product	Type IV secretion system protein virB4
+38197	37880	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00046
+			product	hypothetical protein
+38541	38248	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00047
+			product	hypothetical protein
+38832	38551	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00048
+			product	hypothetical protein
+39578	38841	CDS
+			gene	virB1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RPY4
+			locus_tag	OAAPCMAL_00049
+			product	Type IV secretion system protein virB1
+39687	39992	CDS
+			gene	hvrA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P42505
+			locus_tag	OAAPCMAL_00050
+			product	Trans-acting regulatory protein HvrA
+40008	40352	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00051
+			product	hypothetical protein
+40349	40663	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00052
+			product	hypothetical protein
+40699	41010	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00053
+			product	hypothetical protein
+42291	41368	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00054
+			product	hypothetical protein
+42519	42773	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00055
+			product	hypothetical protein
+42778	42984	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00056
+			product	hypothetical protein
+43261	42995	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00057
+			product	hypothetical protein
+43367	44800	CDS
+			EC_number	2.1.1.37
+			dbxref	COG:COG0270
+			gene	dcm
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AED9
+			locus_tag	OAAPCMAL_00058
+			product	DNA-cytosine methyltransferase
+45427	44834	CDS
+			EC_number	3.1.21.4
+			gene	ecoRIIR_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P14633
+			locus_tag	OAAPCMAL_00059
+			product	Type-2 restriction enzyme EcoRII
+46576	45755	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00060
+			product	hypothetical protein
+46863	46597	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00061
+			product	hypothetical protein
+47242	46898	CDS
+			EC_number	3.1.21.4
+			gene	ecoRIIR_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P14633
+			locus_tag	OAAPCMAL_00062
+			product	Type-2 restriction enzyme EcoRII
+47488	48057	CDS
+			dbxref	COG:COG1961
+			gene	hin
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P03013
+			locus_tag	OAAPCMAL_00063
+			product	DNA-invertase hin
+48949	48203	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00064
+			product	hypothetical protein
+50779	49304	CDS
+			dbxref	COG:COG0653
+			gene	secA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:C0QZS7
+			locus_tag	OAAPCMAL_00065
+			product	Protein translocase subunit SecA
+52732	51605	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OAAPCMAL_00066
+			product	hypothetical protein

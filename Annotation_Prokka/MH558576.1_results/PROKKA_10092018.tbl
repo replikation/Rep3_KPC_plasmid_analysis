@@ -1,0 +1,67 @@
+>Feature MH558576.1
+55	759	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ELJHOJAB_00001
+			product	hypothetical protein
+871	1272	CDS
+			gene	tnpR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ADI2
+			locus_tag	ELJHOJAB_00002
+			product	Transposon Tn3 resolvase
+1395	2375	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ELJHOJAB_00003
+			product	hypothetical protein
+2651	3532	CDS
+			EC_number	3.5.2.6
+			gene	bla
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9F663
+			locus_tag	ELJHOJAB_00004
+			product	Carbapenem-hydrolyzing beta-lactamase KPC
+4762	3782	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ELJHOJAB_00005
+			product	hypothetical protein
+5063	4767	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ELJHOJAB_00006
+			product	hypothetical protein
+5264	5109	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ELJHOJAB_00007
+			product	hypothetical protein
+5817	5392	CDS
+			gene	klcA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P52603
+			locus_tag	ELJHOJAB_00008
+			product	Antirestriction protein KlcA
+6206	5928	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ELJHOJAB_00009
+			product	hypothetical protein
+7300	6740	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ELJHOJAB_00010
+			product	hypothetical protein
+7749	8309	CDS
+			dbxref	COG:COG1961
+			gene	hin
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P03013
+			locus_tag	ELJHOJAB_00011
+			product	DNA-invertase hin
+9539	8757	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ELJHOJAB_00012
+			product	hypothetical protein
+10610	10341	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ELJHOJAB_00013
+			product	hypothetical protein
+11189	10614	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ELJHOJAB_00014
+			product	hypothetical protein

@@ -1,0 +1,10 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+EGKDCKPL_00001	CDS	1551				hypothetical protein
+EGKDCKPL_00002	CDS	894				hypothetical protein
+EGKDCKPL_00003	CDS	285	higA-2		COG2944	Antitoxin HigA-2
+EGKDCKPL_00004	CDS	333	higB-2		COG2026	Toxin HigB-2
+EGKDCKPL_00005	CDS	1572	mbeA	5.99.1.2		DNA relaxase MbeA
+EGKDCKPL_00006	CDS	327	mbeC			Mobilization protein MbeC
+EGKDCKPL_00007	CDS	558	tnpR			Transposon Tn3 resolvase
+EGKDCKPL_00008	CDS	882	bla	3.5.2.6		Carbapenem-hydrolyzing beta-lactamase KPC
+EGKDCKPL_00009	CDS	840				hypothetical protein

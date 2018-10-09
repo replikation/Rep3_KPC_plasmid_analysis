@@ -1,0 +1,17 @@
+##gff-version	3
+MF788069.1	.	tnpA	66665	69631	.	.	.	name=tnpA;description=transposase for transposon Tn1721;accession=YP_067860.1;missmatches=0;evalue=0.0
+MF788069.1	.	tnpA	20193	23078	.	.	.	name=tnpA;description=Tn1000-like transposase;accession=YP_008003449.1;missmatches=3;evalue=0.0
+MF788069.1	.	tnpA	60640	61905	.	.	.	name=tnpA;description=ISEcp1 transposase;accession=YP_003829172.1;missmatches=0;evalue=0.0
+MF788069.1	.	tnpA	18375	19350	.	-	.	name=tnpA;description=putative ISKpn8 transposase;accession=YP_008998913.1;missmatches=0;evalue=0.0
+MF788069.1	.	insC	63065	64033	.	.	.	name=insC;description=IS903 transposase;accession=YP_003937692.1;missmatches=4;evalue=0.0
+MF788069.1	.	blaKPC	17343	18224	.	-	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-2;accession=WP_004199234.1;missmatches=0;evalue=0.0
+MF788069.1	.	blaCTX-M	62155	63030	.	.	.	name=blaCTX-M;description=class A extended-spectrum beta-lactamase CTX-M-14;accession=WP_001617865.1;missmatches=0;evalue=0.0
+MF788069.1	.	tnpA	16229	17093	.	.	.	name=tnpA;description=transposase;accession=YP_009328370.1;missmatches=0;evalue=0.0
+MF788069.1	.	sul1	25438	26277	.	.	.	name=sul1;description=sulfonamide-resistant dihydropteroate synthase Sul1;accession=WP_000259031.1;missmatches=0;evalue=0.0
+MF788069.1	.	aadA2	24142	24933	.	.	.	name=aadA2;description=ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA2;accession=WP_001261740.1;missmatches=0;evalue=0.0
+MF788069.1	.	tnpA	31060	31782	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=1;evalue=0.0
+MF788069.1	.	tnpA	26833	27555	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=1;evalue=0.0
+MF788069.1	.	tnpA	23121	23843	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=1;evalue=0.0
+MF788069.1	.	tnpR	66101	66661	.	.	.	name=tnpR;description=transposon Tn1721 resolvase;accession=YP_067859.1;missmatches=0;evalue=0.0
+MF788069.1	.	tnpR	19473	20059	.	-	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_003108101.1;missmatches=30;evalue=0.0
+MF788069.1	.	qacE	25097	25444	.	.	.	name=qacE;description=quaternary ammonium compound efflux SMR transporter QacE delta 1;accession=WP_000679427.1;missmatches=0;evalue=0.0

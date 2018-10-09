@@ -1,0 +1,24 @@
+##gff-version	3
+CP023725.1	.	tnpA	74970	75950	.	.	.	name=tnpA;description=ISKpn27 transposase;accession=YP_009328786.1;missmatches=0;evalue=0.0
+CP023725.1	.	tnpA	81888	82830	.	.	.	name=tnpA;description=TnpA transposase;accession=YP_006957010.1;missmatches=0;evalue=0.0
+CP023725.1	.	blaKPC	76226	77107	.	.	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-2;accession=WP_004199234.1;missmatches=0;evalue=0.0
+CP023725.1	.	tnpA	77357	78221	.	-	.	name=tnpA;description=transposase;accession=YP_009328370.1;missmatches=0;evalue=0.0
+CP023725.1	.	tnpA	97932	98654	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP023725.1	.	tnpA	90165	90887	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP023725.1	.	tnpA	14425	15147	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP023725.1	.	tnpA	71815	72537	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP023725.1	.	tnpA	60878	61600	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP023725.1	.	tnpA	42690	43412	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP023725.1	.	tnpA	62675	63397	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP023725.1	.	tnpA	73612	74334	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP023725.1	.	tnpA	82876	83598	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP023725.1	.	tnpA	14050	14379	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=8e-173
+CP023725.1	.	tnpAIS1294	61646	62237	.	.	.	name=tnpAIS1294;description=IS1294 transposase;accession=YP_194845.1;missmatches=0;evalue=0.0
+CP023725.1	.	tnpAIS1294	72583	73174	.	.	.	name=tnpAIS1294;description=IS1294 transposase;accession=YP_194845.1;missmatches=0;evalue=0.0
+CP023725.1	.	tnpR	81324	81884	.	.	.	name=tnpR;description=TnpR, transposon;accession=YP_006957011.1;missmatches=0;evalue=0.0
+CP023725.1	.	insAB'	71189	71763	.	-	.	name=insAB';description=IS1 transposase frame shift product;accession=YP_004422908.1;missmatches=6;evalue=0.0
+CP023725.1	.	insAB'	59816	60233	.	.	.	name=insAB';description=IS1 transposase frame shift product;accession=YP_004422908.1;missmatches=7;evalue=0.0
+CP023725.1	.	tnp	60267	60825	.	-	.	name=tnp;description=transposase;accession=YP_002291083.1;missmatches=2;evalue=0.0
+CP023725.1	.	insB	54633	55136	.	.	.	name=insB;description=InsB transposase;accession=YP_006953205.1;missmatches=0;evalue=0.0
+CP023725.1	.	IncN	68768	69281	.	-	.	name=IncN;description=unknown_protein;accession=unknown_accession;missmatches=4;evalue=0.0
+CP023725.1	.	tnpR	74389	74847	.	.	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_003108101.1;missmatches=14;evalue=0.0

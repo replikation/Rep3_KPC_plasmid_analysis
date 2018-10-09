@@ -1,0 +1,29 @@
+##gff-version	3
+KY270850.1	.	thiAdelta1	97576	98880	.	.	.	name=thiAdelta1;description=putative transposase;accession=YP_001551934.1;missmatches=0;evalue=0.0
+KY270850.1	.	intI1	100106	101119	.	-	.	name=intI1;description=intI1;accession=YP_007447591.1;missmatches=0;evalue=0.0
+KY270850.1	.	insD1	91788	92792	.	-	.	name=insD1;description=transposase InsD1 for insertion sequence IS4321R;accession=YP_002894677.1;missmatches=0;evalue=0.0
+KY270850.1	.	tnpA	8399	9379	.	.	.	name=tnpA;description=ISKpn27 transposase;accession=YP_009328786.1;missmatches=0;evalue=0.0
+KY270850.1	.	insH	110731	111711	.	-	.	name=insH;description=IS5 transposase;accession=YP_007936898.1;missmatches=3;evalue=0.0
+KY270850.1	.	insC	45649	46617	.	-	.	name=insC;description=IS903 transposase;accession=YP_003937692.1;missmatches=0;evalue=0.0
+KY270850.1	.	insC	31832	32800	.	-	.	name=insC;description=IS903 transposase;accession=YP_003937692.1;missmatches=0;evalue=0.0
+KY270850.1	.	mph(A)	107306	108227	.	-	.	name=mph(A);description=Mph(A) family macrolide 2'-phosphotransferase;accession=WP_063853854.1;missmatches=2;evalue=0.0
+KY270850.1	.	blaKPC	9655	10536	.	.	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-2;accession=WP_004199234.1;missmatches=0;evalue=0.0
+KY270850.1	.	tnpA	10786	11650	.	-	.	name=tnpA;description=transposase;accession=YP_009328370.1;missmatches=0;evalue=0.0
+KY270850.1	.	aac(3)-II	5830	6690	.	.	.	name=aac(3)-II;description=aminoglycoside N-acetyltransferase AAC(3)-IId;accession=WP_000557454.1;missmatches=0;evalue=0.0
+KY270850.1	.	aph(6)-Id	131653	132498	.	-	.	name=aph(6)-Id;description=aminoglycoside O-phosphotransferase APH(6)-Id;accession=WP_001303005.1;missmatches=0;evalue=0.0
+KY270850.1	.	sul1	102273	103112	.	.	.	name=sul1;description=sulfonamide-resistant dihydropteroate synthase Sul1;accession=WP_000259031.1;missmatches=0;evalue=0.0
+KY270850.1	.	aph(3'')-Ib	132489	133324	.	-	.	name=aph(3'')-Ib;description=aminoglycoside O-phosphotransferase APH(3'')-Ib;accession=WP_001354041.1;missmatches=0;evalue=0.0
+KY270850.1	.	sul2	133354	134184	.	-	.	name=sul2;description=sulfonamide-resistant dihydropteroate synthase Sul2;accession=WP_012478625.1;missmatches=3;evalue=0.0
+KY270850.1	.	tnp	104216	105010	.	.	.	name=tnp;description=transposase of IS6100;accession=YP_067849.1;missmatches=0;evalue=0.0
+KY270850.1	.	tnpA	136083	136805	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+KY270850.1	.	tnpA	7041	7763	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+KY270850.1	.	tnpA	14749	15471	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+KY270850.1	.	tnpA	108349	109071	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+KY270850.1	.	tnpA	98909	99631	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+KY270850.1	.	tnpA	130870	131592	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+KY270850.1	.	tnpA	4893	5615	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+KY270850.1	.	insB	90704	91207	.	.	.	name=insB;description=InsB transposase;accession=YP_006953205.1;missmatches=0;evalue=0.0
+KY270850.1	.	dfrA25	101275	101748	.	.	.	name=dfrA25;description=trimethoprim-resistant dihydrofolate reductase DfrA25;accession=WP_029391998.1;missmatches=0;evalue=0.0
+KY270850.1	.	IncQ1	135507	135956	.	.	.	name=IncQ1;description=unknown_protein;accession=unknown_accession;missmatches=0;evalue=0.0
+KY270850.1	.	tnpR	7818	8276	.	.	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_003108101.1;missmatches=14;evalue=0.0
+KY270850.1	.	qacE	101932	102279	.	.	.	name=qacE;description=quaternary ammonium compound efflux SMR transporter QacE delta 1;accession=WP_000679427.1;missmatches=0;evalue=0.0

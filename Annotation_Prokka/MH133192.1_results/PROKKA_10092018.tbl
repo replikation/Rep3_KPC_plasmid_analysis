@@ -1,0 +1,62 @@
+>Feature MH133192.1
+694	1125	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ADHDEBJI_00001
+			product	hypothetical protein
+1109	3550	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ADHDEBJI_00002
+			product	hypothetical protein
+3621	4484	CDS
+			gene	repA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P20356
+			locus_tag	ADHDEBJI_00003
+			product	Regulatory protein RepA
+4471	5352	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ADHDEBJI_00004
+			product	hypothetical protein
+5342	5593	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ADHDEBJI_00005
+			product	hypothetical protein
+6552	5896	CDS
+			dbxref	COG:COG1357
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q87K03
+			locus_tag	ADHDEBJI_00006
+			product	Pentapeptide repeat protein
+7223	7648	CDS
+			gene	klcA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P52603
+			locus_tag	ADHDEBJI_00007
+			product	Antirestriction protein KlcA
+7776	7931	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ADHDEBJI_00008
+			product	hypothetical protein
+7977	8273	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ADHDEBJI_00009
+			product	hypothetical protein
+8278	9258	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ADHDEBJI_00010
+			product	hypothetical protein
+10389	9508	CDS
+			EC_number	3.5.2.6
+			gene	bla
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9F663
+			locus_tag	ADHDEBJI_00011
+			product	Carbapenem-hydrolyzing beta-lactamase KPC
+11849	10821	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ADHDEBJI_00012
+			product	hypothetical protein
+12685	12107	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ADHDEBJI_00013
+			product	hypothetical protein

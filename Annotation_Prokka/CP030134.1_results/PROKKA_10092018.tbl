@@ -1,0 +1,416 @@
+>Feature CP030134.1
+1448	744	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00001
+			product	hypothetical protein
+1690	1812	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00002
+			product	hypothetical protein
+1959	2834	CDS
+			EC_number	3.5.2.6
+			gene	bla_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q47066
+			locus_tag	GIPLDHEA_00003
+			product	Beta-lactamase Toho-1
+2914	3837	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00004
+			product	hypothetical protein
+3966	4991	CDS
+			dbxref	COG:COG4774
+			gene	fiu
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P75780
+			locus_tag	GIPLDHEA_00005
+			product	Catecholate siderophore receptor Fiu
+5415	4966	CDS
+			dbxref	COG:COG0840
+			gene	aer
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P50466
+			locus_tag	GIPLDHEA_00006
+			product	Aerotaxis receptor
+6292	5588	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00007
+			product	hypothetical protein
+6438	7019	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00008
+			product	hypothetical protein
+7531	7809	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00009
+			product	hypothetical protein
+7920	8345	CDS
+			gene	klcA_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P52603
+			locus_tag	GIPLDHEA_00010
+			product	Antirestriction protein KlcA
+8473	8628	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00011
+			product	hypothetical protein
+8674	8970	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00012
+			product	hypothetical protein
+8975	9955	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00013
+			product	hypothetical protein
+11086	10205	CDS
+			EC_number	3.5.2.6
+			gene	bla_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9F663
+			locus_tag	GIPLDHEA_00014
+			product	Carbapenem-hydrolyzing beta-lactamase KPC
+12342	11362	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00015
+			product	hypothetical protein
+12866	12465	CDS
+			gene	tnpR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ADI2
+			locus_tag	GIPLDHEA_00016
+			product	Transposon Tn3 resolvase
+13682	12978	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00017
+			product	hypothetical protein
+14919	13729	CDS
+			gene	tnsB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P13989
+			locus_tag	GIPLDHEA_00018
+			product	Transposon Tn7 transposition protein TnsB
+15701	14994	CDS
+			dbxref	COG:COG2200
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9I310
+			locus_tag	GIPLDHEA_00019
+			product	putative signaling protein
+15934	15698	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00020
+			product	hypothetical protein
+16293	15931	CDS
+			dbxref	COG:COG0789
+			gene	mta
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P71039
+			locus_tag	GIPLDHEA_00021
+			product	HTH-type transcriptional activator mta
+18005	16311	CDS
+			EC_number	1.16.1.1
+			gene	merA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P00392
+			locus_tag	GIPLDHEA_00022
+			product	Mercuric reductase
+18479	18057	CDS
+			gene	merC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q50919
+			locus_tag	GIPLDHEA_00023
+			product	Mercuric transport protein MerC
+18790	18515	CDS
+			gene	merP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04129
+			locus_tag	GIPLDHEA_00024
+			product	Mercuric transport protein periplasmic component
+19154	18804	CDS
+			gene	merT
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04140
+			locus_tag	GIPLDHEA_00025
+			product	Mercuric transport protein MerT
+19226	19660	CDS
+			gene	merR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A183
+			locus_tag	GIPLDHEA_00026
+			product	Mercuric resistance operon regulatory protein
+19739	20743	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00027
+			product	hypothetical protein
+21701	21324	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00028
+			product	hypothetical protein
+22021	21746	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00029
+			product	hypothetical protein
+23299	22277	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00030
+			product	hypothetical protein
+24846	23284	CDS
+			gene	recF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00365
+			locus_tag	GIPLDHEA_00031
+			product	DNA replication and repair protein RecF
+25336	24920	CDS
+			EC_number	3.1.-.-
+			dbxref	COG:COG1487
+			gene	vapC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8ZM86
+			locus_tag	GIPLDHEA_00032
+			product	tRNA(fMet)-specific endonuclease VapC
+25563	25333	CDS
+			dbxref	COG:COG4456
+			gene	vapB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7CPV2
+			locus_tag	GIPLDHEA_00033
+			product	Antitoxin VapB
+26142	27086	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00034
+			product	hypothetical protein
+27123	27515	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00035
+			product	hypothetical protein
+27573	28094	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00036
+			product	hypothetical protein
+28140	28343	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00037
+			product	hypothetical protein
+28373	29377	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00038
+			product	hypothetical protein
+29561	30340	CDS
+			dbxref	COG:COG4974
+			gene	xerD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WF33
+			locus_tag	GIPLDHEA_00039
+			product	Tyrosine recombinase XerD
+30643	30386	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00040
+			product	hypothetical protein
+30867	30772	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00041
+			product	hypothetical protein
+31421	32287	CDS
+			gene	repE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P03856
+			locus_tag	GIPLDHEA_00042
+			product	Replication initiation protein
+32982	32371	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00043
+			product	hypothetical protein
+33396	34601	CDS
+			gene	parA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P07620
+			locus_tag	GIPLDHEA_00044
+			product	Plasmid partition protein A
+34601	35575	CDS
+			dbxref	COG:COG1475
+			gene	virB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A247
+			locus_tag	GIPLDHEA_00045
+			product	Virulence regulon transcriptional activator VirB
+36928	35657	CDS
+			dbxref	COG:COG0389
+			gene	umuC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04152
+			locus_tag	GIPLDHEA_00046
+			product	Protein UmuC
+37359	36928	CDS
+			EC_number	3.4.21.-
+			dbxref	COG:COG1974
+			gene	umuD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AG11
+			locus_tag	GIPLDHEA_00047
+			product	Protein UmuD
+37770	39254	CDS
+			dbxref	COG:COG3344
+			gene	ltrA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A3U0
+			locus_tag	GIPLDHEA_00048
+			product	Group II intron-encoded protein LtrA
+39503	40474	CDS
+			gene	parM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P11904
+			locus_tag	GIPLDHEA_00049
+			product	Plasmid segregation protein ParM
+40477	41148	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00050
+			product	hypothetical protein
+41211	41441	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00051
+			product	hypothetical protein
+41878	42579	CDS
+			EC_number	2.1.1.72
+			dbxref	COG:COG0863
+			gene	yhdJ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P28638
+			locus_tag	GIPLDHEA_00052
+			product	DNA adenine methyltransferase YhdJ
+42579	42800	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00053
+			product	hypothetical protein
+42810	43229	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00054
+			product	hypothetical protein
+43283	44050	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00055
+			product	hypothetical protein
+44731	45159	CDS
+			gene	klcA_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P52603
+			locus_tag	GIPLDHEA_00056
+			product	Antirestriction protein KlcA
+45202	45708	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00057
+			product	hypothetical protein
+45751	45942	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00058
+			product	hypothetical protein
+46130	46384	CDS
+			EC_number	2.7.7.7
+			gene	holE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ABS8
+			locus_tag	GIPLDHEA_00059
+			product	DNA polymerase III subunit theta
+46419	46739	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00060
+			product	hypothetical protein
+47417	47644	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00061
+			product	hypothetical protein
+47736	47966	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00062
+			product	hypothetical protein
+48018	49373	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00063
+			product	hypothetical protein
+49421	49984	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00064
+			product	hypothetical protein
+50817	51359	CDS
+			gene	ssb
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P28044
+			locus_tag	GIPLDHEA_00065
+			product	Plasmid-derived single-stranded DNA-binding protein
+51408	51656	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P75677
+			locus_tag	GIPLDHEA_00066
+			note	UPF0401 protein YkfF
+			product	hypothetical protein
+51726	53783	CDS
+			dbxref	COG:COG1475
+			gene	spo0C
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q72H91
+			locus_tag	GIPLDHEA_00067
+			product	Chromosome-partitioning protein Spo0J
+53828	54259	CDS
+			gene	psiB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P10031
+			locus_tag	GIPLDHEA_00068
+			product	Protein PsiB
+54256	54984	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00069
+			product	hypothetical protein
+54981	55307	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00070
+			product	hypothetical protein
+55363	55737	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00071
+			product	hypothetical protein
+55907	56059	CDS
+			gene	flmC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P11519
+			locus_tag	GIPLDHEA_00072
+			product	Protein FlmC
+56816	57088	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00073
+			product	hypothetical protein
+57085	57435	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00074
+			product	hypothetical protein
+57450	57767	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00075
+			product	hypothetical protein
+58608	58964	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00076
+			product	hypothetical protein
+59025	59237	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00077
+			product	hypothetical protein
+59248	59472	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00078
+			product	hypothetical protein
+59553	59873	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GIPLDHEA_00079
+			product	hypothetical protein
+59863	60141	CDS
+			dbxref	COG:COG1396
+			gene	higA1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WJA7
+			locus_tag	GIPLDHEA_00080
+			product	Antitoxin HigA1
+60142	60249	CDS
+			dbxref	COG:COG5499
+			gene	higA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P67701
+			locus_tag	GIPLDHEA_00081
+			product	Antitoxin HigA

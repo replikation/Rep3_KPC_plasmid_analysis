@@ -1,0 +1,38 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+IKOJAIBE_00001	CDS	129				hypothetical protein
+IKOJAIBE_00002	CDS	285				hypothetical protein
+IKOJAIBE_00003	CDS	645	minD		COG2894	Septum site-determining protein MinD
+IKOJAIBE_00004	CDS	471	hns			DNA-binding protein H-NS
+IKOJAIBE_00005	CDS	210	ymoA			Modulating protein YmoA
+IKOJAIBE_00006	CDS	1974	topB	5.99.1.2	COG0550	DNA topoisomerase 3
+IKOJAIBE_00007	CDS	267				hypothetical protein
+IKOJAIBE_00008	CDS	276				hypothetical protein
+IKOJAIBE_00009	CDS	225				hypothetical protein
+IKOJAIBE_00010	CDS	138				hypothetical protein
+IKOJAIBE_00011	CDS	261				hypothetical protein
+IKOJAIBE_00012	CDS	213				hypothetical protein
+IKOJAIBE_00013	CDS	447				hypothetical protein
+IKOJAIBE_00014	CDS	282				hypothetical protein
+IKOJAIBE_00015	CDS	222				hypothetical protein
+IKOJAIBE_00016	CDS	246				hypothetical protein
+IKOJAIBE_00017	CDS	543				hypothetical protein
+IKOJAIBE_00018	CDS	525	dnaJ		COG0484	Chaperone protein DnaJ
+IKOJAIBE_00019	CDS	360				hypothetical protein
+IKOJAIBE_00020	CDS	981				hypothetical protein
+IKOJAIBE_00021	CDS	432				hypothetical protein
+IKOJAIBE_00022	CDS	360				hypothetical protein
+IKOJAIBE_00023	CDS	519				hypothetical protein
+IKOJAIBE_00024	CDS	174				hypothetical protein
+IKOJAIBE_00025	CDS	3006				hypothetical protein
+IKOJAIBE_00026	CDS	558	tnpR			Transposon Tn3 resolvase
+IKOJAIBE_00027	CDS	981				hypothetical protein
+IKOJAIBE_00028	CDS	882	bla	3.5.2.6		Carbapenem-hydrolyzing beta-lactamase KPC
+IKOJAIBE_00029	CDS	981				hypothetical protein
+IKOJAIBE_00030	CDS	297				hypothetical protein
+IKOJAIBE_00031	CDS	156				hypothetical protein
+IKOJAIBE_00032	CDS	426	klcA			Antirestriction protein KlcA
+IKOJAIBE_00033	CDS	279				hypothetical protein
+IKOJAIBE_00034	CDS	561				hypothetical protein
+IKOJAIBE_00035	CDS	282				hypothetical protein
+IKOJAIBE_00036	CDS	270				hypothetical protein
+IKOJAIBE_00037	CDS	327				hypothetical protein

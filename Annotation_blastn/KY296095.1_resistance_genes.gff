@@ -1,0 +1,7 @@
+##gff-version	3
+KY296095.1	.	tnpA	1464	4430	.	-	.	name=tnpA;description=Tn4656/Tn4657/Tn4658 transposase;accession=YP_709286.1;missmatches=183;evalue=0.0
+KY296095.1	.	tnpA	10368	11348	.	-	.	name=tnpA;description=ISKpn27 transposase;accession=YP_009328786.1;missmatches=0;evalue=0.0
+KY296095.1	.	blaKPC	9211	10092	.	-	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-2;accession=WP_004199234.1;missmatches=0;evalue=0.0
+KY296095.1	.	tnpA	8097	8961	.	.	.	name=tnpA;description=transposase;accession=YP_009328370.1;missmatches=0;evalue=0.0
+KY296095.1	.	tnpA	11659	12453	.	.	.	name=tnpA;description=transposase IS6100;accession=YP_003937685.1;missmatches=0;evalue=0.0
+KY296095.1	.	tnpR	4434	4994	.	-	.	name=tnpR;description=transposon Tn1721 resolvase;accession=YP_067859.1;missmatches=64;evalue=0.0

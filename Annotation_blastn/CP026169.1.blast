@@ -1,0 +1,10 @@
+CP026169.1	2113	1879	3991	minus	[gene=tnpA] [locus_tag=D645_p9046] [db_xref=GeneID:13912323] [protein=transposase] [protein_id=YP_006957364.1] [location=34666..37215] [gbkey=CDS]	0.0	0
+CP026169.1	1320	12155	13474	plus	[gene=tnpA] [locus_tag=FCF1305_p0038] [db_xref=GeneID:16039991] [protein=transposase] [protein_id=YP_008166926.1] [location=complement(34349..35668)] [gbkey=CDS]	0.0	0
+CP026169.1	1014	39396	40409	minus	[gene=intI1] [locus_tag=ST67780_p1003] [db_xref=GeneID:14612604] [protein=intI1] [protein_id=YP_007447591.1] [location=complement(677..1690)] [gbkey=CDS]	0.0	0
+CP026169.1	882	13724	14605	minus	[gene=blaKPC] [locus_tag=A7J11_00838] [protein=carbapenem-hydrolyzing class A beta-lactamase KPC-2] [protein_id=WP_004199234.1] [location=6..887] [gbkey=CDS]	0.0	0
+CP026169.1	795	41638	42432	plus	[gene=tnpA of IS6100] [locus_tag=D727_p1028] [db_xref=GeneID:13919449] [protein=IS6100 transposase] [protein_id=YP_006965438.1] [location=69423..70217] [gbkey=CDS]	0.0	0
+CP026169.1	723	15130	15852	minus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	0
+CP026169.1	565	1281	1845	plus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	0
+CP026169.1	573	15825	16397	plus	[gene=tnpA] [locus_tag=D616_p98016] [db_xref=GeneID:15152831] [protein=transposase of Tn1000, belongs to the transposase 7 family] [protein_id=YP_007349417.1] [location=14429..15001] [gbkey=CDS]	0.0	0
+CP026169.1	514	35312	35825	plus	[gene=IncN]	0.0	1
+CP026169.1	483	40556	41038	plus	[gene=dfrA14] [locus_tag=A7J11_00060] [protein=trimethoprim-resistant dihydrofolate reductase DfrA14] [protein_id=WP_001348218.1] [location=101..583] [gbkey=CDS]	0.0	0

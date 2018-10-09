@@ -1,0 +1,12 @@
+##gff-version	3
+KY659387.1	.	tnpA	10403	13432	.	-	.	name=tnpA;description=transposase TnpA;accession=YP_009328366.1;missmatches=0;evalue=0.0
+KY659387.1	.	tnpA	20441	23458	.	-	.	name=tnpA;description=transposase;accession=YP_008766433.1;missmatches=0;evalue=0.0
+KY659387.1	.	tnpA	5757	7076	.	.	.	name=tnpA;description=transposase;accession=YP_008166926.1;missmatches=0;evalue=0.0
+KY659387.1	.	istA	9271	10296	.	-	.	name=istA;description=transposase IstA;accession=YP_009328367.1;missmatches=0;evalue=0.0
+KY659387.1	.	blaKPC	7326	8207	.	-	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-3;accession=WP_004152396.1;missmatches=0;evalue=0.0
+KY659387.1	.	blaSHV	16426	17286	.	.	.	name=blaSHV;description=class A beta-lactamase SHV-159;accession=WP_063864645.1;missmatches=1;evalue=0.0
+KY659387.1	.	istB	8495	9274	.	-	.	name=istB;description=transposase helper protein IstB;accession=YP_009328368.1;missmatches=0;evalue=0.0
+KY659387.1	.	tnpA	15585	16307	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=1;evalue=0.0
+KY659387.1	.	tnpR	4274	4941	.	.	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_006953666.1;missmatches=4;evalue=0.0
+KY659387.1	.	tnpA	23601	24147	.	.	.	name=tnpA;description=transposase;accession=YP_006957364.1;missmatches=0;evalue=0.0
+KY659387.1	.	IncX3	1	374	.	.	.	name=IncX3;description=unknown_protein;accession=unknown_accession;missmatches=0;evalue=0.0

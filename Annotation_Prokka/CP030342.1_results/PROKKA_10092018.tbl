@@ -1,0 +1,633 @@
+>Feature CP030342.1
+459	67	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00001
+			product	hypothetical protein
+715	473	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00002
+			product	hypothetical protein
+1687	1376	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00003
+			product	hypothetical protein
+2422	2012	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00004
+			product	hypothetical protein
+3126	2554	CDS
+			gene	traV
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P41069
+			locus_tag	GPONLJHD_00005
+			product	Protein TraV
+4676	3252	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00006
+			product	hypothetical protein
+5416	4676	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00007
+			product	hypothetical protein
+5969	5403	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00008
+			product	hypothetical protein
+6294	5989	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00009
+			product	hypothetical protein
+6676	6308	CDS
+			gene	traA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04737
+			locus_tag	GPONLJHD_00010
+			product	Pilin
+7116	6730	CDS
+			gene	traY
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P06627
+			locus_tag	GPONLJHD_00011
+			product	Relaxosome protein TraY
+7881	7195	CDS
+			gene	traJ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P06626
+			locus_tag	GPONLJHD_00012
+			product	Protein TraJ
+8453	8055	CDS
+			gene	traM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P07294
+			locus_tag	GPONLJHD_00013
+			product	Relaxosome protein TraM
+8875	9360	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00014
+			product	hypothetical protein
+9707	9393	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00015
+			product	hypothetical protein
+10576	9755	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00016
+			product	hypothetical protein
+12229	11396	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00017
+			product	hypothetical protein
+12426	12280	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00018
+			product	hypothetical protein
+12868	12521	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00019
+			product	hypothetical protein
+13278	12925	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00020
+			product	hypothetical protein
+14258	13908	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00021
+			product	hypothetical protein
+14527	14255	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00022
+			product	hypothetical protein
+14931	14575	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00023
+			product	hypothetical protein
+16094	15372	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00024
+			product	hypothetical protein
+16522	16091	CDS
+			gene	psiB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P10031
+			locus_tag	GPONLJHD_00025
+			product	Protein PsiB
+18577	16568	CDS
+			dbxref	COG:COG1475
+			gene	spo0C
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q72H91
+			locus_tag	GPONLJHD_00026
+			product	Chromosome-partitioning protein Spo0J
+18888	18646	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P75677
+			locus_tag	GPONLJHD_00027
+			note	UPF0401 protein YkfF
+			product	hypothetical protein
+19448	18936	CDS
+			dbxref	COG:COG0629
+			gene	ssb
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AGE0
+			locus_tag	GPONLJHD_00028
+			product	Single-stranded DNA-binding protein
+20055	20384	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00029
+			product	hypothetical protein
+20842	20279	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00030
+			product	hypothetical protein
+22245	20890	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00031
+			product	hypothetical protein
+22527	22297	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00032
+			product	hypothetical protein
+22846	22619	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00033
+			product	hypothetical protein
+23947	23630	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00034
+			product	hypothetical protein
+24236	23982	CDS
+			EC_number	2.7.7.7
+			gene	holE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ABS8
+			locus_tag	GPONLJHD_00035
+			product	DNA polymerase III subunit theta
+24615	24424	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00036
+			product	hypothetical protein
+25164	24658	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00037
+			product	hypothetical protein
+25635	25207	CDS
+			gene	klcA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P52603
+			locus_tag	GPONLJHD_00038
+			product	Antirestriction protein KlcA
+27082	26315	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00039
+			product	hypothetical protein
+27555	27136	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00040
+			product	hypothetical protein
+27786	27565	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00041
+			product	hypothetical protein
+28487	27786	CDS
+			EC_number	2.1.1.72
+			dbxref	COG:COG0863
+			gene	yhdJ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P28638
+			locus_tag	GPONLJHD_00042
+			product	DNA adenine methyltransferase YhdJ
+29154	28924	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00043
+			product	hypothetical protein
+29886	29215	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00044
+			product	hypothetical protein
+30860	29889	CDS
+			gene	parM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P11904
+			locus_tag	GPONLJHD_00045
+			product	Plasmid segregation protein ParM
+31092	31523	CDS
+			EC_number	3.4.21.-
+			dbxref	COG:COG1974
+			gene	umuD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AG11
+			locus_tag	GPONLJHD_00046
+			product	Protein UmuD
+31523	32794	CDS
+			dbxref	COG:COG0389
+			gene	umuC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04152
+			locus_tag	GPONLJHD_00047
+			product	Protein UmuC
+33195	34091	CDS
+			gene	repA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P24042
+			locus_tag	GPONLJHD_00048
+			product	Replication protein RepA
+34413	35618	CDS
+			gene	parA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P07620
+			locus_tag	GPONLJHD_00049
+			product	Plasmid partition protein A
+35615	36589	CDS
+			dbxref	COG:COG1475
+			gene	virB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A247
+			locus_tag	GPONLJHD_00050
+			product	Virulence regulon transcriptional activator VirB
+36966	37298	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00051
+			product	hypothetical protein
+37300	37473	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00052
+			product	hypothetical protein
+37850	39877	CDS
+			EC_number	2.1.1.72
+			dbxref	COG:COG0286
+			gene	hsdM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P08957
+			locus_tag	GPONLJHD_00053
+			product	Type I restriction enzyme EcoKI M protein
+39874	41190	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00054
+			product	hypothetical protein
+41191	44448	CDS
+			EC_number	3.1.21.3
+			gene	hsdR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7A801
+			locus_tag	GPONLJHD_00055
+			product	Type-1 restriction enzyme R protein
+44453	45721	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00056
+			product	hypothetical protein
+45841	46314	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00057
+			product	hypothetical protein
+47014	47262	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00058
+			product	hypothetical protein
+48310	47528	CDS
+			dbxref	COG:COG4974
+			gene	xerD_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WF33
+			locus_tag	GPONLJHD_00059
+			product	Tyrosine recombinase XerD
+48642	48310	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00060
+			product	hypothetical protein
+49047	48649	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00061
+			product	hypothetical protein
+49402	49073	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00062
+			product	hypothetical protein
+49738	49430	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00063
+			product	hypothetical protein
+50035	49784	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00064
+			product	hypothetical protein
+50643	50873	CDS
+			dbxref	COG:COG4456
+			gene	vapB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7CPV2
+			locus_tag	GPONLJHD_00065
+			product	Antitoxin VapB
+50870	51286	CDS
+			EC_number	3.1.-.-
+			dbxref	COG:COG1487
+			gene	vapC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8ZM86
+			locus_tag	GPONLJHD_00066
+			product	tRNA(fMet)-specific endonuclease VapC
+51360	52070	CDS
+			gene	recF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00365
+			locus_tag	GPONLJHD_00067
+			product	DNA replication and repair protein RecF
+52104	52379	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00068
+			product	hypothetical protein
+52424	52801	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00069
+			product	hypothetical protein
+52963	53385	CDS
+			gene	merC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q50919
+			locus_tag	GPONLJHD_00070
+			product	Mercuric transport protein MerC
+53437	55131	CDS
+			EC_number	1.16.1.1
+			gene	merA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P00392
+			locus_tag	GPONLJHD_00071
+			product	Mercuric reductase
+55149	55511	CDS
+			dbxref	COG:COG0789
+			gene	mta
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P71039
+			locus_tag	GPONLJHD_00072
+			product	HTH-type transcriptional activator mta
+55508	55744	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00073
+			product	hypothetical protein
+55741	56448	CDS
+			dbxref	COG:COG2200
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9I310
+			locus_tag	GPONLJHD_00074
+			product	putative signaling protein
+56523	57791	CDS
+			gene	tnsB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P13989
+			locus_tag	GPONLJHD_00075
+			product	Transposon Tn7 transposition protein TnsB
+57838	58248	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00076
+			product	hypothetical protein
+59219	58359	CDS
+			EC_number	3.5.2.6
+			gene	bla_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P62593
+			locus_tag	GPONLJHD_00077
+			product	Beta-lactamase TEM
+59653	59402	CDS
+			gene	tnpR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ADI2
+			locus_tag	GPONLJHD_00078
+			product	Transposon Tn3 resolvase
+60278	59919	CDS
+			EC_number	3.5.2.6
+			gene	bla_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O07293
+			locus_tag	GPONLJHD_00079
+			product	Beta-lactamase OXA-18
+60743	60408	CDS
+			EC_number	3.5.2.6
+			gene	bla_3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O07293
+			locus_tag	GPONLJHD_00080
+			product	Beta-lactamase OXA-18
+61667	60963	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00081
+			product	hypothetical protein
+61740	64637	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00082
+			product	hypothetical protein
+64726	65346	CDS
+			gene	bin3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P20384
+			locus_tag	GPONLJHD_00083
+			product	Putative transposon Tn552 DNA-invertase bin3
+65496	65855	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00084
+			product	hypothetical protein
+66269	66385	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00085
+			product	hypothetical protein
+66871	66512	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00086
+			product	hypothetical protein
+67255	67043	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00087
+			product	hypothetical protein
+67375	68559	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00088
+			product	hypothetical protein
+68836	70155	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00089
+			product	hypothetical protein
+71286	70405	CDS
+			EC_number	3.5.2.6
+			gene	bla_4
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9F663
+			locus_tag	GPONLJHD_00090
+			product	Carbapenem-hydrolyzing beta-lactamase KPC
+71577	71338	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00091
+			product	hypothetical protein
+72353	71574	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q45619
+			locus_tag	GPONLJHD_00092
+			product	Insertion sequence IS5376 putative ATP-binding protein
+73375	72350	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00093
+			product	hypothetical protein
+76511	73482	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00094
+			product	hypothetical protein
+76621	78336	CDS
+			dbxref	COG:COG4974
+			gene	xerD_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A8P8
+			locus_tag	GPONLJHD_00095
+			product	Tyrosine recombinase XerD
+78631	78786	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00096
+			product	hypothetical protein
+78835	79827	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00097
+			product	hypothetical protein
+80835	80224	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00098
+			product	hypothetical protein
+81382	80819	CDS
+			dbxref	COG:COG3109
+			gene	proQ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P45577
+			locus_tag	GPONLJHD_00099
+			product	RNA chaperone ProQ
+83458	82601	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00100
+			product	hypothetical protein
+84011	83760	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00101
+			product	hypothetical protein
+84707	84147	CDS
+			EC_number	3.1.4.4
+			gene	pld
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q92G53
+			locus_tag	GPONLJHD_00102
+			product	Phospholipase D
+85110	84802	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00103
+			product	hypothetical protein
+85757	85107	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00104
+			product	hypothetical protein
+86457	85813	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00105
+			product	hypothetical protein
+86728	86507	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00106
+			product	hypothetical protein
+87863	87270	CDS
+			gene	finO
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P29367
+			locus_tag	GPONLJHD_00107
+			product	Fertility inhibition protein
+88660	87935	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00108
+			product	hypothetical protein
+94002	88741	CDS
+			gene	traI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P14565
+			locus_tag	GPONLJHD_00109
+			product	Multifunctional conjugation protein TraI
+96314	94002	CDS
+			gene	traD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P09130
+			locus_tag	GPONLJHD_00110
+			product	Coupling protein TraD
+97132	96443	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00111
+			product	hypothetical protein
+98055	97324	CDS
+			gene	ylpA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P27461
+			locus_tag	GPONLJHD_00112
+			product	Lipoprotein YlpA
+98787	98239	CDS
+			gene	traS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P09129
+			locus_tag	GPONLJHD_00113
+			product	Protein TraS
+101649	98800	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00114
+			product	hypothetical protein
+103016	101649	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00115
+			product	hypothetical protein
+103449	103006	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00116
+			product	hypothetical protein
+104052	103495	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00117
+			product	hypothetical protein
+104263	104024	CDS
+			gene	traQ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P18033
+			locus_tag	GPONLJHD_00118
+			product	Protein TraQ
+105026	104274	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00119
+			product	hypothetical protein
+105373	105047	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00120
+			product	hypothetical protein
+105634	105386	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00121
+			product	hypothetical protein
+105866	105612	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00122
+			product	hypothetical protein
+107853	105898	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00123
+			product	hypothetical protein
+108550	107912	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00124
+			product	hypothetical protein
+109552	108563	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00125
+			product	hypothetical protein
+109938	109549	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00126
+			product	hypothetical protein
+110606	109980	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00127
+			product	hypothetical protein
+110995	110606	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GPONLJHD_00128
+			product	hypothetical protein
+113634	110995	CDS
+			gene	traC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P18004
+			locus_tag	GPONLJHD_00129
+			product	Protein TraC

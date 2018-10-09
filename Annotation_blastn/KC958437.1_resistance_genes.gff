@@ -1,0 +1,21 @@
+##gff-version	3
+KC958437.1	.	tnpA	38225	41294	.	-	.	name=tnpA;description=transposon Tn3 transposase;accession=YP_003108100.1;missmatches=2;evalue=0.0
+KC958437.1	.	tnpA	44891	46156	.	-	.	name=tnpA;description=ISEcp1 transposase;accession=YP_003829172.1;missmatches=0;evalue=0.0
+KC958437.1	.	intI1	35418	36431	.	-	.	name=intI1;description=intI1;accession=YP_007447591.1;missmatches=1;evalue=0.0
+KC958437.1	.	intI1	7612	8315	.	-	.	name=intI1;description=intI1;accession=YP_007447591.1;missmatches=2;evalue=0.0
+KC958437.1	.	tnpA	4185	5165	.	.	.	name=tnpA;description=ISKpn27 transposase;accession=YP_009328786.1;missmatches=0;evalue=0.0
+KC958437.1	.	blaKPC	5441	6322	.	.	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-2;accession=WP_004199234.1;missmatches=0;evalue=0.0
+KC958437.1	.	blaCTX-M	43681	44556	.	-	.	name=blaCTX-M;description=class A extended-spectrum beta-lactamase CTX-M-3;accession=WP_011091028.1;missmatches=0;evalue=0.0
+KC958437.1	.	blaTEM	42039	42899	.	.	.	name=blaTEM;description=class A broad-spectrum beta-lactamase TEM-1;accession=WP_000027057.1;missmatches=0;evalue=0.0
+KC958437.1	.	tnpA of IS6100	9544	10338	.	.	.	name=tnpA of IS6100;description=IS6100 transposase;accession=YP_006965438.1;missmatches=0;evalue=0.0
+KC958437.1	.	tnpA	2827	3549	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+KC958437.1	.	tnpA	34249	34971	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+KC958437.1	.	insB4	6849	7570	.	-	.	name=insB4;description=transposase InsB4 for insertion sequence IS26;accession=YP_002894680.1;missmatches=0;evalue=0.0
+KC958437.1	.	insAB'	27562	28259	.	-	.	name=insAB';description=IS1 transposase frame shift product;accession=YP_004422908.1;missmatches=8;evalue=0.0
+KC958437.1	.	qnrS	32513	33169	.	-	.	name=qnrS;description=quinolone resistance pentapeptide repeat protein QnrS1;accession=WP_001516695.1;missmatches=0;evalue=0.0
+KC958437.1	.	tnpR	41263	41856	.	.	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_002333311.1;missmatches=0;evalue=0.0
+KC958437.1	.	unknown_gene	36690	37277	.	.	.	name=unknown_gene;description=bifunctional aminoglycoside nucleotidyltransferase ANT(3'')-Ih/aminoglycoside N-acetyltransferase AAC(6')-Iid;accession=WP_063839878.1;missmatches=1;evalue=0.0
+KC958437.1	.	IncN	39	552	.	.	.	name=IncN;description=unknown_protein;accession=unknown_accession;missmatches=2;evalue=0.0
+KC958437.1	.	dfrA14	8462	8944	.	.	.	name=dfrA14;description=trimethoprim-resistant dihydrofolate reductase DfrA14;accession=WP_001348218.1;missmatches=0;evalue=0.0
+KC958437.1	.	arr-3	37374	37826	.	.	.	name=arr-3;description=NAD(+)--rifampin ADP-ribosyltransferase Arr-3;accession=WP_001749986.1;missmatches=0;evalue=0.0
+KC958437.1	.	tnpR	3604	4062	.	.	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_003108101.1;missmatches=14;evalue=0.0

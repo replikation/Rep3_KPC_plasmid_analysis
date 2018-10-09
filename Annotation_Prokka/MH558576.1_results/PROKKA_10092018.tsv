@@ -1,0 +1,15 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+ELJHOJAB_00001	CDS	705				hypothetical protein
+ELJHOJAB_00002	CDS	402	tnpR			Transposon Tn3 resolvase
+ELJHOJAB_00003	CDS	981				hypothetical protein
+ELJHOJAB_00004	CDS	882	bla	3.5.2.6		Carbapenem-hydrolyzing beta-lactamase KPC
+ELJHOJAB_00005	CDS	981				hypothetical protein
+ELJHOJAB_00006	CDS	297				hypothetical protein
+ELJHOJAB_00007	CDS	156				hypothetical protein
+ELJHOJAB_00008	CDS	426	klcA			Antirestriction protein KlcA
+ELJHOJAB_00009	CDS	279				hypothetical protein
+ELJHOJAB_00010	CDS	561				hypothetical protein
+ELJHOJAB_00011	CDS	561	hin		COG1961	DNA-invertase hin
+ELJHOJAB_00012	CDS	783				hypothetical protein
+ELJHOJAB_00013	CDS	270				hypothetical protein
+ELJHOJAB_00014	CDS	576				hypothetical protein

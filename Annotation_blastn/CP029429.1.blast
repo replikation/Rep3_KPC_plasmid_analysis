@@ -1,0 +1,22 @@
+CP029429.1	3030	25423	28452	minus	[gene=tnpA] [locus_tag=FCF3SP_p0042] [db_xref=GeneID:16034828] [protein=transposase TnpA] [protein_id=YP_008161910.1] [location=29418..32447] [gbkey=CDS]	0.0	0
+CP029429.1	1476	38373	39848	minus	[gene=msr(E)] [locus_tag=A7J11_01069] [protein=ABC-F type ribosomal protection protein Msr(E)] [protein_id=WP_000052512.1] [location=101..1576] [gbkey=CDS]	0.0	0
+CP029429.1	1320	20678	21997	plus	[gene=tnpA] [locus_tag=FCF1305_p0038] [db_xref=GeneID:16039991] [protein=transposase] [protein_id=YP_008166926.1] [location=complement(34349..35668)] [gbkey=CDS]	0.0	0
+CP029429.1	1275	35064	36338	plus	[gene=tnpA] [locus_tag=pCRE114_050] [db_xref=GeneID:17434085] [protein=transposase] [protein_id=YP_008725167.1] [location=30499..31773] [gbkey=CDS]	0.0	0
+CP029429.1	1026	24291	25316	minus	[gene=istA] [locus_tag=FCF1305_p0035] [db_xref=GeneID:16039988] [protein=transposase IstA] [protein_id=YP_008166923.1] [location=31030..32055] [gbkey=CDS]	0.0	0
+CP029429.1	1014	15471	16484	minus	[gene=intI1] [locus_tag=ST67780_p1003] [db_xref=GeneID:14612604] [protein=intI1] [protein_id=YP_007447591.1] [location=complement(677..1690)] [gbkey=CDS]	0.0	0
+CP029429.1	885	37433	38317	minus	[gene=mph(E)] [locus_tag=A7J11_01706] [protein=Mph(E) family macrolide 2'-phosphotransferase] [protein_id=WP_000155092.1] [location=101..985] [gbkey=CDS]	0.0	0
+CP029429.1	882	22247	23128	minus	[gene=blaKPC] [locus_tag=A7J11_00838] [protein=carbapenem-hydrolyzing class A beta-lactamase KPC-2] [protein_id=WP_004199234.1] [location=6..887] [gbkey=CDS]	0.0	0
+CP029429.1	861	46752	47612	plus	[gene=blaTEM] [locus_tag=A7J11_00887] [protein=class A beta-lactamase TEM-181] [protein_id=WP_000027060.1] [location=101..961] [gbkey=CDS]	0.0	1
+CP029429.1	840	18395	19234	plus	[gene=sul1] [locus_tag=A7J11_00638] [protein=sulfonamide-resistant dihydropteroate synthase Sul1] [protein_id=WP_000259031.1] [location=101..940] [gbkey=CDS]	0.0	0
+CP029429.1	825	45228	46052	plus	[gene=blaOXA] [locus_tag=A7J11_00977] [protein=oxacillin-hydrolyzing class D beta-lactamase OXA-9] [protein_id=WP_000722315.1] [location=101..925] [gbkey=CDS]	0.0	0
+CP029429.1	789	44380	45168	plus	[gene=aadA1] [locus_tag=A7J11_01094] [protein=ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1] [protein_id=WP_001206315.1] [location=101..889] [gbkey=CDS]	0.0	0
+CP029429.1	780	23515	24294	minus	[gene=istB] [locus_tag=FCF1305_p0036] [db_xref=GeneID:16039989] [protein=transposase helper protein IstB] [protein_id=YP_008166924.1] [location=32052..32831] [gbkey=CDS]	0.0	0
+CP029429.1	723	36645	37367	minus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	1
+CP029429.1	523	41761	42283	minus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	0
+CP029429.1	587	43724	44310	plus	[locus_tag=A7J11_02581] [protein=bifunctional aminoglycoside nucleotidyltransferase ANT(3'')-Ih/aminoglycoside N-acetyltransferase AAC(6')-Iid] [protein_id=WP_063839878.1] [location=101..1492] [gbkey=CDS]	0.0	2
+CP029429.1	565	30395	30959	plus	[gene=IncU]	0.0	3
+CP029429.1	588	42935	43522	plus	[gene=tnpR] [locus_tag=pEK204_p10] [db_xref=GeneID:8319058] [protein=transposon Tn3 resolvase] [protein_id=YP_003108101.1] [location=11899..12492] [gbkey=CDS]	0.0	29
+CP029429.1	319	46251	46569	plus	[gene=tnpR] [locus_tag=pEK204_p10] [db_xref=GeneID:8319058] [protein=transposon Tn3 resolvase] [protein_id=YP_003108101.1] [location=11899..12492] [gbkey=CDS]	7e-152	9
+CP029429.1	474	17077	17550	plus	[gene=dfrA5] [locus_tag=A7J11_04109] [protein=trimethoprim-resistant dihydrofolate reductase DfrA5] [protein_id=WP_001317507.1] [location=101..574] [gbkey=CDS]	0.0	0
+CP029429.1	635	42329	42960	minus	[gene=tnpA] [locus_tag=pEK204_p09] [db_xref=GeneID:8319057] [protein=transposon Tn3 transposase] [protein_id=YP_003108100.1] [location=complement(8772..11930)] [gbkey=CDS]	0.0	60
+CP029429.1	348	18054	18401	plus	[gene=qacE] [locus_tag=A7J11_00271] [protein=quaternary ammonium compound efflux SMR transporter QacE delta 1] [protein_id=WP_000679427.1] [location=101..448] [gbkey=CDS]	0.0	0

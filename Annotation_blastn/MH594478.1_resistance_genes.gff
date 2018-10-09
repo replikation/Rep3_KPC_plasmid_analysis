@@ -1,0 +1,31 @@
+##gff-version	3
+MH594478.1	.	tnpA	151149	154178	.	-	.	name=tnpA;description=transposase TnpA;accession=YP_009328366.1;missmatches=0;evalue=0.0
+MH594478.1	.	tnpA	125807	128773	.	-	.	name=tnpA;description=transposase for transposon Tn1721;accession=YP_067860.1;missmatches=0;evalue=0.0
+MH594478.1	.	tnpA	143599	146148	.	-	.	name=tnpA;description=transposase IS3000;accession=YP_008719662.1;missmatches=0;evalue=0.0
+MH594478.1	.	tniA	136966	138681	.	-	.	name=tniA;description=putative TniA transposase;accession=YP_008605064.1;missmatches=0;evalue=0.0
+MH594478.1	.	tnpA	146503	147822	.	.	.	name=tnpA;description=transposase;accession=YP_008166926.1;missmatches=0;evalue=0.0
+MH594478.1	.	istA	150017	151042	.	-	.	name=istA;description=transposase IstA;accession=YP_009328367.1;missmatches=0;evalue=0.0
+MH594478.1	.	insH	47836	48852	.	.	.	name=insH;description=IS5 transposase and trans-activator;accession=YP_009023662.1;missmatches=10;evalue=0.0
+MH594478.1	.	intI1	130066	130996	.	-	.	name=intI1;description=intI1;accession=YP_007447591.1;missmatches=2;evalue=0.0
+MH594478.1	.	blaKPC	148072	148953	.	-	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-3;accession=WP_004152396.1;missmatches=0;evalue=0.0
+MH594478.1	.	tniB	136113	136972	.	-	.	name=tniB;description=transposition protein TniB;accession=YP_006957925.1;missmatches=0;evalue=0.0
+MH594478.1	.	blaSHV	139584	140444	.	.	.	name=blaSHV;description=class A beta-lactamase SHV-159;accession=WP_063864645.1;missmatches=1;evalue=0.0
+MH594478.1	.	sul1	134540	135379	.	.	.	name=sul1;description=sulfonamide-resistant dihydropteroate synthase Sul1;accession=WP_000259031.1;missmatches=0;evalue=0.0
+MH594478.1	.	tnpA	5858	6693	.	.	.	name=tnpA;description=transposase IS4321;accession=YP_008719690.1;missmatches=1;evalue=0.0
+MH594478.1	.	tnpA	78977	79807	.	-	.	name=tnpA;description=transposase ISSen4;accession=YP_004765047.1;missmatches=0;evalue=0.0
+MH594478.1	.	blaOXA	131839	132669	.	.	.	name=blaOXA;description=oxacillin-hydrolyzing class D beta-lactamase OXA-1;accession=WP_001334766.1;missmatches=0;evalue=0.0
+MH594478.1	.	istB	149241	150020	.	-	.	name=istB;description=transposase helper protein IstB;accession=YP_009328368.1;missmatches=0;evalue=0.0
+MH594478.1	.	tnpA	192035	192757	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+MH594478.1	.	tnpA	138743	139465	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+MH594478.1	.	qnrS	121755	122411	.	.	.	name=qnrS;description=quinolone resistance pentapeptide repeat protein QnrS2;accession=WP_012537714.1;missmatches=0;evalue=0.0
+MH594478.1	.	tnpR	190636	191303	.	.	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_006953666.1;missmatches=4;evalue=0.0
+MH594478.1	.	catB3	132807	133439	.	.	.	name=catB3;description=type B-3 chloramphenicol O-acetyltransferase CatB3;accession=WP_000186237.1;missmatches=0;evalue=0.0
+MH594478.1	.	tnpM	129513	130121	.	-	.	name=tnpM;description=transposon modulator protein TnpM;accession=YP_006903511.1;missmatches=0;evalue=0.0
+MH594478.1	.	unknown_gene	131121	131708	.	.	.	name=unknown_gene;description=bifunctional aminoglycoside nucleotidyltransferase ANT(3'')-Ih/aminoglycoside N-acetyltransferase AAC(6')-Iid;accession=WP_063839878.1;missmatches=3;evalue=0.0
+MH594478.1	.	tnpR	128777	129337	.	-	.	name=tnpR;description=transposon Tn1721 resolvase;accession=YP_067859.1;missmatches=0;evalue=0.0
+MH594478.1	.	tnpA	156671	157217	.	.	.	name=tnpA;description=transposase;accession=YP_006957364.1;missmatches=0;evalue=0.0
+MH594478.1	.	tnpA	156056	156528	.	-	.	name=tnpA;description=transposase;accession=YP_008766433.1;missmatches=0;evalue=0.0
+MH594478.1	.	arr-3	133524	133976	.	.	.	name=arr-3;description=NAD(+)--rifampin ADP-ribosyltransferase Arr-3;accession=WP_001749986.1;missmatches=0;evalue=0.0
+MH594478.1	.	IncA/C	24959	25375	.	.	.	name=IncA/C;description=unknown_protein;accession=unknown_accession;missmatches=7;evalue=0.0
+MH594478.1	.	IncX3	186363	186736	.	.	.	name=IncX3;description=unknown_protein;accession=unknown_accession;missmatches=0;evalue=0.0
+MH594478.1	.	qacE	134199	134546	.	.	.	name=qacE;description=quaternary ammonium compound efflux SMR transporter QacE delta 1;accession=WP_000679427.1;missmatches=0;evalue=0.0

@@ -1,0 +1,278 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+GIAKDKPJ_00001	CDS	681	copR			Transcriptional activator protein CopR
+GIAKDKPJ_00002	CDS	1401	cusS_1	2.7.13.3	COG0642	Sensor kinase CusS
+GIAKDKPJ_00003	CDS	435	pcoE			putative copper-binding protein PcoE
+GIAKDKPJ_00004	CDS	651				hypothetical protein
+GIAKDKPJ_00005	CDS	804				hypothetical protein
+GIAKDKPJ_00006	CDS	405	aqpZ2			Aquaporin Z 2
+GIAKDKPJ_00007	CDS	498	ywnH	2.3.1.183	COG1247	Putative phosphinothricin acetyltransferase YwnH
+GIAKDKPJ_00008	CDS	327				hypothetical protein
+GIAKDKPJ_00009	CDS	714	arsH	1.-.-.-	COG0431	NADPH-dependent FMN reductase ArsH
+GIAKDKPJ_00010	CDS	546	sigL		COG1595	ECF RNA polymerase sigma factor SigL
+GIAKDKPJ_00011	CDS	363	arsD_1			Arsenical resistance operon trans-acting repressor ArsD
+GIAKDKPJ_00012	CDS	1341	arsA_1	3.6.3.16		Arsenical pump-driving ATPase
+GIAKDKPJ_00013	CDS	474	arsA_2	3.6.3.16		Arsenical pump-driving ATPase
+GIAKDKPJ_00014	CDS	537	yncA	2.3.1.-	COG1247	L-methionine sulfoximine/L-methionine sulfone acetyltransferase
+GIAKDKPJ_00015	CDS	426	arsC	1.20.4.1		Arsenate reductase
+GIAKDKPJ_00016	CDS	1290	arsB		COG1055	Arsenical pump membrane protein
+GIAKDKPJ_00017	CDS	1752	arsA_3	3.6.3.16		Arsenical pump-driving ATPase
+GIAKDKPJ_00018	CDS	363	arsD_2			Arsenical resistance operon trans-acting repressor ArsD
+GIAKDKPJ_00019	CDS	351	arsR2		COG0640	Arsenic resistance transcriptional regulator ArsR2
+GIAKDKPJ_00020	CDS	270				hypothetical protein
+GIAKDKPJ_00021	CDS	576				hypothetical protein
+GIAKDKPJ_00022	CDS	495				hypothetical protein
+GIAKDKPJ_00023	CDS	369				hypothetical protein
+GIAKDKPJ_00024	CDS	204	ymoA			Modulating protein YmoA
+GIAKDKPJ_00025	CDS	258				hypothetical protein
+GIAKDKPJ_00026	CDS	255				hypothetical protein
+GIAKDKPJ_00027	CDS	267				hypothetical protein
+GIAKDKPJ_00028	CDS	483				hypothetical protein
+GIAKDKPJ_00029	CDS	165				hypothetical protein
+GIAKDKPJ_00030	CDS	1359				hypothetical protein
+GIAKDKPJ_00031	CDS	396				hypothetical protein
+GIAKDKPJ_00032	CDS	720				hypothetical protein
+GIAKDKPJ_00033	CDS	306				hypothetical protein
+GIAKDKPJ_00034	CDS	990	htpX	3.4.24.-	COG0501	Protease HtpX 
+GIAKDKPJ_00035	CDS	750				hypothetical protein
+GIAKDKPJ_00036	CDS	198				hypothetical protein
+GIAKDKPJ_00037	CDS	2796	clpC			ATP-dependent Clp protease ATP-binding subunit ClpC
+GIAKDKPJ_00038	CDS	570	hspA		COG0071	Spore protein SP21
+GIAKDKPJ_00039	CDS	282				hypothetical protein
+GIAKDKPJ_00040	CDS	264				hypothetical protein
+GIAKDKPJ_00041	CDS	255				hypothetical protein
+GIAKDKPJ_00042	CDS	378				hypothetical protein
+GIAKDKPJ_00043	CDS	1008	amiF	3.5.1.49	COG0388	Formamidase
+GIAKDKPJ_00044	CDS	690	livF		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+GIAKDKPJ_00045	CDS	750	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+GIAKDKPJ_00046	CDS	1116	xylH		COG4214	Xylose transport system permease protein XylH
+GIAKDKPJ_00047	CDS	927	livH		COG0559	High-affinity branched-chain amino acid transport system permease protein LivH
+GIAKDKPJ_00048	CDS	1281	amiC			Aliphatic amidase expression-regulating protein
+GIAKDKPJ_00049	CDS	3381	arcB	2.7.13.3	COG0642	Aerobic respiration control sensor protein ArcB
+GIAKDKPJ_00050	CDS	921		3.1.4.-	COG3437	putative cyclic di-GMP phosphodiesterase
+GIAKDKPJ_00051	CDS	426				hypothetical protein
+GIAKDKPJ_00052	CDS	969				hypothetical protein
+GIAKDKPJ_00053	CDS	1005				hypothetical protein
+GIAKDKPJ_00054	CDS	177				hypothetical protein
+GIAKDKPJ_00055	CDS	816	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+GIAKDKPJ_00056	CDS	804	neo	2.7.1.95		Aminoglycoside 3'-phosphotransferase
+GIAKDKPJ_00057	CDS	837				hypothetical protein
+GIAKDKPJ_00058	CDS	705				hypothetical protein
+GIAKDKPJ_00059	CDS	663				hypothetical protein
+GIAKDKPJ_00060	CDS	705				hypothetical protein
+GIAKDKPJ_00061	CDS	1014	xerD_1		COG4974	Tyrosine recombinase XerD
+GIAKDKPJ_00062	CDS	474	dhfrI	1.5.1.3		Dihydrofolate reductase type 1
+GIAKDKPJ_00063	CDS	267				hypothetical protein
+GIAKDKPJ_00064	CDS	765				hypothetical protein
+GIAKDKPJ_00065	CDS	1215	ecoRIIR	3.1.21.4		Type-2 restriction enzyme EcoRII
+GIAKDKPJ_00066	CDS	1434	dcm	2.1.1.37	COG0270	DNA-cytosine methyltransferase
+GIAKDKPJ_00067	CDS	705				hypothetical protein
+GIAKDKPJ_00068	CDS	1530				hypothetical protein
+GIAKDKPJ_00069	CDS	678	tetR			Tetracycline repressor protein class A from transposon 1721
+GIAKDKPJ_00070	CDS	1200	tetA			Tetracycline resistance protein, class C
+GIAKDKPJ_00071	CDS	885	yedA			putative inner membrane transporter YedA
+GIAKDKPJ_00072	CDS	822				hypothetical protein
+GIAKDKPJ_00073	CDS	606	pinR	3.1.22.-	COG1961	Serine recombinase PinR
+GIAKDKPJ_00074	CDS	2898				hypothetical protein
+GIAKDKPJ_00075	CDS	1836				hypothetical protein
+GIAKDKPJ_00076	CDS	387	pspF		COG1221	Psp operon transcriptional activator
+GIAKDKPJ_00077	CDS	645			COG1357	Pentapeptide repeat protein
+GIAKDKPJ_00078	CDS	669	yghA	1.-.-.-		putative oxidoreductase YghA
+GIAKDKPJ_00079	CDS	705				hypothetical protein
+GIAKDKPJ_00080	CDS	1269	tnsB			Transposon Tn7 transposition protein TnsB
+GIAKDKPJ_00081	CDS	708			COG2200	putative signaling protein
+GIAKDKPJ_00082	CDS	237				hypothetical protein
+GIAKDKPJ_00083	CDS	363	mta		COG0789	HTH-type transcriptional activator mta
+GIAKDKPJ_00084	CDS	1695	merA	1.16.1.1		Mercuric reductase
+GIAKDKPJ_00085	CDS	423	merC			Mercuric transport protein MerC
+GIAKDKPJ_00086	CDS	378				hypothetical protein
+GIAKDKPJ_00087	CDS	276				hypothetical protein
+GIAKDKPJ_00088	CDS	711	recF			DNA replication and repair protein RecF
+GIAKDKPJ_00089	CDS	402	vapC	3.1.-.-	COG1487	tRNA(fMet)-specific endonuclease VapC
+GIAKDKPJ_00090	CDS	231	vapB		COG4456	Antitoxin VapB
+GIAKDKPJ_00091	CDS	252				hypothetical protein
+GIAKDKPJ_00092	CDS	309				hypothetical protein
+GIAKDKPJ_00093	CDS	330				hypothetical protein
+GIAKDKPJ_00094	CDS	399				hypothetical protein
+GIAKDKPJ_00095	CDS	333				hypothetical protein
+GIAKDKPJ_00096	CDS	783	xerD_2		COG4974	Tyrosine recombinase XerD
+GIAKDKPJ_00097	CDS	249				hypothetical protein
+GIAKDKPJ_00098	CDS	231				hypothetical protein
+GIAKDKPJ_00099	CDS	474				hypothetical protein
+GIAKDKPJ_00100	CDS	1269				hypothetical protein
+GIAKDKPJ_00101	CDS	3258	hsdR	3.1.21.3		Type-1 restriction enzyme R protein
+GIAKDKPJ_00102	CDS	1317				hypothetical protein
+GIAKDKPJ_00103	CDS	2028	hsdM	2.1.1.72	COG0286	Type I restriction enzyme EcoKI M protein
+GIAKDKPJ_00104	CDS	216				hypothetical protein
+GIAKDKPJ_00105	CDS	174				hypothetical protein
+GIAKDKPJ_00106	CDS	333				hypothetical protein
+GIAKDKPJ_00107	CDS	975	virB		COG1475	Virulence regulon transcriptional activator VirB
+GIAKDKPJ_00108	CDS	1206	parA			Plasmid partition protein A
+GIAKDKPJ_00109	CDS	897	repA			Replication protein RepA
+GIAKDKPJ_00110	CDS	1272	umuC_1		COG0389	Protein UmuC
+GIAKDKPJ_00111	CDS	432	umuD_1	3.4.21.-	COG1974	Protein UmuD
+GIAKDKPJ_00112	CDS	972	parM			Plasmid segregation protein ParM
+GIAKDKPJ_00113	CDS	672				hypothetical protein
+GIAKDKPJ_00114	CDS	231				hypothetical protein
+GIAKDKPJ_00115	CDS	702	yhdJ	2.1.1.72	COG0863	DNA adenine methyltransferase YhdJ
+GIAKDKPJ_00116	CDS	222				hypothetical protein
+GIAKDKPJ_00117	CDS	420				hypothetical protein
+GIAKDKPJ_00118	CDS	768				hypothetical protein
+GIAKDKPJ_00119	CDS	429	klcA_1			Antirestriction protein KlcA
+GIAKDKPJ_00120	CDS	507				hypothetical protein
+GIAKDKPJ_00121	CDS	192				hypothetical protein
+GIAKDKPJ_00122	CDS	255	holE_1	2.7.7.7		DNA polymerase III subunit theta
+GIAKDKPJ_00123	CDS	318				hypothetical protein
+GIAKDKPJ_00124	CDS	228				hypothetical protein
+GIAKDKPJ_00125	CDS	231				hypothetical protein
+GIAKDKPJ_00126	CDS	1356				hypothetical protein
+GIAKDKPJ_00127	CDS	564				hypothetical protein
+GIAKDKPJ_00128	CDS	330				hypothetical protein
+GIAKDKPJ_00129	CDS	543	ssb			Plasmid-derived single-stranded DNA-binding protein
+GIAKDKPJ_00130	CDS	249				hypothetical protein
+GIAKDKPJ_00131	CDS	2058	spo0C		COG1475	Chromosome-partitioning protein Spo0J
+GIAKDKPJ_00132	CDS	432	psiB			Protein PsiB
+GIAKDKPJ_00133	CDS	729				hypothetical protein
+GIAKDKPJ_00134	CDS	327				hypothetical protein
+GIAKDKPJ_00135	CDS	375				hypothetical protein
+GIAKDKPJ_00136	CDS	1080				hypothetical protein
+GIAKDKPJ_00137	CDS	159	flmA			Stable plasmid inheritance protein
+GIAKDKPJ_00138	CDS	273				hypothetical protein
+GIAKDKPJ_00139	CDS	351				hypothetical protein
+GIAKDKPJ_00140	CDS	318				hypothetical protein
+GIAKDKPJ_00141	CDS	357				hypothetical protein
+GIAKDKPJ_00142	CDS	213				hypothetical protein
+GIAKDKPJ_00143	CDS	225				hypothetical protein
+GIAKDKPJ_00144	CDS	321				hypothetical protein
+GIAKDKPJ_00145	CDS	279	higA1		COG1396	Antitoxin HigA1
+GIAKDKPJ_00146	CDS	414	higA		COG5499	Antitoxin HigA
+GIAKDKPJ_00147	CDS	381				hypothetical protein
+GIAKDKPJ_00148	CDS	348				hypothetical protein
+GIAKDKPJ_00149	CDS	147				hypothetical protein
+GIAKDKPJ_00150	CDS	834				hypothetical protein
+GIAKDKPJ_00151	CDS	390				hypothetical protein
+GIAKDKPJ_00152	CDS	822				hypothetical protein
+GIAKDKPJ_00153	CDS	315				hypothetical protein
+GIAKDKPJ_00154	CDS	486				hypothetical protein
+GIAKDKPJ_00155	CDS	399	traM			Relaxosome protein TraM
+GIAKDKPJ_00156	CDS	687	traJ			Protein TraJ
+GIAKDKPJ_00157	CDS	387	traY			Relaxosome protein TraY
+GIAKDKPJ_00158	CDS	369	traA			Pilin
+GIAKDKPJ_00159	CDS	306				hypothetical protein
+GIAKDKPJ_00160	CDS	567				hypothetical protein
+GIAKDKPJ_00161	CDS	741				hypothetical protein
+GIAKDKPJ_00162	CDS	1425				hypothetical protein
+GIAKDKPJ_00163	CDS	585	traV			Protein TraV
+GIAKDKPJ_00164	CDS	411				hypothetical protein
+GIAKDKPJ_00165	CDS	219				hypothetical protein
+GIAKDKPJ_00166	CDS	312				hypothetical protein
+GIAKDKPJ_00167	CDS	405				hypothetical protein
+GIAKDKPJ_00168	CDS	390				hypothetical protein
+GIAKDKPJ_00169	CDS	393				hypothetical protein
+GIAKDKPJ_00170	CDS	2640	traC			Protein TraC
+GIAKDKPJ_00171	CDS	390				hypothetical protein
+GIAKDKPJ_00172	CDS	627				hypothetical protein
+GIAKDKPJ_00173	CDS	390				hypothetical protein
+GIAKDKPJ_00174	CDS	990				hypothetical protein
+GIAKDKPJ_00175	CDS	639				hypothetical protein
+GIAKDKPJ_00176	CDS	1956				hypothetical protein
+GIAKDKPJ_00177	CDS	255				hypothetical protein
+GIAKDKPJ_00178	CDS	267				hypothetical protein
+GIAKDKPJ_00179	CDS	327				hypothetical protein
+GIAKDKPJ_00180	CDS	753				hypothetical protein
+GIAKDKPJ_00181	CDS	240	traQ			Protein TraQ
+GIAKDKPJ_00182	CDS	558				hypothetical protein
+GIAKDKPJ_00183	CDS	444				hypothetical protein
+GIAKDKPJ_00184	CDS	1368				hypothetical protein
+GIAKDKPJ_00185	CDS	2850				hypothetical protein
+GIAKDKPJ_00186	CDS	549	traS			Protein TraS
+GIAKDKPJ_00187	CDS	732	ylpA			Lipoprotein YlpA
+GIAKDKPJ_00188	CDS	690				hypothetical protein
+GIAKDKPJ_00189	CDS	2313	traD			Coupling protein TraD
+GIAKDKPJ_00190	CDS	5262	traI			Multifunctional conjugation protein TraI
+GIAKDKPJ_00191	CDS	726				hypothetical protein
+GIAKDKPJ_00192	CDS	594	finO			Fertility inhibition protein
+GIAKDKPJ_00193	CDS	597				hypothetical protein
+GIAKDKPJ_00194	CDS	645				hypothetical protein
+GIAKDKPJ_00195	CDS	651				hypothetical protein
+GIAKDKPJ_00196	CDS	309				hypothetical protein
+GIAKDKPJ_00197	CDS	561	pld	3.1.4.4		Phospholipase D
+GIAKDKPJ_00198	CDS	252				hypothetical protein
+GIAKDKPJ_00199	CDS	858				hypothetical protein
+GIAKDKPJ_00200	CDS	564	proQ		COG3109	RNA chaperone ProQ
+GIAKDKPJ_00201	CDS	612				hypothetical protein
+GIAKDKPJ_00202	CDS	162				hypothetical protein
+GIAKDKPJ_00203	CDS	993				hypothetical protein
+GIAKDKPJ_00204	CDS	156				hypothetical protein
+GIAKDKPJ_00205	CDS	1716	xerD_3		COG4974	Tyrosine recombinase XerD
+GIAKDKPJ_00206	CDS	3030				hypothetical protein
+GIAKDKPJ_00207	CDS	1026				hypothetical protein
+GIAKDKPJ_00208	CDS	780				Insertion sequence IS5376 putative ATP-binding protein
+GIAKDKPJ_00209	CDS	240				hypothetical protein
+GIAKDKPJ_00210	CDS	882	bla_1	3.5.2.6		Carbapenem-hydrolyzing beta-lactamase KPC
+GIAKDKPJ_00211	CDS	1320				hypothetical protein
+GIAKDKPJ_00212	CDS	1185				hypothetical protein
+GIAKDKPJ_00213	CDS	213				hypothetical protein
+GIAKDKPJ_00214	CDS	360				hypothetical protein
+GIAKDKPJ_00215	CDS	117				hypothetical protein
+GIAKDKPJ_00216	CDS	411				hypothetical protein
+GIAKDKPJ_00217	CDS	621	bin3			Putative transposon Tn552 DNA-invertase bin3
+GIAKDKPJ_00218	CDS	2898				hypothetical protein
+GIAKDKPJ_00219	CDS	705				hypothetical protein
+GIAKDKPJ_00220	CDS	336	bla_2	3.5.2.6		Beta-lactamase OXA-18
+GIAKDKPJ_00221	CDS	360	bla_3	3.5.2.6		Beta-lactamase OXA-18
+GIAKDKPJ_00222	CDS	252	tnpR			Transposon Tn3 resolvase
+GIAKDKPJ_00223	CDS	861	bla_4	3.5.2.6		Beta-lactamase TEM
+GIAKDKPJ_00224	CDS	411				hypothetical protein
+GIAKDKPJ_00225	CDS	564				hypothetical protein
+GIAKDKPJ_00226	CDS	1356				hypothetical protein
+GIAKDKPJ_00227	CDS	231				hypothetical protein
+GIAKDKPJ_00228	CDS	228				hypothetical protein
+GIAKDKPJ_00229	CDS	318				hypothetical protein
+GIAKDKPJ_00230	CDS	255	holE_2	2.7.7.7		DNA polymerase III subunit theta
+GIAKDKPJ_00231	CDS	426	klcA_2			Antirestriction protein KlcA
+GIAKDKPJ_00232	CDS	159				hypothetical protein
+GIAKDKPJ_00233	CDS	468				hypothetical protein
+GIAKDKPJ_00234	CDS	1512	ltrA		COG3344	Group II intron-encoded protein LtrA
+GIAKDKPJ_00235	CDS	426	umuD_2	3.4.21.-	COG1974	Protein UmuD
+GIAKDKPJ_00236	CDS	1272	umuC_2		COG0389	Protein UmuC
+GIAKDKPJ_00237	CDS	252				hypothetical protein
+GIAKDKPJ_00238	CDS	1953				hypothetical protein
+GIAKDKPJ_00239	CDS	1281				hypothetical protein
+GIAKDKPJ_00240	CDS	276				hypothetical protein
+GIAKDKPJ_00241	CDS	267				hypothetical protein
+GIAKDKPJ_00242	CDS	174				hypothetical protein
+GIAKDKPJ_00243	CDS	657				hypothetical protein
+GIAKDKPJ_00244	CDS	264				hypothetical protein
+GIAKDKPJ_00245	CDS	972	sopB			Protein SopB
+GIAKDKPJ_00246	CDS	1167	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+GIAKDKPJ_00247	CDS	1011	repB			RepFIB replication protein A
+GIAKDKPJ_00248	CDS	741	xerD_4			Tyrosine recombinase XerD
+GIAKDKPJ_00249	CDS	102				hypothetical protein
+GIAKDKPJ_00250	CDS	957	dgcP	2.7.7.65	COG2203	Diguanylate cyclase DgcP
+GIAKDKPJ_00251	CDS	969				hypothetical protein
+GIAKDKPJ_00252	CDS	1416	pdeB	3.1.4.52	COG4943	putative cyclic di-GMP phosphodiesterase PdeB
+GIAKDKPJ_00253	CDS	192				hypothetical protein
+GIAKDKPJ_00254	CDS	1278			COG4325	putative protein
+GIAKDKPJ_00255	CDS	1998			COG1292	Glycine betaine transporter
+GIAKDKPJ_00256	CDS	378				hypothetical protein
+GIAKDKPJ_00257	CDS	276				hypothetical protein
+GIAKDKPJ_00258	CDS	882				hypothetical protein
+GIAKDKPJ_00259	CDS	396				hypothetical protein
+GIAKDKPJ_00260	CDS	378				hypothetical protein
+GIAKDKPJ_00261	CDS	405				hypothetical protein
+GIAKDKPJ_00262	CDS	432	silE_1			Silver-binding protein SilE
+GIAKDKPJ_00263	CDS	1476	cusS_2	2.7.13.3	COG0642	Sensor kinase CusS
+GIAKDKPJ_00264	CDS	681	cusR		COG0745	Transcriptional regulatory protein CusR
+GIAKDKPJ_00265	CDS	1386	cusC		COG1538	Cation efflux system protein CusC
+GIAKDKPJ_00266	CDS	354	cusF		COG5569	Cation efflux system protein CusF
+GIAKDKPJ_00267	CDS	1293	cusB			Cation efflux system protein CusB
+GIAKDKPJ_00268	CDS	3147	cusA		COG3696	Cation efflux system protein CusA
+GIAKDKPJ_00269	CDS	441				hypothetical protein
+GIAKDKPJ_00270	CDS	2454	silP	3.6.3.53		Silver exporting P-type ATPase
+GIAKDKPJ_00271	CDS	198				hypothetical protein
+GIAKDKPJ_00272	CDS	738	mepM	3.4.24.-	COG0739	Murein DD-endopeptidase MepM
+GIAKDKPJ_00273	CDS	450	silE_2			Silver-binding protein SilE
+GIAKDKPJ_00274	CDS	1818	copA			Copper resistance protein A
+GIAKDKPJ_00275	CDS	897	copB			Copper resistance protein B
+GIAKDKPJ_00276	CDS	381	pcoC		COG2372	Copper resistance protein C
+GIAKDKPJ_00277	CDS	930	copD			Copper resistance protein D

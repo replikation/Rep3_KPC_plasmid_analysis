@@ -1,0 +1,324 @@
+>Feature MH624131.1
+1520	144	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00001
+			product	hypothetical protein
+2063	1677	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00002
+			product	hypothetical protein
+2318	2097	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00003
+			product	hypothetical protein
+2978	2340	CDS
+			EC_number	3.6.-.-
+			dbxref	COG:COG1192
+			gene	soj
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q72H90
+			locus_tag	NKAPFHAE_00004
+			product	Chromosome-partitioning ATPase Soj
+3381	3133	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00005
+			product	hypothetical protein
+3932	3420	CDS
+			EC_number	3.1.21.4
+			gene	paeR7IR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P05104
+			locus_tag	NKAPFHAE_00006
+			product	Type-2 restriction enzyme PaeR7I
+4701	4129	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00007
+			product	hypothetical protein
+5761	4793	CDS
+			dbxref	COG:COG0598
+			gene	corA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9WZ31
+			locus_tag	NKAPFHAE_00008
+			product	Cobalt/magnesium transport protein CorA
+6462	5758	CDS
+			EC_number	1.8.4.-
+			dbxref	COG:COG0625
+			gene	yfcG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P77526
+			locus_tag	NKAPFHAE_00009
+			product	Disulfide-bond oxidoreductase YfcG
+7134	6595	CDS
+			EC_number	1.8.4.11
+			dbxref	COG:COG0225
+			gene	msrA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WJM5
+			locus_tag	NKAPFHAE_00010
+			product	Peptide methionine sulfoxide reductase MsrA
+7579	7136	CDS
+			EC_number	1.8.4.12
+			gene	msrB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:E6ESW1
+			locus_tag	NKAPFHAE_00011
+			product	Peptide methionine sulfoxide reductase MsrB
+7700	8374	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00012
+			product	hypothetical protein
+10847	8298	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00013
+			product	hypothetical protein
+12217	10949	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00014
+			product	hypothetical protein
+12906	12535	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00015
+			product	hypothetical protein
+13063	14337	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00016
+			product	hypothetical protein
+14728	14318	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00017
+			product	hypothetical protein
+14892	15449	CDS
+			gene	tnpR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ADI2
+			locus_tag	NKAPFHAE_00018
+			product	Transposon Tn3 resolvase
+15572	16552	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00019
+			product	hypothetical protein
+17465	18346	CDS
+			EC_number	3.5.2.6
+			gene	bla
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9F663
+			locus_tag	NKAPFHAE_00020
+			product	Carbapenem-hydrolyzing beta-lactamase KPC
+19576	18596	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00021
+			product	hypothetical protein
+19877	19581	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00022
+			product	hypothetical protein
+20078	19923	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00023
+			product	hypothetical protein
+20631	20206	CDS
+			gene	klcA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P52603
+			locus_tag	NKAPFHAE_00024
+			product	Antirestriction protein KlcA
+21020	20742	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00025
+			product	hypothetical protein
+22114	21554	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00026
+			product	hypothetical protein
+23200	22778	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00027
+			product	hypothetical protein
+23517	23197	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00028
+			product	hypothetical protein
+23755	23477	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00029
+			product	hypothetical protein
+26469	23797	CDS
+			gene	traI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q00191
+			locus_tag	NKAPFHAE_00030
+			product	Protein TraI
+26770	26450	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00031
+			product	hypothetical protein
+27080	27436	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00032
+			product	hypothetical protein
+27449	28132	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00033
+			product	hypothetical protein
+28125	28775	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00034
+			product	hypothetical protein
+28772	29494	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00035
+			product	hypothetical protein
+30346	29519	CDS
+			EC_number	3.1.-.-
+			dbxref	COG:COG0322
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WLJ1
+			locus_tag	NKAPFHAE_00036
+			product	Putative bifunctional exonuclease/endonuclease protein
+30732	30541	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00037
+			product	hypothetical protein
+31643	30732	CDS
+			gene	smc
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01894
+			locus_tag	NKAPFHAE_00038
+			product	Chromosome partition protein Smc
+32110	31949	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00039
+			product	hypothetical protein
+32615	32217	CDS
+			gene	merR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A183
+			locus_tag	NKAPFHAE_00040
+			product	Mercuric resistance operon regulatory protein
+32690	32866	CDS
+			gene	merT_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04140
+			locus_tag	NKAPFHAE_00041
+			product	Mercuric transport protein MerT
+33401	33081	CDS
+			gene	repA_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P20356
+			locus_tag	NKAPFHAE_00042
+			product	Regulatory protein RepA
+35913	33472	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00043
+			product	hypothetical protein
+36328	35897	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00044
+			product	hypothetical protein
+36786	37253	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00045
+			product	hypothetical protein
+38107	38763	CDS
+			dbxref	COG:COG1357
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q87K03
+			locus_tag	NKAPFHAE_00046
+			product	Pentapeptide repeat protein
+39317	39066	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00047
+			product	hypothetical protein
+40188	39307	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00048
+			product	hypothetical protein
+40708	40175	CDS
+			gene	repA_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P20356
+			locus_tag	NKAPFHAE_00049
+			product	Regulatory protein RepA
+41571	41011	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00050
+			product	hypothetical protein
+42041	41754	CDS
+			EC_number	3.1.-.-
+			dbxref	COG:COG2026
+			gene	relE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0C077
+			locus_tag	NKAPFHAE_00051
+			product	mRNA interferase toxin RelE
+42273	42031	CDS
+			dbxref	COG:COG3077
+			gene	relB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0C079
+			locus_tag	NKAPFHAE_00052
+			product	Antitoxin RelB
+42605	42345	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00053
+			product	hypothetical protein
+43242	42754	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00054
+			product	hypothetical protein
+44338	44096	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00055
+			product	hypothetical protein
+44873	45841	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00056
+			product	hypothetical protein
+45851	46135	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00057
+			product	hypothetical protein
+46194	46436	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00058
+			product	hypothetical protein
+46894	46628	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00059
+			product	hypothetical protein
+47378	47593	CDS
+			gene	merT_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04140
+			locus_tag	NKAPFHAE_00060
+			product	Mercuric transport protein MerT
+47606	47881	CDS
+			gene	merP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04129
+			locus_tag	NKAPFHAE_00061
+			product	Mercuric transport protein periplasmic component
+47889	48101	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00062
+			product	hypothetical protein
+51107	48114	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00063
+			product	hypothetical protein
+51521	51111	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00064
+			product	hypothetical protein
+51760	51521	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NKAPFHAE_00065
+			product	hypothetical protein
+51962	52891	CDS
+			dbxref	COG:COG1961
+			gene	hin
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P03013
+			locus_tag	NKAPFHAE_00066
+			product	DNA-invertase hin

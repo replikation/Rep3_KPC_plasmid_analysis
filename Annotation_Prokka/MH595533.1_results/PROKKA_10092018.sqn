@@ -1,0 +1,1421 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14-dev from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 10 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 9 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2018 } } } ,
+        create-date
+          std {
+            year 2018 ,
+            month 10 ,
+            day 9 } } ,
+      seq-set {
+        seq {
+          id {
+            local
+              str "MH595533.1" } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 14873 ,
+            seq-data
+              iupacna "AGGGGTCGTCTCAGAATTCGGAAAATAAAGCACGCTAGCGGTTGATCTGTCAGGT
+TGAAGCCTGAGAGGCCGAGCGCAGATCGTCAGAAAAGGCGAAAAACGATCCTAATCTGACGCAACATAGGTGGGGTGC
+CTGACGCCCGGTTGAGGCGTACTTCAACTGGACACCATTCCAGAAAGACCAAGCATGGCATGGCCTGCCGCTGTCTTA
+CCGTGCTTTATTTCCCGTTTTCTCTATCGACCCCTGTTTAACAATCACGCCCCCCCCCCGGTAACTGTCACGACCCCC
+CCCGGTAACTGTCACGCCCCCAAACCTGCAAACCCAGGAAGGGTGGGAGTTGGCGTGGTGTTGGAAAAATCCATCCAT
+GATTATCCAAGAATAATCCACTAGGCGCGGTTAACAGCGCCCTAGTGGGGCACTGTTTGCCCTTGCCTAAAATGCCGG
+CCAGAGGCCGGATAATTGCTCTATCCGCTGCGCTAGGCTGCACACGCCCCCCCACCGCTGCGCGGCAGGGGGAAAGGC
+GGGCAAAGCCCGCTAAACCCCACACCAAATTCTGCGGGAATACGCTGGAGCGATTTTAGCCGCTTTAGCGGCCTTTTC
+CCTACCCGAAGGGTGGGGGCGGTGTGCAGCCCCGAAGGGGCCATTTAGCGGCCATTTCAGCGGCTGTGATGCTGATAG
+TGGCCGTGGTGTCCCTTACGATATGGGAGTAATCAGGCTTGCCGAAAAGGGCTTTGAGTGGATCTGTCATGGCTGATC
+TCCAAACATATCAAGCGTGTCTGTATCCCACTCTATTGTAAACAAGACATTTTTATCTTTTATATCCAATGGCTTATT
+TTCCTGCTAATACGCACATTTTCAGTAATGTCATACACCACAACATAGTGAGGATGAACAACTAACTCTCTTGTTCCT
+TTTTTCTGTCCAGTTCTCCCCATGAGATTATTATGAGCAAGCAAACTAACTTTTTCCCGAATTAAATCATCCAATTCA
+ATTGCAGCAATTGGATTTCTTTCATCAAGATAATCATAAATTCTTTCACGATCTTGTTCTGCATCTACGGTCCAAAGA
+ATCGACGTAAAATGACAATTAAGTATTTTTAGAAAATGCTTGGAATCAATTCAATTCATCAAGTTTTAAAAAATAATT
+CCTTTTGTCAGGTCTATCATTTTTTAAATGCTTTAAAAATATTTTAGCAGTTTCCTCCGATGCATCCTCTCTTAGGCA
+ACGTTCAACAAAGGATATATCTACAAACTCATCTGCTAACCCAGCACGGCCAAGATCTAAAAAATAAATTTCATTGAA
+TTTATCTATAAAAATATTACTATCCGTGATATCGCCATGAGAAAAAACCAATCTTTCTTCAACACGAGTCTCATTTAA
+CTCATTCCATAGACTTAGGTAAGTTTTATGGTCTCCCCATAATTCAGCGTCAAAATCATCTTGATCTATATCATCAAG
+GAGTTGGTTATCAATAAAAAATTTTGACTCTTTTAACCGATGATCAATGTTTGAAATAAATGGACAATCAATAATAGC
+AATTGAATTTAACAGATTGAGTACCTCCTTATAGATAGCAAGCAATTCTTGGTCTGTTAAAAAAAGCGCTGAAATTGG
+TTTTGCATTGATCGCTTTAGTGATCATGAATTCAAACTGCTCATCCTGAAAAGTCATGATGAGTTCAGGCACCTTTAA
+CTTCTCAGAGAGCCAACTCAACATTTTCGCTTCACGAGAAACACTGTATGTGGTCGCTGTATATAAAGTGCTAGATCG
+CTTAAGAAAAAAAGTTTCATTATTTCGATTAAAAGAATAAACATCCGATGGCGACTGACCAATTTTATTTGGCTCTAA
+AACGCTGTTTCCAATAAATTGTTGAATAATATTGGGCAATTCCATCAAGCTTTCCTTTTATTCAGTATTAAAAACCCC
+GCAAATGCGAGGCCTAGTAAATAGATGATCTTAATTTGGTTCACTGTGGCAAAAATAGGGGTAAAAAACAACCGCAAG
+ATAGAGGTTCCGTTGCTAGACATTGCCAGCCAGTGCCCGTCACTCCCGTACTAACTGTCACGAACCCCTGCAATAACT
+GTCACGCCCCCCTGCAATAACTGTCACGAACCCCTGCAATAACTGTCACGCCCCCAAACCTGCAAACCCAGCAGGGGC
+GGGGGCTGGCGGGGTGTTGGAAAAATCCATCCATGATTATCTAAGAATAATCCACTAGGCGCGGTTATCAGCGCCCTT
+GTGGGGCGCTGCTGCCCTTGCCCAATATGCCCGGCCAGAGGCCGGATAGCTGGTCTATTCGCTGCGCTAGGCTACACA
+CCGCCCCACCGCTGCGCGGCAGGGGGAAAGGCGGGCAAAGCCCGCTAAACCCCACACCAAACCCCGCAGAAATACGCT
+GGAGCGCTTTTAGCCGCTTTAGCGGCCTTTCCCCCTACCCGAAGGGTGGGGGCGCGTGTGCAGCCCCGCAGGGCCTGT
+CTCGGTCGATCATTCAGCCCGGCTCATCCTTCTGGCGTGGCGGCAGACCGAACAAGGCGCGGTCGTGGTCGCGTTCAA
+GGTACGCATCCATTGCCGCCATGAGCCGATCCTCCGGCCACTCGCTGCTGTTCACCTTGGCCAAAATCATGGCCCCCA
+CCAGCACCTTGCGCCTTGTTTCGTTCTTGCGCTCTTGCTGCTGTTCCCTTGCCCGCACCCGCTGAATTTCGGCATTGA
+TTCGCGCTCGTTGTTCTTCGAGCTTGGCCAGCCGATCCGCCGCCTTGTTGCTCCCCTTAACCATCTTGACACCCCATT
+GTTAATGTGCTGTCTCGTAGGCTATCATGGAGGCACAGCGGCGGCAATCCCGACCCTACTTTGTAGGGGAGGGCGCAC
+TTACCGGTTTCTCTTCGAGAAACTGGCCTAACGGCCACCCTTCGGGCGGTGCGCTCTCCGAGGGCCATTGCATGGAGC
+CGAAAAGCAAAAGCAACAGCGAGGCAGCATGGCGATTTATCACCTTACGGCGAAAACCGGCAGCAGGTCGGGCGGCCA
+ATCGGCCAGGGCCAAGGCCGACTACATCCAGCGCGAAGGCAAGTATGCCCGCGACATGGATGAAGTCTTGCACGCCGA
+ATCCGGGCACATGCCGGAGTTCGTCGAGCGGCCCGCCGACTACTGGGATGCTGCCGACCTGTATGAACGCGCCAATGG
+GCGGCTGTTCAAGGAGGTCGAATTTGCCCTGCCGGTCGAGCTGACCCTCGACCAGCAGAAGGCGCTGGCGTCCGAGTT
+CGCCCAGCACCTGACCGGTGCCGAGCGCCTGCCGTATACGCTGGCCATCCATGCCGGTGGCGGCGAGAACCCGCACTG
+CCACCTGATGATCTCCGAGCGGATCAATGACGGCATCGAGCGGCCCGCCGCTCAGTGGTTCAAGCGGTACAACGGCAA
+GACCCCGGAGAAGGGCGGGGCACAGAAGACCGAAGCGCTCAAGCCCAAGGCATGGCTTGAGCAGACCCGCGAGGCATG
+GGCCGACCATGCCAACCGGGCATTAGAGCGGGCTGGCCACGACGCCCGCATTGACCACAGAACACTTGAGGCGCAGGG
+CATCGAGCGCCTGCCCGGTGTTCACCTGGGGCCGAACGTGGTGGAGATGGAAGGCCGGGGCATCCGCACCGACCGGGC
+AGACGTGGCCCTGAACATCGACACCGCCAACGCCCAGATCATCGACTTACAGGAATACCGGGAGGCAATAGACCATGA
+ACGCAATCGACAGAGTGAAGAAATCCAGAGGCATCAACGAGTTAGCGGAGCAGATCGAACCGCTGGCCCAGAGCATGG
+CGACACTGGCCGACGAAGCCCGGCAGGTCATGAGCCAGACCCAGCAGGCCAGCGAGGCGCAGGCGGCGGAGTGGCTGA
+AAGCCCAGCGCCAGACAGGGGCGGCATGGGTGGAGCTGGCCAAAGAGTTGCGGGAGGTAGCCGCCGAGGTGAGCAGCG
+CCGCGCAGAGCGCCCGGAGCGCGTCGCGGGGGTGGCACTGGAAGCTATGGCTAACCGTGATGCTGGCTTCCATGATGC
+CTACGGTGGTGCTGCTGATCGCATCGTTGCTCTTGCTCGACCTGACGCCACTGACAACCGAGGACGGCTCGATCTGGC
+TGCGCTTGGTGGCCCGATGAAGAACGACAGGACTTTGCAGGCCATAGGCCGACAGCTCAAGGCCATGGGCTGTGAGCG
+CTTCGATATCGGCGTCAGGGACGCCACCACCGGCCAGATGATGAACCGGGAATGGTCAGCCGCCGAAGTGCTCCAGAA
+CACGCCATGGCTCAAGCGGATGAATGCCCAGGGCAATGACGTGTATATCAGGCCCGCCGAGCAGGAGCGGCATGGTCT
+GGTGCTGGTGGACGACCTCAGCGAGTTTGACCTGGATGACATGAAAGCCGAGGGCCGGGAGCCTGCCCTGGTAGTGGA
+AACCAGCCCGAAGAACTATCAGGCATGGGTCAAGGTGGCCGACGCCGCAGGCGGTGAACTTCGGGGGCAGATTGCCCG
+GACGCTGGCCAGCGAGTACGACGCCGACCCGGCCAGCGCCGACAGCCGCCACTATGGCCGCTTGGCGGGCTTCACCAA
+CCGCAAGGACAAGCACACCACCCGCGCCGGTTATCAGCCGTGGGTGCTGCTGCGTGAATCCAAGGGCAAGACCGCCAC
+CGCTGGCCCGGCGCTGGTGCAGCAGGCTGGCCAGCAGATCGAGCAGGCCCAGCGGCAGCAGGAGAAGGCCCGCAGGCT
+GGCCAGCCTCGAACTGCCCGAGCGGCAGCTTAGCCGCCACCGGCGCACGGCGCTGGACGAGTACCGCAGCGAGATGGC
+CGGGCTGGTCAAGCGCTTCGGTGATGACCTCAGCAAGTGCGACTTTATCGCCGCGCAGAAGCTGGCCAGCCGGGGCCG
+CAGTGCCGAGGAAATCGGCAAGGCCATGGCCGAGGCCAGCCCAGCGCTGGCAGAGCGCAAGCCCGGCCACGAAGCGGA
+TTACATCGAGCGCACCGTCAGCAAGGTCATGGGTCTGCCCAGCGTCCAGCTTGCGCGGGCCGAGCTGGCACGGGCACC
+GGCACCCCGCCAGCGAGGCATGGACAGGGGCGGGCCAGATTTCAGCATGTAGTGCTTGCGTTGGTACTCACGCCTGTT
+ATACTATGAGTACTCACGCACAGAAGGGGGTTTTATGGAATACGAAAAAAGCGCTTCAGGGTCGGTCTACCTGATCAA
+AAGTGACAAGGGCTATTGGTTGCCCGGTGGCTTTGGTTATACGTCAAACAAGGCCGAGGCTGGCCGCTTTTCAGTCGC
+TGATATGGCCAGCCTTAACCTTGACGGCTGCACCTTGTCCTTGTTCCGCGAAGACAAGCCTTTCGGCCCCGGCAAGTT
+TCTCGGTGACTGATATGAAAGACCAAAAGGACAAGCAGACCGGCGACCTGCTGGCCAGCCCTGACGCTGTACGCCAAG
+CGCGATATGCCGAGCGCATGAAGGCCAAAGGGATGCGTCAGCGCAAGTTCTGGCTGACCGACGACGAATACGAGGCGC
+TGCGCGAGTGCCTGGAAGAACTCAGAGCGGCGCAGGGCGGGGGTAGTGACCCCGCCAGCGCCTAACCACCAACTGCCT
+GCAAAGGAGGCAATCAATGGCTACCCATAAGCCTATCAATATTCTGGAGGCGTTCGCAGCAGCGCCGCCACCGCTGGA
+CTACGTTTTGCCCAACATGGTGGCCGGTACGGTCGGGGCGCTGGTGTCGCCCGGTGGTGCCGGTAAATCCATGCTGGC
+CCTGCAACTGGCCGCACAGATTGCAGGCGGGCCGGATCTGCTGGAGGTGGGCGAACTGCCCACCGGCCCGGTGATCTA
+CCTGCCCGCCGAAGACCCGCCCACCGCCATTCATCACCGCCTGCACGCCCTTGGGGCGCACCTCAGCGCCGAGGAACG
+GCAAGCCGTGGCTGACGGCCTGCTGATCCAGCCGCTGATCGGCAGCCTGCCCAACATCATGGCCCCGGAGTGGTTCGA
+CGGCCTCAAGCGCGCCGCCGAGGGCCGCCGCCTGATGGTGCTGGACACGCTGCGCCGGTTCCACATCGAGGAAGAAAA
+CGCCAGCGGCCCCATGGCCCAGGTCATCGGTCGCATGGAGGCCATCGCCGCCGATACCGGGTGCTCTATCGTGTTCCT
+GCACCATGCCAGCAAGGGCGCGGCCATGATGGGCGCAGGCGACCAGCAGCAGGCCAGCCGGGGCAGCTCGGTACTGGT
+CGATAACATCCGCTGGCAGTCCTACCTGTCGAGCATGACCAGCGCCGAGGCCGAGGAATGGGGTGTGGACGACGACCA
+GCGCCGGTTCTTCGTCCGCTTCGGTGTGAGCAAGGCCAACTATGGCGCACCGTTCGCTGATCGGTGGTTCAGGCGGCA
+TGACGGCGGGGTGCTCAAGCCCGCCGTGCTGGAGAGGCAGCGCAAGAGCAAGGGGGTGCCCCGTGGTGAAGCCTAAGA
+ACAAGCACAGCCTCAGCCACGTCCGGCACGACCCGGCGCACTGTCTGGCCCCCGGCCTGTTCCGTGCCCTCAAGCGGG
+GCGAGCGCAAGCGCAGCAAGCTGGACGTGACGTATGACTACGGCGACGGCAAGCGGATCGAGTTCAGCGGCCCGGAGC
+CGCTGGGCGCTGATGATCTGCGCATCCTGCAAGGGCTGGTGGCCATGGCTGGGCCTAATGGCCTAGTGCTTGGCCCGG
+AACCCAAGACCGAAGGCGGACGGCAGCTCCGGCTGTTCCTGGAACCCAAGTGGGAGGCCGTCACCGCTGATGCCATGG
+TGGTCAAAGGTAGCTATCGGGCGCTGGCAAAGGAAATCGGGGCAGAGGTCGATAGTGGTGGGGCGCTCAAGCACATAC
+AGGACTGCATCGAGCGCCTTTGGAAGGTATCCATCATCGCCCAGAATGGCCGCAAGCGGCAGGGGTTTCGGCTGCTGT
+CGGAGTACGCCAGCGACGAGGCGGACGGGCGCCTGTACGTGGCCCTGAACCCCTTGATCGCGCAGGCCGTCATGGGTG
+GCGGCCAGCATGTGCGCATCAGCATGGACGAGGTGCGGGCGCTGGACAGCGAAACCGCCCGCCTGCTGCACCAGCGGC
+TGTGTGGCTGGATCGACCCCGGCAAAACCGGCAAGGCTTCCATAGATACCTTGTGCGGCTATGTCTGGCCGTCAGAGG
+CCAGTGGTTCGACCATGCGCAAGCGCCGCCAGCGGGTGCGCGAGGCGTTGCCGGAGCTGGTCGCGCTGGGCTGGACGG
+TAACCGAGTTCGCGGCGGGCAAGTACGACATCACCCGGCCCAAGGCGGCAGGCTGACCCCCCTGTTTAGGGGTCGTCT
+CAGAATTCGGAAAATAAAGCACGCTAGCGGTTGATCTGTCAGGTTGAAGCCTGAGAGGCCGAGCGCAGATCGTCAGAA
+AAGGCGAAAAACGATCCTAATCTGACGCAACATAGGTGGGGTGCCTGACGCCCGGTTGAGGCGTACTTCAACTGGACA
+CCATTCCAGAAAGACCAAGCATGGCATGGCCTGCCGCTGTCTTACCGTGCTTTATTTCCCGTTTTCTCTATCGACCCC
+AACGAGCTTGATCTCGATGTCGAGGCCGACCTTTGTGAGAAACTCCACGATGATGCGGAGCATCTTTTCCGTACACTG
+TCCTCGAGACTGGATGCATTACAGGATGGTTACTGATGGCCAGAGTGTCTATTAGTGAGGCTGCCCGACTGACGGGTA
+AGAGTAGAACAACACTGCACAGGTTAATTAAAGAAGGTGACCTGTCCACCTGTAGCGGTGAGCGTAATGCAAAAATGG
+TAGATACTTCAGAGCTTTTACGTGTCTTTGGTCCCTTTGAGCAACCGAAGGGTGAACACCATTCTGGACAGGTCTCTG
+AACAGCGTGATACAGCCTCTGCTGACCAGGGTGAACAGGTGATTCGTCATCTGAAACAGGAGATTGAACACCTGAATA
+CCTTACTTTTGTCCAAGGATTCGCACATTGACAGCCTGAAACAGGCCATGCTCCTTCTTGAAAATCACCAGGCAAAAT
+TAACTGAATCCCCGGCGCCATGGTGGAAATTCTGGAAAAAATCCTGACCGCGTCATGCTTCAGTTTTCCTCTCCGGTC
+ATTCCGGGGAGTTCCTGAACCTTCCCAAAAATCGCCAGATCTCTGAGCACTCCTCACCACGAAAAATACCCACACCCC
+ACGCAAAATTAAAATTTTGCAGATAGACCTTTAGTTTCAATTAGTTATCTATTGTAAATTACGCAATTTTATTTTTTG
+TAAGGTGAATCCGAGTCGTGGGCGACTCTATGGCGAATCGCTGACGAATTGCCCACGATTCATATGTGAATCACGCTT
+TATTATCATATGGTTATGATGAATTGACTCTTGATTCAATTCATCACTTTGGGTGTTTTTTGTTCATGGTGACTCTTG
+ATTCAATTCACGAGTCGAATCGCCGGTGAATCGTGTGGTGAGTCGTCCGGCGACTTGCCATAACGTGATTGCCGGCCG
+TCGACGAACCCGATTCCTGAACGTGCTGAAAACGGGTTTTCCGGCTGCGCCGGCAACGGCTCACGACCACGCAATAAA
+TTGCGTCCCCGTTCACCGTTTTCGGATGGAAAGAACGCCGGAAACAGGACTTACCCTGGCTGAATGGCGTGAATTTTC
+GCGCTATGCACTTGCGTGCATACTCATGCATGCCGTAAAAACAGAGCCTGCGCGTTTCTGGCGGGTTTTCGGGTGGTT
+TGTTGCCTGTTTTACCGGTTTCCCGTCAGAAACGCCATGAGGCCGTTTTAGCGGTGCGTACAATTATGACTTTATGTT
+AAATCATTAGGGAGGGGATTCTGCTGGAACTTAGTGGATGTTATTGCATATCAGACAAATTTCGGCAGATTTCCCAAG
+TTATCGAGTTTAGTTTTGTTTGGATCTGTGGTTATGTAGCCATCGTTCATCGCTTCCACTTTGGCTCCTAGGTTCCAC
+TTACCAGTAGAGCTGTTCTTTACAACTGTCATAAAGCTGGCTTTTCCCATGCTGATCAGCTCGCTGATGAATTTGCGA
+GAGCTGATTGAGCCGGCAGTGTTCCATGAGCCATCTCGGTTTATTTTATGAACTTTTACGAATTCGATGTGCTGACCA
+GCACTGTCCATTTTGATTGCTGAGATATAGAAATCTACCATGGTTGCCTCCTGATGGCTGCTGGGTGTTTTACGTAAC
+AAAAGCCCGCGTTCTGCGGGCTTTTTTCATGGAAACATTGGATGCAAGTGTTCCAGCTCTGCCGCTAAAGATTTGCGA
+CTTTTTGACAGGCTGAATTGGGTCTGCATGTTTACCCACGACTCTGCAGAGCGGCCTACGACCTTCGACAATCTAAGT
+GCCATTTCATAGCTTAAGTCTGTTTTCCCATTTAACAGTCTACTTAAGGTAGACTGGGATACATCAAGTTTATCGGCT
+AACTCTGCGGCAGGTATTTCGAACGGTTCCATGAACATTTCTCTGATAAACTCACCAGGATGAACAGGATCGTAAAGA
+TTTATCATGCCTTCCTCTGTTTGTTTTGTATTTGATTATACAAAAAAAATTACTGCCTTTCAGTATGCGCATTGCACA
+ATGTGCAAGTTCATGATATTGACAAAAAAAGCAGTCAGCTTTAGGATACTCGTTGGAGTCAAAGCTACTGCGTATGTA
+TGGGCTTTTATGGCCTTTTCAAGGCGCAGTATTTTACCCTTAGGATTCGTTGAAGTCAAATGAGGTGATTGACCTCAA
+GAACAAACTTACGTCAATTGTTTTAATAAAGCAAGGGGGCAAAATGGAACTAATTAAAATGATTTTAAAATATAGATA
+CAGGTATAGACGAAAAAAATATGGGGATTGTAGATGATAAAAAACATAAAACATAAAGGACTTAGGAGCTTTGCTGAA
+GAAGGTAGCACCGCCGGTATTCAGCCCAGTATGGCGAAAAGACTTCGCATGATTTTGACTACGCTAAGCACAGCAACT
+TGCATTCAAGACGTTGTTGACGTTAGGGCGTTAGGGTGCCACCCCCTAAAGGGGGAGCGTAAAGGCGAGTATTCCGTT
+GAAGTTAATGGGAACTGGCGGGTAGTTTTCAAGGTTGAGGAACCAAACGTCTTAGACGTTGATCTTGAAGATTATCAT
+TAGTTATCAATAAGTAAGTTGCTAATCCATCCAAGTGAAAGTACGGATGGATTAGGGACTTTATTAAAAAAGTAACCT
+CTGGAGAAAGTATGAGATCCTTTATGGTTTTATTGTTCCCGTTGATTAGCGTAACTATTGCTGGAGTCCTAGCTTTTC
+GTGGTATTGATGGCTGGGGATGGTTCTTGTTAGCTGCTGTACTTTGTGCAGGGGCTGATACTGTCCAGAAGCATGTGT
+CTACCAATAAAAAGGAGCCTGCTGGTGAGTGAGCTGTCTTGGTTCTTCCTTGACTGCTTTGAATGATAAAGCGTATCT
+TACTCGCCGAGACGAAAAAACCGCCTGGGGAGGCGGTTTTTTCGAGGGTTCAGTAAGTTGGGGAACTTCTGAACCGTG
+GTAACAGGGTGTACAAGACCGCTGAAACCAAATTCTGTCCTTTCAGTTTAGCCGTAGTTGGGCTGAGACTTCAAGAAC
+TCTGTATCAGTAATCTCTTGTACACCTTCTTACCAGTGGCTGCTGCCAGTGGCGCTTGTGCGTGTCTTACCGGGTTGG
+ACTCAAGATGATAGTTACCGGATAAGGTGCAGCAGTCGGACTGAACGGGGGGTTCGTGCATACAGTCCAGCTTGGAGC
+GAACTGCCTACCCGGAACTGAGTGTCTGGCGTGGAATGAGATAAACGCGGCCATAACAGCGGAATGACACCGGTAAAC
+CGAAAGGCAGGAACAGGAGAGCGCACGAGGGAGCCATCAGGGGGAAACTCCTGATATCTTTATAGTCCTGTCGGGTTT
+CGCCACCACTGATTTGAGCGTCCGTTTCTGTGATGCTTGTCAGGGGGGCGGAGCCTATGGAAAAACGGCCGCTTTGCG
+GCCTTTCCTTTTCCCCGCTACGCGACCGCTCGGTTTTCTCGAGCTTTTACACGCATGCTCCTGCCGCTCGCCGCAGCC
+GAACGGCAGGAGCATAGCGACTGAGTGAGCGAGGAAGCGGAAAAGAGAACATCCCTACACTGAGCACTGACGCTCTGA
+GGCCTCTTATGACGAAACAACAGAAAACAGCGCTGAACATGGCTAAATTCATCCAGAATCAGTCTCTGCTCCTGCTGG
+AGAAGCTTAACGAGGGGTCGTCTCAGAATTCGGAAAATAAAGCACGCTAGCGGTTGATCTGTCAGGTTGAAGCCTGAG
+AGGCCGAGCGCAGATCGTCAGAAAAGGCGAAAAACGATCCTAATCTGACGCAACATAGGTGGGGTGCCTGACGCCCGG
+TTGAGGCGTACTTCAACTGGACACCATTCCAGAAAGACCAAGCATGGCATGGCCTGCCGCTGTCTTACCGTGCTTTAT
+TTCCCGTTTTCTCTATCGACCCCAGGAAGGTCTGAAAAAGCCCCCGCTCGAGAAATGCATCCCAGCAACCATGCGGGT
+TACAGAGCGGTGATTTCGCGAAACATGGGCTTTTTCAGAGCTTCCTTAGCGTTACGATAAAGCTAGCATGGAAACGAT
+AGGTGCAAGCAAGTTAAGGGTTGCATCGCGCATGTCAATCTAGGCTATACCTCAACTGGGCGTCAGTCGGCTCACTGG
+CATCGCGTCAGACTAGGGCCGCTTTCTGCATTATCTGACGCCTAAACGTCAAACTCTATGGCCTCAACCTGACAGGCC
+GCATGCTTAGCGTACGATTTTGTCCGTTTTCTCTACCGTCCCCCATATAGGCCTCCCTGCCTTACGGGCATTTAGTAA
+CATTTTTGCAACCGTCCGAAATGTTATAAATTATCAGACATAGTAAAACGGCTTCGTTTGAGTGTCCATTAAATCGTC
+ATTTTGGCATAATAGACACATCGTGTCTGATATTCGATTTAAGGTACATTTTATGCGAATTTTTGGTTATGCGCGGGT
+CTCAACCAGCCAGCAGTCCCTCGATATTCAGATCAGAGCGCTCAAAGATGCAGGGGTAAAAGCTAACCGCATCTTTAC
+CGACAAGGCATCCGGCAGTTCAACAGATCGGGAAGGGCTGGATTTGCTGAGGATGAAGGTGGAGGAAGGTGATGTCAT
+TCTGGTGAAGAAGCTCGACCGTCTTGGCCGCGACACCGCCGACATGATCCAACTGATAAAAGAGTTTGATGCTCAGGG
+TGTCGCGGTTCGGTTTATTGACGACGGGATCAGTACCGACGGTGATATGGGGCAAATGGTGGTCACCATCCTGTCGGC
+TGTGGCACAAGCTGAACGCCGGAGGATCCTAGAGCGCACGAATGAGGGCCGACAGGAAGCAAAGCTGAAAGGAATCAA
+ATTTGGCCGCAGGCGTACCGTGGACAGGAACGTCGTGCTGACGCTTCATCAGAAGGGCACTGGTGCAACGGAAATTGC
+TCATCAGCTCAGTATTGCCCGCTCCACGGTTTATAAAATTCTTGAAGACGAAAGGGCCTCGTGATACGCCTATTTTTA
+TAGGTTAATGTCATGATAATAATGGTTTCTTAGACGTCAGGTGGCACTTTTCGGGGAAATGTGCGCGGAACCCCTATT
+TGTTTATTTTTCTAAATACATTCAAATATGTATCCGCTCATGAGACAATAACCCTGATAAATGCTTCAATAATATTGA
+AAAAGGAAGAGTATGAGTATTCAACATTTCCGTTGAGTTTTCGTTCCACTGAGCGTCAGACCCCTAATCCCAGCTGTA
+GCGGCCTGATTACATCCGGCCGCTACACCTAGCTCCACCTTCAAACAAGGAATATCGTTGATGTCACTGTATCGCCGT
+CTAGTTCTGCTGTCTTGTCTCTCATGGCCGCTGGCTGGCTTTTCTGCCACCGCGCTGACCAACCTCGTCGCGGAACCA
+TTCGCTAAACTCGAACAGGACTTTGGCGGCTCCATCGGTGTGTACGCGATGGATACCGGCTCAGGCGCAACTGTAAGT
+TACCGCGCTGAGGAGCGCTTCCCACTGTGCAGCTCATTCAAGGGCTTTCTTGCTGCCGCTGTGCTGGCTCGCAGCCAG
+CAGCAGGCCGGCTTGCTGGACACACCCATCCGTTACGGCAAAAATGCGCTGGTTCCGTGGTCACCCATCTCGGAAAAA
+TATCTGACAACAGGCATGACGGTGGCGGAGCTGTCCGCGGCCGCCGTGCAATACAGTGATAACGCCGCCGCCAATTTG
+TTGCTGAAGGAGTTGGGCGGCCCGGCCGGGCTGACGGCCTTCATGCGCTCTATCGGCGATACCACGTTCCGTCTGGAC
+CGCTGGGAGCTGGAGCTGAACTCCGCCATCCCAGGCGATGCGCGCGATACCTCATCGCCGCGCGCCGTGACGGAAAGC
+TTACAAAAACTGACACTGGGCTCTGCACTGGCTGCGCCGCAGCGGCAGCAGTTTGTTGATTGGCTAAAGGGAAACACG
+ACCGGCAACCACCGCATCCGCGCGGCGGTGCCGGCAGACTGGGCAGTCGGAGACAAAACCGGAACCTGCGGAGTGTAT
+GGCACGGCAAATGACTATGCCGTCGTCTGGCCCACTGGGCGCGCACCTATTGTGTTGGCCGTCTACACCCGGGCGCCT
+AACAAGGATGACAAGCACAGCGAGGCCGTCATCGCCGCTGCGGCTAGACTCGCGCTCGAGGGATTGGGCGTCAACGGG
+CAGTAAGGCTCTGAAAATCATCTATTGGCCCACCACCGCCGCCCTTGCGGGCGGCATGGATTACCAACCACTGTCACA
+TTTAGGCTAGGAGTCTGCGCGGCAGAGCCGTGTGACCGGTTTTCTGTAGAGCACTGACGATGGCGGCGGCGCTCTCTG
+CAATTGGCAAGGCGTCGGCGCCAAGGATACCAATCTTGCGGCGCGCGGCGTGTTATGACGACTGGGGTGCATTTGAGC
+CGCCCCATTTAACCTTCGCCCTCACAGATACGCCATTCGCCTCAGATTTAGCGCCATGCAGACGAGCTTCCACTCGGC
+TTGCACCTTGTCCAGGCCCCTCATGCTGAACTGACGCAATCCCATCACCGCCTTGATCCAACCATTCGGAGCCTCCAC
+GATCGACTTGCGCCGGCGGTAAGCTGCATCGCCTTGCTCCGTTTTCAATTTCGCCGCAATCGCCGCCGTATGCGGATG
+GGTCTTGGCATTGACCTTGGCATCTTCACGTCCCTCGCGGCCGAGGGCAACGATGACATCGCCGTGGTGATCGGCGAC
+CTTTGCCAGAACAGCCTCACTACGGAATCCCGCATCCGCCAGCGTCTGGGCCGGCATTTCTCCGGTGTTGGCCTGAAC
+TGCTGCCAGCATGCCCAGCAGCGCCTGACTGTCCGCGGCGCAGTTGGTCAACTCCGCCGCCACGATGATCTGGTGCTC
+GGCATCGACCGCTGTGTACCCGTTGTAGCTCTGCTCGGAGCCACCACCGGCGTGTTTCATGATCCGGCTGTCCGGATC
+GGTGAAGCTTTCCTGATCACGGTCATCCGGCACACCAAACTCGCGTTTGTACGAGCCACCGCCCTTGTCCGAGCCATC
+CGGATGGCGAGGCCGGCGGCCATCGTCTTCGCTGCGCCCCCGGGCCTGGTCCGCTTCACGCTGGCGCGCTTCCAGGCG
+CGCCTTTGCCGCCTGGATCGCCTCCAGGCGCTTCTCGCGGCGAGAAATCTCGGCAGGAATGTCCAGCTCCGGCTCGTT
+ACGCTCCTGGTCGTCGGTAGCCTTGGCGCGATCAAGCAGCGCCTTGATCTCGCAATGCAATTCGTCCTCGGCCGGCTT
+CATGCGCTTATAGCTCATCGCCTTGTGGTCGCCATGTTTGGCGGCTTCGTATTCAGGTTCTTTAGAGAGATCCTTT" } } ,
+        seq {
+          id {
+            local
+              str "MH595533.1_1" } ,
+          descr {
+            title "hypothetical protein OLOMKOJI_00001 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 48 ,
+            seq-data
+              ncbieaa "MTDPLKALFGKPDYSHIVRDTTATISITAAEMAAKWPLRGCTPPPPFG" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 18 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 47 ,
+                        id
+                          local
+                            str "MH595533.1_1" } } } } } } ,
+        seq {
+          id {
+            local
+              str "MH595533.1_2" } ,
+          descr {
+            title "Aminoglycoside 3'-phosphotransferase [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 259 ,
+            seq-data
+              ncbieaa "MELPNIIQQFIGNSVLEPNKIGQSPSDVYSFNRNNETFFLKRSSTLYTATTYSVS
+REAKMLSWLSEKLKVPELIMTFQDEQFEFMITKAINAKPISALFLTDQELLAIYKEVLNLLNSIAIIDCPFISNIDHR
+LKESKFFIDNQLLDDIDQDDFDAELWGDHKTYLSLWNELNETRVEERLVFSHGDITDSNIFIDKFNEIYFLDLGRAGL
+ADEFVDISFVERCLREDASEETAKIFLKHLKNDRPDKRNYFLKLDELN" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 19 ,
+                    data
+                      prot {
+                        name {
+                          "Aminoglycoside 3'-phosphotransferase" } ,
+                        ec {
+                          "2.7.1.95" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 258 ,
+                        id
+                          local
+                            str "MH595533.1_2" } } } } } } ,
+        seq {
+          id {
+            local
+              str "MH595533.1_3" } ,
+          descr {
+            title "hypothetical protein OLOMKOJI_00003 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 35 ,
+            seq-data
+              ncbieaa "MILIWFTVAKIGVKNNRKIEVPLLDIASQCPSLPY" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 20 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 34 ,
+                        id
+                          local
+                            str "MH595533.1_3" } } } } } } ,
+        seq {
+          id {
+            local
+              str "MH595533.1_4" } ,
+          descr {
+            title "hypothetical protein OLOMKOJI_00004 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 94 ,
+            seq-data
+              ncbieaa "MVKGSNKAADRLAKLEEQRARINAEIQRVRAREQQQERKNETRRKVLVGAMILAK
+VNSSEWPEDRLMAAMDAYLERDHDRALFGLPPRQKDEPG" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 21 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 93 ,
+                        id
+                          local
+                            str "MH595533.1_4" } } } } } } ,
+        seq {
+          id {
+            local
+              str "MH595533.1_5" } ,
+          descr {
+            title "Mobilization protein A [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 709 ,
+            seq-data
+              ncbieaa "MAIYHLTAKTGSRSGGQSARAKADYIQREGKYARDMDEVLHAESGHMPEFVERPA
+DYWDAADLYERANGRLFKEVEFALPVELTLDQQKALASEFAQHLTGAERLPYTLAIHAGGGENPHCHLMISERINDGI
+ERPAAQWFKRYNGKTPEKGGAQKTEALKPKAWLEQTREAWADHANRALERAGHDARIDHRTLEAQGIERLPGVHLGPN
+VVEMEGRGIRTDRADVALNIDTANAQIIDLQEYREAIDHERNRQSEEIQRHQRVSGADRTAGPEHGDTGRRSPAGHEP
+DPAGQRGAGGGVAESPAPDRGGMGGAGQRVAGGSRRGEQRRAERPERVAGVALEAMANRDAGFHDAYGGAADRIVALA
+RPDATDNRGRLDLAALGGPMKNDRTLQAIGRQLKAMGCERFDIGVRDATTGQMMNREWSAAEVLQNTPWLKRMNAQGN
+DVYIRPAEQERHGLVLVDDLSEFDLDDMKAEGREPALVVETSPKNYQAWVKVADAAGGELRGQIARTLASEYDADPAS
+ADSRHYGRLAGFTNRKDKHTTRAGYQPWVLLRESKGKTATAGPALVQQAGQQIEQAQRQQEKARRLASLELPERQLSR
+HRRTALDEYRSEMAGLVKRFGDDLSKCDFIAAQKLASRGRSAEEIGKAMAEASPALAERKPGHEADYIERTVSKVMGL
+PSVQLARAELARAPAPRQRGMDRGGPDFSM" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 22 ,
+                    data
+                      prot {
+                        name {
+                          "Mobilization protein A" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 708 ,
+                        id
+                          local
+                            str "MH595533.1_5" } } } } } } ,
+        seq {
+          id {
+            local
+              str "MH595533.1_6" } ,
+          descr {
+            title "hypothetical protein OLOMKOJI_00006 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 70 ,
+            seq-data
+              ncbieaa "MEYEKSASGSVYLIKSDKGYWLPGGFGYTSNKAEAGRFSVADMASLNLDGCTLSL
+FREDKPFGPGKFLGD" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 23 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 69 ,
+                        id
+                          local
+                            str "MH595533.1_6" } } } } } } ,
+        seq {
+          id {
+            local
+              str "MH595533.1_7" } ,
+          descr {
+            title "hypothetical protein OLOMKOJI_00007 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 68 ,
+            seq-data
+              ncbieaa "MKDQKDKQTGDLLASPDAVRQARYAERMKAKGMRQRKFWLTDDEYEALRECLEEL
+RAAQGGGSDPASA" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 24 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 67 ,
+                        id
+                          local
+                            str "MH595533.1_7" } } } } } } ,
+        seq {
+          id {
+            local
+              str "MH595533.1_8" } ,
+          descr {
+            title "Regulatory protein RepA [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 279 ,
+            seq-data
+              ncbieaa "MATHKPINILEAFAAAPPPLDYVLPNMVAGTVGALVSPGGAGKSMLALQLAAQIA
+GGPDLLEVGELPTGPVIYLPAEDPPTAIHHRLHALGAHLSAEERQAVADGLLIQPLIGSLPNIMAPEWFDGLKRAAEG
+RRLMVLDTLRRFHIEEENASGPMAQVIGRMEAIAADTGCSIVFLHHASKGAAMMGAGDQQQASRGSSVLVDNIRWQSY
+LSSMTSAEAEEWGVDDDQRRFFVRFGVSKANYGAPFADRWFRRHDGGVLKPAVLERQRKSKGVPRGEA" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 25 ,
+                    data
+                      prot {
+                        name {
+                          "Regulatory protein RepA" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 278 ,
+                        id
+                          local
+                            str "MH595533.1_8" } } } } } } ,
+        seq {
+          id {
+            local
+              str "MH595533.1_9" } ,
+          descr {
+            title "hypothetical protein OLOMKOJI_00009 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 283 ,
+            seq-data
+              ncbieaa "MVKPKNKHSLSHVRHDPAHCLAPGLFRALKRGERKRSKLDVTYDYGDGKRIEFSG
+PEPLGADDLRILQGLVAMAGPNGLVLGPEPKTEGGRQLRLFLEPKWEAVTADAMVVKGSYRALAKEIGAEVDSGGALK
+HIQDCIERLWKVSIIAQNGRKRQGFRLLSEYASDEADGRLYVALNPLIAQAVMGGGQHVRISMDEVRALDSETARLLH
+QRLCGWIDPGKTGKASIDTLCGYVWPSEASGSTMRKRRQRVREALPELVALGWTVTEFAAGKYDITRPKAAG" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 26 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 282 ,
+                        id
+                          local
+                            str "MH595533.1_9" } } } } } } ,
+        seq {
+          id {
+            local
+              str "MH595533.1_10" } ,
+          descr {
+            title "hypothetical protein OLOMKOJI_00010 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 133 ,
+            seq-data
+              ncbieaa "MARVSISEAARLTGKSRTTLHRLIKEGDLSTCSGERNAKMVDTSELLRVFGPFEQ
+PKGEHHSGQVSEQRDTASADQGEQVIRHLKQEIEHLNTLLLSKDSHIDSLKQAMLLLENHQAKLTESPAPWWKFWKKS
+" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 27 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 132 ,
+                        id
+                          local
+                            str "MH595533.1_10" } } } } } } ,
+        seq {
+          id {
+            local
+              str "MH595533.1_11" } ,
+          descr {
+            title "hypothetical protein OLOMKOJI_00011 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 100 ,
+            seq-data
+              ncbieaa "MVDFYISAIKMDSAGQHIEFVKVHKINRDGSWNTAGSISSRKFISELISMGKASF
+MTVVKNSSTGKWNLGAKVEAMNDGYITTDPNKTKLDNLGNLPKFV" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 28 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 99 ,
+                        id
+                          local
+                            str "MH595533.1_11" } } } } } } ,
+        seq {
+          id {
+            local
+              str "MH595533.1_12" } ,
+          descr {
+            title "putative HTH-type transcriptional regulator YddM [Genus
+ species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 97 ,
+            seq-data
+              ncbieaa "MINLYDPVHPGEFIREMFMEPFEIPAAELADKLDVSQSTLSRLLNGKTDLSYEMA
+LRLSKVVGRSAESWVNMQTQFSLSKSRKSLAAELEHLHPMFP" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 29 ,
+                    data
+                      prot {
+                        name {
+                          "putative HTH-type transcriptional regulator YddM" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 96 ,
+                        id
+                          local
+                            str "MH595533.1_12" } } } } } } ,
+        seq {
+          id {
+            local
+              str "MH595533.1_13" } ,
+          descr {
+            title "Endoribonuclease HigB [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 93 ,
+            seq-data
+              ncbieaa "MIKNIKHKGLRSFAEEGSTAGIQPSMAKRLRMILTTLSTATCIQDVVDVRALGCH
+PLKGERKGEYSVEVNGNWRVVFKVEEPNVLDVDLEDYH" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 30 ,
+                    data
+                      prot {
+                        name {
+                          "Endoribonuclease HigB" } ,
+                        ec {
+                          "3.1.-.-" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 92 ,
+                        id
+                          local
+                            str "MH595533.1_13" } } } } } } ,
+        seq {
+          id {
+            local
+              str "MH595533.1_14" } ,
+          descr {
+            title "Regulatory protein rop [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 39 ,
+            seq-data
+              ncbieaa "MTKQQKTALNMAKFIQNQSLLLLEKLNEGSSQNSENKAR" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 31 ,
+                    data
+                      prot {
+                        name {
+                          "Regulatory protein rop" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 38 ,
+                        id
+                          local
+                            str "MH595533.1_14" } } } } } } ,
+        seq {
+          id {
+            local
+              str "MH595533.1_15" } ,
+          descr {
+            title "Transposon Tn3 resolvase [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 185 ,
+            seq-data
+              ncbieaa "MRIFGYARVSTSQQSLDIQIRALKDAGVKANRIFTDKASGSSTDREGLDLLRMKV
+EEGDVILVKKLDRLGRDTADMIQLIKEFDAQGVAVRFIDDGISTDGDMGQMVVTILSAVAQAERRRILERTNEGRQEA
+KLKGIKFGRRRTVDRNVVLTLHQKGTGATEIAHQLSIARSTVYKILEDERAS" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 32 ,
+                    data
+                      prot {
+                        name {
+                          "Transposon Tn3 resolvase" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 184 ,
+                        id
+                          local
+                            str "MH595533.1_15" } } } } } } ,
+        seq {
+          id {
+            local
+              str "MH595533.1_16" } ,
+          descr {
+            title "Carbapenem-hydrolyzing beta-lactamase KPC [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 293 ,
+            seq-data
+              ncbieaa "MSLYRRLVLLSCLSWPLAGFSATALTNLVAEPFAKLEQDFGGSIGVYAMDTGSGA
+TVSYRAEERFPLCSSFKGFLAAAVLARSQQQAGLLDTPIRYGKNALVPWSPISEKYLTTGMTVAELSAAAVQYSDNAA
+ANLLLKELGGPAGLTAFMRSIGDTTFRLDRWELELNSAIPGDARDTSSPRAVTESLQKLTLGSALAAPQRQQFVDWLK
+GNTTGNHRIRAAVPADWAVGDKTGTCGVYGTANDYAVVWPTGRAPIVLAVYTRAPNKDDKHSEAVIAAAARLALEGLG
+VNGQ" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 33 ,
+                    data
+                      prot {
+                        name {
+                          "Carbapenem-hydrolyzing beta-lactamase KPC" } ,
+                        ec {
+                          "3.5.2.6" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 292 ,
+                        id
+                          local
+                            str "MH595533.1_16" } } } } } } ,
+        seq {
+          id {
+            local
+              str "MH595533.1_17" } ,
+          descr {
+            title "hypothetical protein OLOMKOJI_00017 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 279 ,
+            seq-data
+              ncbieaa "MKPAEDELHCEIKALLDRAKATDDQERNEPELDIPAEISRREKRLEAIQAAKARL
+EARQREADQARGRSEDDGRRPRHPDGSDKGGGSYKREFGVPDDRDQESFTDPDSRIMKHAGGGSEQSYNGYTAVDAEH
+QIIVAAELTNCAADSQALLGMLAAVQANTGEMPAQTLADAGFRSEAVLAKVADHHGDVIVALGREGREDAKVNAKTHP
+HTAAIAAKLKTEQGDAAYRRRKSIVEAPNGWIKAVMGLRQFSMRGLDKVQAEWKLVCMALNLRRMAYL" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 34 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 278 ,
+                        id
+                          local
+                            str "MH595533.1_17" } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "MH595533.1_1" ,
+                location
+                  int {
+                    from 602 ,
+                    to 748 ,
+                    strand minus ,
+                    id
+                      local
+                        str "MH595533.1" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus-tag "OLOMKOJI_00001" } } } } ,
+              {
+                id
+                  local
+                    id 2 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "MH595533.1_2" ,
+                location
+                  int {
+                    from 1114 ,
+                    to 1893 ,
+                    strand minus ,
+                    id
+                      local
+                        str "MH595533.1" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P0A3Y5" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus "aphA" ,
+                        locus-tag "OLOMKOJI_00002" } } } } ,
+              {
+                id
+                  local
+                    id 3 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "MH595533.1_3" ,
+                location
+                  int {
+                    from 1951 ,
+                    to 2058 ,
+                    strand plus ,
+                    id
+                      local
+                        str "MH595533.1" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus-tag "OLOMKOJI_00003" } } } } ,
+              {
+                id
+                  local
+                    id 4 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "MH595533.1_4" ,
+                location
+                  int {
+                    from 2486 ,
+                    to 2770 ,
+                    strand minus ,
+                    id
+                      local
+                        str "MH595533.1" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus-tag "OLOMKOJI_00004" } } } } ,
+              {
+                id
+                  local
+                    id 5 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "MH595533.1_5" ,
+                location
+                  int {
+                    from 2969 ,
+                    to 5098 ,
+                    strand plus ,
+                    id
+                      local
+                        str "MH595533.1" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P07112" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus "mobA" ,
+                        locus-tag "OLOMKOJI_00005" } } } } ,
+              {
+                id
+                  local
+                    id 6 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "MH595533.1_6" ,
+                location
+                  int {
+                    from 5159 ,
+                    to 5371 ,
+                    strand plus ,
+                    id
+                      local
+                        str "MH595533.1" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus-tag "OLOMKOJI_00006" } } } } ,
+              {
+                id
+                  local
+                    id 7 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "MH595533.1_7" ,
+                location
+                  int {
+                    from 5373 ,
+                    to 5579 ,
+                    strand plus ,
+                    id
+                      local
+                        str "MH595533.1" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus-tag "OLOMKOJI_00007" } } } } ,
+              {
+                id
+                  local
+                    id 8 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "MH595533.1_8" ,
+                location
+                  int {
+                    from 5609 ,
+                    to 6448 ,
+                    strand plus ,
+                    id
+                      local
+                        str "MH595533.1" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P20356" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus "repA" ,
+                        locus-tag "OLOMKOJI_00008" } } } } ,
+              {
+                id
+                  local
+                    id 9 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "MH595533.1_9" ,
+                location
+                  int {
+                    from 6435 ,
+                    to 7286 ,
+                    strand plus ,
+                    id
+                      local
+                        str "MH595533.1" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus-tag "OLOMKOJI_00009" } } } } ,
+              {
+                id
+                  local
+                    id 10 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "MH595533.1_10" ,
+                location
+                  int {
+                    from 7656 ,
+                    to 8057 ,
+                    strand plus ,
+                    id
+                      local
+                        str "MH595533.1" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus-tag "OLOMKOJI_00010" } } } } ,
+              {
+                id
+                  local
+                    id 11 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "MH595533.1_11" ,
+                location
+                  int {
+                    from 8841 ,
+                    to 9143 ,
+                    strand minus ,
+                    id
+                      local
+                        str "MH595533.1" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus-tag "OLOMKOJI_00011" } } } } ,
+              {
+                id
+                  local
+                    id 12 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "MH595533.1_12" ,
+                location
+                  int {
+                    from 9207 ,
+                    to 9500 ,
+                    strand minus ,
+                    id
+                      local
+                        str "MH595533.1" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P67700" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus "yddM" ,
+                        locus-tag "OLOMKOJI_00012" } } } } ,
+              {
+                id
+                  local
+                    id 13 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "MH595533.1_13" ,
+                location
+                  int {
+                    from 9838 ,
+                    to 10119 ,
+                    strand plus ,
+                    id
+                      local
+                        str "MH595533.1" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q7A225" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus "higB" ,
+                        locus-tag "OLOMKOJI_00013" } } } } ,
+              {
+                id
+                  local
+                    id 14 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "MH595533.1_14" ,
+                location
+                  int {
+                    from 11139 ,
+                    to 11258 ,
+                    strand plus ,
+                    id
+                      local
+                        str "MH595533.1" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P03051" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus "rop" ,
+                        locus-tag "OLOMKOJI_00014" } } } } ,
+              {
+                id
+                  local
+                    id 15 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "MH595533.1_15" ,
+                location
+                  int {
+                    from 11963 ,
+                    to 12520 ,
+                    strand plus ,
+                    id
+                      local
+                        str "MH595533.1" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P0ADI2" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus "tnpR" ,
+                        locus-tag "OLOMKOJI_00015" } } } } ,
+              {
+                id
+                  local
+                    id 16 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "MH595533.1_16" ,
+                location
+                  int {
+                    from 12829 ,
+                    to 13710 ,
+                    strand plus ,
+                    id
+                      local
+                        str "MH595533.1" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q9F663" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus "bla" ,
+                        locus-tag "OLOMKOJI_00016" } } } } ,
+              {
+                id
+                  local
+                    id 17 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "MH595533.1_17" ,
+                location
+                  int {
+                    from 13960 ,
+                    to 14799 ,
+                    strand minus ,
+                    id
+                      local
+                        str "MH595533.1" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus-tag "OLOMKOJI_00017" } } } } } } } } } }

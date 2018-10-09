@@ -1,0 +1,21 @@
+##gff-version	3
+MG288681.1	.	thiAdelta1	25949	27253	.	-	.	name=thiAdelta1;description=putative transposase;accession=YP_001551934.1;missmatches=0;evalue=0.0
+MG288681.1	.	intI1	8702	9715	.	-	.	name=intI1;description=intI1;accession=YP_007447591.1;missmatches=0;evalue=0.0
+MG288681.1	.	insD1	32037	33041	.	.	.	name=insD1;description=transposase InsD1 for insertion sequence IS4321R;accession=YP_002894677.1;missmatches=0;evalue=0.0
+MG288681.1	.	tnpA	23582	24562	.	-	.	name=tnpA;description=ISKpn27 transposase;accession=YP_009328786.1;missmatches=0;evalue=0.0
+MG288681.1	.	mph(A)	15903	16824	.	-	.	name=mph(A);description=Mph(A) family macrolide 2'-phosphotransferase;accession=WP_063853854.1;missmatches=2;evalue=0.0
+MG288681.1	.	blaKPC	21881	22762	.	-	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-2;accession=WP_004199234.1;missmatches=0;evalue=0.0
+MG288681.1	.	tnpA	20767	21631	.	.	.	name=tnpA;description=transposase;accession=YP_009328370.1;missmatches=0;evalue=0.0
+MG288681.1	.	blaTEM	5566	6426	.	-	.	name=blaTEM;description=class A broad-spectrum beta-lactamase TEM-1;accession=WP_000027057.1;missmatches=0;evalue=0.0
+MG288681.1	.	sul1	10869	11708	.	.	.	name=sul1;description=sulfonamide-resistant dihydropteroate synthase Sul1;accession=WP_000259031.1;missmatches=0;evalue=0.0
+MG288681.1	.	tnp	12813	13607	.	.	.	name=tnp;description=transposase of IS6100;accession=YP_067849.1;missmatches=0;evalue=0.0
+MG288681.1	.	tnpA	7505	8227	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+MG288681.1	.	tnpA	25198	25920	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+MG288681.1	.	tnpA	16946	17668	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+MG288681.1	.	insAB'	43769	44466	.	.	.	name=insAB';description=IS1 transposase frame shift product;accession=YP_004422908.1;missmatches=8;evalue=0.0
+MG288681.1	.	blaTEM	22857	23426	.	-	.	name=blaTEM;description=inhibitor-resistant class A broad-spectrum beta-lactamase TEM-40;accession=WP_021526512.1;missmatches=1;evalue=0.0
+MG288681.1	.	tnpR	6609	7195	.	-	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_002333311.1;missmatches=7;evalue=0.0
+MG288681.1	.	insB	33622	34125	.	-	.	name=insB;description=InsB transposase;accession=YP_006953205.1;missmatches=0;evalue=0.0
+MG288681.1	.	dfrA25	9871	10344	.	.	.	name=dfrA25;description=trimethoprim-resistant dihydrofolate reductase DfrA25;accession=WP_029391998.1;missmatches=0;evalue=0.0
+MG288681.1	.	tnpR	24685	25143	.	-	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_003108101.1;missmatches=14;evalue=0.0
+MG288681.1	.	qacE	10528	10875	.	.	.	name=qacE;description=quaternary ammonium compound efflux SMR transporter QacE delta 1;accession=WP_000679427.1;missmatches=0;evalue=0.0

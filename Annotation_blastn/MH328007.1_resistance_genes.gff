@@ -1,0 +1,8 @@
+##gff-version	3
+MH328007.1	.	tnpA	12422	15427	.	-	.	name=tnpA;description=Tn3 transposase;accession=YP_008998915.1;missmatches=0;evalue=0.0
+MH328007.1	.	tnpA	22604	24228	.	.	.	name=tnpA;description=transposase for transposon Tn1721;accession=YP_067860.1;missmatches=0;evalue=0.0
+MH328007.1	.	tnpA	1	322	.	.	.	name=tnpA;description=transposase for transposon Tn1721;accession=YP_067860.1;missmatches=0;evalue=6e-169
+MH328007.1	.	tnpA	16270	17250	.	.	.	name=tnpA;description=putative ISKpn8 transposase;accession=YP_008998913.1;missmatches=0;evalue=0.0
+MH328007.1	.	blaKPC	17526	18407	.	.	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-2;accession=WP_004199234.1;missmatches=0;evalue=0.0
+MH328007.1	.	tnpA	18657	19521	.	-	.	name=tnpA;description=transposase;accession=YP_009328370.1;missmatches=0;evalue=0.0
+MH328007.1	.	tnpR	15561	16147	.	.	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_003108101.1;missmatches=30;evalue=0.0

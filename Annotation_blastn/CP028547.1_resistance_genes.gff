@@ -1,0 +1,26 @@
+##gff-version	3
+CP028547.1	.	tnpA	29409	32375	.	.	.	name=tnpA;description=TnpA transposase;accession=YP_006957010.1;missmatches=0;evalue=0.0
+CP028547.1	.	tnpA	65386	68352	.	-	.	name=tnpA;description=transposase;accession=YP_009062675.1;missmatches=1;evalue=0.0
+CP028547.1	.	insD2	64303	65307	.	-	.	name=insD2;description=transposase;accession=YP_006966030.1;missmatches=0;evalue=0.0
+CP028547.1	.	insH	38010	38990	.	-	.	name=insH;description=IS5 transposase;accession=YP_007936898.1;missmatches=11;evalue=0.0
+CP028547.1	.	blaKPC	23747	24628	.	.	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-2;accession=WP_004199234.1;missmatches=0;evalue=0.0
+CP028547.1	.	tnpA	24878	25742	.	-	.	name=tnpA;description=transposase;accession=YP_009328370.1;missmatches=0;evalue=0.0
+CP028547.1	.	blaSHV	32616	33476	.	.	.	name=blaSHV;description=class A extended-spectrum beta-lactamase SHV-12;accession=WP_002904004.1;missmatches=0;evalue=0.0
+CP028547.1	.	blaTEM	9961	10821	.	.	.	name=blaTEM;description=class A broad-spectrum beta-lactamase TEM-1;accession=WP_000027057.1;missmatches=0;evalue=0.0
+CP028547.1	.	rmtB	10991	11746	.	.	.	name=rmtB;description=16S rRNA (guanine(1405)-N(7))-methyltransferase RmtB1;accession=WP_012372818.1;missmatches=0;evalue=0.0
+CP028547.1	.	tnpA	68473	69195	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP028547.1	.	tnpA	8174	8896	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP028547.1	.	tnpA	57506	58228	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP028547.1	.	tnpA	37056	37778	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP028547.1	.	tnpA	59303	60025	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP028547.1	.	tnpA	12196	12918	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP028547.1	.	tnpA	61511	62233	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP028547.1	.	tnpA	6701	7423	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP028547.1	.	tnpA	4445	5167	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP028547.1	.	catA2	60158	60799	.	-	.	name=catA2;description=type A-2 chloramphenicol O-acetyltransferase CatII;accession=WP_001011939.1;missmatches=0;evalue=0.0
+CP028547.1	.	tnpAIS1294	58666	59257	.	-	.	name=tnpAIS1294;description=IS1294 transposase;accession=YP_194845.1;missmatches=0;evalue=0.0
+CP028547.1	.	tnpR	28845	29405	.	.	.	name=tnpR;description=transposon Tn1721 resolvase;accession=YP_067859.1;missmatches=0;evalue=0.0
+CP028547.1	.	tnp	3834	4392	.	-	.	name=tnp;description=transposase;accession=YP_002291083.1;missmatches=2;evalue=0.0
+CP028547.1	.	tnpR	9270	9778	.	.	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_007749277.1;missmatches=0;evalue=0.0
+CP028547.1	.	insB	22918	23421	.	.	.	name=insB;description=InsB transposase;accession=YP_006953205.1;missmatches=0;evalue=0.0
+CP028547.1	.	insAB'	3383	3800	.	.	.	name=insAB';description=IS1 transposase frame shift product;accession=YP_004422908.1;missmatches=7;evalue=0.0

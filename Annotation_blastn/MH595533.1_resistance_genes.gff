@@ -1,0 +1,6 @@
+##gff-version	3
+MH595533.1	.	blaKPC	12830	13711	.	.	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-2;accession=WP_004199234.1;missmatches=0;evalue=0.0
+MH595533.1	.	tnpA	13961	14825	.	-	.	name=tnpA;description=transposase;accession=YP_009328370.1;missmatches=0;evalue=0.0
+MH595533.1	.	aph(3')-VIa	1115	1894	.	-	.	name=aph(3')-VIa;description=aminoglycoside O-phosphotransferase APH(3')-VIa;accession=WP_000422636.1;missmatches=12;evalue=0.0
+MH595533.1	.	tnpR	11935	12521	.	.	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_003108101.1;missmatches=30;evalue=0.0
+MH595533.1	.	IncQ1	5807	6256	.	-	.	name=IncQ1;description=unknown_protein;accession=unknown_accession;missmatches=0;evalue=0.0

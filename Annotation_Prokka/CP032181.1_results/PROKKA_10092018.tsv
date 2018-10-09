@@ -1,0 +1,94 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+ENFFLKBF_00001	CDS	765				hypothetical protein
+ENFFLKBF_00002	CDS	411				hypothetical protein
+ENFFLKBF_00003	CDS	222				hypothetical protein
+ENFFLKBF_00004	CDS	702	yhdJ	2.1.1.72	COG0863	DNA adenine methyltransferase YhdJ
+ENFFLKBF_00005	CDS	336				hypothetical protein
+ENFFLKBF_00006	CDS	234				hypothetical protein
+ENFFLKBF_00007	CDS	933				hypothetical protein
+ENFFLKBF_00008	CDS	231				hypothetical protein
+ENFFLKBF_00009	CDS	981	parM			Plasmid segregation protein ParM
+ENFFLKBF_00010	CDS	432	stbB			Protein StbB
+ENFFLKBF_00011	CDS	606	pinR	3.1.22.-	COG1961	Serine recombinase PinR
+ENFFLKBF_00012	CDS	2898				hypothetical protein
+ENFFLKBF_00013	CDS	621	bin3			Putative transposon Tn552 DNA-invertase bin3
+ENFFLKBF_00014	CDS	360				hypothetical protein
+ENFFLKBF_00015	CDS	360				hypothetical protein
+ENFFLKBF_00016	CDS	213				hypothetical protein
+ENFFLKBF_00017	CDS	1185				hypothetical protein
+ENFFLKBF_00018	CDS	1320				hypothetical protein
+ENFFLKBF_00019	CDS	882	bla	3.5.2.6		Carbapenem-hydrolyzing beta-lactamase KPC
+ENFFLKBF_00020	CDS	780				Insertion sequence IS5376 putative ATP-binding protein
+ENFFLKBF_00021	CDS	1026				hypothetical protein
+ENFFLKBF_00022	CDS	3030				hypothetical protein
+ENFFLKBF_00023	CDS	1716	xerD		COG4974	Tyrosine recombinase XerD
+ENFFLKBF_00024	CDS	156				hypothetical protein
+ENFFLKBF_00025	CDS	993				hypothetical protein
+ENFFLKBF_00026	CDS	162				hypothetical protein
+ENFFLKBF_00027	CDS	612				hypothetical protein
+ENFFLKBF_00028	CDS	354				hypothetical protein
+ENFFLKBF_00029	CDS	1020	repA			Replication initiation protein
+ENFFLKBF_00030	CDS	552	pld	3.1.4.4		Phospholipase D
+ENFFLKBF_00031	CDS	309				hypothetical protein
+ENFFLKBF_00032	CDS	651				hypothetical protein
+ENFFLKBF_00033	CDS	222				hypothetical protein
+ENFFLKBF_00034	CDS	597				hypothetical protein
+ENFFLKBF_00035	CDS	594	finO			Fertility inhibition protein
+ENFFLKBF_00036	CDS	726				hypothetical protein
+ENFFLKBF_00037	CDS	5262	traI			Multifunctional conjugation protein TraI
+ENFFLKBF_00038	CDS	2322	traD			Coupling protein TraD
+ENFFLKBF_00039	CDS	264				hypothetical protein
+ENFFLKBF_00040	CDS	693				hypothetical protein
+ENFFLKBF_00041	CDS	672	traS			Protein TraS
+ENFFLKBF_00042	CDS	2826				hypothetical protein
+ENFFLKBF_00043	CDS	1371				hypothetical protein
+ENFFLKBF_00044	CDS	429				hypothetical protein
+ENFFLKBF_00045	CDS	573				hypothetical protein
+ENFFLKBF_00046	CDS	240	traQ			Protein TraQ
+ENFFLKBF_00047	CDS	753				hypothetical protein
+ENFFLKBF_00048	CDS	327				hypothetical protein
+ENFFLKBF_00049	CDS	228				hypothetical protein
+ENFFLKBF_00050	CDS	282				hypothetical protein
+ENFFLKBF_00051	CDS	1956				hypothetical protein
+ENFFLKBF_00052	CDS	648				hypothetical protein
+ENFFLKBF_00053	CDS	603				hypothetical protein
+ENFFLKBF_00054	CDS	690				hypothetical protein
+ENFFLKBF_00055	CDS	549				hypothetical protein
+ENFFLKBF_00056	CDS	993				hypothetical protein
+ENFFLKBF_00057	CDS	627				hypothetical protein
+ENFFLKBF_00058	CDS	390				hypothetical protein
+ENFFLKBF_00059	CDS	2640	traC			Protein TraC
+ENFFLKBF_00060	CDS	393				hypothetical protein
+ENFFLKBF_00061	CDS	291				hypothetical protein
+ENFFLKBF_00062	CDS	405				hypothetical protein
+ENFFLKBF_00063	CDS	312				hypothetical protein
+ENFFLKBF_00064	CDS	219				hypothetical protein
+ENFFLKBF_00065	CDS	285				hypothetical protein
+ENFFLKBF_00066	CDS	411				hypothetical protein
+ENFFLKBF_00067	CDS	570	traV			Protein TraV
+ENFFLKBF_00068	CDS	597				hypothetical protein
+ENFFLKBF_00069	CDS	1425				hypothetical protein
+ENFFLKBF_00070	CDS	741				hypothetical protein
+ENFFLKBF_00071	CDS	567				hypothetical protein
+ENFFLKBF_00072	CDS	306				hypothetical protein
+ENFFLKBF_00073	CDS	369	traA			Pilin
+ENFFLKBF_00074	CDS	702	traJ			Protein TraJ
+ENFFLKBF_00075	CDS	393	traM			Relaxosome protein TraM
+ENFFLKBF_00076	CDS	480				hypothetical protein
+ENFFLKBF_00077	CDS	789	klcA			Antirestriction protein KlcA
+ENFFLKBF_00078	CDS	147				hypothetical protein
+ENFFLKBF_00079	CDS	348				hypothetical protein
+ENFFLKBF_00080	CDS	381				hypothetical protein
+ENFFLKBF_00081	CDS	177				hypothetical protein
+ENFFLKBF_00082	CDS	414	higA		COG5499	Antitoxin HigA
+ENFFLKBF_00083	CDS	279	higA1		COG1396	Antitoxin HigA1
+ENFFLKBF_00084	CDS	321				hypothetical protein
+ENFFLKBF_00085	CDS	225				hypothetical protein
+ENFFLKBF_00086	CDS	171				hypothetical protein
+ENFFLKBF_00087	CDS	432	psiB			Protein PsiB
+ENFFLKBF_00088	CDS	2004	spo0C		COG1475	Chromosome-partitioning protein Spo0J
+ENFFLKBF_00089	CDS	876				hypothetical protein
+ENFFLKBF_00090	CDS	231				hypothetical protein
+ENFFLKBF_00091	CDS	228				hypothetical protein
+ENFFLKBF_00092	CDS	399				hypothetical protein
+ENFFLKBF_00093	CDS	180				hypothetical protein

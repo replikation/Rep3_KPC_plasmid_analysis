@@ -1,0 +1,452 @@
+>Feature CP030335.1
+556	753	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00001
+			product	hypothetical protein
+800	1177	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00002
+			product	hypothetical protein
+1174	1503	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00003
+			product	hypothetical protein
+1697	3178	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00004
+			product	hypothetical protein
+3556	3203	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00005
+			product	hypothetical protein
+3724	4359	CDS
+			gene	bin3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P20384
+			locus_tag	PJODNPKO_00006
+			product	Putative transposon Tn552 DNA-invertase bin3
+5238	4387	CDS
+			EC_number	3.1.2.12
+			dbxref	COG:COG0627
+			gene	frmB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P51025
+			locus_tag	PJODNPKO_00007
+			product	S-formylglutathione hydrolase FrmB
+5687	5289	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00008
+			product	hypothetical protein
+6838	5729	CDS
+			EC_number	1.1.1.284
+			dbxref	COG:COG1062
+			gene	frmA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P25437
+			locus_tag	PJODNPKO_00009
+			product	S-(hydroxymethyl)glutathione dehydrogenase
+7144	6869	CDS
+			dbxref	COG:COG1937
+			gene	frmR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AAP3
+			locus_tag	PJODNPKO_00010
+			product	Transcriptional repressor FrmR
+7238	7128	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00011
+			product	hypothetical protein
+7833	7387	CDS
+			EC_number	3.1.4.4
+			gene	pld
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q92G53
+			locus_tag	PJODNPKO_00012
+			product	Phospholipase D
+8828	7833	CDS
+			dbxref	COG:COG0630
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RNC7
+			locus_tag	PJODNPKO_00013
+			product	Type IV secretion system protein VirB11
+10030	8870	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P17800
+			locus_tag	PJODNPKO_00014
+			product	Protein virB10
+10914	10030	CDS
+			gene	virB9
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RPX6
+			locus_tag	PJODNPKO_00015
+			product	Type IV secretion system protein virB9
+11623	10925	CDS
+			gene	virB8
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7CEG3
+			locus_tag	PJODNPKO_00016
+			product	Type IV secretion system protein virB8
+12882	11842	CDS
+			gene	virB6
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RPX9
+			locus_tag	PJODNPKO_00017
+			product	Type IV secretion system protein VirB6
+13125	12898	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00018
+			product	hypothetical protein
+13846	13133	CDS
+			gene	virB5
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RPY0
+			locus_tag	PJODNPKO_00019
+			product	Type IV secretion system protein virB5
+16464	13864	CDS
+			gene	virB4
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RPY1
+			locus_tag	PJODNPKO_00020
+			product	Type IV secretion system protein virB4
+16781	16464	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00021
+			product	hypothetical protein
+17124	16831	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00022
+			product	hypothetical protein
+17415	17134	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00023
+			product	hypothetical protein
+18158	17424	CDS
+			gene	virB1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RPY4
+			locus_tag	PJODNPKO_00024
+			product	Type IV secretion system protein virB1
+18267	18572	CDS
+			gene	hvrA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P42505
+			locus_tag	PJODNPKO_00025
+			product	Trans-acting regulatory protein HvrA
+18588	18932	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00026
+			product	hypothetical protein
+18929	19243	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00027
+			product	hypothetical protein
+19279	19590	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00028
+			product	hypothetical protein
+19640	20287	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00029
+			product	hypothetical protein
+20292	20498	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00030
+			product	hypothetical protein
+20775	20509	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00031
+			product	hypothetical protein
+20880	22313	CDS
+			EC_number	2.1.1.37
+			dbxref	COG:COG0270
+			gene	dcm
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AED9
+			locus_tag	PJODNPKO_00032
+			product	DNA-cytosine methyltransferase
+23555	22347	CDS
+			EC_number	3.1.21.4
+			gene	ecoRIIR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P14633
+			locus_tag	PJODNPKO_00033
+			product	Type-2 restriction enzyme EcoRII
+24586	23822	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00034
+			product	hypothetical protein
+24765	25049	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00035
+			product	hypothetical protein
+25689	25216	CDS
+			EC_number	1.5.1.3
+			gene	dhfrI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P00382
+			locus_tag	PJODNPKO_00036
+			product	Dihydrofolate reductase type 1
+25845	26858	CDS
+			dbxref	COG:COG4974
+			gene	xerD_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WF33
+			locus_tag	PJODNPKO_00037
+			product	Tyrosine recombinase XerD
+27251	27820	CDS
+			dbxref	COG:COG1961
+			gene	hin_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P03013
+			locus_tag	PJODNPKO_00038
+			product	DNA-invertase hin
+28188	29966	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00039
+			product	hypothetical protein
+30496	29777	CDS
+			gene	repE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P03856
+			locus_tag	PJODNPKO_00040
+			product	Replication initiation protein
+31056	31397	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00041
+			product	hypothetical protein
+32203	31412	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00042
+			product	hypothetical protein
+33619	32354	CDS
+			dbxref	COG:COG0389
+			gene	umuC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04152
+			locus_tag	PJODNPKO_00043
+			product	Protein UmuC
+34047	33607	CDS
+			EC_number	3.4.21.-
+			dbxref	COG:COG1974
+			gene	umuD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AG11
+			locus_tag	PJODNPKO_00044
+			product	Protein UmuD
+34462	34887	CDS
+			gene	klcA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P52603
+			locus_tag	PJODNPKO_00045
+			product	Antirestriction protein KlcA
+34945	35349	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00046
+			product	hypothetical protein
+35359	35598	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00047
+			product	hypothetical protein
+35671	35826	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00048
+			product	hypothetical protein
+35826	36371	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00049
+			product	hypothetical protein
+36484	36780	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00050
+			product	hypothetical protein
+36777	37136	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00051
+			product	hypothetical protein
+37205	37489	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00052
+			product	hypothetical protein
+37698	38030	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00053
+			product	hypothetical protein
+38508	38615	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00054
+			product	hypothetical protein
+39383	39892	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00055
+			product	hypothetical protein
+40618	40797	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00056
+			product	hypothetical protein
+40852	41172	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00057
+			product	hypothetical protein
+41627	41283	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00058
+			product	hypothetical protein
+42177	41809	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00059
+			product	hypothetical protein
+42895	42179	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00060
+			product	hypothetical protein
+43323	42904	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00061
+			product	hypothetical protein
+43814	44230	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00062
+			product	hypothetical protein
+44232	45761	CDS
+			gene	traD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P09130
+			locus_tag	PJODNPKO_00063
+			product	Coupling protein TraD
+45761	48997	CDS
+			gene	traI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P14565
+			locus_tag	PJODNPKO_00064
+			product	Multifunctional conjugation protein TraI
+48997	49407	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00065
+			product	hypothetical protein
+50762	49371	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00066
+			product	hypothetical protein
+51371	50799	CDS
+			dbxref	COG:COG1961
+			gene	hin_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P03013
+			locus_tag	PJODNPKO_00067
+			product	DNA-invertase hin
+52053	51508	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00068
+			product	hypothetical protein
+52371	52114	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00069
+			product	hypothetical protein
+52533	53147	CDS
+			dbxref	COG:COG1961
+			gene	hin_3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P03013
+			locus_tag	PJODNPKO_00070
+			product	DNA-invertase hin
+54122	53466	CDS
+			dbxref	COG:COG1357
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q87K03
+			locus_tag	PJODNPKO_00071
+			product	Pentapeptide repeat protein
+55331	54627	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00072
+			product	hypothetical protein
+56224	55619	CDS
+			EC_number	3.1.22.-
+			dbxref	COG:COG1961
+			gene	pinR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ADI0
+			locus_tag	PJODNPKO_00073
+			product	Serine recombinase PinR
+56319	59216	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00074
+			product	hypothetical protein
+59596	59213	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00075
+			product	hypothetical protein
+59915	61234	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00076
+			product	hypothetical protein
+62365	61484	CDS
+			EC_number	3.5.2.6
+			gene	bla_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9F663
+			locus_tag	PJODNPKO_00077
+			product	Carbapenem-hydrolyzing beta-lactamase KPC
+63531	62752	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q45619
+			locus_tag	PJODNPKO_00078
+			product	Insertion sequence IS5376 putative ATP-binding protein
+64553	63528	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00079
+			product	hypothetical protein
+67689	64660	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00080
+			product	hypothetical protein
+67799	69514	CDS
+			dbxref	COG:COG4974
+			gene	xerD_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A8P8
+			locus_tag	PJODNPKO_00081
+			product	Tyrosine recombinase XerD
+70465	69557	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PJODNPKO_00082
+			product	hypothetical protein
+70629	71186	CDS
+			gene	tnpR_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ADI2
+			locus_tag	PJODNPKO_00083
+			product	Transposon Tn3 resolvase
+71369	71974	CDS
+			EC_number	2.3.1.82
+			gene	aacA4
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P20092
+			locus_tag	PJODNPKO_00084
+			product	Aminoglycoside N(6')-acetyltransferase type 1
+72056	72832	CDS
+			EC_number	2.7.7.47
+			gene	ant1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A0D1
+			locus_tag	PJODNPKO_00085
+			product	Streptomycin 3''-adenylyltransferase
+72892	73716	CDS
+			EC_number	3.5.2.6
+			gene	bla_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O07293
+			locus_tag	PJODNPKO_00086
+			product	Beta-lactamase OXA-18
+73982	74233	CDS
+			gene	tnpR_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ADI2
+			locus_tag	PJODNPKO_00087
+			product	Transposon Tn3 resolvase
+74416	75276	CDS
+			EC_number	3.5.2.6
+			gene	bla_3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P62593
+			locus_tag	PJODNPKO_00088
+			product	Beta-lactamase TEM

@@ -1,0 +1,64 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+EKOOMCPJ_00001	CDS	1986				hypothetical protein
+EKOOMCPJ_00002	CDS	828				hypothetical protein
+EKOOMCPJ_00003	CDS	459				hypothetical protein
+EKOOMCPJ_00004	CDS	591				hypothetical protein
+EKOOMCPJ_00005	CDS	429	klcA			Antirestriction protein KlcA
+EKOOMCPJ_00006	CDS	369				hypothetical protein
+EKOOMCPJ_00007	CDS	177				hypothetical protein
+EKOOMCPJ_00008	CDS	465	nucH	3.1.31.1		Thermonuclease
+EKOOMCPJ_00009	CDS	249				hypothetical protein
+EKOOMCPJ_00010	CDS	324				hypothetical protein
+EKOOMCPJ_00011	CDS	192				hypothetical protein
+EKOOMCPJ_00012	CDS	390				hypothetical protein
+EKOOMCPJ_00013	CDS	195				hypothetical protein
+EKOOMCPJ_00014	CDS	768	xerD_1		COG4974	Tyrosine recombinase XerD
+EKOOMCPJ_00015	CDS	444				hypothetical protein
+EKOOMCPJ_00016	CDS	684				hypothetical protein
+EKOOMCPJ_00017	CDS	252				hypothetical protein
+EKOOMCPJ_00018	CDS	276				hypothetical protein
+EKOOMCPJ_00019	CDS	288				hypothetical protein
+EKOOMCPJ_00020	CDS	450				hypothetical protein
+EKOOMCPJ_00021	CDS	894				hypothetical protein
+EKOOMCPJ_00022	CDS	240				hypothetical protein
+EKOOMCPJ_00023	CDS	972				hypothetical protein
+EKOOMCPJ_00024	CDS	1350				hypothetical protein
+EKOOMCPJ_00025	CDS	1320				hypothetical protein
+EKOOMCPJ_00026	CDS	882	bla	3.5.2.6		Carbapenem-hydrolyzing beta-lactamase KPC
+EKOOMCPJ_00027	CDS	339				hypothetical protein
+EKOOMCPJ_00028	CDS	780				Insertion sequence IS5376 putative ATP-binding protein
+EKOOMCPJ_00029	CDS	1026				hypothetical protein
+EKOOMCPJ_00030	CDS	3030				hypothetical protein
+EKOOMCPJ_00031	CDS	1716	xerD_2		COG4974	Tyrosine recombinase XerD
+EKOOMCPJ_00032	CDS	1785				hypothetical protein
+EKOOMCPJ_00033	CDS	552	tnpR		COG1961	Transposon gamma-delta resolvase
+EKOOMCPJ_00034	CDS	189				hypothetical protein
+EKOOMCPJ_00035	CDS	1833				hypothetical protein
+EKOOMCPJ_00036	CDS	450				hypothetical protein
+EKOOMCPJ_00037	CDS	573	hin_1		COG1961	DNA-invertase hin
+EKOOMCPJ_00038	CDS	546				hypothetical protein
+EKOOMCPJ_00039	CDS	258				hypothetical protein
+EKOOMCPJ_00040	CDS	615	hin_2		COG1961	DNA-invertase hin
+EKOOMCPJ_00041	CDS	657			COG1357	Pentapeptide repeat protein
+EKOOMCPJ_00042	CDS	192				hypothetical protein
+EKOOMCPJ_00043	CDS	462				hypothetical protein
+EKOOMCPJ_00044	CDS	705				hypothetical protein
+EKOOMCPJ_00045	CDS	429				hypothetical protein
+EKOOMCPJ_00046	CDS	366				hypothetical protein
+EKOOMCPJ_00047	CDS	387	ssb		COG0629	Single-stranded DNA-binding protein
+EKOOMCPJ_00048	CDS	351				hypothetical protein
+EKOOMCPJ_00049	CDS	687	slt	4.2.2.-	COG0741	Soluble lytic murein transglycosylase
+EKOOMCPJ_00050	CDS	192				hypothetical protein
+EKOOMCPJ_00051	CDS	537				hypothetical protein
+EKOOMCPJ_00052	CDS	1374				hypothetical protein
+EKOOMCPJ_00053	CDS	834				hypothetical protein
+EKOOMCPJ_00054	CDS	726				hypothetical protein
+EKOOMCPJ_00055	CDS	975				hypothetical protein
+EKOOMCPJ_00056	CDS	459				hypothetical protein
+EKOOMCPJ_00057	CDS	813				hypothetical protein
+EKOOMCPJ_00058	CDS	2580	virB4		COG3451	Type IV secretion system protein virB4
+EKOOMCPJ_00059	CDS	360				hypothetical protein
+EKOOMCPJ_00060	CDS	237				hypothetical protein
+EKOOMCPJ_00061	CDS	348				hypothetical protein
+EKOOMCPJ_00062	CDS	1023				Type IV secretion system protein VirB11
+EKOOMCPJ_00063	CDS	714				hypothetical protein

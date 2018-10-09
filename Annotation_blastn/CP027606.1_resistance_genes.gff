@@ -1,0 +1,43 @@
+##gff-version	3
+CP027606.1	.	tnpA	66333	69362	.	.	.	name=tnpA;description=transposase TnpA;accession=YP_008161910.1;missmatches=0;evalue=0.0
+CP027606.1	.	tnpA	42947	45913	.	.	.	name=tnpA;description=TnpA transposase;accession=YP_006957010.1;missmatches=0;evalue=0.0
+CP027606.1	.	tnpA	74461	77353	.	-	.	name=tnpA;description=Tn3 transposase;accession=YP_006958958.1;missmatches=0;evalue=0.0
+CP027606.1	.	tnpA	47064	49651	.	.	.	name=tnpA;description=Tn501 transposase;accession=YP_003829177.1;missmatches=0;evalue=0.0
+CP027606.1	.	tnpA	72788	74107	.	-	.	name=tnpA;description=transposase;accession=YP_008166926.1;missmatches=0;evalue=0.0
+CP027606.1	.	tnpAIS1294	80968	82167	.	.	.	name=tnpAIS1294;description=IS1294 transposase;accession=YP_194845.1;missmatches=0;evalue=0.0
+CP027606.1	.	istA	69469	70494	.	.	.	name=istA;description=transposase IstA;accession=YP_009328367.1;missmatches=0;evalue=0.0
+CP027606.1	.	intI1	35326	36339	.	-	.	name=intI1;description=intI1;accession=YP_007447591.1;missmatches=0;evalue=0.0
+CP027606.1	.	intI1	53568	54498	.	-	.	name=intI1;description=intI1;accession=YP_007447591.1;missmatches=2;evalue=0.0
+CP027606.1	.	tnpA	39430	40434	.	-	.	name=tnpA;description=transposase;accession=YP_008725238.1;missmatches=0;evalue=0.0
+CP027606.1	.	tnpA	49682	52663	.	-	.	name=tnpA;description=transposase;accession=YP_006961544.1;missmatches=616;evalue=0.0
+CP027606.1	.	tnpA	12511	14016	.	.	.	name=tnpA;description=IS66 family transposase;accession=YP_007936867.1;missmatches=175;evalue=0.0
+CP027606.1	.	mph(A)	30071	30992	.	.	.	name=mph(A);description=Mph(A) family macrolide 2'-phosphotransferase;accession=WP_063853854.1;missmatches=2;evalue=0.0
+CP027606.1	.	insC	18843	19811	.	.	.	name=insC;description=transposase InsC for insertion sequence IS903;accession=YP_001101845.1;missmatches=28;evalue=0.0
+CP027606.1	.	blaKPC	71657	72538	.	.	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-6;accession=WP_047665864.1;missmatches=0;evalue=0.0
+CP027606.1	.	blaTEM	78255	79115	.	.	.	name=blaTEM;description=class A beta-lactamase TEM-181;accession=WP_000027060.1;missmatches=1;evalue=0.0
+CP027606.1	.	sul1	38009	38848	.	.	.	name=sul1;description=sulfonamide-resistant dihydropteroate synthase Sul1;accession=WP_000259031.1;missmatches=0;evalue=0.0
+CP027606.1	.	sul1	58042	58881	.	.	.	name=sul1;description=sulfonamide-resistant dihydropteroate synthase Sul1;accession=WP_000259031.1;missmatches=0;evalue=0.0
+CP027606.1	.	blaOXA	55341	56171	.	.	.	name=blaOXA;description=oxacillin-hydrolyzing class D beta-lactamase OXA-1;accession=WP_001334766.1;missmatches=0;evalue=0.0
+CP027606.1	.	aph(3')-Ia	28279	29094	.	-	.	name=aph(3')-Ia;description=aminoglycoside O-phosphotransferase APH(3')-Ia;accession=WP_000018329.1;missmatches=0;evalue=0.0
+CP027606.1	.	aph(3')-Ia	79598	80413	.	-	.	name=aph(3')-Ia;description=aminoglycoside O-phosphotransferase APH(3')-Ia;accession=WP_000018330.1;missmatches=0;evalue=0.0
+CP027606.1	.	tnpA	60645	61446	.	-	.	name=tnpA;description=transposon Tn5393 transposase TnpA;accession=YP_001101842.1;missmatches=0;evalue=0.0
+CP027606.1	.	tnpA of IS6100	33288	34082	.	-	.	name=tnpA of IS6100;description=IS6100 transposase;accession=YP_006965438.1;missmatches=0;evalue=0.0
+CP027606.1	.	tnpA of IS6100	59986	60614	.	.	.	name=tnpA of IS6100;description=IS6100 transposase;accession=YP_006965438.1;missmatches=0;evalue=0.0
+CP027606.1	.	istB	70491	71270	.	.	.	name=istB;description=transposase helper protein IstB;accession=YP_009328368.1;missmatches=0;evalue=0.0
+CP027606.1	.	tnpA	27367	28089	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=1;evalue=0.0
+CP027606.1	.	tnpA	29227	29949	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=1;evalue=0.0
+CP027606.1	.	tnpA	85636	86358	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=1;evalue=0.0
+CP027606.1	.	catB3	56309	56941	.	.	.	name=catB3;description=type B-3 chloramphenicol O-acetyltransferase CatB3;accession=WP_000186237.1;missmatches=0;evalue=0.0
+CP027606.1	.	insAB'	16957	17654	.	.	.	name=insAB';description=IS1 transposase frame shift product;accession=YP_004422908.1;missmatches=38;evalue=0.0
+CP027606.1	.	insAB'	8896	9588	.	.	.	name=insAB';description=IS1 transposase frame shift product;accession=YP_004422908.1;missmatches=35;evalue=0.0
+CP027606.1	.	insAB'	23147	23612	.	.	.	name=insAB';description=IS1 transposase frame shift product;accession=YP_004422908.1;missmatches=51;evalue=9e-162
+CP027606.1	.	unknown_gene	54623	55210	.	.	.	name=unknown_gene;description=bifunctional aminoglycoside nucleotidyltransferase ANT(3'')-Ih/aminoglycoside N-acetyltransferase AAC(6')-Iid;accession=WP_063839878.1;missmatches=3;evalue=0.0
+CP027606.1	.	tnpR	42383	42943	.	.	.	name=tnpR;description=TnpR, transposon;accession=YP_006957011.1;missmatches=0;evalue=0.0
+CP027606.1	.	tnpR	77485	78072	.	.	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_003108101.1;missmatches=29;evalue=0.0
+CP027606.1	.	aac(3)-I	36488	36952	.	.	.	name=aac(3)-I;description=aminoglycoside N-acetyltransferase AAC(3)-Ib;accession=WP_010792467.1;missmatches=0;evalue=0.0
+CP027606.1	.	arr-3	57026	57478	.	.	.	name=arr-3;description=NAD(+)--rifampin ADP-ribosyltransferase Arr-3;accession=WP_001749986.1;missmatches=0;evalue=0.0
+CP027606.1	.	IncFIA(HI1)	21983	22369	.	.	.	name=IncFIA(HI1);description=unknown_protein;accession=unknown_accession;missmatches=6;evalue=0.0
+CP027606.1	.	qacE	37668	38015	.	.	.	name=qacE;description=quaternary ammonium compound efflux SMR transporter QacE delta 1;accession=WP_000679427.1;missmatches=0;evalue=0.0
+CP027606.1	.	qacE	57701	58048	.	.	.	name=qacE;description=quaternary ammonium compound efflux SMR transporter QacE delta 1;accession=WP_000679427.1;missmatches=0;evalue=0.0
+CP027606.1	.	qacF	37157	37495	.	.	.	name=qacF;description=quaternary ammonium compound efflux SMR transporter QacF;accession=WP_071846205.1;missmatches=1;evalue=3e-176
+CP027606.1	.	TnpA	79274	79594	.	.	.	name=TnpA;description=TnpA transposase;accession=YP_006955528.1;missmatches=0;evalue=7e-168

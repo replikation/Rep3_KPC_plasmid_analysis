@@ -1,0 +1,217 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+FJPFDINM_00001	CDS	93				hypothetical protein
+FJPFDINM_00002	CDS	201				hypothetical protein
+FJPFDINM_00003	CDS	642	cmlA	2.3.1.28		Chloramphenicol acetyltransferase 2
+FJPFDINM_00004	CDS	705				hypothetical protein
+FJPFDINM_00005	CDS	564	htrC			Heat shock protein C
+FJPFDINM_00006	CDS	129				hypothetical protein
+FJPFDINM_00007	CDS	411				hypothetical protein
+FJPFDINM_00008	CDS	981				hypothetical protein
+FJPFDINM_00009	CDS	396				hypothetical protein
+FJPFDINM_00010	CDS	612				hypothetical protein
+FJPFDINM_00011	CDS	951	rpnA	3.1.21.-	COG5464	Recombination-promoting nuclease RpnA
+FJPFDINM_00012	CDS	201				hypothetical protein
+FJPFDINM_00013	CDS	633	bin3_1			Putative transposon Tn552 DNA-invertase bin3
+FJPFDINM_00014	CDS	1206	parA_1			Plasmid partition protein A
+FJPFDINM_00015	CDS	972	virB_1		COG1475	Virulence regulon transcriptional activator VirB
+FJPFDINM_00016	CDS	1272	umuC_1		COG0389	Protein UmuC
+FJPFDINM_00017	CDS	423	umuD_1	3.4.21.-	COG1974	Protein UmuD
+FJPFDINM_00018	CDS	672	yedK	3.4.-.-	COG2135	Putative SOS response-associated peptidase YedK
+FJPFDINM_00019	CDS	678	yhdJ_1	2.1.1.72	COG0863	DNA adenine methyltransferase YhdJ
+FJPFDINM_00020	CDS	222				hypothetical protein
+FJPFDINM_00021	CDS	420				hypothetical protein
+FJPFDINM_00022	CDS	780				hypothetical protein
+FJPFDINM_00023	CDS	507				hypothetical protein
+FJPFDINM_00024	CDS	192				hypothetical protein
+FJPFDINM_00025	CDS	261	holE_1	2.7.7.7		DNA polymerase III subunit theta
+FJPFDINM_00026	CDS	153				hypothetical protein
+FJPFDINM_00027	CDS	231				hypothetical protein
+FJPFDINM_00028	CDS	663	spo0C_1		COG1475	Chromosome-partitioning protein Spo0J
+FJPFDINM_00029	CDS	1299				hypothetical protein
+FJPFDINM_00030	CDS	432	psiB_1			Protein PsiB
+FJPFDINM_00031	CDS	729				hypothetical protein
+FJPFDINM_00032	CDS	324				hypothetical protein
+FJPFDINM_00033	CDS	360				hypothetical protein
+FJPFDINM_00034	CDS	375				hypothetical protein
+FJPFDINM_00035	CDS	705				hypothetical protein
+FJPFDINM_00036	CDS	348	traA_1			Pilin
+FJPFDINM_00037	CDS	738	traJ_1			Protein TraJ
+FJPFDINM_00038	CDS	384	traM_1			Relaxosome protein TraM
+FJPFDINM_00039	CDS	486				hypothetical protein
+FJPFDINM_00040	CDS	315				hypothetical protein
+FJPFDINM_00041	CDS	822				hypothetical protein
+FJPFDINM_00042	CDS	108	higA		COG5499	Antitoxin HigA
+FJPFDINM_00043	CDS	279	higA1		COG1396	Antitoxin HigA1
+FJPFDINM_00044	CDS	321				hypothetical protein
+FJPFDINM_00045	CDS	225				hypothetical protein
+FJPFDINM_00046	CDS	213				hypothetical protein
+FJPFDINM_00047	CDS	357				hypothetical protein
+FJPFDINM_00048	CDS	318				hypothetical protein
+FJPFDINM_00049	CDS	351				hypothetical protein
+FJPFDINM_00050	CDS	273				hypothetical protein
+FJPFDINM_00051	CDS	159	flmA			Stable plasmid inheritance protein
+FJPFDINM_00052	CDS	375				hypothetical protein
+FJPFDINM_00053	CDS	327				hypothetical protein
+FJPFDINM_00054	CDS	729				hypothetical protein
+FJPFDINM_00055	CDS	432	psiB_2			Protein PsiB
+FJPFDINM_00056	CDS	2058	spo0C_2		COG1475	Chromosome-partitioning protein Spo0J
+FJPFDINM_00057	CDS	249				hypothetical protein
+FJPFDINM_00058	CDS	543	ssb_1			Plasmid-derived single-stranded DNA-binding protein
+FJPFDINM_00059	CDS	330				hypothetical protein
+FJPFDINM_00060	CDS	564				hypothetical protein
+FJPFDINM_00061	CDS	1356				hypothetical protein
+FJPFDINM_00062	CDS	231				hypothetical protein
+FJPFDINM_00063	CDS	228				hypothetical protein
+FJPFDINM_00064	CDS	321				hypothetical protein
+FJPFDINM_00065	CDS	255	holE_2	2.7.7.7		DNA polymerase III subunit theta
+FJPFDINM_00066	CDS	192				hypothetical protein
+FJPFDINM_00067	CDS	507				hypothetical protein
+FJPFDINM_00068	CDS	429	klcA_1			Antirestriction protein KlcA
+FJPFDINM_00069	CDS	768				hypothetical protein
+FJPFDINM_00070	CDS	420				hypothetical protein
+FJPFDINM_00071	CDS	222				hypothetical protein
+FJPFDINM_00072	CDS	702	yhdJ_2	2.1.1.72	COG0863	DNA adenine methyltransferase YhdJ
+FJPFDINM_00073	CDS	231				hypothetical protein
+FJPFDINM_00074	CDS	672				hypothetical protein
+FJPFDINM_00075	CDS	972	parM_1			Plasmid segregation protein ParM
+FJPFDINM_00076	CDS	1488	ltrA_1		COG3344	Group II intron-encoded protein LtrA
+FJPFDINM_00077	CDS	432	umuD_2	3.4.21.-	COG1974	Protein UmuD
+FJPFDINM_00078	CDS	1272	umuC_2		COG0389	Protein UmuC
+FJPFDINM_00079	CDS	975	virB_2		COG1475	Virulence regulon transcriptional activator VirB
+FJPFDINM_00080	CDS	1206	parA_2			Plasmid partition protein A
+FJPFDINM_00081	CDS	612				hypothetical protein
+FJPFDINM_00082	CDS	723	repE			Replication initiation protein
+FJPFDINM_00083	CDS	276				hypothetical protein
+FJPFDINM_00084	CDS	96				hypothetical protein
+FJPFDINM_00085	CDS	258				hypothetical protein
+FJPFDINM_00086	CDS	780	xerD		COG4974	Tyrosine recombinase XerD
+FJPFDINM_00087	CDS	1005				hypothetical protein
+FJPFDINM_00088	CDS	204				hypothetical protein
+FJPFDINM_00089	CDS	522				hypothetical protein
+FJPFDINM_00090	CDS	393				hypothetical protein
+FJPFDINM_00091	CDS	945				hypothetical protein
+FJPFDINM_00092	CDS	276				hypothetical protein
+FJPFDINM_00093	CDS	231	vapB		COG4456	Antitoxin VapB
+FJPFDINM_00094	CDS	417	vapC	3.1.-.-	COG1487	tRNA(fMet)-specific endonuclease VapC
+FJPFDINM_00095	CDS	1563	recF			DNA replication and repair protein RecF
+FJPFDINM_00096	CDS	1023				hypothetical protein
+FJPFDINM_00097	CDS	276				hypothetical protein
+FJPFDINM_00098	CDS	378				hypothetical protein
+FJPFDINM_00099	CDS	882	bla_1	3.5.2.6		Carbapenem-hydrolyzing beta-lactamase KPC
+FJPFDINM_00100	CDS	981				hypothetical protein
+FJPFDINM_00101	CDS	297				hypothetical protein
+FJPFDINM_00102	CDS	156				hypothetical protein
+FJPFDINM_00103	CDS	423	klcA_2			Antirestriction protein KlcA
+FJPFDINM_00104	CDS	279				hypothetical protein
+FJPFDINM_00105	CDS	561				hypothetical protein
+FJPFDINM_00106	CDS	561	hin		COG1961	DNA-invertase hin
+FJPFDINM_00107	CDS	2967				hypothetical protein
+FJPFDINM_00108	CDS	861	bla_2	3.5.2.6		Beta-lactamase SHV-2
+FJPFDINM_00109	CDS	762	glpR		COG1349	Glycerol-3-phosphate regulon repressor
+FJPFDINM_00110	CDS	903	ltnD	1.1.1.411		L-threonate dehydrogenase
+FJPFDINM_00111	CDS	633	otnK_1	2.7.1.217	COG3395	3-oxo-tetronate kinase
+FJPFDINM_00112	CDS	624	otnK_2	2.7.1.217	COG3395	3-oxo-tetronate kinase
+FJPFDINM_00113	CDS	432	otnC	4.1.1.104	COG0235	3-oxo-tetronate 4-phosphate decarboxylase
+FJPFDINM_00114	CDS	705				hypothetical protein
+FJPFDINM_00115	CDS	705				hypothetical protein
+FJPFDINM_00116	CDS	2250	traI_1			Multifunctional conjugation protein TraI
+FJPFDINM_00117	CDS	2217	traD			Coupling protein TraD
+FJPFDINM_00118	CDS	738				hypothetical protein
+FJPFDINM_00119	CDS	735	ylpA			Lipoprotein YlpA
+FJPFDINM_00120	CDS	522	traS			Protein TraS
+FJPFDINM_00121	CDS	2817				hypothetical protein
+FJPFDINM_00122	tRNA	72				tRNA-Thr(ggt)
+FJPFDINM_00123	CDS	393				hypothetical protein
+FJPFDINM_00124	CDS	315				hypothetical protein
+FJPFDINM_00125	CDS	546				hypothetical protein
+FJPFDINM_00126	CDS	282	traQ			Protein TraQ
+FJPFDINM_00127	CDS	744				hypothetical protein
+FJPFDINM_00128	CDS	261				hypothetical protein
+FJPFDINM_00129	CDS	1851				hypothetical protein
+FJPFDINM_00130	CDS	423				hypothetical protein
+FJPFDINM_00131	CDS	372				hypothetical protein
+FJPFDINM_00132	CDS	639				hypothetical protein
+FJPFDINM_00133	CDS	522				hypothetical protein
+FJPFDINM_00134	CDS	309				hypothetical protein
+FJPFDINM_00135	CDS	993				hypothetical protein
+FJPFDINM_00136	CDS	633				hypothetical protein
+FJPFDINM_00137	CDS	387				hypothetical protein
+FJPFDINM_00138	CDS	2628	traC			Protein TraC
+FJPFDINM_00139	CDS	222	traR			Protein TraR
+FJPFDINM_00140	CDS	516	traV			Protein TraV
+FJPFDINM_00141	CDS	252				hypothetical protein
+FJPFDINM_00142	CDS	198				hypothetical protein
+FJPFDINM_00143	CDS	591				hypothetical protein
+FJPFDINM_00144	CDS	1428				hypothetical protein
+FJPFDINM_00145	CDS	729				hypothetical protein
+FJPFDINM_00146	CDS	567				hypothetical protein
+FJPFDINM_00147	CDS	312				hypothetical protein
+FJPFDINM_00148	CDS	366	traA_2			Pilin
+FJPFDINM_00149	CDS	228	traY			Relaxosome protein TraY
+FJPFDINM_00150	CDS	687	traJ_2			Protein TraJ
+FJPFDINM_00151	CDS	384	traM_2			Relaxosome protein TraM
+FJPFDINM_00152	CDS	648				hypothetical protein
+FJPFDINM_00153	CDS	822				hypothetical protein
+FJPFDINM_00154	CDS	297				hypothetical protein
+FJPFDINM_00155	CDS	237				hypothetical protein
+FJPFDINM_00156	CDS	378				hypothetical protein
+FJPFDINM_00157	CDS	216				hypothetical protein
+FJPFDINM_00158	CDS	720				hypothetical protein
+FJPFDINM_00159	CDS	435	psiB_3			Protein PsiB
+FJPFDINM_00160	CDS	576				hypothetical protein
+FJPFDINM_00161	CDS	1422	spo0C_3		COG1475	Chromosome-partitioning protein Spo0J
+FJPFDINM_00162	CDS	234				hypothetical protein
+FJPFDINM_00163	CDS	528	ssb_2			Plasmid-derived single-stranded DNA-binding protein
+FJPFDINM_00164	CDS	237				hypothetical protein
+FJPFDINM_00165	CDS	456				hypothetical protein
+FJPFDINM_00166	CDS	564	rsmA	2.1.1.-		Ribosomal RNA small subunit methyltransferase A
+FJPFDINM_00167	CDS	1362				hypothetical protein
+FJPFDINM_00168	CDS	231				hypothetical protein
+FJPFDINM_00169	CDS	258				hypothetical protein
+FJPFDINM_00170	CDS	1668	ltrA_2		COG3344	Group II intron-encoded protein LtrA
+FJPFDINM_00171	CDS	192				hypothetical protein
+FJPFDINM_00172	CDS	423				hypothetical protein
+FJPFDINM_00173	CDS	426	klcA_3			Antirestriction protein KlcA
+FJPFDINM_00174	CDS	828				hypothetical protein
+FJPFDINM_00175	CDS	435				hypothetical protein
+FJPFDINM_00176	CDS	222				hypothetical protein
+FJPFDINM_00177	CDS	684	yhdJ_3	2.1.1.72	COG0863	DNA adenine methyltransferase YhdJ
+FJPFDINM_00178	CDS	963	parM_2			Plasmid segregation protein ParM
+FJPFDINM_00179	CDS	354	stbB			Protein StbB
+FJPFDINM_00180	CDS	282				hypothetical protein
+FJPFDINM_00181	CDS	705				hypothetical protein
+FJPFDINM_00182	CDS	282				hypothetical protein
+FJPFDINM_00183	CDS	756	rmtB	2.1.1.179		16S rRNA (guanine(1405)-N(7))-methyltransferase
+FJPFDINM_00184	CDS	861	bla_3	3.5.2.6		Beta-lactamase TEM
+FJPFDINM_00185	CDS	516	tnpR			Transposon Tn3 resolvase
+FJPFDINM_00186	CDS	189				hypothetical protein
+FJPFDINM_00187	CDS	723				hypothetical protein
+FJPFDINM_00188	CDS	705				hypothetical protein
+FJPFDINM_00189	CDS	576				hypothetical protein
+FJPFDINM_00190	CDS	705				hypothetical protein
+FJPFDINM_00191	CDS	450	aer		COG0840	Aerotaxis receptor
+FJPFDINM_00192	CDS	1026	fiu		COG4774	Catecholate siderophore receptor Fiu
+FJPFDINM_00193	CDS	969				hypothetical protein
+FJPFDINM_00194	CDS	876	bla_4	3.5.2.6		Beta-lactamase Toho-1
+FJPFDINM_00195	CDS	123				hypothetical protein
+FJPFDINM_00196	CDS	705				hypothetical protein
+FJPFDINM_00197	CDS	534				hypothetical protein
+FJPFDINM_00198	CDS	216				hypothetical protein
+FJPFDINM_00199	CDS	333	pemK	3.1.-.-		Endoribonuclease PemK
+FJPFDINM_00200	CDS	258	pemI			Antitoxin PemI
+FJPFDINM_00201	CDS	654				hypothetical protein
+FJPFDINM_00202	CDS	858				hypothetical protein
+FJPFDINM_00203	CDS	249				hypothetical protein
+FJPFDINM_00204	CDS	150	pndA			Protein PndA
+FJPFDINM_00205	CDS	333				hypothetical protein
+FJPFDINM_00206	CDS	600				hypothetical protein
+FJPFDINM_00207	CDS	201				hypothetical protein
+FJPFDINM_00208	CDS	561	finO			Fertility inhibition protein
+FJPFDINM_00209	CDS	747				hypothetical protein
+FJPFDINM_00210	CDS	201	traI_2			Multifunctional conjugation protein TraI
+FJPFDINM_00211	CDS	705				hypothetical protein
+FJPFDINM_00212	CDS	2967				hypothetical protein
+FJPFDINM_00213	CDS	1005				hypothetical protein
+FJPFDINM_00214	CDS	177				hypothetical protein
+FJPFDINM_00215	CDS	225				hypothetical protein
+FJPFDINM_00216	CDS	738	bin3_2			Putative transposon Tn552 DNA-invertase bin3

@@ -1,0 +1,14 @@
+##gff-version	3
+MH624131.1	.	tnpA	8298	10935	.	-	.	name=tnpA;description=transposase;accession=YP_006953596.1;missmatches=2;evalue=0.0
+MH624131.1	.	mobA	33530	35913	.	-	.	name=mobA;description=MobA protein;accession=YP_005473816.1;missmatches=58;evalue=0.0
+MH624131.1	.	tnpA	13063	14337	.	.	.	name=tnpA;description=transposase;accession=YP_008725167.1;missmatches=1;evalue=0.0
+MH624131.1	.	tnpA	15572	16552	.	.	.	name=tnpA;description=putative ISKpn8 transposase;accession=YP_008998913.1;missmatches=0;evalue=0.0
+MH624131.1	.	blaKPC	17465	18346	.	.	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-2;accession=WP_004199234.1;missmatches=0;evalue=0.0
+MH624131.1	.	tnpA	18596	19460	.	-	.	name=tnpA;description=transposase;accession=YP_009328370.1;missmatches=0;evalue=0.0
+MH624131.1	.	IncP(6)	437	1242	.	.	.	name=IncP(6);description=unknown_protein;accession=unknown_accession;missmatches=1;evalue=0.0
+MH624131.1	.	qnrS	38107	38763	.	.	.	name=qnrS;description=quinolone resistance pentapeptide repeat protein QnrS2;accession=WP_012537714.1;missmatches=0;evalue=0.0
+MH624131.1	.	tnpR	14856	15449	.	.	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_003108101.1;missmatches=0;evalue=0.0
+MH624131.1	.	tnpA	7700	8264	.	.	.	name=tnpA;description=transposase ISEc33;accession=YP_004765051.1;missmatches=6;evalue=0.0
+MH624131.1	.	tnpA	14351	14887	.	-	.	name=tnpA;description=transposon Tn3 transposase;accession=YP_003108100.1;missmatches=0;evalue=0.0
+MH624131.1	.	repA	40200	40768	.	-	.	name=repA;description=RepA protein;accession=YP_005473817.1;missmatches=35;evalue=0.0
+MH624131.1	.	IncQ2	40395	40768	.	.	.	name=IncQ2;description=unknown_protein;accession=unknown_accession;missmatches=5;evalue=0.0

@@ -1,0 +1,762 @@
+>Feature MH255827.1
+97	819	CDS
+			gene	repE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P03856
+			locus_tag	IEOFGAFL_00001
+			product	Replication initiation protein
+1515	904	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00002
+			product	hypothetical protein
+1929	3134	CDS
+			gene	parA_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P07620
+			locus_tag	IEOFGAFL_00003
+			product	Plasmid partition protein A
+3134	4108	CDS
+			dbxref	COG:COG1475
+			gene	virB_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A247
+			locus_tag	IEOFGAFL_00004
+			product	Virulence regulon transcriptional activator VirB
+5461	4190	CDS
+			dbxref	COG:COG0389
+			gene	umuC_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04152
+			locus_tag	IEOFGAFL_00005
+			product	Protein UmuC
+5892	5461	CDS
+			EC_number	3.4.21.-
+			dbxref	COG:COG1974
+			gene	umuD_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AG11
+			locus_tag	IEOFGAFL_00006
+			product	Protein UmuD
+6299	7786	CDS
+			dbxref	COG:COG3344
+			gene	ltrA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A3U0
+			locus_tag	IEOFGAFL_00007
+			product	Group II intron-encoded protein LtrA
+8035	9006	CDS
+			gene	parM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P11904
+			locus_tag	IEOFGAFL_00008
+			product	Plasmid segregation protein ParM
+9009	9680	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00009
+			product	hypothetical protein
+9743	9973	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00010
+			product	hypothetical protein
+10410	11111	CDS
+			EC_number	2.1.1.72
+			dbxref	COG:COG0863
+			gene	yhdJ_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P28638
+			locus_tag	IEOFGAFL_00011
+			product	DNA adenine methyltransferase YhdJ
+11111	11332	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00012
+			product	hypothetical protein
+11342	11761	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00013
+			product	hypothetical protein
+11815	12582	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00014
+			product	hypothetical protein
+13263	13691	CDS
+			gene	klcA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P52603
+			locus_tag	IEOFGAFL_00015
+			product	Antirestriction protein KlcA
+13734	14240	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00016
+			product	hypothetical protein
+14283	14474	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00017
+			product	hypothetical protein
+14662	14916	CDS
+			EC_number	2.7.7.7
+			gene	holE_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ABS8
+			locus_tag	IEOFGAFL_00018
+			product	DNA polymerase III subunit theta
+14951	15271	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00019
+			product	hypothetical protein
+15951	16178	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00020
+			product	hypothetical protein
+16270	16500	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00021
+			product	hypothetical protein
+16552	17907	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00022
+			product	hypothetical protein
+17955	18518	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00023
+			product	hypothetical protein
+19339	19881	CDS
+			gene	ssb
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P28044
+			locus_tag	IEOFGAFL_00024
+			product	Plasmid-derived single-stranded DNA-binding protein
+19930	20178	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P75677
+			locus_tag	IEOFGAFL_00025
+			note	UPF0401 protein YkfF
+			product	hypothetical protein
+20248	22305	CDS
+			dbxref	COG:COG1475
+			gene	spo0C_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q72H91
+			locus_tag	IEOFGAFL_00026
+			product	Chromosome-partitioning protein Spo0J
+22350	22781	CDS
+			gene	psiB_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P10031
+			locus_tag	IEOFGAFL_00027
+			product	Protein PsiB
+22778	23506	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00028
+			product	hypothetical protein
+23503	23829	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00029
+			product	hypothetical protein
+23885	24259	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00030
+			product	hypothetical protein
+25338	25610	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00031
+			product	hypothetical protein
+25607	25957	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00032
+			product	hypothetical protein
+25972	26289	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00033
+			product	hypothetical protein
+27130	27486	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00034
+			product	hypothetical protein
+27547	27759	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00035
+			product	hypothetical protein
+27770	27994	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00036
+			product	hypothetical protein
+28075	28395	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00037
+			product	hypothetical protein
+28385	28663	CDS
+			dbxref	COG:COG1396
+			gene	higA1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WJA7
+			locus_tag	IEOFGAFL_00038
+			product	Antitoxin HigA1
+29601	30422	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00039
+			product	hypothetical protein
+30470	30784	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00040
+			product	hypothetical protein
+31302	30817	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00041
+			product	hypothetical protein
+31726	32109	CDS
+			gene	traM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P07294
+			locus_tag	IEOFGAFL_00042
+			product	Relaxosome protein TraM
+32309	33046	CDS
+			gene	traJ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P06626
+			locus_tag	IEOFGAFL_00043
+			product	Protein TraJ
+33429	33797	CDS
+			gene	traA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04737
+			locus_tag	IEOFGAFL_00044
+			product	Pilin
+33811	34116	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00045
+			product	hypothetical protein
+34136	34522	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00046
+			product	hypothetical protein
+35260	34556	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00047
+			product	hypothetical protein
+35760	35386	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00048
+			product	hypothetical protein
+36745	36386	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00049
+			product	hypothetical protein
+37130	36807	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00050
+			product	hypothetical protein
+37855	37127	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00051
+			product	hypothetical protein
+38283	37852	CDS
+			gene	psiB_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P10031
+			locus_tag	IEOFGAFL_00052
+			product	Protein PsiB
+39624	38326	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00053
+			product	hypothetical protein
+40335	39673	CDS
+			dbxref	COG:COG1475
+			gene	spo0C_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q72H91
+			locus_tag	IEOFGAFL_00054
+			product	Chromosome-partitioning protein Spo0J
+40636	40406	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P75677
+			locus_tag	IEOFGAFL_00055
+			note	UPF0401 protein YkfF
+			product	hypothetical protein
+40921	41190	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00056
+			product	hypothetical protein
+41572	41420	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00057
+			product	hypothetical protein
+41867	41607	CDS
+			EC_number	2.7.7.7
+			gene	holE_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ABS8
+			locus_tag	IEOFGAFL_00058
+			product	DNA polymerase III subunit theta
+42245	42054	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00059
+			product	hypothetical protein
+42794	42288	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00060
+			product	hypothetical protein
+43978	43199	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00061
+			product	hypothetical protein
+44451	44032	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00062
+			product	hypothetical protein
+44683	44462	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00063
+			product	hypothetical protein
+45360	44683	CDS
+			EC_number	2.1.1.72
+			dbxref	COG:COG0863
+			gene	yhdJ_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P28638
+			locus_tag	IEOFGAFL_00064
+			product	DNA adenine methyltransferase YhdJ
+45719	46390	CDS
+			EC_number	3.4.-.-
+			dbxref	COG:COG2135
+			gene	yedK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P76318
+			locus_tag	IEOFGAFL_00065
+			product	Putative SOS response-associated peptidase YedK
+46570	46992	CDS
+			EC_number	3.4.21.-
+			dbxref	COG:COG1974
+			gene	umuD_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AG11
+			locus_tag	IEOFGAFL_00066
+			product	Protein UmuD
+46992	48263	CDS
+			dbxref	COG:COG0389
+			gene	umuC_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04152
+			locus_tag	IEOFGAFL_00067
+			product	Protein UmuC
+49370	48399	CDS
+			dbxref	COG:COG1475
+			gene	virB_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A247
+			locus_tag	IEOFGAFL_00068
+			product	Virulence regulon transcriptional activator VirB
+50572	49367	CDS
+			gene	parA_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P07620
+			locus_tag	IEOFGAFL_00069
+			product	Plasmid partition protein A
+50935	51567	CDS
+			gene	bin3_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P20384
+			locus_tag	IEOFGAFL_00070
+			product	Putative transposon Tn552 DNA-invertase bin3
+51968	52918	CDS
+			EC_number	3.1.21.-
+			dbxref	COG:COG5464
+			gene	rpnA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P31667
+			locus_tag	IEOFGAFL_00071
+			product	Recombination-promoting nuclease RpnA
+53526	52915	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00072
+			product	hypothetical protein
+53918	53523	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00073
+			product	hypothetical protein
+54378	53971	CDS
+			EC_number	3.1.13.-
+			gene	rnt
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00157
+			locus_tag	IEOFGAFL_00074
+			product	Ribonuclease T
+54432	55412	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00075
+			product	hypothetical protein
+56058	56621	CDS
+			gene	htrC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P27375
+			locus_tag	IEOFGAFL_00076
+			product	Heat shock protein C
+57090	57794	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00077
+			product	hypothetical protein
+58568	57927	CDS
+			EC_number	2.3.1.28
+			gene	cmlA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P22615
+			locus_tag	IEOFGAFL_00078
+			product	Chloramphenicol acetyltransferase 2
+59218	58718	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00079
+			product	hypothetical protein
+59298	60002	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00080
+			product	hypothetical protein
+60634	61371	CDS
+			gene	bin3_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P20384
+			locus_tag	IEOFGAFL_00081
+			product	Putative transposon Tn552 DNA-invertase bin3
+61368	61592	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00082
+			product	hypothetical protein
+61714	61890	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00083
+			product	hypothetical protein
+63076	62072	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00084
+			product	hypothetical protein
+66121	63155	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00085
+			product	hypothetical protein
+66946	66242	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00086
+			product	hypothetical protein
+67861	67157	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00087
+			product	hypothetical protein
+68099	67908	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00088
+			product	hypothetical protein
+68378	68139	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00089
+			product	hypothetical protein
+68952	68362	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00090
+			product	hypothetical protein
+69622	68912	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00091
+			product	hypothetical protein
+70957	70076	CDS
+			EC_number	3.5.2.6
+			gene	bla_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9F663
+			locus_tag	IEOFGAFL_00092
+			product	Carbapenem-hydrolyzing beta-lactamase KPC
+72213	71233	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00093
+			product	hypothetical protein
+72237	72527	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00094
+			product	hypothetical protein
+72546	72770	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00095
+			product	hypothetical protein
+73553	72849	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00096
+			product	hypothetical protein
+73791	73600	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00097
+			product	hypothetical protein
+74070	73831	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00098
+			product	hypothetical protein
+74644	74054	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00099
+			product	hypothetical protein
+75314	74604	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00100
+			product	hypothetical protein
+76649	75768	CDS
+			EC_number	3.5.2.6
+			gene	bla_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9F663
+			locus_tag	IEOFGAFL_00101
+			product	Carbapenem-hydrolyzing beta-lactamase KPC
+77905	76925	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00102
+			product	hypothetical protein
+77929	78219	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00103
+			product	hypothetical protein
+78238	78462	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00104
+			product	hypothetical protein
+79245	78541	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00105
+			product	hypothetical protein
+79483	79292	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00106
+			product	hypothetical protein
+79762	79523	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00107
+			product	hypothetical protein
+80336	79746	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00108
+			product	hypothetical protein
+81006	80296	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00109
+			product	hypothetical protein
+82341	81460	CDS
+			EC_number	3.5.2.6
+			gene	bla_3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9F663
+			locus_tag	IEOFGAFL_00110
+			product	Carbapenem-hydrolyzing beta-lactamase KPC
+83597	82617	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00111
+			product	hypothetical protein
+83621	83911	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00112
+			product	hypothetical protein
+83930	84154	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00113
+			product	hypothetical protein
+84937	84233	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00114
+			product	hypothetical protein
+85175	84984	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00115
+			product	hypothetical protein
+85454	85215	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00116
+			product	hypothetical protein
+86028	85438	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00117
+			product	hypothetical protein
+86698	85988	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00118
+			product	hypothetical protein
+88033	87152	CDS
+			EC_number	3.5.2.6
+			gene	bla_4
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9F663
+			locus_tag	IEOFGAFL_00119
+			product	Carbapenem-hydrolyzing beta-lactamase KPC
+89289	88309	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00120
+			product	hypothetical protein
+89313	89603	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00121
+			product	hypothetical protein
+89622	89846	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00122
+			product	hypothetical protein
+90629	89925	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00123
+			product	hypothetical protein
+90867	90676	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00124
+			product	hypothetical protein
+91146	90907	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00125
+			product	hypothetical protein
+91720	91130	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00126
+			product	hypothetical protein
+92390	91680	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00127
+			product	hypothetical protein
+93725	92844	CDS
+			EC_number	3.5.2.6
+			gene	bla_5
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9F663
+			locus_tag	IEOFGAFL_00128
+			product	Carbapenem-hydrolyzing beta-lactamase KPC
+94981	94001	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00129
+			product	hypothetical protein
+95005	95295	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00130
+			product	hypothetical protein
+95314	95538	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00131
+			product	hypothetical protein
+96321	95617	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00132
+			product	hypothetical protein
+97392	96358	CDS
+			gene	tnsB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P13989
+			locus_tag	IEOFGAFL_00133
+			product	Transposon Tn7 transposition protein TnsB
+98174	97467	CDS
+			dbxref	COG:COG2200
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9I310
+			locus_tag	IEOFGAFL_00134
+			product	putative signaling protein
+98407	98171	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00135
+			product	hypothetical protein
+98766	98404	CDS
+			dbxref	COG:COG0789
+			gene	mta
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P71039
+			locus_tag	IEOFGAFL_00136
+			product	HTH-type transcriptional activator mta
+100478	98784	CDS
+			EC_number	1.16.1.1
+			gene	merA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P00392
+			locus_tag	IEOFGAFL_00137
+			product	Mercuric reductase
+100991	100530	CDS
+			gene	merC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q50919
+			locus_tag	IEOFGAFL_00138
+			product	Mercuric transport protein MerC
+101263	100988	CDS
+			gene	merP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04129
+			locus_tag	IEOFGAFL_00139
+			product	Mercuric transport protein periplasmic component
+101627	101277	CDS
+			gene	merT
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04140
+			locus_tag	IEOFGAFL_00140
+			product	Mercuric transport protein MerT
+101699	102133	CDS
+			gene	merR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A183
+			locus_tag	IEOFGAFL_00141
+			product	Mercuric resistance operon regulatory protein
+102212	103216	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00142
+			product	hypothetical protein
+103768	103415	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00143
+			product	hypothetical protein
+104174	103797	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00144
+			product	hypothetical protein
+105772	104750	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00145
+			product	hypothetical protein
+107319	105757	CDS
+			gene	recF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00365
+			locus_tag	IEOFGAFL_00146
+			product	DNA replication and repair protein RecF
+107794	107393	CDS
+			EC_number	3.1.-.-
+			dbxref	COG:COG1487
+			gene	vapC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8ZM86
+			locus_tag	IEOFGAFL_00147
+			product	tRNA(fMet)-specific endonuclease VapC
+108036	107806	CDS
+			dbxref	COG:COG4456
+			gene	vapB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7CPV2
+			locus_tag	IEOFGAFL_00148
+			product	Antitoxin VapB
+108517	108206	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00149
+			product	hypothetical protein
+108615	109559	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00150
+			product	hypothetical protein
+109596	109988	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00151
+			product	hypothetical protein
+110271	110567	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00152
+			product	hypothetical protein
+110846	111850	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00153
+			product	hypothetical protein
+112034	112813	CDS
+			dbxref	COG:COG4974
+			gene	xerD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WF33
+			locus_tag	IEOFGAFL_00154
+			product	Tyrosine recombinase XerD
+113116	112859	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00155
+			product	hypothetical protein
+113340	113245	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IEOFGAFL_00156
+			product	hypothetical protein

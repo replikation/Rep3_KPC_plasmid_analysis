@@ -1,0 +1,10 @@
+##gff-version	3
+CP027700.1	.	blaKPC	17041	17922	.	-	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-2;accession=WP_004199234.1;missmatches=0;evalue=0.0
+CP027700.1	.	tnpA	15927	16791	.	.	.	name=tnpA;description=transposase;accession=YP_009328370.1;missmatches=0;evalue=0.0
+CP027700.1	.	tnpA	10479	11201	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP027700.1	.	tnpR	19333	19955	.	-	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_006953666.1;missmatches=15;evalue=0.0
+CP027700.1	.	IncU	12264	12828	.	.	.	name=IncU;description=unknown_protein;accession=unknown_accession;missmatches=3;evalue=0.0
+CP027700.1	.	unknown_gene	9601	10137	.	.	.	name=unknown_gene;description=bifunctional putative esterase EstX/streptothricin N-acetyltransferase Sat1;accession=WP_071846307.1;missmatches=0;evalue=0.0
+CP027700.1	.	tnpR	18231	18817	.	-	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_003108101.1;missmatches=30;evalue=0.0
+CP027700.1	.	delta intI2	8902	9290	.	-	.	name=delta intI2;description=integrase;accession=YP_006961166.1;missmatches=0;evalue=0.0
+CP027700.1	.	IncX3	24203	24576	.	-	.	name=IncX3;description=unknown_protein;accession=unknown_accession;missmatches=1;evalue=0.0

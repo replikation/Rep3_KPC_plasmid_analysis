@@ -1,0 +1,82 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+GIPLDHEA_00001	CDS	705				hypothetical protein
+GIPLDHEA_00002	CDS	123				hypothetical protein
+GIPLDHEA_00003	CDS	876	bla_1	3.5.2.6		Beta-lactamase Toho-1
+GIPLDHEA_00004	CDS	924				hypothetical protein
+GIPLDHEA_00005	CDS	1026	fiu		COG4774	Catecholate siderophore receptor Fiu
+GIPLDHEA_00006	CDS	450	aer		COG0840	Aerotaxis receptor
+GIPLDHEA_00007	CDS	705				hypothetical protein
+GIPLDHEA_00008	CDS	582				hypothetical protein
+GIPLDHEA_00009	CDS	279				hypothetical protein
+GIPLDHEA_00010	CDS	426	klcA_1			Antirestriction protein KlcA
+GIPLDHEA_00011	CDS	156				hypothetical protein
+GIPLDHEA_00012	CDS	297				hypothetical protein
+GIPLDHEA_00013	CDS	981				hypothetical protein
+GIPLDHEA_00014	CDS	882	bla_2	3.5.2.6		Carbapenem-hydrolyzing beta-lactamase KPC
+GIPLDHEA_00015	CDS	981				hypothetical protein
+GIPLDHEA_00016	CDS	402	tnpR			Transposon Tn3 resolvase
+GIPLDHEA_00017	CDS	705				hypothetical protein
+GIPLDHEA_00018	CDS	1191	tnsB			Transposon Tn7 transposition protein TnsB
+GIPLDHEA_00019	CDS	708			COG2200	putative signaling protein
+GIPLDHEA_00020	CDS	237				hypothetical protein
+GIPLDHEA_00021	CDS	363	mta		COG0789	HTH-type transcriptional activator mta
+GIPLDHEA_00022	CDS	1695	merA	1.16.1.1		Mercuric reductase
+GIPLDHEA_00023	CDS	423	merC			Mercuric transport protein MerC
+GIPLDHEA_00024	CDS	276	merP			Mercuric transport protein periplasmic component
+GIPLDHEA_00025	CDS	351	merT			Mercuric transport protein MerT
+GIPLDHEA_00026	CDS	435	merR			Mercuric resistance operon regulatory protein
+GIPLDHEA_00027	CDS	1005				hypothetical protein
+GIPLDHEA_00028	CDS	378				hypothetical protein
+GIPLDHEA_00029	CDS	276				hypothetical protein
+GIPLDHEA_00030	CDS	1023				hypothetical protein
+GIPLDHEA_00031	CDS	1563	recF			DNA replication and repair protein RecF
+GIPLDHEA_00032	CDS	417	vapC	3.1.-.-	COG1487	tRNA(fMet)-specific endonuclease VapC
+GIPLDHEA_00033	CDS	231	vapB		COG4456	Antitoxin VapB
+GIPLDHEA_00034	CDS	945				hypothetical protein
+GIPLDHEA_00035	CDS	393				hypothetical protein
+GIPLDHEA_00036	CDS	522				hypothetical protein
+GIPLDHEA_00037	CDS	204				hypothetical protein
+GIPLDHEA_00038	CDS	1005				hypothetical protein
+GIPLDHEA_00039	CDS	780	xerD		COG4974	Tyrosine recombinase XerD
+GIPLDHEA_00040	CDS	258				hypothetical protein
+GIPLDHEA_00041	CDS	96				hypothetical protein
+GIPLDHEA_00042	CDS	867	repE			Replication initiation protein
+GIPLDHEA_00043	CDS	612				hypothetical protein
+GIPLDHEA_00044	CDS	1206	parA			Plasmid partition protein A
+GIPLDHEA_00045	CDS	975	virB		COG1475	Virulence regulon transcriptional activator VirB
+GIPLDHEA_00046	CDS	1272	umuC		COG0389	Protein UmuC
+GIPLDHEA_00047	CDS	432	umuD	3.4.21.-	COG1974	Protein UmuD
+GIPLDHEA_00048	CDS	1485	ltrA		COG3344	Group II intron-encoded protein LtrA
+GIPLDHEA_00049	CDS	972	parM			Plasmid segregation protein ParM
+GIPLDHEA_00050	CDS	672				hypothetical protein
+GIPLDHEA_00051	CDS	231				hypothetical protein
+GIPLDHEA_00052	CDS	702	yhdJ	2.1.1.72	COG0863	DNA adenine methyltransferase YhdJ
+GIPLDHEA_00053	CDS	222				hypothetical protein
+GIPLDHEA_00054	CDS	420				hypothetical protein
+GIPLDHEA_00055	CDS	768				hypothetical protein
+GIPLDHEA_00056	CDS	429	klcA_2			Antirestriction protein KlcA
+GIPLDHEA_00057	CDS	507				hypothetical protein
+GIPLDHEA_00058	CDS	192				hypothetical protein
+GIPLDHEA_00059	CDS	255	holE	2.7.7.7		DNA polymerase III subunit theta
+GIPLDHEA_00060	CDS	321				hypothetical protein
+GIPLDHEA_00061	CDS	228				hypothetical protein
+GIPLDHEA_00062	CDS	231				hypothetical protein
+GIPLDHEA_00063	CDS	1356				hypothetical protein
+GIPLDHEA_00064	CDS	564				hypothetical protein
+GIPLDHEA_00065	CDS	543	ssb			Plasmid-derived single-stranded DNA-binding protein
+GIPLDHEA_00066	CDS	249				hypothetical protein
+GIPLDHEA_00067	CDS	2058	spo0C		COG1475	Chromosome-partitioning protein Spo0J
+GIPLDHEA_00068	CDS	432	psiB			Protein PsiB
+GIPLDHEA_00069	CDS	729				hypothetical protein
+GIPLDHEA_00070	CDS	327				hypothetical protein
+GIPLDHEA_00071	CDS	375				hypothetical protein
+GIPLDHEA_00072	CDS	153	flmC			Protein FlmC
+GIPLDHEA_00073	CDS	273				hypothetical protein
+GIPLDHEA_00074	CDS	351				hypothetical protein
+GIPLDHEA_00075	CDS	318				hypothetical protein
+GIPLDHEA_00076	CDS	357				hypothetical protein
+GIPLDHEA_00077	CDS	213				hypothetical protein
+GIPLDHEA_00078	CDS	225				hypothetical protein
+GIPLDHEA_00079	CDS	321				hypothetical protein
+GIPLDHEA_00080	CDS	279	higA1		COG1396	Antitoxin HigA1
+GIPLDHEA_00081	CDS	108	higA		COG5499	Antitoxin HigA

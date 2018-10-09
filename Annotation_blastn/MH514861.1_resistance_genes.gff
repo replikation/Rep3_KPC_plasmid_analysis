@@ -1,0 +1,9 @@
+##gff-version	3
+MH514861.1	.	tnpA	28313	31342	.	-	.	name=tnpA;description=transposase;accession=YP_008003448.1;missmatches=0;evalue=0.0
+MH514861.1	.	tnpA	23568	24887	.	.	.	name=tnpA;description=transposase;accession=YP_008166926.1;missmatches=0;evalue=0.0
+MH514861.1	.	istA	27181	28206	.	-	.	name=istA;description=transposase IstA;accession=YP_009328367.1;missmatches=0;evalue=0.0
+MH514861.1	.	blaKPC	25137	26018	.	-	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-2;accession=WP_004199234.1;missmatches=0;evalue=0.0
+MH514861.1	.	tnpA3	10070	10993	.	.	.	name=tnpA3;description=Tn903 transposase;accession=NP_862988.1;missmatches=43;evalue=0.0
+MH514861.1	.	istB	26405	27184	.	-	.	name=istB;description=transposase helper protein IstB;accession=YP_009328368.1;missmatches=0;evalue=0.0
+MH514861.1	.	tnpA	4588	5310	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829280.1;missmatches=0;evalue=0.0
+MH514861.1	.	IncN	54592	55105	.	.	.	name=IncN;description=unknown_protein;accession=unknown_accession;missmatches=3;evalue=0.0

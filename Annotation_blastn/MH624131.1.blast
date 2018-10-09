@@ -1,0 +1,13 @@
+MH624131.1	2638	8298	10935	minus	[gene=tnpA] [locus_tag=D616_p69005] [db_xref=GeneID:13906527] [protein=transposase] [protein_id=YP_006953596.1] [location=complement(4034..7039)] [gbkey=CDS]	0.0	2
+MH624131.1	2385	33530	35913	minus	[gene=mobA] [db_xref=InterPro:IPR005094,UniProtKB/TrEMBL:G9A0C4] [protein=MobA protein] [protein_id=YP_005473816.1] [location=4884..7310] [gbkey=CDS]	0.0	58
+MH624131.1	1275	13063	14337	plus	[gene=tnpA] [locus_tag=pCRE114_050] [db_xref=GeneID:17434085] [protein=transposase] [protein_id=YP_008725167.1] [location=30499..31773] [gbkey=CDS]	0.0	1
+MH624131.1	981	15572	16552	plus	[gene=tnpA] [locus_tag=D647_p38034] [db_xref=GeneID:18261794] [protein=putative ISKpn8 transposase] [protein_id=YP_008998913.1] [location=complement(37987..38967)] [gbkey=CDS]	0.0	0
+MH624131.1	882	17465	18346	plus	[gene=blaKPC] [locus_tag=A7J11_00838] [protein=carbapenem-hydrolyzing class A beta-lactamase KPC-2] [protein_id=WP_004199234.1] [location=6..887] [gbkey=CDS]	0.0	0
+MH624131.1	865	18596	19460	minus	[gene=tnpA] [locus_tag=pEC4365TF2_10] [db_xref=GeneID:30522683] [protein=transposase] [protein_id=YP_009328370.1] [location=complement(13307..14626)] [gbkey=CDS]	0.0	0
+MH624131.1	806	437	1242	plus	[gene=IncP(6)]	0.0	1
+MH624131.1	657	38107	38763	plus	[gene=qnrS] [locus_tag=A7J11_01762] [protein=quinolone resistance pentapeptide repeat protein QnrS2] [protein_id=WP_012537714.1] [location=1..657] [gbkey=CDS]	0.0	0
+MH624131.1	594	14856	15449	plus	[gene=tnpR] [locus_tag=pEK204_p10] [db_xref=GeneID:8319058] [protein=transposon Tn3 resolvase] [protein_id=YP_003108101.1] [location=11899..12492] [gbkey=CDS]	0.0	0
+MH624131.1	565	7700	8264	plus	[gene=tnpA] [locus_tag=p271A_p41] [db_xref=GeneID:11027498] [protein=transposase ISEc33] [protein_id=YP_004765051.1] [location=33802..34833] [gbkey=CDS]	0.0	6
+MH624131.1	537	14351	14887	minus	[gene=tnpA] [locus_tag=pEK204_p09] [db_xref=GeneID:8319057] [protein=transposon Tn3 transposase] [protein_id=YP_003108100.1] [location=complement(8772..11930)] [gbkey=CDS]	0.0	0
+MH624131.1	570	40200	40768	minus	[gene=repA] [db_xref=InterPro:IPR027417,UniProtKB/TrEMBL:G9A0C5] [protein=RepA protein] [protein_id=YP_005473817.1] [location=7381..8262] [gbkey=CDS]	0.0	35
+MH624131.1	374	40395	40768	plus	[gene=IncQ2]	0.0	5

@@ -1,0 +1,1443 @@
+Discrepancy Report Results
+
+Summary
+FATAL: MISSING_PROTEIN_ID:273 proteins have invalid IDs.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:CDS: 273 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:273 features have inconsistent gene locations.
+OVERLAPPING_CDS:2 coding regions overlap another coding region with a similar or identical name.
+SUSPECT_PRODUCT_NAMES:2 product_names contain suspect phrase or characters
+	May contain database identifier more appropriate in note; remove from product name
+		2 features Three or more numbers together
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+SHORT_PROT_SEQUENCES:3 protein sequences are shorter than 50 aa.
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:274 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:MISSING_PROTEIN_ID::273 proteins have invalid IDs.
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_1 (length 452)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_2 (length 131)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_3 (length 239)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_4 (length 101)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_5 (length 329)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_6 (length 249)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_7 (length 65)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_8 (length 931)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_9 (length 189)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_10 (length 93)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_11 (length 87)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_12 (length 84)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_13 (length 125)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_14 (length 335)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_15 (length 229)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_16 (length 249)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_17 (length 371)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_18 (length 308)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_19 (length 426)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_20 (length 1126)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_21 (length 306)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_22 (length 141)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_23 (length 322)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_24 (length 334)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_25 (length 58)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_26 (length 271)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_27 (length 267)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_28 (length 278)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_29 (length 234)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_30 (length 220)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_31 (length 234)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_32 (length 337)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_33 (length 152)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_34 (length 88)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_35 (length 254)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_36 (length 404)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_37 (length 477)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_38 (length 234)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_39 (length 509)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_40 (length 225)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_41 (length 399)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_42 (length 294)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_43 (length 273)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_44 (length 201)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_45 (length 965)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_46 (length 611)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_47 (length 128)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_48 (length 214)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_49 (length 222)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_50 (length 234)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_51 (length 422)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_52 (length 235)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_53 (length 78)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_54 (length 120)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_55 (length 564)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_56 (length 140)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_57 (length 125)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_58 (length 91)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_59 (length 236)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_60 (length 133)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_61 (length 76)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_62 (length 83)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_63 (length 102)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_64 (length 109)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_65 (length 132)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_66 (length 110)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_67 (length 260)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_68 (length 82)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_69 (length 76)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_70 (length 157)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_71 (length 422)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_72 (length 1085)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_73 (length 438)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_74 (length 675)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_75 (length 71)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_76 (length 57)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_77 (length 110)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_78 (length 324)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_79 (length 401)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_80 (length 298)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_81 (length 423)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_82 (length 143)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_83 (length 323)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_84 (length 223)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_85 (length 76)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_86 (length 233)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_87 (length 73)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_88 (length 139)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_89 (length 255)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_90 (length 142)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_91 (length 168)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_92 (length 63)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_93 (length 84)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_94 (length 105)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_95 (length 75)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_96 (length 76)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_97 (length 451)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_98 (length 187)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_99 (length 109)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_100 (length 180)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_101 (length 82)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_102 (length 685)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_103 (length 143)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_104 (length 242)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_105 (length 108)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_106 (length 124)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_107 (length 359)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_108 (length 52)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_109 (length 90)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_110 (length 116)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_111 (length 105)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_112 (length 118)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_113 (length 70)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_114 (length 74)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_115 (length 106)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_116 (length 92)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_117 (length 137)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_118 (length 126)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_119 (length 115)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_120 (length 48)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_121 (length 277)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_122 (length 129)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_123 (length 273)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_124 (length 104)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_125 (length 161)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_126 (length 132)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_127 (length 228)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_128 (length 128)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_129 (length 122)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_130 (length 101)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_131 (length 188)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_132 (length 246)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_133 (length 474)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_134 (length 194)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_135 (length 136)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_136 (length 72)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_137 (length 103)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_138 (length 134)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_139 (length 129)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_140 (length 130)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_141 (length 879)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_142 (length 129)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_143 (length 208)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_144 (length 129)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_145 (length 329)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_146 (length 212)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_147 (length 651)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_148 (length 84)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_149 (length 88)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_150 (length 108)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_151 (length 250)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_152 (length 79)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_153 (length 185)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_154 (length 147)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_155 (length 455)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_156 (length 949)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_157 (length 182)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_158 (length 243)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_159 (length 229)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_160 (length 770)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_161 (length 1753)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_162 (length 241)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_163 (length 197)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_164 (length 198)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_165 (length 214)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_166 (length 216)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_167 (length 102)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_168 (length 186)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_169 (length 83)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_170 (length 285)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_171 (length 187)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_172 (length 203)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_173 (length 53)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_174 (length 318)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_175 (length 51)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_176 (length 571)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_177 (length 1009)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_178 (length 341)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_179 (length 259)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_180 (length 79)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_181 (length 293)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_182 (length 439)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_183 (length 394)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_184 (length 70)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_185 (length 119)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_186 (length 38)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_187 (length 136)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_188 (length 206)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_189 (length 965)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_190 (length 234)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_191 (length 111)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_192 (length 119)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_193 (length 83)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_194 (length 286)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_195 (length 136)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_196 (length 187)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_197 (length 451)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_198 (length 76)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_199 (length 75)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_200 (length 105)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_201 (length 84)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_202 (length 141)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_203 (length 52)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_204 (length 155)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_205 (length 503)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_206 (length 141)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_207 (length 423)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_208 (length 83)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_209 (length 650)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_210 (length 426)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_211 (length 91)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_212 (length 88)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_213 (length 57)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_214 (length 218)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_215 (length 87)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_216 (length 323)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_217 (length 388)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_218 (length 336)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_219 (length 246)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_220 (length 33)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_221 (length 318)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_222 (length 322)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_223 (length 471)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_224 (length 63)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_225 (length 425)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_226 (length 665)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_227 (length 125)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_228 (length 293)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_229 (length 131)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_230 (length 125)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_231 (length 134)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_232 (length 143)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_233 (length 491)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_234 (length 226)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_235 (length 461)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_236 (length 117)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_237 (length 430)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_238 (length 1048)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_239 (length 146)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_240 (length 817)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_241 (length 65)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_242 (length 245)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_243 (length 149)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_244 (length 605)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_245 (length 298)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_246 (length 126)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_247 (length 309)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_248 (length 226)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_249 (length 466)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_250 (length 144)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_251 (length 216)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_252 (length 267)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_253 (length 134)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_254 (length 165)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_255 (length 108)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_256 (length 237)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_257 (length 181)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_258 (length 120)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_259 (length 446)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_260 (length 157)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_261 (length 178)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_262 (length 141)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_263 (length 429)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_264 (length 583)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_265 (length 120)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_266 (length 116)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_267 (length 89)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_268 (length 191)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_269 (length 164)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_270 (length 122)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_271 (length 67)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_272 (length 85)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_273 (length 84)
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 273 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1 (length 246577)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::273 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:679-2037	JAEJBCDK_00001
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:2086-2481	JAEJBCDK_00002
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c3348-2629	JAEJBCDK_00003
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c3656-3351	JAEJBCDK_00004
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Protease HtpX	CP022917.1:c4960-3971	JAEJBCDK_00005
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c5669-4920	JAEJBCDK_00006
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c6104-5907	JAEJBCDK_00007
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	ATP-dependent Clp protease ATP-binding subunit ClpC	CP022917.1:c8899-6104	JAEJBCDK_00008
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Spore protein SP21	CP022917.1:c9592-9023	JAEJBCDK_00009
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c9908-9627	JAEJBCDK_00010
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c10415-10152	JAEJBCDK_00011
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c10669-10415	JAEJBCDK_00012
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:11259-11636	JAEJBCDK_00013
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Formamidase	CP022917.1:c12851-11844	JAEJBCDK_00014
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	High-affinity branched-chain amino acid transport ATP-binding protein LivF	CP022917.1:c13576-12887	JAEJBCDK_00015
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Lipopolysaccharide export system ATP-binding protein LptB	CP022917.1:c14336-13587	JAEJBCDK_00016
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Xylose transport system permease protein XylH	CP022917.1:c15448-14333	JAEJBCDK_00017
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	High-affinity branched-chain amino acid transport system permease protein LivH	CP022917.1:c16384-15458	JAEJBCDK_00018
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Aliphatic amidase expression-regulating protein	CP022917.1:c17721-16441	JAEJBCDK_00019
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Aerobic respiration control sensor protein ArcB	CP022917.1:17936-21316	JAEJBCDK_00020
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	putative cyclic di-GMP phosphodiesterase	CP022917.1:21279-22199	JAEJBCDK_00021
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:22341-22766	JAEJBCDK_00022
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c24164-23196	JAEJBCDK_00023
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:24438-25442	JAEJBCDK_00024
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c25800-25624	JAEJBCDK_00025
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Dihydropteroate synthase	CP022917.1:26130-26945	JAEJBCDK_00026
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Aminoglycoside 3'-phosphotransferase	CP022917.1:27006-27809	JAEJBCDK_00027
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:27809-28645	JAEJBCDK_00028
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:28727-29431	JAEJBCDK_00029
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:29849-30511	JAEJBCDK_00030
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c31106-30402	JAEJBCDK_00031
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Tyrosine recombinase XerD	CP022917.1:c32665-31652	JAEJBCDK_00032
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Dihydrofolate reductase type 1	CP022917.1:32836-33294	JAEJBCDK_00033
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:33515-33781	JAEJBCDK_00034
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:33924-34688	JAEJBCDK_00035
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Type-2 restriction enzyme EcoRII	CP022917.1:34949-36163	JAEJBCDK_00036
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	DNA-cytosine methyltransferase	CP022917.1:c37630-36197	JAEJBCDK_00037
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c38653-37949	JAEJBCDK_00038
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:38704-40233	JAEJBCDK_00039
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Tetracycline repressor protein class A from transposon 1721	CP022917.1:c41226-40549	JAEJBCDK_00040
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Tetracycline resistance protein, class C	CP022917.1:41305-42504	JAEJBCDK_00041
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	putative inner membrane transporter YedA	CP022917.1:c43420-42536	JAEJBCDK_00042
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:43909-44730	JAEJBCDK_00043
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Serine recombinase PinR	CP022917.1:c45332-44727	JAEJBCDK_00044
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:45427-48324	JAEJBCDK_00045
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:48326-50161	JAEJBCDK_00046
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Psp operon transcriptional activator	CP022917.1:50252-50638	JAEJBCDK_00047
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Pentapeptide repeat protein	CP022917.1:50732-51376	JAEJBCDK_00048
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	putative oxidoreductase YghA	CP022917.1:c52136-51468	JAEJBCDK_00049
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c52880-52176	JAEJBCDK_00050
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Transposon Tn7 transposition protein TnsB	CP022917.1:c54195-52927	JAEJBCDK_00051
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	putative signaling protein	CP022917.1:c54977-54270	JAEJBCDK_00052
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c55210-54974	JAEJBCDK_00053
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	HTH-type transcriptional activator mta	CP022917.1:c55569-55207	JAEJBCDK_00054
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Mercuric reductase	CP022917.1:c57281-55587	JAEJBCDK_00055
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Mercuric transport protein MerC	CP022917.1:c57755-57333	JAEJBCDK_00056
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c58294-57917	JAEJBCDK_00057
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c58614-58339	JAEJBCDK_00058
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	DNA replication and repair protein RecF	CP022917.1:c59358-58648	JAEJBCDK_00059
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	tRNA(fMet)-specific endonuclease VapC	CP022917.1:c59833-59432	JAEJBCDK_00060
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Antitoxin VapB	CP022917.1:c60075-59845	JAEJBCDK_00061
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:60683-60934	JAEJBCDK_00062
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:60980-61288	JAEJBCDK_00063
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:61316-61645	JAEJBCDK_00064
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:61671-62069	JAEJBCDK_00065
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:62076-62408	JAEJBCDK_00066
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Tyrosine recombinase XerD	CP022917.1:62408-63190	JAEJBCDK_00067
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c63704-63456	JAEJBCDK_00068
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c64312-64082	JAEJBCDK_00069
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c64877-64404	JAEJBCDK_00070
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c66265-64997	JAEJBCDK_00071
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Type-1 restriction enzyme R protein	CP022917.1:c69527-66270	JAEJBCDK_00072
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c70844-69528	JAEJBCDK_00073
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Type I restriction enzyme EcoKI M protein	CP022917.1:c72868-70841	JAEJBCDK_00074
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c73195-72980	JAEJBCDK_00075
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c73418-73245	JAEJBCDK_00076
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c73752-73420	JAEJBCDK_00077
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Virulence regulon transcriptional activator VirB	CP022917.1:c75103-74129	JAEJBCDK_00078
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Plasmid partition protein A	CP022917.1:c76305-75100	JAEJBCDK_00079
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Replication protein RepA	CP022917.1:c77523-76627	JAEJBCDK_00080
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Protein UmuC	CP022917.1:c79195-77924	JAEJBCDK_00081
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Protein UmuD	CP022917.1:c79626-79195	JAEJBCDK_00082
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Plasmid segregation protein ParM	CP022917.1:79858-80829	JAEJBCDK_00083
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:80832-81503	JAEJBCDK_00084
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:81564-81794	JAEJBCDK_00085
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	DNA adenine methyltransferase YhdJ	CP022917.1:82231-82932	JAEJBCDK_00086
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:82932-83153	JAEJBCDK_00087
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:83163-83582	JAEJBCDK_00088
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:83636-84403	JAEJBCDK_00089
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Antirestriction protein KlcA	CP022917.1:85083-85511	JAEJBCDK_00090
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:85554-86060	JAEJBCDK_00091
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:86103-86294	JAEJBCDK_00092
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	DNA polymerase III subunit theta	CP022917.1:86482-86736	JAEJBCDK_00093
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:86771-87088	JAEJBCDK_00094
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:87872-88099	JAEJBCDK_00095
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:88191-88421	JAEJBCDK_00096
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:88473-89828	JAEJBCDK_00097
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:89876-90439	JAEJBCDK_00098
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c90663-90334	JAEJBCDK_00099
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Plasmid-derived single-stranded DNA-binding protein	CP022917.1:91270-91812	JAEJBCDK_00100
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:91861-92109	JAEJBCDK_00101
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Chromosome-partitioning protein Spo0J	CP022917.1:92179-94236	JAEJBCDK_00102
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Protein PsiB	CP022917.1:94281-94712	JAEJBCDK_00103
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:94709-95437	JAEJBCDK_00104
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:95434-95760	JAEJBCDK_00105
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:95816-96190	JAEJBCDK_00106
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c97447-96368	JAEJBCDK_00107
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Stable plasmid inheritance protein	CP022917.1:97519-97677	JAEJBCDK_00108
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:98370-98642	JAEJBCDK_00109
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:98639-98989	JAEJBCDK_00110
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:99004-99321	JAEJBCDK_00111
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:100161-100517	JAEJBCDK_00112
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:100578-100790	JAEJBCDK_00113
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:100801-101025	JAEJBCDK_00114
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:101106-101426	JAEJBCDK_00115
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Antitoxin HigA1	CP022917.1:101416-101694	JAEJBCDK_00116
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Antitoxin HigA	CP022917.1:101695-102108	JAEJBCDK_00117
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:102825-103205	JAEJBCDK_00118
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:103272-103619	JAEJBCDK_00119
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:103714-103860	JAEJBCDK_00120
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:103911-104744	JAEJBCDK_00121
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c104960-104571	JAEJBCDK_00122
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:105560-106381	JAEJBCDK_00123
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:106429-106743	JAEJBCDK_00124
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c107261-106776	JAEJBCDK_00125
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Relaxosome protein TraM	CP022917.1:107683-108081	JAEJBCDK_00126
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Protein TraJ	CP022917.1:108255-108941	JAEJBCDK_00127
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Relaxosome protein TraY	CP022917.1:109020-109406	JAEJBCDK_00128
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Pilin	CP022917.1:109460-109828	JAEJBCDK_00129
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:109842-110147	JAEJBCDK_00130
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:110167-110733	JAEJBCDK_00131
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:110720-111460	JAEJBCDK_00132
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:111460-112884	JAEJBCDK_00133
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Protein TraV	CP022917.1:112998-113582	JAEJBCDK_00134
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:113714-114124	JAEJBCDK_00135
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:114230-114448	JAEJBCDK_00136
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:114449-114760	JAEJBCDK_00137
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:114827-115231	JAEJBCDK_00138
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:115274-115663	JAEJBCDK_00139
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:115677-116069	JAEJBCDK_00140
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Protein TraC	CP022917.1:116141-118780	JAEJBCDK_00141
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:118780-119169	JAEJBCDK_00142
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:119169-119795	JAEJBCDK_00143
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:119837-120226	JAEJBCDK_00144
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:120223-121212	JAEJBCDK_00145
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:121225-121863	JAEJBCDK_00146
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:121922-123877	JAEJBCDK_00147
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:123909-124163	JAEJBCDK_00148
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:124123-124389	JAEJBCDK_00149
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:124402-124728	JAEJBCDK_00150
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:124749-125501	JAEJBCDK_00151
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Protein TraQ	CP022917.1:125512-125751	JAEJBCDK_00152
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:125723-126280	JAEJBCDK_00153
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:126326-126769	JAEJBCDK_00154
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:126759-128126	JAEJBCDK_00155
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:128126-130975	JAEJBCDK_00156
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Protein TraS	CP022917.1:130988-131536	JAEJBCDK_00157
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Lipoprotein YlpA	CP022917.1:131720-132451	JAEJBCDK_00158
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:132643-133332	JAEJBCDK_00159
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Coupling protein TraD	CP022917.1:133461-135773	JAEJBCDK_00160
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Multifunctional conjugation protein TraI	CP022917.1:135773-141034	JAEJBCDK_00161
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:141115-141840	JAEJBCDK_00162
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Fertility inhibition protein	CP022917.1:141912-142505	JAEJBCDK_00163
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:142672-143268	JAEJBCDK_00164
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:143318-143962	JAEJBCDK_00165
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:144018-144668	JAEJBCDK_00166
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:144665-144973	JAEJBCDK_00167
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Phospholipase D	CP022917.1:145068-145628	JAEJBCDK_00168
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:145764-146015	JAEJBCDK_00169
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:146317-147174	JAEJBCDK_00170
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	RNA chaperone ProQ	CP022917.1:148393-148956	JAEJBCDK_00171
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:148940-149551	JAEJBCDK_00172
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c149921-149760	JAEJBCDK_00173
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c150904-149948	JAEJBCDK_00174
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c151144-150989	JAEJBCDK_00175
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Tyrosine recombinase XerD	CP022917.1:c153154-151439	JAEJBCDK_00176
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:153264-156293	JAEJBCDK_00177
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:156400-157425	JAEJBCDK_00178
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Insertion sequence IS5376 putative ATP-binding protein	CP022917.1:157422-158201	JAEJBCDK_00179
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:158198-158437	JAEJBCDK_00180
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Carbapenem-hydrolyzing beta-lactamase KPC	CP022917.1:158489-159370	JAEJBCDK_00181
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c160939-159620	JAEJBCDK_00182
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c162400-161216	JAEJBCDK_00183
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:162520-162732	JAEJBCDK_00184
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:162904-163263	JAEJBCDK_00185
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c163506-163390	JAEJBCDK_00186
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c164330-163920	JAEJBCDK_00187
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Putative transposon Tn552 DNA-invertase bin3	CP022917.1:c165049-164429	JAEJBCDK_00188
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c168035-165138	JAEJBCDK_00189
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:168108-168812	JAEJBCDK_00190
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Beta-lactamase OXA-18	CP022917.1:169032-169367	JAEJBCDK_00191
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Beta-lactamase OXA-18	CP022917.1:169497-169856	JAEJBCDK_00192
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Transposon Tn3 resolvase	CP022917.1:170122-170373	JAEJBCDK_00193
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Beta-lactamase TEM	CP022917.1:170556-171416	JAEJBCDK_00194
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c171937-171527	JAEJBCDK_00195
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c172680-172117	JAEJBCDK_00196
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c174083-172728	JAEJBCDK_00197
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c174365-174135	JAEJBCDK_00198
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c174684-174457	JAEJBCDK_00199
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c175728-175411	JAEJBCDK_00200
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	DNA polymerase III subunit theta	CP022917.1:c176017-175763	JAEJBCDK_00201
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Antirestriction protein KlcA	CP022917.1:c176679-176254	JAEJBCDK_00202
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:176976-177134	JAEJBCDK_00203
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c177666-177199	JAEJBCDK_00204
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Group II intron-encoded protein LtrA	CP022917.1:c179174-177663	JAEJBCDK_00205
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Protein UmuD	CP022917.1:179576-180001	JAEJBCDK_00206
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Protein UmuC	CP022917.1:180001-181272	JAEJBCDK_00207
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:181351-181602	JAEJBCDK_00208
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c183799-181847	JAEJBCDK_00209
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c185076-183796	JAEJBCDK_00210
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:186044-186319	JAEJBCDK_00211
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:186473-186739	JAEJBCDK_00212
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c186847-186674	JAEJBCDK_00213
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c188343-187687	JAEJBCDK_00214
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c188633-188370	JAEJBCDK_00215
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Protein SopB	CP022917.1:c190733-189762	JAEJBCDK_00216
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Sporulation initiation inhibitor protein Soj	CP022917.1:c191899-190733	JAEJBCDK_00217
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	RepFIB replication protein A	CP022917.1:192651-193661	JAEJBCDK_00218
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Tyrosine recombinase XerD	CP022917.1:c195119-194379	JAEJBCDK_00219
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:195362-195463	JAEJBCDK_00220
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Diguanylate cyclase DgcP	CP022917.1:196254-197210	JAEJBCDK_00221
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:197568-198536	JAEJBCDK_00222
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	putative cyclic di-GMP phosphodiesterase PdeB	CP022917.1:200107-201522	JAEJBCDK_00223
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c202470-202279	JAEJBCDK_00224
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c203782-202505	JAEJBCDK_00225
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Glycine betaine transporter	CP022917.1:c205842-203845	JAEJBCDK_00226
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c206371-205994	JAEJBCDK_00227
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c207763-206882	JAEJBCDK_00228
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c208116-207721	JAEJBCDK_00229
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:208287-208664	JAEJBCDK_00230
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:208818-209222	JAEJBCDK_00231
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Silver-binding protein SilE	CP022917.1:c209949-209518	JAEJBCDK_00232
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Sensor kinase CusS	CP022917.1:c211675-210200	JAEJBCDK_00233
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Transcriptional regulatory protein CusR	CP022917.1:c212348-211668	JAEJBCDK_00234
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Cation efflux system protein CusC	CP022917.1:212538-213923	JAEJBCDK_00235
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Cation efflux system protein CusF	CP022917.1:213952-214305	JAEJBCDK_00236
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Cation efflux system protein CusB	CP022917.1:214419-215711	JAEJBCDK_00237
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Cation efflux system protein CusA	CP022917.1:215722-218868	JAEJBCDK_00238
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:218955-219395	JAEJBCDK_00239
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Silver exporting P-type ATPase	CP022917.1:219522-221975	JAEJBCDK_00240
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:222016-222213	JAEJBCDK_00241
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Murein DD-endopeptidase MepM	CP022917.1:c222984-222247	JAEJBCDK_00242
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Silver-binding protein SilE	CP022917.1:c223722-223273	JAEJBCDK_00243
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Copper resistance protein A	CP022917.1:223956-225773	JAEJBCDK_00244
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Copper resistance protein B	CP022917.1:225773-226669	JAEJBCDK_00245
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Copper resistance protein C	CP022917.1:226709-227089	JAEJBCDK_00246
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Copper resistance protein D	CP022917.1:227094-228023	JAEJBCDK_00247
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Transcriptional activator protein CopR	CP022917.1:228078-228758	JAEJBCDK_00248
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Sensor kinase CusS	CP022917.1:228755-230155	JAEJBCDK_00249
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	putative copper-binding protein PcoE	CP022917.1:230372-230806	JAEJBCDK_00250
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c231928-231278	JAEJBCDK_00251
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:c232886-232083	JAEJBCDK_00252
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Aquaporin Z 2	CP022917.1:233065-233469	JAEJBCDK_00253
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Putative phosphinothricin acetyltransferase YwnH	CP022917.1:c234016-233519	JAEJBCDK_00254
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:234348-234674	JAEJBCDK_00255
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	NADPH-dependent FMN reductase ArsH	CP022917.1:234671-235384	JAEJBCDK_00256
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	ECF RNA polymerase sigma factor SigL	CP022917.1:235393-235938	JAEJBCDK_00257
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Arsenical resistance operon trans-acting repressor ArsD	CP022917.1:236014-236376	JAEJBCDK_00258
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Arsenical pump-driving ATPase	CP022917.1:236395-237735	JAEJBCDK_00259
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Arsenical pump-driving ATPase	CP022917.1:237678-238151	JAEJBCDK_00260
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	L-methionine sulfoximine/L-methionine sulfone acetyltransferase	CP022917.1:238273-238809	JAEJBCDK_00261
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Arsenate reductase	CP022917.1:c239267-238842	JAEJBCDK_00262
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Arsenical pump membrane protein	CP022917.1:c240569-239280	JAEJBCDK_00263
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Arsenical pump-driving ATPase	CP022917.1:c242368-240617	JAEJBCDK_00264
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Arsenical resistance operon trans-acting repressor ArsD	CP022917.1:c242748-242386	JAEJBCDK_00265
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Arsenic resistance transcriptional regulator ArsR2	CP022917.1:c243148-242798	JAEJBCDK_00266
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:243506-243775	JAEJBCDK_00267
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:243763-244338	JAEJBCDK_00268
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:244369-244863	JAEJBCDK_00269
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:244907-245275	JAEJBCDK_00270
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Modulating protein YmoA	CP022917.1:245309-245512	JAEJBCDK_00271
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:245561-245818	JAEJBCDK_00272
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	hypothetical protein	CP022917.1:245894-246148	JAEJBCDK_00273
+
+DiscRep_ALL:OVERLAPPING_CDS::2 coding regions overlap another coding region with a similar or identical name.
+DiscRep_SUB:OVERLAPPING_CDS::2 coding regions overlap another coding region with a similar or identical name that do not have the appropriate note text
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Arsenical pump-driving ATPase	CP022917.1:236395-237735	JAEJBCDK_00259
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Arsenical pump-driving ATPase	CP022917.1:237678-238151	JAEJBCDK_00260
+
+DiscRep_ALL:SUSPECT_PRODUCT_NAMES::2 product_names contain suspect phrase or characters
+DiscRep_SUB:SUSPECT_PRODUCT_NAMES::May contain database identifier more appropriate in note; remove from product name
+DiscRep_SUB:SUSPECT_PRODUCT_NAMES::2 features Three or more numbers together
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Tetracycline repressor protein class A from transposon 1721	CP022917.1:c41226-40549	JAEJBCDK_00040
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CDS	Putative transposon Tn552 DNA-invertase bin3	CP022917.1:c165049-164429	JAEJBCDK_00188
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1:Annotated using prokka 1.14-dev from https://github.com/tseemann/prokka
+
+DiscRep_ALL:SHORT_PROT_SEQUENCES::3 protein sequences are shorter than 50 aa.
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_120 (length 48)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_186 (length 38)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_220 (length 33)
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1 (length 246577)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1 (length 246577)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1 (length 246577)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1 (length 246577)
+
+DiscRep_ALL:MISSING_PROJECT::274 sequences do not include project.
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1 (length 246577)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_1 (length 452)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_2 (length 131)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_3 (length 239)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_4 (length 101)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_5 (length 329)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_6 (length 249)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_7 (length 65)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_8 (length 931)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_9 (length 189)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_10 (length 93)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_11 (length 87)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_12 (length 84)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_13 (length 125)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_14 (length 335)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_15 (length 229)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_16 (length 249)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_17 (length 371)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_18 (length 308)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_19 (length 426)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_20 (length 1126)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_21 (length 306)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_22 (length 141)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_23 (length 322)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_24 (length 334)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_25 (length 58)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_26 (length 271)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_27 (length 267)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_28 (length 278)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_29 (length 234)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_30 (length 220)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_31 (length 234)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_32 (length 337)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_33 (length 152)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_34 (length 88)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_35 (length 254)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_36 (length 404)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_37 (length 477)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_38 (length 234)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_39 (length 509)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_40 (length 225)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_41 (length 399)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_42 (length 294)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_43 (length 273)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_44 (length 201)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_45 (length 965)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_46 (length 611)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_47 (length 128)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_48 (length 214)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_49 (length 222)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_50 (length 234)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_51 (length 422)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_52 (length 235)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_53 (length 78)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_54 (length 120)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_55 (length 564)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_56 (length 140)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_57 (length 125)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_58 (length 91)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_59 (length 236)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_60 (length 133)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_61 (length 76)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_62 (length 83)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_63 (length 102)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_64 (length 109)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_65 (length 132)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_66 (length 110)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_67 (length 260)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_68 (length 82)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_69 (length 76)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_70 (length 157)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_71 (length 422)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_72 (length 1085)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_73 (length 438)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_74 (length 675)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_75 (length 71)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_76 (length 57)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_77 (length 110)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_78 (length 324)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_79 (length 401)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_80 (length 298)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_81 (length 423)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_82 (length 143)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_83 (length 323)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_84 (length 223)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_85 (length 76)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_86 (length 233)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_87 (length 73)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_88 (length 139)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_89 (length 255)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_90 (length 142)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_91 (length 168)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_92 (length 63)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_93 (length 84)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_94 (length 105)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_95 (length 75)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_96 (length 76)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_97 (length 451)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_98 (length 187)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_99 (length 109)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_100 (length 180)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_101 (length 82)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_102 (length 685)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_103 (length 143)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_104 (length 242)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_105 (length 108)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_106 (length 124)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_107 (length 359)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_108 (length 52)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_109 (length 90)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_110 (length 116)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_111 (length 105)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_112 (length 118)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_113 (length 70)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_114 (length 74)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_115 (length 106)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_116 (length 92)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_117 (length 137)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_118 (length 126)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_119 (length 115)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_120 (length 48)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_121 (length 277)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_122 (length 129)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_123 (length 273)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_124 (length 104)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_125 (length 161)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_126 (length 132)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_127 (length 228)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_128 (length 128)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_129 (length 122)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_130 (length 101)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_131 (length 188)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_132 (length 246)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_133 (length 474)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_134 (length 194)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_135 (length 136)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_136 (length 72)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_137 (length 103)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_138 (length 134)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_139 (length 129)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_140 (length 130)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_141 (length 879)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_142 (length 129)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_143 (length 208)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_144 (length 129)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_145 (length 329)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_146 (length 212)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_147 (length 651)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_148 (length 84)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_149 (length 88)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_150 (length 108)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_151 (length 250)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_152 (length 79)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_153 (length 185)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_154 (length 147)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_155 (length 455)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_156 (length 949)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_157 (length 182)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_158 (length 243)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_159 (length 229)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_160 (length 770)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_161 (length 1753)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_162 (length 241)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_163 (length 197)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_164 (length 198)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_165 (length 214)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_166 (length 216)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_167 (length 102)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_168 (length 186)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_169 (length 83)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_170 (length 285)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_171 (length 187)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_172 (length 203)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_173 (length 53)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_174 (length 318)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_175 (length 51)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_176 (length 571)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_177 (length 1009)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_178 (length 341)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_179 (length 259)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_180 (length 79)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_181 (length 293)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_182 (length 439)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_183 (length 394)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_184 (length 70)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_185 (length 119)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_186 (length 38)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_187 (length 136)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_188 (length 206)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_189 (length 965)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_190 (length 234)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_191 (length 111)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_192 (length 119)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_193 (length 83)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_194 (length 286)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_195 (length 136)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_196 (length 187)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_197 (length 451)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_198 (length 76)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_199 (length 75)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_200 (length 105)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_201 (length 84)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_202 (length 141)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_203 (length 52)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_204 (length 155)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_205 (length 503)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_206 (length 141)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_207 (length 423)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_208 (length 83)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_209 (length 650)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_210 (length 426)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_211 (length 91)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_212 (length 88)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_213 (length 57)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_214 (length 218)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_215 (length 87)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_216 (length 323)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_217 (length 388)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_218 (length 336)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_219 (length 246)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_220 (length 33)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_221 (length 318)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_222 (length 322)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_223 (length 471)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_224 (length 63)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_225 (length 425)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_226 (length 665)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_227 (length 125)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_228 (length 293)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_229 (length 131)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_230 (length 125)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_231 (length 134)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_232 (length 143)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_233 (length 491)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_234 (length 226)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_235 (length 461)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_236 (length 117)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_237 (length 430)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_238 (length 1048)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_239 (length 146)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_240 (length 817)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_241 (length 65)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_242 (length 245)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_243 (length 149)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_244 (length 605)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_245 (length 298)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_246 (length 126)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_247 (length 309)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_248 (length 226)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_249 (length 466)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_250 (length 144)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_251 (length 216)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_252 (length 267)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_253 (length 134)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_254 (length 165)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_255 (length 108)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_256 (length 237)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_257 (length 181)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_258 (length 120)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_259 (length 446)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_260 (length 157)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_261 (length 178)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_262 (length 141)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_263 (length 429)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_264 (length 583)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_265 (length 120)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_266 (length 116)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_267 (length 89)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_268 (length 191)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_269 (length 164)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_270 (length 122)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_271 (length 67)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_272 (length 85)
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1_273 (length 84)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+plasmid_files_fasta/CP022917.1_results/PROKKA_10092018:CP022917.1 (length 246577)
+

@@ -1,0 +1,67 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+ENPHLKAJ_00001	CDS	612				hypothetical protein
+ENPHLKAJ_00002	CDS	396				hypothetical protein
+ENPHLKAJ_00003	CDS	753	topB_1	5.99.1.2	COG0550	DNA topoisomerase 3
+ENPHLKAJ_00004	CDS	1398	topB_2	5.99.1.2	COG0550	DNA topoisomerase 3
+ENPHLKAJ_00005	CDS	495	stpA		COG2916	DNA-binding protein StpA
+ENPHLKAJ_00006	CDS	408				hypothetical protein
+ENPHLKAJ_00007	CDS	180				hypothetical protein
+ENPHLKAJ_00008	CDS	825				hypothetical protein
+ENPHLKAJ_00009	CDS	255				hypothetical protein
+ENPHLKAJ_00010	CDS	276				hypothetical protein
+ENPHLKAJ_00011	CDS	279				hypothetical protein
+ENPHLKAJ_00012	CDS	240				hypothetical protein
+ENPHLKAJ_00013	CDS	327	xerD			Tyrosine recombinase XerD
+ENPHLKAJ_00014	CDS	537	xerH		COG0582	Tyrosine recombinase XerH
+ENPHLKAJ_00015	CDS	525	wecD	2.3.1.210		dTDP-fucosamine acetyltransferase
+ENPHLKAJ_00016	CDS	462				hypothetical protein
+ENPHLKAJ_00017	CDS	705				hypothetical protein
+ENPHLKAJ_00018	CDS	297	higA-1		COG3093	Antitoxin HigA-1
+ENPHLKAJ_00019	CDS	1380				hypothetical protein
+ENPHLKAJ_00020	CDS	279				hypothetical protein
+ENPHLKAJ_00021	CDS	423	klcA			Antirestriction protein KlcA
+ENPHLKAJ_00022	CDS	156				hypothetical protein
+ENPHLKAJ_00023	CDS	297				hypothetical protein
+ENPHLKAJ_00024	CDS	981				hypothetical protein
+ENPHLKAJ_00025	CDS	882	bla	3.5.2.6		Carbapenem-hydrolyzing beta-lactamase KPC
+ENPHLKAJ_00026	CDS	558	tnpR			Transposon Tn3 resolvase
+ENPHLKAJ_00027	CDS	969	bin3			Putative transposon Tn552 DNA-invertase bin3
+ENPHLKAJ_00028	CDS	669				Iron-sulfur cluster carrier protein
+ENPHLKAJ_00029	CDS	216				hypothetical protein
+ENPHLKAJ_00030	CDS	285				hypothetical protein
+ENPHLKAJ_00031	CDS	483				hypothetical protein
+ENPHLKAJ_00032	CDS	255				hypothetical protein
+ENPHLKAJ_00033	CDS	126				hypothetical protein
+ENPHLKAJ_00034	CDS	210				hypothetical protein
+ENPHLKAJ_00035	CDS	444				hypothetical protein
+ENPHLKAJ_00036	CDS	873	pir			PI protein
+ENPHLKAJ_00037	CDS	516	dnaJ			Chaperone protein DnaJ
+ENPHLKAJ_00038	CDS	237				hypothetical protein
+ENPHLKAJ_00039	CDS	372				hypothetical protein
+ENPHLKAJ_00040	CDS	174				hypothetical protein
+ENPHLKAJ_00041	CDS	270				hypothetical protein
+ENPHLKAJ_00042	CDS	234				hypothetical protein
+ENPHLKAJ_00043	CDS	174				hypothetical protein
+ENPHLKAJ_00044	CDS	258				hypothetical protein
+ENPHLKAJ_00045	CDS	546				hypothetical protein
+ENPHLKAJ_00046	CDS	1161				hypothetical protein
+ENPHLKAJ_00047	CDS	510	rfaH		COG0250	Transcription antitermination protein RfaH
+ENPHLKAJ_00048	CDS	228				hypothetical protein
+ENPHLKAJ_00049	CDS	543	virB1			Type IV secretion system protein virB1
+ENPHLKAJ_00050	CDS	291				hypothetical protein
+ENPHLKAJ_00051	CDS	1569	virB4_1			Type IV secretion system protein virB4
+ENPHLKAJ_00052	CDS	1188	virB4_2			Type IV secretion system protein virB4
+ENPHLKAJ_00053	CDS	771				hypothetical protein
+ENPHLKAJ_00054	CDS	258				hypothetical protein
+ENPHLKAJ_00055	CDS	1056				hypothetical protein
+ENPHLKAJ_00056	CDS	729	virB8			Type IV secretion system protein virB8
+ENPHLKAJ_00057	CDS	930	virB9			Type IV secretion system protein virB9
+ENPHLKAJ_00058	CDS	1203				Type IV secretion system protein virB10
+ENPHLKAJ_00059	CDS	1032	ptlH		COG0630	Type IV secretion system protein PtlH
+ENPHLKAJ_00060	CDS	198				hypothetical protein
+ENPHLKAJ_00061	CDS	1836	virD4			Protein VirD4
+ENPHLKAJ_00062	CDS	393				hypothetical protein
+ENPHLKAJ_00063	CDS	315				hypothetical protein
+ENPHLKAJ_00064	CDS	387				hypothetical protein
+ENPHLKAJ_00065	CDS	249				hypothetical protein
+ENPHLKAJ_00066	CDS	474	yhcR	3.1.31.-	COG0737	Endonuclease YhcR

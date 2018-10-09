@@ -1,0 +1,9 @@
+CP027700.1	882	17041	17922	minus	[gene=blaKPC] [locus_tag=A7J11_00838] [protein=carbapenem-hydrolyzing class A beta-lactamase KPC-2] [protein_id=WP_004199234.1] [location=6..887] [gbkey=CDS]	0.0	0
+CP027700.1	865	15927	16791	plus	[gene=tnpA] [locus_tag=pEC4365TF2_10] [db_xref=GeneID:30522683] [protein=transposase] [protein_id=YP_009328370.1] [location=complement(13307..14626)] [gbkey=CDS]	0.0	0
+CP027700.1	723	10479	11201	minus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	0
+CP027700.1	623	19333	19955	minus	[gene=tnpR] [locus_tag=ec14_9] [db_xref=GeneID:13906602] [protein=transposon Tn3 resolvase] [protein_id=YP_006953666.1] [location=4489..5157] [gbkey=CDS]	0.0	15
+CP027700.1	565	12264	12828	plus	[gene=IncU]	0.0	3
+CP027700.1	537	9601	10137	plus	[locus_tag=A7J11_04464] [protein=bifunctional putative esterase EstX/streptothricin N-acetyltransferase Sat1] [protein_id=WP_071846307.1] [location=101..1606] [gbkey=CDS]	0.0	0
+CP027700.1	588	18231	18817	minus	[gene=tnpR] [locus_tag=pEK204_p10] [db_xref=GeneID:8319058] [protein=transposon Tn3 resolvase] [protein_id=YP_003108101.1] [location=11899..12492] [gbkey=CDS]	0.0	30
+CP027700.1	389	8902	9290	minus	[gene=delta intI2] [locus_tag=D760_p4] [db_xref=GeneID:13917887] [protein=integrase] [protein_id=YP_006961166.1] [location=complement(535..924)] [gbkey=CDS]	0.0	0
+CP027700.1	374	24203	24576	minus	[gene=IncX3]	0.0	1

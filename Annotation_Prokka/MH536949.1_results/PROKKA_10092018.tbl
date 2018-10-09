@@ -1,0 +1,284 @@
+>Feature MH536949.1
+201	875	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00001
+			product	hypothetical protein
+1544	1233	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00002
+			product	hypothetical protein
+1894	1580	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00003
+			product	hypothetical protein
+2235	1891	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00004
+			product	hypothetical protein
+2556	2251	CDS
+			gene	hvrA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P42505
+			locus_tag	GGBJHAMB_00005
+			product	Trans-acting regulatory protein HvrA
+2665	3402	CDS
+			gene	virB1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RPY4
+			locus_tag	GGBJHAMB_00006
+			product	Type IV secretion system protein virB1
+3411	3692	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00007
+			product	hypothetical protein
+3702	3995	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00008
+			product	hypothetical protein
+4046	4363	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00009
+			product	hypothetical protein
+4363	6963	CDS
+			gene	virB4
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RPY1
+			locus_tag	GGBJHAMB_00010
+			product	Type IV secretion system protein virB4
+6981	7694	CDS
+			gene	virB5
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RPY0
+			locus_tag	GGBJHAMB_00011
+			product	Type IV secretion system protein virB5
+7702	7929	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00012
+			product	hypothetical protein
+7945	8985	CDS
+			gene	virB6
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RPX9
+			locus_tag	GGBJHAMB_00013
+			product	Type IV secretion system protein VirB6
+9204	9902	CDS
+			gene	virB8
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7CEG3
+			locus_tag	GGBJHAMB_00014
+			product	Type IV secretion system protein virB8
+9913	10797	CDS
+			gene	virB9
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RPX6
+			locus_tag	GGBJHAMB_00015
+			product	Type IV secretion system protein virB9
+10797	11957	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P17800
+			locus_tag	GGBJHAMB_00016
+			product	Protein virB10
+11999	12994	CDS
+			dbxref	COG:COG0630
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RNC7
+			locus_tag	GGBJHAMB_00017
+			product	Type IV secretion system protein VirB11
+12994	13173	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00018
+			product	hypothetical protein
+13450	14769	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00019
+			product	hypothetical protein
+15900	15019	CDS
+			EC_number	3.5.2.6
+			gene	bla
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9F663
+			locus_tag	GGBJHAMB_00020
+			product	Carbapenem-hydrolyzing beta-lactamase KPC
+16806	16027	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q45619
+			locus_tag	GGBJHAMB_00021
+			product	Insertion sequence IS5376 putative ATP-binding protein
+17828	16803	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00022
+			product	hypothetical protein
+20964	17935	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00023
+			product	hypothetical protein
+21074	22789	CDS
+			dbxref	COG:COG4974
+			gene	xerD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A8P8
+			locus_tag	GGBJHAMB_00024
+			product	Tyrosine recombinase XerD
+22907	23278	CDS
+			EC_number	3.1.4.4
+			gene	pld
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q92G53
+			locus_tag	GGBJHAMB_00025
+			product	Phospholipase D
+23765	23451	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00026
+			product	hypothetical protein
+24376	24020	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00027
+			product	hypothetical protein
+24767	24366	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00028
+			product	hypothetical protein
+25054	24764	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00029
+			product	hypothetical protein
+25516	25118	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00030
+			product	hypothetical protein
+28752	25516	CDS
+			gene	traI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P14565
+			locus_tag	GGBJHAMB_00031
+			product	Multifunctional conjugation protein TraI
+30281	28752	CDS
+			gene	traD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P09130
+			locus_tag	GGBJHAMB_00032
+			product	Coupling protein TraD
+30699	30283	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00033
+			product	hypothetical protein
+31288	31674	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00034
+			product	hypothetical protein
+31683	32399	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00035
+			product	hypothetical protein
+32401	32769	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00036
+			product	hypothetical protein
+32970	33314	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00037
+			product	hypothetical protein
+33955	33776	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00038
+			product	hypothetical protein
+34613	34068	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00039
+			product	hypothetical protein
+34768	34613	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00040
+			product	hypothetical protein
+35079	34840	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00041
+			product	hypothetical protein
+35493	35089	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00042
+			product	hypothetical protein
+35976	35551	CDS
+			gene	klcA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P52603
+			locus_tag	GGBJHAMB_00043
+			product	Antirestriction protein KlcA
+36392	36832	CDS
+			EC_number	3.4.21.-
+			dbxref	COG:COG1974
+			gene	umuD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AG11
+			locus_tag	GGBJHAMB_00044
+			product	Protein UmuD
+36820	38085	CDS
+			dbxref	COG:COG0389
+			gene	umuC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04152
+			locus_tag	GGBJHAMB_00045
+			product	Protein UmuC
+38236	39027	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00046
+			product	hypothetical protein
+39383	39042	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00047
+			product	hypothetical protein
+39943	40662	CDS
+			gene	repE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P03856
+			locus_tag	GGBJHAMB_00048
+			product	Replication initiation protein
+41357	40473	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00049
+			product	hypothetical protein
+42327	43802	CDS
+			dbxref	COG:COG0653
+			gene	secA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:C0QZS7
+			locus_tag	GGBJHAMB_00050
+			product	Protein translocase subunit SecA
+44134	45045	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00051
+			product	hypothetical protein
+45760	45191	CDS
+			dbxref	COG:COG1961
+			gene	hin
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P03013
+			locus_tag	GGBJHAMB_00052
+			product	DNA-invertase hin
+46006	47214	CDS
+			EC_number	3.1.21.4
+			gene	ecoRIIR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P14633
+			locus_tag	GGBJHAMB_00053
+			product	Type-2 restriction enzyme EcoRII
+48681	47248	CDS
+			EC_number	2.1.1.37
+			dbxref	COG:COG0270
+			gene	dcm
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AED9
+			locus_tag	GGBJHAMB_00054
+			product	DNA-cytosine methyltransferase
+48786	49052	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00055
+			product	hypothetical protein
+49269	49063	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00056
+			product	hypothetical protein
+49528	49274	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GGBJHAMB_00057
+			product	hypothetical protein

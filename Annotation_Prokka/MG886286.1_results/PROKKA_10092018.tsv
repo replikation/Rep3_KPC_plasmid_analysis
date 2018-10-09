@@ -1,0 +1,67 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+OAAPCMAL_00001	CDS	720	repE			Replication initiation protein
+OAAPCMAL_00002	CDS	342				hypothetical protein
+OAAPCMAL_00003	CDS	792				hypothetical protein
+OAAPCMAL_00004	CDS	1266	umuC		COG0389	Protein UmuC
+OAAPCMAL_00005	CDS	441	umuD	3.4.21.-	COG1974	Protein UmuD
+OAAPCMAL_00006	CDS	426	klcA			Antirestriction protein KlcA
+OAAPCMAL_00007	CDS	405				hypothetical protein
+OAAPCMAL_00008	CDS	240				hypothetical protein
+OAAPCMAL_00009	CDS	156				hypothetical protein
+OAAPCMAL_00010	CDS	546				hypothetical protein
+OAAPCMAL_00011	CDS	297				hypothetical protein
+OAAPCMAL_00012	CDS	360				hypothetical protein
+OAAPCMAL_00013	CDS	285				hypothetical protein
+OAAPCMAL_00014	CDS	333				hypothetical protein
+OAAPCMAL_00015	CDS	108				hypothetical protein
+OAAPCMAL_00016	CDS	510				hypothetical protein
+OAAPCMAL_00017	CDS	180				hypothetical protein
+OAAPCMAL_00018	CDS	345				hypothetical protein
+OAAPCMAL_00019	CDS	369				hypothetical protein
+OAAPCMAL_00020	CDS	717				hypothetical protein
+OAAPCMAL_00021	CDS	387				hypothetical protein
+OAAPCMAL_00022	CDS	417				hypothetical protein
+OAAPCMAL_00023	CDS	1530	traD			Coupling protein TraD
+OAAPCMAL_00024	CDS	3237	traI			Multifunctional conjugation protein TraI
+OAAPCMAL_00025	CDS	399				hypothetical protein
+OAAPCMAL_00026	CDS	291				hypothetical protein
+OAAPCMAL_00027	CDS	402				hypothetical protein
+OAAPCMAL_00028	CDS	357				hypothetical protein
+OAAPCMAL_00029	CDS	315				hypothetical protein
+OAAPCMAL_00030	CDS	372	pld	3.1.4.4		Phospholipase D
+OAAPCMAL_00031	CDS	657	xerD			Tyrosine recombinase XerD
+OAAPCMAL_00032	CDS	1191				hypothetical protein
+OAAPCMAL_00033	CDS	1026				hypothetical protein
+OAAPCMAL_00034	CDS	780				Insertion sequence IS5376 putative ATP-binding protein
+OAAPCMAL_00035	CDS	882	bla	3.5.2.6		Carbapenem-hydrolyzing beta-lactamase KPC
+OAAPCMAL_00036	CDS	1320				hypothetical protein
+OAAPCMAL_00037	CDS	180				hypothetical protein
+OAAPCMAL_00038	CDS	996			COG0630	Type IV secretion system protein VirB11
+OAAPCMAL_00039	CDS	1161				Protein virB10
+OAAPCMAL_00040	CDS	885	virB9			Type IV secretion system protein virB9
+OAAPCMAL_00041	CDS	699	virB8			Type IV secretion system protein virB8
+OAAPCMAL_00042	CDS	1041	virB6			Type IV secretion system protein VirB6
+OAAPCMAL_00043	CDS	228				hypothetical protein
+OAAPCMAL_00044	CDS	714	virB5			Type IV secretion system protein virB5
+OAAPCMAL_00045	CDS	2601	virB4			Type IV secretion system protein virB4
+OAAPCMAL_00046	CDS	318				hypothetical protein
+OAAPCMAL_00047	CDS	294				hypothetical protein
+OAAPCMAL_00048	CDS	282				hypothetical protein
+OAAPCMAL_00049	CDS	738	virB1			Type IV secretion system protein virB1
+OAAPCMAL_00050	CDS	306	hvrA			Trans-acting regulatory protein HvrA
+OAAPCMAL_00051	CDS	345				hypothetical protein
+OAAPCMAL_00052	CDS	315				hypothetical protein
+OAAPCMAL_00053	CDS	312				hypothetical protein
+OAAPCMAL_00054	CDS	924				hypothetical protein
+OAAPCMAL_00055	CDS	255				hypothetical protein
+OAAPCMAL_00056	CDS	207				hypothetical protein
+OAAPCMAL_00057	CDS	267				hypothetical protein
+OAAPCMAL_00058	CDS	1434	dcm	2.1.1.37	COG0270	DNA-cytosine methyltransferase
+OAAPCMAL_00059	CDS	594	ecoRIIR_1	3.1.21.4		Type-2 restriction enzyme EcoRII
+OAAPCMAL_00060	CDS	822				hypothetical protein
+OAAPCMAL_00061	CDS	267				hypothetical protein
+OAAPCMAL_00062	CDS	345	ecoRIIR_2	3.1.21.4		Type-2 restriction enzyme EcoRII
+OAAPCMAL_00063	CDS	570	hin		COG1961	DNA-invertase hin
+OAAPCMAL_00064	CDS	747				hypothetical protein
+OAAPCMAL_00065	CDS	1476	secA		COG0653	Protein translocase subunit SecA
+OAAPCMAL_00066	CDS	1128				hypothetical protein

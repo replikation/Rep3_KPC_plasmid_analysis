@@ -1,0 +1,133 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+CNNAOPIG_00001	CDS	912	virB_1		COG1475	Virulence regulon transcriptional activator VirB
+CNNAOPIG_00002	CDS	1272	umuC_1		COG0389	Protein UmuC
+CNNAOPIG_00003	CDS	423	umuD_1	3.4.21.-	COG1974	Protein UmuD
+CNNAOPIG_00004	CDS	672	yedK	3.4.-.-	COG2135	Putative SOS response-associated peptidase YedK
+CNNAOPIG_00005	CDS	678	yhdJ_1	2.1.1.72	COG0863	DNA adenine methyltransferase YhdJ
+CNNAOPIG_00006	CDS	222				hypothetical protein
+CNNAOPIG_00007	CDS	420				hypothetical protein
+CNNAOPIG_00008	CDS	780				hypothetical protein
+CNNAOPIG_00009	CDS	507				hypothetical protein
+CNNAOPIG_00010	CDS	192				hypothetical protein
+CNNAOPIG_00011	CDS	237				hypothetical protein
+CNNAOPIG_00012	CDS	261	holE_1	2.7.7.7		DNA polymerase III subunit theta
+CNNAOPIG_00013	CDS	153				hypothetical protein
+CNNAOPIG_00014	CDS	303				hypothetical protein
+CNNAOPIG_00015	CDS	231				hypothetical protein
+CNNAOPIG_00016	CDS	663	spo0C_1		COG1475	Chromosome-partitioning protein Spo0J
+CNNAOPIG_00017	CDS	1299				hypothetical protein
+CNNAOPIG_00018	CDS	432	psiB_1			Protein PsiB
+CNNAOPIG_00019	CDS	729				hypothetical protein
+CNNAOPIG_00020	CDS	324				hypothetical protein
+CNNAOPIG_00021	CDS	360				hypothetical protein
+CNNAOPIG_00022	CDS	375				hypothetical protein
+CNNAOPIG_00023	CDS	993				hypothetical protein
+CNNAOPIG_00024	CDS	279	higA1		COG1396	Antitoxin HigA1
+CNNAOPIG_00025	CDS	321				hypothetical protein
+CNNAOPIG_00026	CDS	225				hypothetical protein
+CNNAOPIG_00027	CDS	213				hypothetical protein
+CNNAOPIG_00028	CDS	357				hypothetical protein
+CNNAOPIG_00029	CDS	318				hypothetical protein
+CNNAOPIG_00030	CDS	351				hypothetical protein
+CNNAOPIG_00031	CDS	273				hypothetical protein
+CNNAOPIG_00032	CDS	159	flmA			Stable plasmid inheritance protein
+CNNAOPIG_00033	CDS	375				hypothetical protein
+CNNAOPIG_00034	CDS	327				hypothetical protein
+CNNAOPIG_00035	CDS	729				hypothetical protein
+CNNAOPIG_00036	CDS	432	psiB_2			Protein PsiB
+CNNAOPIG_00037	CDS	2058	spo0C_2		COG1475	Chromosome-partitioning protein Spo0J
+CNNAOPIG_00038	CDS	249				hypothetical protein
+CNNAOPIG_00039	CDS	543	ssb			Plasmid-derived single-stranded DNA-binding protein
+CNNAOPIG_00040	CDS	327				hypothetical protein
+CNNAOPIG_00041	CDS	321				hypothetical protein
+CNNAOPIG_00042	CDS	564				hypothetical protein
+CNNAOPIG_00043	CDS	1356				hypothetical protein
+CNNAOPIG_00044	CDS	231				hypothetical protein
+CNNAOPIG_00045	CDS	228				hypothetical protein
+CNNAOPIG_00046	CDS	258				hypothetical protein
+CNNAOPIG_00047	CDS	321				hypothetical protein
+CNNAOPIG_00048	CDS	255	holE_2	2.7.7.7		DNA polymerase III subunit theta
+CNNAOPIG_00049	CDS	192				hypothetical protein
+CNNAOPIG_00050	CDS	507				hypothetical protein
+CNNAOPIG_00051	CDS	429	klcA_1			Antirestriction protein KlcA
+CNNAOPIG_00052	CDS	768				hypothetical protein
+CNNAOPIG_00053	CDS	420				hypothetical protein
+CNNAOPIG_00054	CDS	222				hypothetical protein
+CNNAOPIG_00055	CDS	702	yhdJ_2	2.1.1.72	COG0863	DNA adenine methyltransferase YhdJ
+CNNAOPIG_00056	CDS	231				hypothetical protein
+CNNAOPIG_00057	CDS	672				hypothetical protein
+CNNAOPIG_00058	CDS	972	parM			Plasmid segregation protein ParM
+CNNAOPIG_00059	CDS	417				hypothetical protein
+CNNAOPIG_00060	CDS	603				hypothetical protein
+CNNAOPIG_00061	CDS	432	umuD_2	3.4.21.-	COG1974	Protein UmuD
+CNNAOPIG_00062	CDS	1272	umuC_2		COG0389	Protein UmuC
+CNNAOPIG_00063	CDS	975	virB_2		COG1475	Virulence regulon transcriptional activator VirB
+CNNAOPIG_00064	CDS	1017	parA_1			Plasmid partition protein A
+CNNAOPIG_00065	CDS	1281				hypothetical protein
+CNNAOPIG_00066	CDS	723	repE_1			Replication initiation protein
+CNNAOPIG_00067	CDS	276				hypothetical protein
+CNNAOPIG_00068	CDS	258				hypothetical protein
+CNNAOPIG_00069	CDS	780	xerD		COG4974	Tyrosine recombinase XerD
+CNNAOPIG_00070	CDS	1005				hypothetical protein
+CNNAOPIG_00071	CDS	522				hypothetical protein
+CNNAOPIG_00072	CDS	393				hypothetical protein
+CNNAOPIG_00073	CDS	945				hypothetical protein
+CNNAOPIG_00074	CDS	231	vapB		COG4456	Antitoxin VapB
+CNNAOPIG_00075	CDS	372	vapC	3.1.-.-	COG1487	tRNA(fMet)-specific endonuclease VapC
+CNNAOPIG_00076	CDS	1563	recF			DNA replication and repair protein RecF
+CNNAOPIG_00077	CDS	1023				hypothetical protein
+CNNAOPIG_00078	CDS	504				hypothetical protein
+CNNAOPIG_00079	CDS	150	pndA			Protein PndA
+CNNAOPIG_00080	CDS	249				hypothetical protein
+CNNAOPIG_00081	CDS	858				hypothetical protein
+CNNAOPIG_00082	CDS	612				hypothetical protein
+CNNAOPIG_00083	CDS	258	pemI			Antitoxin PemI
+CNNAOPIG_00084	CDS	333	pemK	3.1.-.-		Endoribonuclease PemK
+CNNAOPIG_00085	CDS	216				hypothetical protein
+CNNAOPIG_00086	CDS	606				hypothetical protein
+CNNAOPIG_00087	CDS	705				hypothetical protein
+CNNAOPIG_00088	CDS	576				hypothetical protein
+CNNAOPIG_00089	CDS	618				hypothetical protein
+CNNAOPIG_00090	CDS	528	hin		COG1961	DNA-invertase hin
+CNNAOPIG_00091	CDS	153				hypothetical protein
+CNNAOPIG_00092	CDS	717				hypothetical protein
+CNNAOPIG_00093	CDS	1476	secA		COG0653	Protein translocase subunit SecA
+CNNAOPIG_00094	CDS	195				hypothetical protein
+CNNAOPIG_00095	CDS	1023				hypothetical protein
+CNNAOPIG_00096	CDS	720	repE_2			Replication initiation protein
+CNNAOPIG_00097	CDS	342				hypothetical protein
+CNNAOPIG_00098	CDS	792				hypothetical protein
+CNNAOPIG_00099	CDS	504				hypothetical protein
+CNNAOPIG_00100	CDS	705				hypothetical protein
+CNNAOPIG_00101	CDS	576				hypothetical protein
+CNNAOPIG_00102	CDS	618				hypothetical protein
+CNNAOPIG_00103	CDS	402	tnpR			Transposon Tn3 resolvase
+CNNAOPIG_00104	CDS	414				hypothetical protein
+CNNAOPIG_00105	CDS	396				hypothetical protein
+CNNAOPIG_00106	CDS	114				hypothetical protein
+CNNAOPIG_00107	CDS	882	bla	3.5.2.6		Carbapenem-hydrolyzing beta-lactamase KPC
+CNNAOPIG_00108	CDS	981				hypothetical protein
+CNNAOPIG_00109	CDS	297				hypothetical protein
+CNNAOPIG_00110	CDS	156				hypothetical protein
+CNNAOPIG_00111	CDS	423	klcA_2			Antirestriction protein KlcA
+CNNAOPIG_00112	CDS	279				hypothetical protein
+CNNAOPIG_00113	CDS	429				hypothetical protein
+CNNAOPIG_00114	CDS	1029				hypothetical protein
+CNNAOPIG_00115	CDS	492				hypothetical protein
+CNNAOPIG_00116	CDS	621				hypothetical protein
+CNNAOPIG_00117	CDS	1332	traD_1			Coupling protein TraD
+CNNAOPIG_00118	CDS	5136	traI			Multifunctional conjugation protein TraI
+CNNAOPIG_00119	CDS	621				hypothetical protein
+CNNAOPIG_00120	CDS	897	traD_2			Coupling protein TraD
+CNNAOPIG_00121	CDS	738				hypothetical protein
+CNNAOPIG_00122	CDS	735	ylpA			Lipoprotein YlpA
+CNNAOPIG_00123	CDS	522	traS			Protein TraS
+CNNAOPIG_00124	CDS	2817				hypothetical protein
+CNNAOPIG_00125	tRNA	72				tRNA-Thr(ggt)
+CNNAOPIG_00126	CDS	696				hypothetical protein
+CNNAOPIG_00127	CDS	468				hypothetical protein
+CNNAOPIG_00128	CDS	612				hypothetical protein
+CNNAOPIG_00129	CDS	951	rpnA	3.1.21.-	COG5464	Recombination-promoting nuclease RpnA
+CNNAOPIG_00130	CDS	201				hypothetical protein
+CNNAOPIG_00131	CDS	633	bin3			Putative transposon Tn552 DNA-invertase bin3
+CNNAOPIG_00132	CDS	1206	parA_2			Plasmid partition protein A

@@ -1,0 +1,38 @@
+##gff-version	3
+MH255827.1	.	tnpA	63155	66121	.	-	.	name=tnpA;description=transposase;accession=YP_009062675.1;missmatches=55;evalue=0.0
+MH255827.1	.	thiAdelta1	96384	97428	.	-	.	name=thiAdelta1;description=putative transposase;accession=YP_001551934.1;missmatches=0;evalue=0.0
+MH255827.1	.	insD2	62072	63076	.	-	.	name=insD2;description=transposase;accession=YP_006966030.1;missmatches=0;evalue=0.0
+MH255827.1	.	insD2	102212	103216	.	.	.	name=insD2;description=transposase;accession=YP_006966030.1;missmatches=0;evalue=0.0
+MH255827.1	.	tnpA	94001	94981	.	-	.	name=tnpA;description=ISKpn27 transposase;accession=YP_009328786.1;missmatches=0;evalue=0.0
+MH255827.1	.	tnpA	88309	89289	.	-	.	name=tnpA;description=ISKpn27 transposase;accession=YP_009328786.1;missmatches=0;evalue=0.0
+MH255827.1	.	tnpA	82617	83597	.	-	.	name=tnpA;description=ISKpn27 transposase;accession=YP_009328786.1;missmatches=0;evalue=0.0
+MH255827.1	.	tnpA	76925	77905	.	-	.	name=tnpA;description=ISKpn27 transposase;accession=YP_009328786.1;missmatches=0;evalue=0.0
+MH255827.1	.	tnpA	71233	72213	.	-	.	name=tnpA;description=ISKpn27 transposase;accession=YP_009328786.1;missmatches=0;evalue=0.0
+MH255827.1	.	insH	54432	55412	.	.	.	name=insH;description=IS5 transposase;accession=YP_007936898.1;missmatches=3;evalue=0.0
+MH255827.1	.	blaKPC	92844	93725	.	-	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-2;accession=WP_004199234.1;missmatches=0;evalue=0.0
+MH255827.1	.	blaKPC	87152	88033	.	-	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-2;accession=WP_004199234.1;missmatches=0;evalue=0.0
+MH255827.1	.	blaKPC	81460	82341	.	-	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-2;accession=WP_004199234.1;missmatches=0;evalue=0.0
+MH255827.1	.	blaKPC	75768	76649	.	-	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-2;accession=WP_004199234.1;missmatches=0;evalue=0.0
+MH255827.1	.	blaKPC	70076	70957	.	-	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-2;accession=WP_004199234.1;missmatches=0;evalue=0.0
+MH255827.1	.	tnpA	68962	69826	.	.	.	name=tnpA;description=transposase;accession=YP_009328370.1;missmatches=0;evalue=0.0
+MH255827.1	.	tnpA	74654	75518	.	.	.	name=tnpA;description=transposase;accession=YP_009328370.1;missmatches=0;evalue=0.0
+MH255827.1	.	tnpA	80346	81210	.	.	.	name=tnpA;description=transposase;accession=YP_009328370.1;missmatches=0;evalue=0.0
+MH255827.1	.	tnpA	86038	86902	.	.	.	name=tnpA;description=transposase;accession=YP_009328370.1;missmatches=0;evalue=0.0
+MH255827.1	.	tnpA	91730	92594	.	.	.	name=tnpA;description=transposase;accession=YP_009328370.1;missmatches=0;evalue=0.0
+MH255827.1	.	tnpA	95617	96339	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+MH255827.1	.	tnpA	89925	90647	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+MH255827.1	.	tnpA	84233	84955	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+MH255827.1	.	tnpA	78541	79263	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+MH255827.1	.	tnpA	72849	73571	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+MH255827.1	.	tnpA	67157	67879	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+MH255827.1	.	tnpA	66242	66964	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+MH255827.1	.	tnpA	57072	57794	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+MH255827.1	.	tnpA	59280	60002	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+MH255827.1	.	tnpA	34556	35278	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+MH255827.1	.	catA2	57927	58568	.	-	.	name=catA2;description=type A-2 chloramphenicol O-acetyltransferase CatII;accession=WP_001011939.1;missmatches=0;evalue=0.0
+MH255827.1	.	insB	103797	104300	.	-	.	name=insB;description=InsB transposase;accession=YP_006953205.1;missmatches=0;evalue=0.0
+MH255827.1	.	tnpR	95104	95562	.	-	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_003108101.1;missmatches=14;evalue=0.0
+MH255827.1	.	tnpR	89412	89870	.	-	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_003108101.1;missmatches=14;evalue=0.0
+MH255827.1	.	tnpR	83720	84178	.	-	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_003108101.1;missmatches=14;evalue=0.0
+MH255827.1	.	tnpR	78028	78486	.	-	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_003108101.1;missmatches=14;evalue=0.0
+MH255827.1	.	tnpR	72336	72794	.	-	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_003108101.1;missmatches=14;evalue=0.0

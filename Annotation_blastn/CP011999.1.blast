@@ -1,0 +1,20 @@
+CP011999.1	3030	30968	33997	minus	[gene=tnpA] [locus_tag=pEC4365TF2_06] [db_xref=GeneID:30522679] [protein=transposase TnpA] [protein_id=YP_009328366.1] [location=6852..9881] [gbkey=CDS]	0.0	0
+CP011999.1	2907	19217	22123	plus	[gene=tnpA] [locus_tag=pECL8_p102] [db_xref=GeneID:9538108] [protein=Tn501 transposase] [protein_id=YP_003829177.1] [location=complement(93061..96012)] [gbkey=CDS]	0.0	2
+CP011999.1	1320	26322	27641	plus	[gene=tnpA] [locus_tag=FCF1305_p0038] [db_xref=GeneID:16039991] [protein=transposase] [protein_id=YP_008166926.1] [location=complement(34349..35668)] [gbkey=CDS]	0.0	0
+CP011999.1	1305	13973	15277	plus	[gene=thiAdelta1] [locus_tag=MAK1.112c] [db_xref=GeneID:5741254] [protein=putative transposase] [protein_id=YP_001551934.1] [location=complement(97298..98602)] [gbkey=CDS]	0.0	1
+CP011999.1	1026	29836	30861	minus	[gene=istA] [locus_tag=pEC4365TF2_07] [db_xref=GeneID:30522680] [protein=transposase IstA] [protein_id=YP_009328367.1] [location=9988..11013] [gbkey=CDS]	0.0	0
+CP011999.1	1014	43507	44520	plus	[gene=intI1] [locus_tag=ST67780_p1003] [db_xref=GeneID:14612604] [protein=intI1] [protein_id=YP_007447591.1] [location=complement(677..1690)] [gbkey=CDS]	0.0	0
+CP011999.1	882	27891	28772	minus	[gene=blaKPC] [locus_tag=A7J11_00838] [protein=carbapenem-hydrolyzing class A beta-lactamase KPC-2] [protein_id=WP_004199234.1] [location=6..887] [gbkey=CDS]	0.0	0
+CP011999.1	861	15845	16705	minus	[gene=blaTEM] [locus_tag=A7J11_00887] [protein=class A beta-lactamase TEM-181] [protein_id=WP_000027060.1] [location=101..961] [gbkey=CDS]	0.0	2
+CP011999.1	825	17405	18229	minus	[gene=blaOXA] [locus_tag=A7J11_00977] [protein=oxacillin-hydrolyzing class D beta-lactamase OXA-9] [protein_id=WP_000722315.1] [location=101..925] [gbkey=CDS]	0.0	1
+CP011999.1	780	29060	29839	minus	[gene=istB] [locus_tag=pEC4365TF2_08] [db_xref=GeneID:30522681] [protein=transposase helper protein IstB] [protein_id=YP_009328368.1] [location=11010..11789] [gbkey=CDS]	0.0	0
+CP011999.1	795	41496	42278	minus	[gene=tnpA of IS6100] [locus_tag=D727_p1028] [db_xref=GeneID:13919449] [protein=IS6100 transposase] [protein_id=YP_006965438.1] [location=69423..70217] [gbkey=CDS]	0.0	0
+CP011999.1	723	18449	19171	minus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	0
+CP011999.1	723	51678	52400	plus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	1
+CP011999.1	723	59999	60721	plus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	1
+CP011999.1	392	15306	15697	plus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	0
+CP011999.1	765	41496	42248	minus	[gene=tnpA] [locus_tag=D733_p1013] [db_xref=GeneID:20467640] [protein=transposase] [protein_id=YP_009062567.1] [location=complement(10094..10858)] [gbkey=CDS]	0.0	0
+CP011999.1	504	9784	10287	plus	[gene=insB] [locus_tag=pNDM10505_135] [db_xref=GeneID:13906113] [protein=InsB transposase] [protein_id=YP_006953205.1] [location=107362..107865] [gbkey=CDS]	0.0	0
+CP011999.1	483	42878	43360	minus	[gene=dfrA14] [locus_tag=A7J11_00060] [protein=trimethoprim-resistant dihydrofolate reductase DfrA14] [protein_id=WP_001348218.1] [location=101..583] [gbkey=CDS]	0.0	0
+CP011999.1	387	54610	54996	plus	[gene=IncFIA(HI1)]	0.0	6
+CP011999.1	319	16888	17206	minus	[gene=tnpR] [locus_tag=pEK204_p10] [db_xref=GeneID:8319058] [protein=transposon Tn3 resolvase] [protein_id=YP_003108101.1] [location=11899..12492] [gbkey=CDS]	9e-152	9

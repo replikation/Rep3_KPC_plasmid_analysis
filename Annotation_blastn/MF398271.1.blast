@@ -1,0 +1,27 @@
+MF398271.1	2970	47846	50815	plus	[gene=tnpA] [locus_tag=LV170] [db_xref=GeneID:2657623] [protein=TnpA transposase] [protein_id=NP_943466.1] [location=complement(148644..151613)] [gbkey=CDS]	0.0	1
+MF398271.1	981	103271	104251	plus	[gene=tnpA] [locus_tag=p628KPC_022] [db_xref=GeneID:30522712] [protein=ISKpn27 transposase] [protein_id=YP_009328786.1] [location=complement(20016..20996)] [gbkey=CDS]	0.0	0
+MF398271.1	882	104527	105408	plus	[gene=blaKPC] [locus_tag=A7J11_00838] [protein=carbapenem-hydrolyzing class A beta-lactamase KPC-2] [protein_id=WP_004199234.1] [location=6..887] [gbkey=CDS]	0.0	0
+MF398271.1	924	222613	223536	plus	[gene=tnpA3] [locus_tag=p165897_076] [db_xref=GeneID:1446547] [protein=Tn903 transposase] [protein_id=NP_862988.1] [location=69416..70339] [gbkey=CDS]	0.0	34
+MF398271.1	924	51585	52508	minus	[gene=tnpA3] [locus_tag=p165897_076] [db_xref=GeneID:1446547] [protein=Tn903 transposase] [protein_id=NP_862988.1] [location=69416..70339] [gbkey=CDS]	0.0	83
+MF398271.1	924	137709	138632	minus	[gene=tnpA3] [locus_tag=p165897_076] [db_xref=GeneID:1446547] [protein=Tn903 transposase] [protein_id=NP_862988.1] [location=69416..70339] [gbkey=CDS]	0.0	85
+MF398271.1	795	98095	98889	minus	[gene=tnpA of IS6100] [locus_tag=D727_p1028] [db_xref=GeneID:13919449] [protein=IS6100 transposase] [protein_id=YP_006965438.1] [location=69423..70217] [gbkey=CDS]	0.0	0
+MF398271.1	722	100863	101584	plus	[gene=insB4] [locus_tag=pAM04528_0144] [db_xref=GeneID:7886529] [protein=transposase InsB4 for insertion sequence IS26] [protein_id=YP_002894680.1] [location=complement(123834..124556)] [gbkey=CDS]	0.0	0
+MF398271.1	722	101913	102634	plus	[gene=insB4] [locus_tag=pAM04528_0144] [db_xref=GeneID:7886529] [protein=transposase InsB4 for insertion sequence IS26] [protein_id=YP_002894680.1] [location=complement(123834..124556)] [gbkey=CDS]	0.0	0
+MF398271.1	722	106101	106822	minus	[gene=insB4] [locus_tag=pAM04528_0144] [db_xref=GeneID:7886529] [protein=transposase InsB4 for insertion sequence IS26] [protein_id=YP_002894680.1] [location=complement(123834..124556)] [gbkey=CDS]	0.0	0
+MF398271.1	722	92141	92862	minus	[gene=insB4] [locus_tag=pAM04528_0144] [db_xref=GeneID:7886529] [protein=transposase InsB4 for insertion sequence IS26] [protein_id=YP_002894680.1] [location=complement(123834..124556)] [gbkey=CDS]	0.0	0
+MF398271.1	704	100118	100821	plus	[gene=intI1] [locus_tag=ST67780_p1003] [db_xref=GeneID:14612604] [protein=intI1] [protein_id=YP_007447591.1] [location=complement(677..1690)] [gbkey=CDS]	0.0	2
+MF398271.1	699	54204	54901	plus	[gene=insAB'] [locus_tag=pECFT_p16] [db_xref=GeneID:10549025] [protein=IS1 transposase frame shift product] [exception=ribosomal slippage] [protein_id=YP_004422908.1] [location=join(17295..17551,17551..17992)] [gbkey=CDS]	0.0	9
+MF398271.1	699	111547	112244	minus	[gene=insAB'] [locus_tag=pECFT_p16] [db_xref=GeneID:10549025] [protein=IS1 transposase frame shift product] [exception=ribosomal slippage] [protein_id=YP_004422908.1] [location=join(17295..17551,17551..17992)] [gbkey=CDS]	0.0	9
+MF398271.1	1137	149091	150225	minus	[gene=shiF] [locus_tag=MM1_0102] [db_xref=GeneID:16191135] [protein=transposon function, ShiF, putative] [protein_id=YP_002539378.1] [location=67184..68377] [gbkey=CDS]	0.0	164
+MF398271.1	1015	5599	6611	plus	[gene=tnpA4] [locus_tag=p165897_078] [db_xref=GeneID:1446549] [protein=IS100 transposase] [protein_id=NP_862990.1] [location=complement(71506..72528)] [gbkey=CDS]	0.0	141
+MF398271.1	780	6621	7400	plus	[gene=istB] [locus_tag=pOU7519_136] [db_xref=GeneID:5788185] [protein=transposase/IS protein] [protein_id=YP_001598178.1] [location=complement(114330..115109)] [gbkey=CDS]	0.0	79
+MF398271.1	947	182653	183599	minus	[gene=insC] [locus_tag=YR71pYR1_0151] [db_xref=GeneID:4927250] [protein=transposase InsC for insertion sequence IS903] [protein_id=YP_001101845.1] [location=complement(125124..126092)] [gbkey=CDS]	0.0	148
+MF398271.1	483	99489	99971	minus	[gene=dfrA14] [locus_tag=A7J11_00060] [protein=trimethoprim-resistant dihydrofolate reductase DfrA14] [protein_id=WP_001348218.1] [location=101..583] [gbkey=CDS]	0.0	0
+MF398271.1	473	220328	220800	minus	[gene=IncHI1B]	0.0	4
+MF398271.1	618	47226	47843	plus	[gene=tnpR] [locus_tag=R55_149] [db_xref=GeneID:11934321] [protein=transposon Tn21 resolvase] [protein_id=YP_005352038.1] [location=complement(138678..139295)] [gbkey=CDS]	0.0	57
+MF398271.1	459	102690	103148	plus	[gene=tnpR] [locus_tag=pEK204_p10] [db_xref=GeneID:8319058] [protein=transposon Tn3 resolvase] [protein_id=YP_003108101.1] [location=11899..12492] [gbkey=CDS]	0.0	14
+MF398271.1	560	300	859	minus	[gene=IncFIB(K)]	0.0	49
+MF398271.1	397	105658	106054	minus	[gene=tnpA] [locus_tag=pEC4365TF2_10] [db_xref=GeneID:30522683] [protein=transposase] [protein_id=YP_009328370.1] [location=complement(13307..14626)] [gbkey=CDS]	0.0	1
+MF398271.1	910	61888	62792	plus	[gene=insD] [locus_tag=R621a_p065] [db_xref=GeneID:11107466] [protein=IS2 transposase InsD] [protein_id=YP_004823746.1] [location=complement(57170..58075)] [gbkey=CDS]	0.0	166
+MF398271.1	907	228752	229657	minus	[gene=insD] [locus_tag=R621a_p065] [db_xref=GeneID:11107466] [protein=IS2 transposase InsD] [protein_id=YP_004823746.1] [location=complement(57170..58075)] [gbkey=CDS]	0.0	175
+MF398271.1	507	147497	148000	minus	[gene=tnpA] [locus_tag=p271A_p41] [db_xref=GeneID:11027498] [protein=transposase ISEc33] [protein_id=YP_004765051.1] [location=33802..34833] [gbkey=CDS]	3e-161	61

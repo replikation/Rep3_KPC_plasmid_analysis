@@ -1,0 +1,55 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+HLCJMCGC_00001	CDS	981				hypothetical protein
+HLCJMCGC_00002	CDS	558	tnpR			Transposon Tn3 resolvase
+HLCJMCGC_00003	CDS	3006				hypothetical protein
+HLCJMCGC_00004	CDS	174				hypothetical protein
+HLCJMCGC_00005	CDS	519				hypothetical protein
+HLCJMCGC_00006	CDS	360				hypothetical protein
+HLCJMCGC_00007	CDS	432				hypothetical protein
+HLCJMCGC_00008	CDS	981				hypothetical protein
+HLCJMCGC_00009	CDS	360				hypothetical protein
+HLCJMCGC_00010	CDS	525	dnaJ		COG0484	Chaperone protein DnaJ
+HLCJMCGC_00011	CDS	543				hypothetical protein
+HLCJMCGC_00012	CDS	246				hypothetical protein
+HLCJMCGC_00013	CDS	222				hypothetical protein
+HLCJMCGC_00014	CDS	282				hypothetical protein
+HLCJMCGC_00015	CDS	213				hypothetical protein
+HLCJMCGC_00016	CDS	261				hypothetical protein
+HLCJMCGC_00017	CDS	138				hypothetical protein
+HLCJMCGC_00018	CDS	225				hypothetical protein
+HLCJMCGC_00019	CDS	276				hypothetical protein
+HLCJMCGC_00020	CDS	267				hypothetical protein
+HLCJMCGC_00021	CDS	555				hypothetical protein
+HLCJMCGC_00022	CDS	1191				hypothetical protein
+HLCJMCGC_00023	CDS	327				hypothetical protein
+HLCJMCGC_00024	CDS	639	virB1			Type IV secretion system protein virB1
+HLCJMCGC_00025	CDS	288				hypothetical protein
+HLCJMCGC_00026	CDS	2760	virB4			Type IV secretion system protein virB4
+HLCJMCGC_00027	CDS	702				hypothetical protein
+HLCJMCGC_00028	CDS	258				hypothetical protein
+HLCJMCGC_00029	CDS	1077				hypothetical protein
+HLCJMCGC_00030	CDS	138				hypothetical protein
+HLCJMCGC_00031	CDS	741	ptlE		COG3736	Type IV secretion system protein PtlE
+HLCJMCGC_00032	CDS	921	virB9			Type IV secretion system protein virB9
+HLCJMCGC_00033	CDS	1512			COG2948	Type IV secretion system protein virB10
+HLCJMCGC_00034	CDS	1062				Type IV secretion system protein VirB11
+HLCJMCGC_00035	CDS	1968	virD4			Protein VirD4
+HLCJMCGC_00036	CDS	387				hypothetical protein
+HLCJMCGC_00037	CDS	393				hypothetical protein
+HLCJMCGC_00038	CDS	348				hypothetical protein
+HLCJMCGC_00039	CDS	747				hypothetical protein
+HLCJMCGC_00040	CDS	2400	topB	5.99.1.2	COG0550	DNA topoisomerase 3
+HLCJMCGC_00041	CDS	210	ymoA			Modulating protein YmoA
+HLCJMCGC_00042	CDS	471	hns			DNA-binding protein H-NS
+HLCJMCGC_00043	CDS	645	minD		COG2894	Septum site-determining protein MinD
+HLCJMCGC_00044	CDS	285				hypothetical protein
+HLCJMCGC_00045	CDS	129				hypothetical protein
+HLCJMCGC_00046	CDS	2967				hypothetical protein
+HLCJMCGC_00047	CDS	561	hin		COG1961	DNA-invertase hin
+HLCJMCGC_00048	CDS	561				hypothetical protein
+HLCJMCGC_00049	CDS	279				hypothetical protein
+HLCJMCGC_00050	CDS	426	klcA			Antirestriction protein KlcA
+HLCJMCGC_00051	CDS	156				hypothetical protein
+HLCJMCGC_00052	CDS	297				hypothetical protein
+HLCJMCGC_00053	CDS	981				hypothetical protein
+HLCJMCGC_00054	CDS	882	bla	3.5.2.6		Carbapenem-hydrolyzing beta-lactamase KPC

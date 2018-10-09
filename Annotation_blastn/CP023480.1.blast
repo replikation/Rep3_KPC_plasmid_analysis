@@ -1,0 +1,5 @@
+CP023480.1	882	3328	4209	plus	[gene=blaKPC] [locus_tag=A7J11_00838] [protein=carbapenem-hydrolyzing class A beta-lactamase KPC-2] [protein_id=WP_004199234.1] [location=6..887] [gbkey=CDS]	0.0	0
+CP023480.1	865	4459	5323	minus	[gene=tnpA] [locus_tag=pEC4365TF2_10] [db_xref=GeneID:30522683] [protein=transposase] [protein_id=YP_009328370.1] [location=complement(13307..14626)] [gbkey=CDS]	0.0	0
+CP023480.1	780	6486	7265	minus	[gene=aph(3')-VIa] [locus_tag=A7J11_00375] [protein=aminoglycoside O-phosphotransferase APH(3')-VIa] [protein_id=WP_000422636.1] [location=101..880] [gbkey=CDS]	0.0	12
+CP023480.1	594	2426	3019	plus	[gene=tnpR] [locus_tag=rpec180_9] [db_xref=GeneID:13906710] [protein=transposon Tn3 resolvase] [protein_id=YP_006953763.1] [location=complement(6081..6674)] [gbkey=CDS]	0.0	0
+CP023480.1	450	227	676	minus	[gene=IncQ1]	0.0	0

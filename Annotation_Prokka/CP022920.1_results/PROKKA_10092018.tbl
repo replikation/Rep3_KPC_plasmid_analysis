@@ -1,0 +1,1425 @@
+>Feature CP022920.1
+1	2898	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00001
+			product	hypothetical protein
+2987	3607	CDS
+			gene	bin3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P20384
+			locus_tag	ABOKEBEM_00002
+			product	Putative transposon Tn552 DNA-invertase bin3
+3706	4116	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00003
+			product	hypothetical protein
+4530	4646	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00004
+			product	hypothetical protein
+5132	4773	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00005
+			product	hypothetical protein
+5516	5304	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00006
+			product	hypothetical protein
+5636	6820	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00007
+			product	hypothetical protein
+7097	8416	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00008
+			product	hypothetical protein
+9547	8666	CDS
+			EC_number	3.5.2.6
+			gene	bla_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9F663
+			locus_tag	ABOKEBEM_00009
+			product	Carbapenem-hydrolyzing beta-lactamase KPC
+9838	9599	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00010
+			product	hypothetical protein
+10614	9835	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q45619
+			locus_tag	ABOKEBEM_00011
+			product	Insertion sequence IS5376 putative ATP-binding protein
+11636	10611	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00012
+			product	hypothetical protein
+14772	11743	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00013
+			product	hypothetical protein
+14882	16597	CDS
+			dbxref	COG:COG4974
+			gene	xerD_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A8P8
+			locus_tag	ABOKEBEM_00014
+			product	Tyrosine recombinase XerD
+16892	17047	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00015
+			product	hypothetical protein
+17096	18088	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00016
+			product	hypothetical protein
+18115	18276	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00017
+			product	hypothetical protein
+19096	18485	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00018
+			product	hypothetical protein
+19643	19080	CDS
+			dbxref	COG:COG3109
+			gene	proQ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P45577
+			locus_tag	ABOKEBEM_00019
+			product	RNA chaperone ProQ
+21719	20862	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00020
+			product	hypothetical protein
+22272	22021	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00021
+			product	hypothetical protein
+22968	22408	CDS
+			EC_number	3.1.4.4
+			gene	pld
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q92G53
+			locus_tag	ABOKEBEM_00022
+			product	Phospholipase D
+23371	23063	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00023
+			product	hypothetical protein
+24018	23368	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00024
+			product	hypothetical protein
+24718	24074	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00025
+			product	hypothetical protein
+25364	24768	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00026
+			product	hypothetical protein
+26124	25531	CDS
+			gene	finO
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P29367
+			locus_tag	ABOKEBEM_00027
+			product	Fertility inhibition protein
+26921	26196	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00028
+			product	hypothetical protein
+32263	27002	CDS
+			gene	traI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P14565
+			locus_tag	ABOKEBEM_00029
+			product	Multifunctional conjugation protein TraI
+34575	32263	CDS
+			gene	traD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P09130
+			locus_tag	ABOKEBEM_00030
+			product	Coupling protein TraD
+35393	34704	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00031
+			product	hypothetical protein
+36316	35585	CDS
+			gene	ylpA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P27461
+			locus_tag	ABOKEBEM_00032
+			product	Lipoprotein YlpA
+37048	36500	CDS
+			gene	traS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P09129
+			locus_tag	ABOKEBEM_00033
+			product	Protein TraS
+39910	37061	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00034
+			product	hypothetical protein
+41277	39910	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00035
+			product	hypothetical protein
+41710	41267	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00036
+			product	hypothetical protein
+42313	41756	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00037
+			product	hypothetical protein
+42524	42285	CDS
+			gene	traQ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P18033
+			locus_tag	ABOKEBEM_00038
+			product	Protein TraQ
+43287	42535	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00039
+			product	hypothetical protein
+43634	43308	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00040
+			product	hypothetical protein
+43913	43647	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00041
+			product	hypothetical protein
+44127	43873	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00042
+			product	hypothetical protein
+46114	44159	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00043
+			product	hypothetical protein
+46811	46173	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00044
+			product	hypothetical protein
+47813	46824	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00045
+			product	hypothetical protein
+48199	47810	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00046
+			product	hypothetical protein
+48867	48241	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00047
+			product	hypothetical protein
+49256	48867	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00048
+			product	hypothetical protein
+51895	49256	CDS
+			gene	traC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P18004
+			locus_tag	ABOKEBEM_00049
+			product	Protein TraC
+52359	51967	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00050
+			product	hypothetical protein
+52762	52373	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00051
+			product	hypothetical protein
+53209	52805	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00052
+			product	hypothetical protein
+53587	53276	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00053
+			product	hypothetical protein
+53806	53588	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00054
+			product	hypothetical protein
+54322	53912	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00055
+			product	hypothetical protein
+55038	54454	CDS
+			gene	traV
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P41069
+			locus_tag	ABOKEBEM_00056
+			product	Protein TraV
+56576	55152	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00057
+			product	hypothetical protein
+57316	56576	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00058
+			product	hypothetical protein
+57869	57303	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00059
+			product	hypothetical protein
+58194	57889	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00060
+			product	hypothetical protein
+58576	58208	CDS
+			gene	traA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04737
+			locus_tag	ABOKEBEM_00061
+			product	Pilin
+59016	58630	CDS
+			gene	traY
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P06627
+			locus_tag	ABOKEBEM_00062
+			product	Relaxosome protein TraY
+59781	59095	CDS
+			gene	traJ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P06626
+			locus_tag	ABOKEBEM_00063
+			product	Protein TraJ
+60353	59955	CDS
+			gene	traM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P07294
+			locus_tag	ABOKEBEM_00064
+			product	Relaxosome protein TraM
+60775	61260	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00065
+			product	hypothetical protein
+61607	61293	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00066
+			product	hypothetical protein
+62476	61655	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00067
+			product	hypothetical protein
+63085	63465	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00068
+			product	hypothetical protein
+64125	63292	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00069
+			product	hypothetical protein
+64322	64176	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00070
+			product	hypothetical protein
+64764	64417	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00071
+			product	hypothetical protein
+65211	64831	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00072
+			product	hypothetical protein
+66341	65928	CDS
+			dbxref	COG:COG5499
+			gene	higA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P67701
+			locus_tag	ABOKEBEM_00073
+			product	Antitoxin HigA
+66620	66342	CDS
+			dbxref	COG:COG1396
+			gene	higA1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WJA7
+			locus_tag	ABOKEBEM_00074
+			product	Antitoxin HigA1
+66930	66610	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00075
+			product	hypothetical protein
+67235	67011	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00076
+			product	hypothetical protein
+67458	67246	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00077
+			product	hypothetical protein
+67875	67519	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00078
+			product	hypothetical protein
+69032	68715	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00079
+			product	hypothetical protein
+69397	69047	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00080
+			product	hypothetical protein
+69666	69394	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00081
+			product	hypothetical protein
+70517	70359	CDS
+			gene	flmA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P62670
+			locus_tag	ABOKEBEM_00082
+			product	Stable plasmid inheritance protein
+70589	71668	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00083
+			product	hypothetical protein
+72220	71846	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00084
+			product	hypothetical protein
+72602	72276	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00085
+			product	hypothetical protein
+73327	72599	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00086
+			product	hypothetical protein
+73755	73324	CDS
+			gene	psiB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P10031
+			locus_tag	ABOKEBEM_00087
+			product	Protein PsiB
+75857	73800	CDS
+			dbxref	COG:COG1475
+			gene	spo0C
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q72H91
+			locus_tag	ABOKEBEM_00088
+			product	Chromosome-partitioning protein Spo0J
+76175	75927	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P75677
+			locus_tag	ABOKEBEM_00089
+			note	UPF0401 protein YkfF
+			product	hypothetical protein
+76766	76224	CDS
+			gene	ssb
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P28044
+			locus_tag	ABOKEBEM_00090
+			product	Plasmid-derived single-stranded DNA-binding protein
+77382	77702	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00091
+			product	hypothetical protein
+78160	77597	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00092
+			product	hypothetical protein
+79563	78208	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00093
+			product	hypothetical protein
+79845	79615	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00094
+			product	hypothetical protein
+80164	79937	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00095
+			product	hypothetical protein
+81265	80948	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00096
+			product	hypothetical protein
+81554	81300	CDS
+			EC_number	2.7.7.7
+			gene	holE_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ABS8
+			locus_tag	ABOKEBEM_00097
+			product	DNA polymerase III subunit theta
+81933	81742	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00098
+			product	hypothetical protein
+82482	81976	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00099
+			product	hypothetical protein
+82953	82525	CDS
+			gene	klcA_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P52603
+			locus_tag	ABOKEBEM_00100
+			product	Antirestriction protein KlcA
+84400	83633	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00101
+			product	hypothetical protein
+84873	84454	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00102
+			product	hypothetical protein
+85104	84883	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00103
+			product	hypothetical protein
+85805	85104	CDS
+			EC_number	2.1.1.72
+			dbxref	COG:COG0863
+			gene	yhdJ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P28638
+			locus_tag	ABOKEBEM_00104
+			product	DNA adenine methyltransferase YhdJ
+86472	86242	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00105
+			product	hypothetical protein
+87204	86533	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00106
+			product	hypothetical protein
+88178	87207	CDS
+			gene	parM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P11904
+			locus_tag	ABOKEBEM_00107
+			product	Plasmid segregation protein ParM
+88410	88841	CDS
+			EC_number	3.4.21.-
+			dbxref	COG:COG1974
+			gene	umuD_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AG11
+			locus_tag	ABOKEBEM_00108
+			product	Protein UmuD
+88841	90112	CDS
+			dbxref	COG:COG0389
+			gene	umuC_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04152
+			locus_tag	ABOKEBEM_00109
+			product	Protein UmuC
+90513	91409	CDS
+			gene	repA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P24042
+			locus_tag	ABOKEBEM_00110
+			product	Replication protein RepA
+91731	92936	CDS
+			gene	parA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P07620
+			locus_tag	ABOKEBEM_00111
+			product	Plasmid partition protein A
+92933	93907	CDS
+			dbxref	COG:COG1475
+			gene	virB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A247
+			locus_tag	ABOKEBEM_00112
+			product	Virulence regulon transcriptional activator VirB
+94284	94616	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00113
+			product	hypothetical protein
+94618	94791	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00114
+			product	hypothetical protein
+95168	97195	CDS
+			EC_number	2.1.1.72
+			dbxref	COG:COG0286
+			gene	hsdM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P08957
+			locus_tag	ABOKEBEM_00115
+			product	Type I restriction enzyme EcoKI M protein
+97192	98508	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00116
+			product	hypothetical protein
+98509	101766	CDS
+			EC_number	3.1.21.3
+			gene	hsdR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7A801
+			locus_tag	ABOKEBEM_00117
+			product	Type-1 restriction enzyme R protein
+101771	103039	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00118
+			product	hypothetical protein
+103159	103632	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00119
+			product	hypothetical protein
+103724	103954	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00120
+			product	hypothetical protein
+104332	104580	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00121
+			product	hypothetical protein
+105628	104846	CDS
+			dbxref	COG:COG4974
+			gene	xerD_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WF33
+			locus_tag	ABOKEBEM_00122
+			product	Tyrosine recombinase XerD
+105960	105628	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00123
+			product	hypothetical protein
+106365	105967	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00124
+			product	hypothetical protein
+106720	106391	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00125
+			product	hypothetical protein
+107056	106748	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00126
+			product	hypothetical protein
+107353	107102	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00127
+			product	hypothetical protein
+107961	108191	CDS
+			dbxref	COG:COG4456
+			gene	vapB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7CPV2
+			locus_tag	ABOKEBEM_00128
+			product	Antitoxin VapB
+108203	108604	CDS
+			EC_number	3.1.-.-
+			dbxref	COG:COG1487
+			gene	vapC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8ZM86
+			locus_tag	ABOKEBEM_00129
+			product	tRNA(fMet)-specific endonuclease VapC
+108678	109388	CDS
+			gene	recF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00365
+			locus_tag	ABOKEBEM_00130
+			product	DNA replication and repair protein RecF
+109422	109697	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00131
+			product	hypothetical protein
+109742	110119	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00132
+			product	hypothetical protein
+110281	110703	CDS
+			gene	merC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q50919
+			locus_tag	ABOKEBEM_00133
+			product	Mercuric transport protein MerC
+110755	112449	CDS
+			EC_number	1.16.1.1
+			gene	merA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P00392
+			locus_tag	ABOKEBEM_00134
+			product	Mercuric reductase
+112467	112829	CDS
+			dbxref	COG:COG0789
+			gene	mta
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P71039
+			locus_tag	ABOKEBEM_00135
+			product	HTH-type transcriptional activator mta
+112826	113062	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00136
+			product	hypothetical protein
+113059	113766	CDS
+			dbxref	COG:COG2200
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9I310
+			locus_tag	ABOKEBEM_00137
+			product	putative signaling protein
+113841	115109	CDS
+			gene	tnsB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P13989
+			locus_tag	ABOKEBEM_00138
+			product	Transposon Tn7 transposition protein TnsB
+115156	115860	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00139
+			product	hypothetical protein
+115900	116568	CDS
+			EC_number	1.-.-.-
+			gene	yghA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AG84
+			locus_tag	ABOKEBEM_00140
+			product	putative oxidoreductase YghA
+117304	116660	CDS
+			dbxref	COG:COG1357
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q87K03
+			locus_tag	ABOKEBEM_00141
+			product	Pentapeptide repeat protein
+117784	117398	CDS
+			dbxref	COG:COG1221
+			gene	pspF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37344
+			locus_tag	ABOKEBEM_00142
+			product	Psp operon transcriptional activator
+119587	117875	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00143
+			product	hypothetical protein
+122609	119712	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00144
+			product	hypothetical protein
+122704	123309	CDS
+			EC_number	3.1.22.-
+			dbxref	COG:COG1961
+			gene	pinR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ADI0
+			locus_tag	ABOKEBEM_00145
+			product	Serine recombinase PinR
+124127	123306	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00146
+			product	hypothetical protein
+124616	125500	CDS
+			gene	yedA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AA70
+			locus_tag	ABOKEBEM_00147
+			product	putative inner membrane transporter YedA
+126731	125532	CDS
+			gene	tetA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P02981
+			locus_tag	ABOKEBEM_00148
+			product	Tetracycline resistance protein, class C
+126810	127487	CDS
+			gene	tetR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P03038
+			locus_tag	ABOKEBEM_00149
+			product	Tetracycline repressor protein class A from transposon 1721
+129332	127803	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00150
+			product	hypothetical protein
+129383	130087	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00151
+			product	hypothetical protein
+130406	131839	CDS
+			EC_number	2.1.1.37
+			dbxref	COG:COG0270
+			gene	dcm
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AED9
+			locus_tag	ABOKEBEM_00152
+			product	DNA-cytosine methyltransferase
+133087	131873	CDS
+			EC_number	3.1.21.4
+			gene	ecoRIIR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P14633
+			locus_tag	ABOKEBEM_00153
+			product	Type-2 restriction enzyme EcoRII
+134112	133348	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00154
+			product	hypothetical protein
+134521	134255	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00155
+			product	hypothetical protein
+135215	134742	CDS
+			EC_number	1.5.1.3
+			gene	dhfrI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P00382
+			locus_tag	ABOKEBEM_00156
+			product	Dihydrofolate reductase type 1
+135371	136384	CDS
+			dbxref	COG:COG4974
+			gene	xerD_3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WF33
+			locus_tag	ABOKEBEM_00157
+			product	Tyrosine recombinase XerD
+136930	137634	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00158
+			product	hypothetical protein
+138187	137525	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00159
+			product	hypothetical protein
+139309	138605	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00160
+			product	hypothetical protein
+140227	139391	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00161
+			product	hypothetical protein
+141030	140227	CDS
+			EC_number	2.7.1.95
+			gene	neo
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P00552
+			locus_tag	ABOKEBEM_00162
+			product	Aminoglycoside 3'-phosphotransferase
+141906	141091	CDS
+			EC_number	2.5.1.15
+			dbxref	COG:COG0294
+			gene	folP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AC13
+			locus_tag	ABOKEBEM_00163
+			product	Dihydropteroate synthase
+142236	142412	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00164
+			product	hypothetical protein
+143598	142594	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00165
+			product	hypothetical protein
+143872	144840	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00166
+			product	hypothetical protein
+145695	145270	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00167
+			product	hypothetical protein
+146757	145837	CDS
+			EC_number	3.1.4.-
+			dbxref	COG:COG3437
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9KSB1
+			locus_tag	ABOKEBEM_00168
+			product	putative cyclic di-GMP phosphodiesterase
+150100	146720	CDS
+			EC_number	2.7.13.3
+			dbxref	COG:COG0642
+			gene	arcB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AEC3
+			locus_tag	ABOKEBEM_00169
+			product	Aerobic respiration control sensor protein ArcB
+150315	151595	CDS
+			gene	amiC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P27017
+			locus_tag	ABOKEBEM_00170
+			product	Aliphatic amidase expression-regulating protein
+151652	152578	CDS
+			dbxref	COG:COG0559
+			gene	livH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AEX7
+			locus_tag	ABOKEBEM_00171
+			product	High-affinity branched-chain amino acid transport system permease protein LivH
+152588	153703	CDS
+			dbxref	COG:COG4214
+			gene	xylH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AGI4
+			locus_tag	ABOKEBEM_00172
+			product	Xylose transport system permease protein XylH
+153700	154449	CDS
+			EC_number	3.6.3.-
+			dbxref	COG:COG1137
+			gene	lptB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P45073
+			locus_tag	ABOKEBEM_00173
+			product	Lipopolysaccharide export system ATP-binding protein LptB
+154460	155149	CDS
+			dbxref	COG:COG0410
+			gene	livF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P22731
+			locus_tag	ABOKEBEM_00174
+			product	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+155185	156192	CDS
+			EC_number	3.5.1.49
+			dbxref	COG:COG0388
+			gene	amiF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O25836
+			locus_tag	ABOKEBEM_00175
+			product	Formamidase
+156777	156400	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00176
+			product	hypothetical protein
+157367	157621	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00177
+			product	hypothetical protein
+157621	157884	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00178
+			product	hypothetical protein
+158128	158409	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00179
+			product	hypothetical protein
+158444	159013	CDS
+			dbxref	COG:COG0071
+			gene	hspA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q06823
+			locus_tag	ABOKEBEM_00180
+			product	Spore protein SP21
+159137	161932	CDS
+			gene	clpC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q2YSD6
+			locus_tag	ABOKEBEM_00181
+			product	ATP-dependent Clp protease ATP-binding subunit ClpC
+161932	162129	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00182
+			product	hypothetical protein
+162367	163116	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00183
+			product	hypothetical protein
+163103	164065	CDS
+			EC_number	3.4.24.-
+			dbxref	COG:COG0501
+			gene	htpX
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O30795
+			locus_tag	ABOKEBEM_00184
+			product	Protease HtpX 
+164380	164685	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00185
+			product	hypothetical protein
+164688	165407	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00186
+			product	hypothetical protein
+165950	165555	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00187
+			product	hypothetical protein
+167357	165999	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00188
+			product	hypothetical protein
+167556	167392	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00189
+			product	hypothetical protein
+168035	167553	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00190
+			product	hypothetical protein
+168289	168023	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00191
+			product	hypothetical protein
+168719	168465	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00192
+			product	hypothetical protein
+169052	168795	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00193
+			product	hypothetical protein
+169304	169101	CDS
+			gene	ymoA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A3X1
+			locus_tag	ABOKEBEM_00194
+			product	Modulating protein YmoA
+169706	169338	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00195
+			product	hypothetical protein
+170244	169750	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00196
+			product	hypothetical protein
+170850	170275	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00197
+			product	hypothetical protein
+171107	170838	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00198
+			product	hypothetical protein
+171465	171815	CDS
+			dbxref	COG:COG0640
+			gene	arsR2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q88JD1
+			locus_tag	ABOKEBEM_00199
+			product	Arsenic resistance transcriptional regulator ArsR2
+171865	172227	CDS
+			gene	arsD_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P46003
+			locus_tag	ABOKEBEM_00200
+			product	Arsenical resistance operon trans-acting repressor ArsD
+172245	173996	CDS
+			EC_number	3.6.3.16
+			gene	arsA_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P08690
+			locus_tag	ABOKEBEM_00201
+			product	Arsenical pump-driving ATPase
+174044	175333	CDS
+			dbxref	COG:COG1055
+			gene	arsB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AB93
+			locus_tag	ABOKEBEM_00202
+			product	Arsenical pump membrane protein
+175346	175771	CDS
+			EC_number	1.20.4.1
+			gene	arsC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P08692
+			locus_tag	ABOKEBEM_00203
+			product	Arsenate reductase
+176340	175804	CDS
+			EC_number	2.3.1.-
+			dbxref	COG:COG1247
+			gene	yncA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8ZPD3
+			locus_tag	ABOKEBEM_00204
+			product	L-methionine sulfoximine/L-methionine sulfone acetyltransferase
+176935	176462	CDS
+			EC_number	3.6.3.16
+			gene	arsA_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P08690
+			locus_tag	ABOKEBEM_00205
+			product	Arsenical pump-driving ATPase
+178218	176878	CDS
+			EC_number	3.6.3.16
+			gene	arsA_3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P08690
+			locus_tag	ABOKEBEM_00206
+			product	Arsenical pump-driving ATPase
+178599	178237	CDS
+			gene	arsD_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P46003
+			locus_tag	ABOKEBEM_00207
+			product	Arsenical resistance operon trans-acting repressor ArsD
+179220	178675	CDS
+			dbxref	COG:COG1595
+			gene	sigL
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WGH5
+			locus_tag	ABOKEBEM_00208
+			product	ECF RNA polymerase sigma factor SigL
+179942	179229	CDS
+			EC_number	1.-.-.-
+			dbxref	COG:COG0431
+			gene	arsH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:B7J950
+			locus_tag	ABOKEBEM_00209
+			product	NADPH-dependent FMN reductase ArsH
+180265	179939	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00210
+			product	hypothetical protein
+180597	181094	CDS
+			EC_number	2.3.1.183
+			dbxref	COG:COG1247
+			gene	ywnH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P71043
+			locus_tag	ABOKEBEM_00211
+			product	Putative phosphinothricin acetyltransferase YwnH
+181548	181144	CDS
+			gene	aqpZ2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8UJW4
+			locus_tag	ABOKEBEM_00212
+			product	Aquaporin Z 2
+181727	182530	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00213
+			product	hypothetical protein
+182685	183335	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00214
+			product	hypothetical protein
+184241	183807	CDS
+			gene	pcoE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q47459
+			locus_tag	ABOKEBEM_00215
+			product	putative copper-binding protein PcoE
+185858	184458	CDS
+			EC_number	2.7.13.3
+			dbxref	COG:COG0642
+			gene	cusS_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P77485
+			locus_tag	ABOKEBEM_00216
+			product	Sensor kinase CusS
+186535	185855	CDS
+			gene	copR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q02540
+			locus_tag	ABOKEBEM_00217
+			product	Transcriptional activator protein CopR
+187519	186590	CDS
+			gene	copD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P12377
+			locus_tag	ABOKEBEM_00218
+			product	Copper resistance protein D
+187904	187524	CDS
+			dbxref	COG:COG2372
+			gene	pcoC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q47454
+			locus_tag	ABOKEBEM_00219
+			product	Copper resistance protein C
+188840	187944	CDS
+			gene	copB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P12375
+			locus_tag	ABOKEBEM_00220
+			product	Copper resistance protein B
+190657	188840	CDS
+			gene	copA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P12374
+			locus_tag	ABOKEBEM_00221
+			product	Copper resistance protein A
+190891	191340	CDS
+			gene	silE_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9Z4N3
+			locus_tag	ABOKEBEM_00222
+			product	Silver-binding protein SilE
+191629	192366	CDS
+			EC_number	3.4.24.-
+			dbxref	COG:COG0739
+			gene	mepM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AFS9
+			locus_tag	ABOKEBEM_00223
+			product	Murein DD-endopeptidase MepM
+192597	192400	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00224
+			product	hypothetical protein
+195091	192638	CDS
+			EC_number	3.6.3.53
+			gene	silP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9ZHC7
+			locus_tag	ABOKEBEM_00225
+			product	Silver exporting P-type ATPase
+195658	195218	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00226
+			product	hypothetical protein
+198891	195745	CDS
+			dbxref	COG:COG3696
+			gene	cusA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P38054
+			locus_tag	ABOKEBEM_00227
+			product	Cation efflux system protein CusA
+200194	198902	CDS
+			gene	cusB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P77239
+			locus_tag	ABOKEBEM_00228
+			product	Cation efflux system protein CusB
+200661	200308	CDS
+			dbxref	COG:COG5569
+			gene	cusF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P77214
+			locus_tag	ABOKEBEM_00229
+			product	Cation efflux system protein CusF
+202075	200690	CDS
+			dbxref	COG:COG1538
+			gene	cusC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P77211
+			locus_tag	ABOKEBEM_00230
+			product	Cation efflux system protein CusC
+202265	202945	CDS
+			dbxref	COG:COG0745
+			gene	cusR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ACZ8
+			locus_tag	ABOKEBEM_00231
+			product	Transcriptional regulatory protein CusR
+202938	204413	CDS
+			EC_number	2.7.13.3
+			dbxref	COG:COG0642
+			gene	cusS_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P77485
+			locus_tag	ABOKEBEM_00232
+			product	Sensor kinase CusS
+204664	205095	CDS
+			gene	silE_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9Z4N3
+			locus_tag	ABOKEBEM_00233
+			product	Silver-binding protein SilE
+205795	205391	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00234
+			product	hypothetical protein
+206326	205949	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00235
+			product	hypothetical protein
+206497	206892	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00236
+			product	hypothetical protein
+206850	207731	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00237
+			product	hypothetical protein
+208242	208619	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00238
+			product	hypothetical protein
+208771	210768	CDS
+			dbxref	COG:COG1292
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q6F754
+			locus_tag	ABOKEBEM_00239
+			product	Glycine betaine transporter
+210831	212108	CDS
+			dbxref	COG:COG4325
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WM35
+			locus_tag	ABOKEBEM_00240
+			product	putative protein
+212143	212334	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00241
+			product	hypothetical protein
+214506	213091	CDS
+			EC_number	3.1.4.52
+			dbxref	COG:COG4943
+			gene	pdeB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P77473
+			locus_tag	ABOKEBEM_00242
+			product	putative cyclic di-GMP phosphodiesterase PdeB
+217045	216077	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00243
+			product	hypothetical protein
+218359	217403	CDS
+			EC_number	2.7.7.65
+			dbxref	COG:COG2203
+			gene	dgcP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P76245
+			locus_tag	ABOKEBEM_00244
+			product	Diguanylate cyclase DgcP
+219251	219150	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00245
+			product	hypothetical protein
+219494	220234	CDS
+			gene	xerD_4
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A0P0
+			locus_tag	ABOKEBEM_00246
+			product	Tyrosine recombinase XerD
+221962	220952	CDS
+			gene	repB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q57154
+			locus_tag	ABOKEBEM_00247
+			product	RepFIB replication protein A
+222714	223880	CDS
+			EC_number	3.6.-.-
+			dbxref	COG:COG1192
+			gene	soj
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37522
+			locus_tag	ABOKEBEM_00248
+			product	Sporulation initiation inhibitor protein Soj
+223880	224851	CDS
+			gene	sopB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P62558
+			locus_tag	ABOKEBEM_00249
+			product	Protein SopB
+225980	226243	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00250
+			product	hypothetical protein
+226270	226926	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00251
+			product	hypothetical protein
+227766	227939	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00252
+			product	hypothetical protein
+228140	227874	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00253
+			product	hypothetical protein
+228569	228294	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00254
+			product	hypothetical protein
+229537	230817	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00255
+			product	hypothetical protein
+230814	232766	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00256
+			product	hypothetical protein
+233262	233011	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00257
+			product	hypothetical protein
+234612	233341	CDS
+			dbxref	COG:COG0389
+			gene	umuC_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04152
+			locus_tag	ABOKEBEM_00258
+			product	Protein UmuC
+235037	234612	CDS
+			EC_number	3.4.21.-
+			dbxref	COG:COG1974
+			gene	umuD_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P22493
+			locus_tag	ABOKEBEM_00259
+			product	Protein UmuD
+235230	235442	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00260
+			product	hypothetical protein
+235439	236950	CDS
+			dbxref	COG:COG3344
+			gene	ltrA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A3U0
+			locus_tag	ABOKEBEM_00261
+			product	Group II intron-encoded protein LtrA
+236947	237414	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00262
+			product	hypothetical protein
+237637	237479	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00263
+			product	hypothetical protein
+237934	238359	CDS
+			gene	klcA_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P52603
+			locus_tag	ABOKEBEM_00264
+			product	Antirestriction protein KlcA
+238596	238850	CDS
+			EC_number	2.7.7.7
+			gene	holE_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ABS8
+			locus_tag	ABOKEBEM_00265
+			product	DNA polymerase III subunit theta
+238885	239202	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00266
+			product	hypothetical protein
+239929	240156	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00267
+			product	hypothetical protein
+240248	240478	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00268
+			product	hypothetical protein
+240530	241885	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00269
+			product	hypothetical protein
+241933	242496	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00270
+			product	hypothetical protein
+242676	243086	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00271
+			product	hypothetical protein
+244057	243197	CDS
+			EC_number	3.5.2.6
+			gene	bla_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P62593
+			locus_tag	ABOKEBEM_00272
+			product	Beta-lactamase TEM
+244491	244240	CDS
+			gene	tnpR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ADI2
+			locus_tag	ABOKEBEM_00273
+			product	Transposon Tn3 resolvase
+245116	244757	CDS
+			EC_number	3.5.2.6
+			gene	bla_3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O07293
+			locus_tag	ABOKEBEM_00274
+			product	Beta-lactamase OXA-18
+245581	245246	CDS
+			EC_number	3.5.2.6
+			gene	bla_4
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O07293
+			locus_tag	ABOKEBEM_00275
+			product	Beta-lactamase OXA-18
+246505	245801	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ABOKEBEM_00276
+			product	hypothetical protein

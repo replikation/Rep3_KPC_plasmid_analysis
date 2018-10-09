@@ -1,0 +1,23 @@
+##gff-version	3
+CP021734.1	.	tnpA	35471	38500	.	.	.	name=tnpA;description=transposase TnpA;accession=YP_008161910.1;missmatches=0;evalue=0.0
+CP021734.1	.	tnpA	43599	45711	.	.	.	name=tnpA;description=transposase;accession=YP_004455302.1;missmatches=1;evalue=0.0
+CP021734.1	.	tnpA	41926	43245	.	-	.	name=tnpA;description=transposase;accession=YP_008166926.1;missmatches=0;evalue=0.0
+CP021734.1	.	tnpA	32536	33595	.	.	.	name=tnpA;description=transposon Tn3 transposase;accession=YP_003108100.1;missmatches=1;evalue=0.0
+CP021734.1	.	istA	38607	39632	.	.	.	name=istA;description=transposase IstA;accession=YP_009328367.1;missmatches=0;evalue=0.0
+CP021734.1	.	intI1	67677	68690	.	.	.	name=intI1;description=intI1;accession=YP_007447591.1;missmatches=1;evalue=0.0
+CP021734.1	.	orf170	13022	13945	.	-	.	name=orf170;description=transposase;accession=NP_640130.1;missmatches=13;evalue=0.0
+CP021734.1	.	blaKPC	40795	41676	.	.	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-3;accession=WP_004152396.1;missmatches=0;evalue=0.0
+CP021734.1	.	blaTEM	30931	31791	.	-	.	name=blaTEM;description=class A broad-spectrum beta-lactamase TEM-1;accession=WP_000027057.1;missmatches=0;evalue=0.0
+CP021734.1	.	sul1	65684	66523	.	-	.	name=sul1;description=sulfonamide-resistant dihydropteroate synthase Sul1;accession=WP_000259031.1;missmatches=0;evalue=0.0
+CP021734.1	.	tnpA of IS6100	63785	64579	.	-	.	name=tnpA of IS6100;description=IS6100 transposase;accession=YP_006965438.1;missmatches=0;evalue=0.0
+CP021734.1	.	istB	39629	40408	.	.	.	name=istB;description=transposase helper protein IstB;accession=YP_009328368.1;missmatches=0;evalue=0.0
+CP021734.1	.	IncY	15610	16374	.	.	.	name=IncY;description=unknown_protein;accession=unknown_accession;missmatches=4;evalue=0.0
+CP021734.1	.	tnpA	74467	75189	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP021734.1	.	tnpA	22330	23052	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP021734.1	.	tnpA	45745	46309	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP021734.1	.	insI1	14023	14746	.	-	.	name=insI1;description=transposase InsI for insertion sequence element IS30B/C/D;accession=YP_002539319.1;missmatches=1;evalue=0.0
+CP021734.1	.	insAB'	26748	27445	.	-	.	name=insAB';description=IS1 transposase frame shift product;accession=YP_004422908.1;missmatches=24;evalue=0.0
+CP021734.1	.	tnpR	31974	32567	.	-	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_007749277.1;missmatches=0;evalue=0.0
+CP021734.1	.	IncN	70921	71434	.	-	.	name=IncN;description=unknown_protein;accession=unknown_accession;missmatches=1;evalue=0.0
+CP021734.1	.	dfrA5	67048	67521	.	-	.	name=dfrA5;description=trimethoprim-resistant dihydrofolate reductase DfrA5;accession=WP_001317507.1;missmatches=0;evalue=0.0
+CP021734.1	.	qacE	66517	66864	.	-	.	name=qacE;description=quaternary ammonium compound efflux SMR transporter QacE delta 1;accession=WP_000679427.1;missmatches=0;evalue=0.0

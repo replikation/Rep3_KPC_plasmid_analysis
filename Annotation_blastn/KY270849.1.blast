@@ -1,0 +1,32 @@
+KY270849.1	1305	19093	20397	minus	[gene=thiAdelta1] [locus_tag=MAK1.112c] [db_xref=GeneID:5741254] [protein=putative transposase] [protein_id=YP_001551934.1] [location=complement(97298..98602)] [gbkey=CDS]	0.0	0
+KY270849.1	1014	16854	17867	plus	[gene=intI1] [locus_tag=ST67780_p1003] [db_xref=GeneID:14612604] [protein=intI1] [protein_id=YP_007447591.1] [location=complement(677..1690)] [gbkey=CDS]	0.0	0
+KY270849.1	1005	25179	26183	plus	[gene=insD2] [locus_tag=D745_p1098] [db_xref=GeneID:13914977] [protein=transposase] [protein_id=YP_006966030.1] [location=complement(100143..101147)] [gbkey=CDS]	0.0	0
+KY270849.1	981	114174	115154	minus	[gene=insH] [locus_tag=D647_p25035] [db_xref=GeneID:15407961] [protein=IS5 transposase] [protein_id=YP_007936898.1] [location=31642..32622] [gbkey=CDS]	0.0	3
+KY270849.1	922	9745	10666	plus	[gene=mph(A)] [locus_tag=A7J11_00571] [protein=Mph(A) family macrolide 2'-phosphotransferase] [protein_id=WP_063853854.1] [location=101..1021] [gbkey=CDS]	0.0	2
+KY270849.1	882	110192	111073	minus	[gene=blaKPC] [locus_tag=A7J11_00838] [protein=carbapenem-hydrolyzing class A beta-lactamase KPC-2] [protein_id=WP_004199234.1] [location=6..887] [gbkey=CDS]	0.0	0
+KY270849.1	865	109078	109942	plus	[gene=tnpA] [locus_tag=pEC4365TF2_10] [db_xref=GeneID:30522683] [protein=transposase] [protein_id=YP_009328370.1] [location=complement(13307..14626)] [gbkey=CDS]	0.0	0
+KY270849.1	861	7826	8686	minus	[gene=aac(3)-II] [locus_tag=A7J11_00380] [protein=aminoglycoside N-acetyltransferase AAC(3)-IId] [protein_id=WP_000557454.1] [location=101..961] [gbkey=CDS]	0.0	0
+KY270849.1	861	101027	101887	minus	[gene=blaTEM] [locus_tag=A7J11_02924] [protein=inhibitor-resistant class A broad-spectrum beta-lactamase TEM-40] [protein_id=WP_021526512.1] [location=1..861] [gbkey=CDS]	0.0	1
+KY270849.1	846	135098	135943	minus	[gene=aph(6)-Id] [locus_tag=A7J11_01649] [protein=aminoglycoside O-phosphotransferase APH(6)-Id] [protein_id=WP_001303005.1] [location=101..946] [gbkey=CDS]	0.0	0
+KY270849.1	840	14861	15700	minus	[gene=sul1] [locus_tag=A7J11_00638] [protein=sulfonamide-resistant dihydropteroate synthase Sul1] [protein_id=WP_000259031.1] [location=101..940] [gbkey=CDS]	0.0	0
+KY270849.1	836	135934	136769	minus	[gene=aph(3'')-Ib] [locus_tag=A7J11_05252] [protein=aminoglycoside O-phosphotransferase APH(3'')-Ib] [protein_id=WP_001354041.1] [location=101..1009] [gbkey=CDS]	0.0	0
+KY270849.1	831	136799	137629	minus	[gene=sul2] [locus_tag=A7J11_05250] [protein=sulfonamide-resistant dihydropteroate synthase Sul2] [protein_id=WP_012478625.1] [location=101..1057] [gbkey=CDS]	0.0	3
+KY270849.1	816	5748	6563	plus	[gene=aph(3')-Ia] [locus_tag=A7J11_00274] [protein=aminoglycoside O-phosphotransferase APH(3')-Ia] [protein_id=WP_000018329.1] [location=101..916] [gbkey=CDS]	0.0	1
+KY270849.1	795	12962	13756	minus	[gene=tnp] [locus_tag=pFBAOT6.39] [db_xref=GOA:Q68E70,InterPro:IPR001584,InterPro:IPR004291,InterPro:IPR012337,UniProtKB/TrEMBL:Q68E70] [protein=transposase of IS6100] [protein_id=YP_067849.1] [location=complement(34336..35130)] [gbkey=CDS]	0.0	0
+KY270849.1	723	139528	140250	minus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	0
+KY270849.1	723	8901	9623	plus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	0
+KY270849.1	723	111805	112527	minus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	0
+KY270849.1	723	105257	105979	minus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	0
+KY270849.1	723	103274	103996	minus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	0
+KY270849.1	723	18342	19064	minus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	0
+KY270849.1	723	134315	135037	plus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	0
+KY270849.1	723	6753	7475	minus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	0
+KY270849.1	723	4893	5615	minus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	0
+KY270849.1	594	102070	102663	minus	[gene=tnpR] [locus_tag=pEK204_p10] [db_xref=GeneID:8319058] [protein=transposon Tn3 resolvase] [protein_id=YP_003108101.1] [location=11899..12492] [gbkey=CDS]	0.0	0
+KY270849.1	459	104744	105202	minus	[gene=tnpR] [locus_tag=pEK204_p10] [db_xref=GeneID:8319058] [protein=transposon Tn3 resolvase] [protein_id=YP_003108101.1] [location=11899..12492] [gbkey=CDS]	0.0	14
+KY270849.1	585	104042	104621	minus	[gene=tnpA] [locus_tag=p628KPC_022] [db_xref=GeneID:30522712] [protein=ISKpn27 transposase] [protein_id=YP_009328786.1] [location=complement(20016..20996)] [gbkey=CDS]	0.0	0
+KY270849.1	408	111349	111755	minus	[gene=tnpA] [locus_tag=p628KPC_022] [db_xref=GeneID:30522712] [protein=ISKpn27 transposase] [protein_id=YP_009328786.1] [location=complement(20016..20996)] [gbkey=CDS]	0.0	0
+KY270849.1	504	26764	27267	minus	[gene=insB] [locus_tag=pNDM10505_135] [db_xref=GeneID:13906113] [protein=InsB transposase] [protein_id=YP_006953205.1] [location=107362..107865] [gbkey=CDS]	0.0	0
+KY270849.1	474	16225	16698	minus	[gene=dfrA25] [locus_tag=A7J11_01664] [protein=trimethoprim-resistant dihydrofolate reductase DfrA25] [protein_id=WP_029391998.1] [location=39..512] [gbkey=CDS]	0.0	0
+KY270849.1	450	138952	139401	plus	[gene=IncQ1]	0.0	0
+KY270849.1	348	15694	16041	minus	[gene=qacE] [locus_tag=A7J11_00271] [protein=quaternary ammonium compound efflux SMR transporter QacE delta 1] [protein_id=WP_000679427.1] [location=101..448] [gbkey=CDS]	0.0	0

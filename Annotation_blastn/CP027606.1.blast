@@ -1,0 +1,42 @@
+CP027606.1	3030	66333	69362	plus	[gene=tnpA] [locus_tag=FCF3SP_p0042] [db_xref=GeneID:16034828] [protein=transposase TnpA] [protein_id=YP_008161910.1] [location=29418..32447] [gbkey=CDS]	0.0	0
+CP027606.1	2967	42947	45913	plus	[gene=tnpA] [locus_tag=pSH111_166_187] [db_xref=GeneID:13911975] [protein=TnpA transposase] [protein_id=YP_006957010.1] [location=complement(149919..152885)] [gbkey=CDS]	0.0	0
+CP027606.1	2894	74461	77353	minus	[gene=tnpA] [locus_tag=D647_p6003] [db_xref=GeneID:13913822] [protein=Tn3 transposase] [protein_id=YP_006958958.1] [location=complement(77..3082)] [gbkey=CDS]	0.0	0
+CP027606.1	2588	47064	49651	plus	[gene=tnpA] [locus_tag=pECL8_p102] [db_xref=GeneID:9538108] [protein=Tn501 transposase] [protein_id=YP_003829177.1] [location=complement(93061..96012)] [gbkey=CDS]	0.0	0
+CP027606.1	1320	72788	74107	minus	[gene=tnpA] [locus_tag=FCF1305_p0038] [db_xref=GeneID:16039991] [protein=transposase] [protein_id=YP_008166926.1] [location=complement(34349..35668)] [gbkey=CDS]	0.0	0
+CP027606.1	1200	80968	82167	plus	[gene=tnpAIS1294] [locus_tag=pU302L_039] [db_xref=GeneID:7693011] [protein=IS1294 transposase] [protein_id=YP_194845.1] [location=29930..31129] [gbkey=CDS]	0.0	0
+CP027606.1	1026	69469	70494	plus	[gene=istA] [locus_tag=pEC4365TF2_07] [db_xref=GeneID:30522680] [protein=transposase IstA] [protein_id=YP_009328367.1] [location=9988..11013] [gbkey=CDS]	0.0	0
+CP027606.1	1014	35326	36339	minus	[gene=intI1] [locus_tag=ST67780_p1003] [db_xref=GeneID:14612604] [protein=intI1] [protein_id=YP_007447591.1] [location=complement(677..1690)] [gbkey=CDS]	0.0	0
+CP027606.1	931	53568	54498	minus	[gene=intI1] [locus_tag=ST67780_p1003] [db_xref=GeneID:14612604] [protein=intI1] [protein_id=YP_007447591.1] [location=complement(677..1690)] [gbkey=CDS]	0.0	2
+CP027606.1	1005	39430	40434	minus	[gene=tnpA] [locus_tag=pCRE114_121] [db_xref=GeneID:17434155] [protein=transposase] [protein_id=YP_008725238.1] [location=complement(96436..97440)] [gbkey=CDS]	0.0	0
+CP027606.1	3003	49682	52663	minus	[gene=tnpA] [locus_tag=PSPSV_A0026] [db_xref=GOA:H1ZWU6,InterPro:IPR002513,InterPro:IPR025296,UniProtKB/TrEMBL:H1ZWU6] [protein=transposase] [protein_id=YP_006961544.1] [location=complement(28280..31306)] [gbkey=CDS]	0.0	616
+CP027606.1	1507	12511	14016	plus	[gene=tnpA] [locus_tag=D647_p25004] [db_xref=GeneID:15407968] [protein=IS66 family transposase] [protein_id=YP_007936867.1] [location=6139..7677] [gbkey=CDS]	0.0	175
+CP027606.1	922	30071	30992	plus	[gene=mph(A)] [locus_tag=A7J11_00571] [protein=Mph(A) family macrolide 2'-phosphotransferase] [protein_id=WP_063853854.1] [location=101..1021] [gbkey=CDS]	0.0	2
+CP027606.1	969	18843	19811	plus	[gene=insC] [locus_tag=YR71pYR1_0151] [db_xref=GeneID:4927250] [protein=transposase InsC for insertion sequence IS903] [protein_id=YP_001101845.1] [location=complement(125124..126092)] [gbkey=CDS]	0.0	28
+CP027606.1	882	71657	72538	plus	[gene=blaKPC] [locus_tag=A7J11_02143] [protein=carbapenem-hydrolyzing class A beta-lactamase KPC-6] [protein_id=WP_047665864.1] [location=1..882] [gbkey=CDS]	0.0	0
+CP027606.1	861	78255	79115	plus	[gene=blaTEM] [locus_tag=A7J11_00887] [protein=class A beta-lactamase TEM-181] [protein_id=WP_000027060.1] [location=101..961] [gbkey=CDS]	0.0	1
+CP027606.1	840	38009	38848	plus	[gene=sul1] [locus_tag=A7J11_00638] [protein=sulfonamide-resistant dihydropteroate synthase Sul1] [protein_id=WP_000259031.1] [location=101..940] [gbkey=CDS]	0.0	0
+CP027606.1	840	58042	58881	plus	[gene=sul1] [locus_tag=A7J11_00638] [protein=sulfonamide-resistant dihydropteroate synthase Sul1] [protein_id=WP_000259031.1] [location=101..940] [gbkey=CDS]	0.0	0
+CP027606.1	831	55341	56171	plus	[gene=blaOXA] [locus_tag=A7J11_00713] [protein=oxacillin-hydrolyzing class D beta-lactamase OXA-1] [protein_id=WP_001334766.1] [location=101..931] [gbkey=CDS]	0.0	0
+CP027606.1	816	28279	29094	minus	[gene=aph(3')-Ia] [locus_tag=A7J11_00274] [protein=aminoglycoside O-phosphotransferase APH(3')-Ia] [protein_id=WP_000018329.1] [location=101..916] [gbkey=CDS]	0.0	0
+CP027606.1	816	79598	80413	minus	[gene=aph(3')-Ia] [locus_tag=A7J11_01235] [protein=aminoglycoside O-phosphotransferase APH(3')-Ia] [protein_id=WP_000018330.1] [location=101..916] [gbkey=CDS]	0.0	0
+CP027606.1	802	60645	61446	minus	[gene=tnpA] [locus_tag=YR71pYR1_0147] [db_xref=GeneID:4927078] [protein=transposon Tn5393 transposase TnpA] [protein_id=YP_001101842.1] [location=complement(121196..124081)] [gbkey=CDS]	0.0	0
+CP027606.1	795	33288	34082	minus	[gene=tnpA of IS6100] [locus_tag=D727_p1028] [db_xref=GeneID:13919449] [protein=IS6100 transposase] [protein_id=YP_006965438.1] [location=69423..70217] [gbkey=CDS]	0.0	0
+CP027606.1	629	59986	60614	plus	[gene=tnpA of IS6100] [locus_tag=D727_p1028] [db_xref=GeneID:13919449] [protein=IS6100 transposase] [protein_id=YP_006965438.1] [location=69423..70217] [gbkey=CDS]	0.0	0
+CP027606.1	780	70491	71270	plus	[gene=istB] [locus_tag=pEC4365TF2_08] [db_xref=GeneID:30522681] [protein=transposase helper protein IstB] [protein_id=YP_009328368.1] [location=11010..11789] [gbkey=CDS]	0.0	0
+CP027606.1	723	27367	28089	plus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	1
+CP027606.1	723	29227	29949	plus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	1
+CP027606.1	723	85636	86358	plus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	1
+CP027606.1	633	56309	56941	plus	[gene=catB3] [locus_tag=A7J11_00446] [protein=type B-3 chloramphenicol O-acetyltransferase CatB3] [protein_id=WP_000186237.1] [location=101..733] [gbkey=CDS]	0.0	0
+CP027606.1	699	16957	17654	plus	[gene=insAB'] [locus_tag=pECFT_p16] [db_xref=GeneID:10549025] [protein=IS1 transposase frame shift product] [exception=ribosomal slippage] [protein_id=YP_004422908.1] [location=join(17295..17551,17551..17992)] [gbkey=CDS]	0.0	38
+CP027606.1	699	8896	9588	plus	[gene=insAB'] [locus_tag=pECFT_p16] [db_xref=GeneID:10549025] [protein=IS1 transposase frame shift product] [exception=ribosomal slippage] [protein_id=YP_004422908.1] [location=join(17295..17551,17551..17992)] [gbkey=CDS]	0.0	35
+CP027606.1	467	23147	23612	plus	[gene=insAB'] [locus_tag=pECFT_p16] [db_xref=GeneID:10549025] [protein=IS1 transposase frame shift product] [exception=ribosomal slippage] [protein_id=YP_004422908.1] [location=join(17295..17551,17551..17992)] [gbkey=CDS]	9e-162	51
+CP027606.1	588	54623	55210	plus	[locus_tag=A7J11_02581] [protein=bifunctional aminoglycoside nucleotidyltransferase ANT(3'')-Ih/aminoglycoside N-acetyltransferase AAC(6')-Iid] [protein_id=WP_063839878.1] [location=101..1492] [gbkey=CDS]	0.0	3
+CP027606.1	561	42383	42943	plus	[gene=tnpR] [locus_tag=pSH111_166_188] [db_xref=GeneID:13911976] [protein=TnpR, transposon] [protein_id=YP_006957011.1] [location=complement(152889..153449)] [gbkey=CDS]	0.0	0
+CP027606.1	588	77485	78072	plus	[gene=tnpR] [locus_tag=pEK204_p10] [db_xref=GeneID:8319058] [protein=transposon Tn3 resolvase] [protein_id=YP_003108101.1] [location=11899..12492] [gbkey=CDS]	0.0	29
+CP027606.1	465	36488	36952	plus	[gene=aac(3)-I] [locus_tag=A7J11_02607] [protein=aminoglycoside N-acetyltransferase AAC(3)-Ib] [protein_id=WP_010792467.1] [location=101..565] [gbkey=CDS]	0.0	0
+CP027606.1	453	57026	57478	plus	[gene=arr-3] [locus_tag=A7J11_00539] [protein=NAD(+)--rifampin ADP-ribosyltransferase Arr-3] [protein_id=WP_001749986.1] [location=101..553] [gbkey=CDS]	0.0	0
+CP027606.1	387	21983	22369	plus	[gene=IncFIA(HI1)]	0.0	6
+CP027606.1	348	37668	38015	plus	[gene=qacE] [locus_tag=A7J11_00271] [protein=quaternary ammonium compound efflux SMR transporter QacE delta 1] [protein_id=WP_000679427.1] [location=101..448] [gbkey=CDS]	0.0	0
+CP027606.1	348	57701	58048	plus	[gene=qacE] [locus_tag=A7J11_00271] [protein=quaternary ammonium compound efflux SMR transporter QacE delta 1] [protein_id=WP_000679427.1] [location=101..448] [gbkey=CDS]	0.0	0
+CP027606.1	339	37157	37495	plus	[gene=qacF] [locus_tag=A7J11_04712] [protein=quaternary ammonium compound efflux SMR transporter QacF] [protein_id=WP_071846205.1] [location=101..439] [gbkey=CDS]	3e-176	1
+CP027606.1	321	79274	79594	plus	[gene=TnpA] [locus_tag=D645_p1033] [db_xref=GeneID:13909725] [protein=TnpA transposase] [protein_id=YP_006955528.1] [location=complement(26895..27233)] [gbkey=CDS]	7e-168	0

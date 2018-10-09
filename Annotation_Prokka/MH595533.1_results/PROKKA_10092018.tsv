@@ -1,0 +1,18 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+OLOMKOJI_00001	CDS	147				hypothetical protein
+OLOMKOJI_00002	CDS	780	aphA	2.7.1.95		Aminoglycoside 3'-phosphotransferase
+OLOMKOJI_00003	CDS	108				hypothetical protein
+OLOMKOJI_00004	CDS	285				hypothetical protein
+OLOMKOJI_00005	CDS	2130	mobA			Mobilization protein A
+OLOMKOJI_00006	CDS	213				hypothetical protein
+OLOMKOJI_00007	CDS	207				hypothetical protein
+OLOMKOJI_00008	CDS	840	repA			Regulatory protein RepA
+OLOMKOJI_00009	CDS	852				hypothetical protein
+OLOMKOJI_00010	CDS	402				hypothetical protein
+OLOMKOJI_00011	CDS	303				hypothetical protein
+OLOMKOJI_00012	CDS	294	yddM		COG3093	putative HTH-type transcriptional regulator YddM
+OLOMKOJI_00013	CDS	282	higB	3.1.-.-		Endoribonuclease HigB
+OLOMKOJI_00014	CDS	120	rop			Regulatory protein rop
+OLOMKOJI_00015	CDS	558	tnpR			Transposon Tn3 resolvase
+OLOMKOJI_00016	CDS	882	bla	3.5.2.6		Carbapenem-hydrolyzing beta-lactamase KPC
+OLOMKOJI_00017	CDS	840				hypothetical protein

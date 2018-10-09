@@ -1,0 +1,67 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+BCMOMHLA_00001	CDS	1377				hypothetical protein
+BCMOMHLA_00002	CDS	387				hypothetical protein
+BCMOMHLA_00003	CDS	222				hypothetical protein
+BCMOMHLA_00004	CDS	639	soj	3.6.-.-	COG1192	Chromosome-partitioning ATPase Soj
+BCMOMHLA_00005	CDS	249				hypothetical protein
+BCMOMHLA_00006	CDS	513	paeR7IR	3.1.21.4		Type-2 restriction enzyme PaeR7I
+BCMOMHLA_00007	CDS	573				hypothetical protein
+BCMOMHLA_00008	CDS	969	corA		COG0598	Cobalt/magnesium transport protein CorA
+BCMOMHLA_00009	CDS	705	yfcG	1.8.4.-	COG0625	Disulfide-bond oxidoreductase YfcG
+BCMOMHLA_00010	CDS	540	msrA	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+BCMOMHLA_00011	CDS	444	msrB	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+BCMOMHLA_00012	CDS	675				hypothetical protein
+BCMOMHLA_00013	CDS	2550				hypothetical protein
+BCMOMHLA_00014	CDS	1269				hypothetical protein
+BCMOMHLA_00015	CDS	372				hypothetical protein
+BCMOMHLA_00016	CDS	1275				hypothetical protein
+BCMOMHLA_00017	CDS	411				hypothetical protein
+BCMOMHLA_00018	CDS	558	tnpR			Transposon Tn3 resolvase
+BCMOMHLA_00019	CDS	981				hypothetical protein
+BCMOMHLA_00020	CDS	882	bla	3.5.2.6		Carbapenem-hydrolyzing beta-lactamase KPC
+BCMOMHLA_00021	CDS	981				hypothetical protein
+BCMOMHLA_00022	CDS	297				hypothetical protein
+BCMOMHLA_00023	CDS	156				hypothetical protein
+BCMOMHLA_00024	CDS	426	klcA			Antirestriction protein KlcA
+BCMOMHLA_00025	CDS	279				hypothetical protein
+BCMOMHLA_00026	CDS	561				hypothetical protein
+BCMOMHLA_00027	CDS	423				hypothetical protein
+BCMOMHLA_00028	CDS	321				hypothetical protein
+BCMOMHLA_00029	CDS	279				hypothetical protein
+BCMOMHLA_00030	CDS	2673	traI			Protein TraI
+BCMOMHLA_00031	CDS	321				hypothetical protein
+BCMOMHLA_00032	CDS	357				hypothetical protein
+BCMOMHLA_00033	CDS	684				hypothetical protein
+BCMOMHLA_00034	CDS	651				hypothetical protein
+BCMOMHLA_00035	CDS	723				hypothetical protein
+BCMOMHLA_00036	CDS	828		3.1.-.-	COG0322	Putative bifunctional exonuclease/endonuclease protein
+BCMOMHLA_00037	CDS	192				hypothetical protein
+BCMOMHLA_00038	CDS	912	smc			Chromosome partition protein Smc
+BCMOMHLA_00039	CDS	162				hypothetical protein
+BCMOMHLA_00040	CDS	399	merR			Mercuric resistance operon regulatory protein
+BCMOMHLA_00041	CDS	177	merT_1			Mercuric transport protein MerT
+BCMOMHLA_00042	CDS	321	repA_1			Regulatory protein RepA
+BCMOMHLA_00043	CDS	2442				hypothetical protein
+BCMOMHLA_00044	CDS	432				hypothetical protein
+BCMOMHLA_00045	CDS	468				hypothetical protein
+BCMOMHLA_00046	CDS	657			COG1357	Pentapeptide repeat protein
+BCMOMHLA_00047	CDS	252				hypothetical protein
+BCMOMHLA_00048	CDS	882				hypothetical protein
+BCMOMHLA_00049	CDS	534	repA_2			Regulatory protein RepA
+BCMOMHLA_00050	CDS	561				hypothetical protein
+BCMOMHLA_00051	CDS	288	relE	3.1.-.-	COG2026	mRNA interferase toxin RelE
+BCMOMHLA_00052	CDS	243	relB		COG3077	Antitoxin RelB
+BCMOMHLA_00053	CDS	261				hypothetical protein
+BCMOMHLA_00054	CDS	489				hypothetical protein
+BCMOMHLA_00055	CDS	243				hypothetical protein
+BCMOMHLA_00056	CDS	969				hypothetical protein
+BCMOMHLA_00057	CDS	285				hypothetical protein
+BCMOMHLA_00058	CDS	243				hypothetical protein
+BCMOMHLA_00059	CDS	267				hypothetical protein
+BCMOMHLA_00060	CDS	216	merT_2			Mercuric transport protein MerT
+BCMOMHLA_00061	CDS	276	merP			Mercuric transport protein periplasmic component
+BCMOMHLA_00062	CDS	213				hypothetical protein
+BCMOMHLA_00063	CDS	2994				hypothetical protein
+BCMOMHLA_00064	CDS	411				hypothetical protein
+BCMOMHLA_00065	CDS	240				hypothetical protein
+BCMOMHLA_00066	CDS	930	hin		COG1961	DNA-invertase hin

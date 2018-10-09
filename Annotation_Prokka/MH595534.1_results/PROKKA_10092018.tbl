@@ -1,0 +1,53 @@
+>Feature MH595534.1
+1551	1	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EGKDCKPL_00001
+			product	hypothetical protein
+2434	1541	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EGKDCKPL_00002
+			product	hypothetical protein
+2909	2625	CDS
+			dbxref	COG:COG2944
+			gene	higA-2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9KMA5
+			locus_tag	EGKDCKPL_00003
+			product	Antitoxin HigA-2
+3243	2911	CDS
+			dbxref	COG:COG2026
+			gene	higB-2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9KMA6
+			locus_tag	EGKDCKPL_00004
+			product	Toxin HigB-2
+4875	3304	CDS
+			EC_number	5.99.1.2
+			gene	mbeA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P13658
+			locus_tag	EGKDCKPL_00005
+			product	DNA relaxase MbeA
+5191	4865	CDS
+			gene	mbeC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P13657
+			locus_tag	EGKDCKPL_00006
+			product	Mobilization protein MbeC
+6421	6978	CDS
+			gene	tnpR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ADI2
+			locus_tag	EGKDCKPL_00007
+			product	Transposon Tn3 resolvase
+7287	8168	CDS
+			EC_number	3.5.2.6
+			gene	bla
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9F663
+			locus_tag	EGKDCKPL_00008
+			product	Carbapenem-hydrolyzing beta-lactamase KPC
+9257	8418	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	EGKDCKPL_00009
+			product	hypothetical protein

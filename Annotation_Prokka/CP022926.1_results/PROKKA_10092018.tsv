@@ -1,0 +1,290 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+FCAAOLCF_00001	CDS	858				hypothetical protein
+FCAAOLCF_00002	CDS	564	proQ		COG3109	RNA chaperone ProQ
+FCAAOLCF_00003	CDS	612				hypothetical protein
+FCAAOLCF_00004	CDS	162				hypothetical protein
+FCAAOLCF_00005	CDS	993				hypothetical protein
+FCAAOLCF_00006	CDS	156				hypothetical protein
+FCAAOLCF_00007	CDS	1716	xerD_1		COG4974	Tyrosine recombinase XerD
+FCAAOLCF_00008	CDS	3030				hypothetical protein
+FCAAOLCF_00009	CDS	1026				hypothetical protein
+FCAAOLCF_00010	CDS	780				Insertion sequence IS5376 putative ATP-binding protein
+FCAAOLCF_00011	CDS	240				hypothetical protein
+FCAAOLCF_00012	CDS	882	bla_1	3.5.2.6		Carbapenem-hydrolyzing beta-lactamase KPC
+FCAAOLCF_00013	CDS	1320				hypothetical protein
+FCAAOLCF_00014	CDS	1185				hypothetical protein
+FCAAOLCF_00015	CDS	213				hypothetical protein
+FCAAOLCF_00016	CDS	360				hypothetical protein
+FCAAOLCF_00017	CDS	117				hypothetical protein
+FCAAOLCF_00018	CDS	411				hypothetical protein
+FCAAOLCF_00019	CDS	621	bin3			Putative transposon Tn552 DNA-invertase bin3
+FCAAOLCF_00020	CDS	2898				hypothetical protein
+FCAAOLCF_00021	CDS	705				hypothetical protein
+FCAAOLCF_00022	CDS	336	bla_2	3.5.2.6		Beta-lactamase OXA-18
+FCAAOLCF_00023	CDS	360	bla_3	3.5.2.6		Beta-lactamase OXA-18
+FCAAOLCF_00024	CDS	252	tnpR			Transposon Tn3 resolvase
+FCAAOLCF_00025	CDS	861	bla_4	3.5.2.6		Beta-lactamase TEM
+FCAAOLCF_00026	CDS	411				hypothetical protein
+FCAAOLCF_00027	CDS	564				hypothetical protein
+FCAAOLCF_00028	CDS	1356				hypothetical protein
+FCAAOLCF_00029	CDS	231				hypothetical protein
+FCAAOLCF_00030	CDS	228				hypothetical protein
+FCAAOLCF_00031	CDS	318				hypothetical protein
+FCAAOLCF_00032	CDS	255	holE_1	2.7.7.7		DNA polymerase III subunit theta
+FCAAOLCF_00033	CDS	426	klcA_1			Antirestriction protein KlcA
+FCAAOLCF_00034	CDS	159				hypothetical protein
+FCAAOLCF_00035	CDS	468				hypothetical protein
+FCAAOLCF_00036	CDS	1512	ltrA		COG3344	Group II intron-encoded protein LtrA
+FCAAOLCF_00037	CDS	426	umuD_1	3.4.21.-	COG1974	Protein UmuD
+FCAAOLCF_00038	CDS	1272	umuC_1		COG0389	Protein UmuC
+FCAAOLCF_00039	CDS	252				hypothetical protein
+FCAAOLCF_00040	CDS	1953				hypothetical protein
+FCAAOLCF_00041	CDS	1281				hypothetical protein
+FCAAOLCF_00042	CDS	276				hypothetical protein
+FCAAOLCF_00043	CDS	267				hypothetical protein
+FCAAOLCF_00044	CDS	174				hypothetical protein
+FCAAOLCF_00045	CDS	657				hypothetical protein
+FCAAOLCF_00046	CDS	264				hypothetical protein
+FCAAOLCF_00047	CDS	972	sopB			Protein SopB
+FCAAOLCF_00048	CDS	1167	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+FCAAOLCF_00049	CDS	1011	repB			RepFIB replication protein A
+FCAAOLCF_00050	CDS	741	xerD_2			Tyrosine recombinase XerD
+FCAAOLCF_00051	CDS	102				hypothetical protein
+FCAAOLCF_00052	CDS	957	dgcP	2.7.7.65	COG2203	Diguanylate cyclase DgcP
+FCAAOLCF_00053	CDS	969				hypothetical protein
+FCAAOLCF_00054	CDS	1416	pdeB	3.1.4.52	COG4943	putative cyclic di-GMP phosphodiesterase PdeB
+FCAAOLCF_00055	CDS	192				hypothetical protein
+FCAAOLCF_00056	CDS	1278			COG4325	putative protein
+FCAAOLCF_00057	CDS	1998			COG1292	Glycine betaine transporter
+FCAAOLCF_00058	CDS	378				hypothetical protein
+FCAAOLCF_00059	CDS	882				hypothetical protein
+FCAAOLCF_00060	CDS	396				hypothetical protein
+FCAAOLCF_00061	CDS	378				hypothetical protein
+FCAAOLCF_00062	CDS	405				hypothetical protein
+FCAAOLCF_00063	CDS	432	silE_1			Silver-binding protein SilE
+FCAAOLCF_00064	CDS	1476	cusS_1	2.7.13.3	COG0642	Sensor kinase CusS
+FCAAOLCF_00065	CDS	681	cusR		COG0745	Transcriptional regulatory protein CusR
+FCAAOLCF_00066	CDS	1386	cusC		COG1538	Cation efflux system protein CusC
+FCAAOLCF_00067	CDS	354	cusF		COG5569	Cation efflux system protein CusF
+FCAAOLCF_00068	CDS	1293	cusB			Cation efflux system protein CusB
+FCAAOLCF_00069	CDS	3147	cusA		COG3696	Cation efflux system protein CusA
+FCAAOLCF_00070	CDS	441				hypothetical protein
+FCAAOLCF_00071	CDS	2454	silP	3.6.3.53		Silver exporting P-type ATPase
+FCAAOLCF_00072	CDS	198				hypothetical protein
+FCAAOLCF_00073	CDS	738	mepM	3.4.24.-	COG0739	Murein DD-endopeptidase MepM
+FCAAOLCF_00074	CDS	450	silE_2			Silver-binding protein SilE
+FCAAOLCF_00075	CDS	1818	copA			Copper resistance protein A
+FCAAOLCF_00076	CDS	897	copB			Copper resistance protein B
+FCAAOLCF_00077	CDS	381	pcoC		COG2372	Copper resistance protein C
+FCAAOLCF_00078	CDS	930	copD			Copper resistance protein D
+FCAAOLCF_00079	CDS	681	copR			Transcriptional activator protein CopR
+FCAAOLCF_00080	CDS	1401	cusS_2	2.7.13.3	COG0642	Sensor kinase CusS
+FCAAOLCF_00081	CDS	435	pcoE			putative copper-binding protein PcoE
+FCAAOLCF_00082	CDS	651				hypothetical protein
+FCAAOLCF_00083	CDS	648				hypothetical protein
+FCAAOLCF_00084	CDS	405	aqpZ2			Aquaporin Z 2
+FCAAOLCF_00085	CDS	498	ywnH	2.3.1.183	COG1247	Putative phosphinothricin acetyltransferase YwnH
+FCAAOLCF_00086	CDS	327				hypothetical protein
+FCAAOLCF_00087	CDS	714	arsH	1.-.-.-	COG0431	NADPH-dependent FMN reductase ArsH
+FCAAOLCF_00088	CDS	546	sigL		COG1595	ECF RNA polymerase sigma factor SigL
+FCAAOLCF_00089	CDS	363	arsD_1			Arsenical resistance operon trans-acting repressor ArsD
+FCAAOLCF_00090	CDS	1341	arsA_1	3.6.3.16		Arsenical pump-driving ATPase
+FCAAOLCF_00091	CDS	474	arsA_2	3.6.3.16		Arsenical pump-driving ATPase
+FCAAOLCF_00092	CDS	537	yncA	2.3.1.-	COG1247	L-methionine sulfoximine/L-methionine sulfone acetyltransferase
+FCAAOLCF_00093	CDS	426	arsC	1.20.4.1		Arsenate reductase
+FCAAOLCF_00094	CDS	1290	arsB		COG1055	Arsenical pump membrane protein
+FCAAOLCF_00095	CDS	1752	arsA_3	3.6.3.16		Arsenical pump-driving ATPase
+FCAAOLCF_00096	CDS	363	arsD_2			Arsenical resistance operon trans-acting repressor ArsD
+FCAAOLCF_00097	CDS	351	arsR2		COG0640	Arsenic resistance transcriptional regulator ArsR2
+FCAAOLCF_00098	CDS	270				hypothetical protein
+FCAAOLCF_00099	CDS	576				hypothetical protein
+FCAAOLCF_00100	CDS	495				hypothetical protein
+FCAAOLCF_00101	CDS	369				hypothetical protein
+FCAAOLCF_00102	CDS	204	ymoA			Modulating protein YmoA
+FCAAOLCF_00103	CDS	258				hypothetical protein
+FCAAOLCF_00104	CDS	255				hypothetical protein
+FCAAOLCF_00105	CDS	267				hypothetical protein
+FCAAOLCF_00106	CDS	483				hypothetical protein
+FCAAOLCF_00107	CDS	165				hypothetical protein
+FCAAOLCF_00108	CDS	1359				hypothetical protein
+FCAAOLCF_00109	CDS	396				hypothetical protein
+FCAAOLCF_00110	CDS	720				hypothetical protein
+FCAAOLCF_00111	CDS	306				hypothetical protein
+FCAAOLCF_00112	CDS	990	htpX	3.4.24.-	COG0501	Protease HtpX 
+FCAAOLCF_00113	CDS	750				hypothetical protein
+FCAAOLCF_00114	CDS	198				hypothetical protein
+FCAAOLCF_00115	CDS	2796	clpC			ATP-dependent Clp protease ATP-binding subunit ClpC
+FCAAOLCF_00116	CDS	570	hspA		COG0071	Spore protein SP21
+FCAAOLCF_00117	CDS	282				hypothetical protein
+FCAAOLCF_00118	CDS	264				hypothetical protein
+FCAAOLCF_00119	CDS	255				hypothetical protein
+FCAAOLCF_00120	CDS	378				hypothetical protein
+FCAAOLCF_00121	CDS	1008	amiF	3.5.1.49	COG0388	Formamidase
+FCAAOLCF_00122	CDS	690	livF		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+FCAAOLCF_00123	CDS	750	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+FCAAOLCF_00124	CDS	1116	xylH		COG4214	Xylose transport system permease protein XylH
+FCAAOLCF_00125	CDS	927	livH		COG0559	High-affinity branched-chain amino acid transport system permease protein LivH
+FCAAOLCF_00126	CDS	1281	amiC			Aliphatic amidase expression-regulating protein
+FCAAOLCF_00127	CDS	3381	arcB	2.7.13.3	COG0642	Aerobic respiration control sensor protein ArcB
+FCAAOLCF_00128	CDS	921		3.1.4.-	COG3437	putative cyclic di-GMP phosphodiesterase
+FCAAOLCF_00129	CDS	426				hypothetical protein
+FCAAOLCF_00130	CDS	969				hypothetical protein
+FCAAOLCF_00131	CDS	1005				hypothetical protein
+FCAAOLCF_00132	CDS	177				hypothetical protein
+FCAAOLCF_00133	CDS	816	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+FCAAOLCF_00134	CDS	804	neo	2.7.1.95		Aminoglycoside 3'-phosphotransferase
+FCAAOLCF_00135	CDS	837				hypothetical protein
+FCAAOLCF_00136	CDS	705				hypothetical protein
+FCAAOLCF_00137	CDS	663				hypothetical protein
+FCAAOLCF_00138	CDS	705				hypothetical protein
+FCAAOLCF_00139	CDS	1014	xerD_3		COG4974	Tyrosine recombinase XerD
+FCAAOLCF_00140	CDS	474	dhfrI	1.5.1.3		Dihydrofolate reductase type 1
+FCAAOLCF_00141	CDS	267				hypothetical protein
+FCAAOLCF_00142	CDS	765				hypothetical protein
+FCAAOLCF_00143	CDS	1215	ecoRIIR	3.1.21.4		Type-2 restriction enzyme EcoRII
+FCAAOLCF_00144	CDS	1434	dcm	2.1.1.37	COG0270	DNA-cytosine methyltransferase
+FCAAOLCF_00145	CDS	705				hypothetical protein
+FCAAOLCF_00146	CDS	2550				hypothetical protein
+FCAAOLCF_00147	CDS	321				hypothetical protein
+FCAAOLCF_00148	CDS	876	bla_5	3.5.2.6		Beta-lactamase CTX-M-1
+FCAAOLCF_00149	CDS	705				hypothetical protein
+FCAAOLCF_00150	CDS	849				hypothetical protein
+FCAAOLCF_00151	CDS	312				hypothetical protein
+FCAAOLCF_00152	CDS	543	tmrB			Tunicamycin resistance protein
+FCAAOLCF_00153	CDS	861	yokD	2.3.1.-	COG2746	SPBc2 prophage-derived aminoglycoside N(3')-acetyltransferase-like protein YokD
+FCAAOLCF_00154	CDS	705				hypothetical protein
+FCAAOLCF_00155	CDS	600	aacA4	2.3.1.82		Aminoglycoside N(6')-acetyltransferase type 1
+FCAAOLCF_00156	CDS	876	bla_6	3.5.2.6		Beta-lactamase OXA-1
+FCAAOLCF_00157	CDS	549	cat	2.3.1.28	COG0110	Chloramphenicol acetyltransferase
+FCAAOLCF_00158	CDS	705				hypothetical protein
+FCAAOLCF_00159	CDS	1530				hypothetical protein
+FCAAOLCF_00160	CDS	678	tetR			Tetracycline repressor protein class A from transposon 1721
+FCAAOLCF_00161	CDS	1200	tetA			Tetracycline resistance protein, class C
+FCAAOLCF_00162	CDS	885	yedA			putative inner membrane transporter YedA
+FCAAOLCF_00163	CDS	822				hypothetical protein
+FCAAOLCF_00164	CDS	606	pinR	3.1.22.-	COG1961	Serine recombinase PinR
+FCAAOLCF_00165	CDS	2898				hypothetical protein
+FCAAOLCF_00166	CDS	1836				hypothetical protein
+FCAAOLCF_00167	CDS	387	pspF		COG1221	Psp operon transcriptional activator
+FCAAOLCF_00168	CDS	645			COG1357	Pentapeptide repeat protein
+FCAAOLCF_00169	CDS	669	yghA	1.-.-.-		putative oxidoreductase YghA
+FCAAOLCF_00170	CDS	705				hypothetical protein
+FCAAOLCF_00171	CDS	1269	tnsB			Transposon Tn7 transposition protein TnsB
+FCAAOLCF_00172	CDS	708			COG2200	putative signaling protein
+FCAAOLCF_00173	CDS	237				hypothetical protein
+FCAAOLCF_00174	CDS	363	mta		COG0789	HTH-type transcriptional activator mta
+FCAAOLCF_00175	CDS	1695	merA	1.16.1.1		Mercuric reductase
+FCAAOLCF_00176	CDS	423	merC			Mercuric transport protein MerC
+FCAAOLCF_00177	CDS	378				hypothetical protein
+FCAAOLCF_00178	CDS	276				hypothetical protein
+FCAAOLCF_00179	CDS	711	recF			DNA replication and repair protein RecF
+FCAAOLCF_00180	CDS	402	vapC	3.1.-.-	COG1487	tRNA(fMet)-specific endonuclease VapC
+FCAAOLCF_00181	CDS	231	vapB		COG4456	Antitoxin VapB
+FCAAOLCF_00182	CDS	252				hypothetical protein
+FCAAOLCF_00183	CDS	309				hypothetical protein
+FCAAOLCF_00184	CDS	330				hypothetical protein
+FCAAOLCF_00185	CDS	399				hypothetical protein
+FCAAOLCF_00186	CDS	333				hypothetical protein
+FCAAOLCF_00187	CDS	783	xerD_4		COG4974	Tyrosine recombinase XerD
+FCAAOLCF_00188	CDS	249				hypothetical protein
+FCAAOLCF_00189	CDS	231				hypothetical protein
+FCAAOLCF_00190	CDS	474				hypothetical protein
+FCAAOLCF_00191	CDS	1269				hypothetical protein
+FCAAOLCF_00192	CDS	3258	hsdR	3.1.21.3		Type-1 restriction enzyme R protein
+FCAAOLCF_00193	CDS	1317				hypothetical protein
+FCAAOLCF_00194	CDS	2028	hsdM	2.1.1.72	COG0286	Type I restriction enzyme EcoKI M protein
+FCAAOLCF_00195	CDS	216				hypothetical protein
+FCAAOLCF_00196	CDS	174				hypothetical protein
+FCAAOLCF_00197	CDS	333				hypothetical protein
+FCAAOLCF_00198	CDS	975	virB		COG1475	Virulence regulon transcriptional activator VirB
+FCAAOLCF_00199	CDS	1206	parA			Plasmid partition protein A
+FCAAOLCF_00200	CDS	897	repA			Replication protein RepA
+FCAAOLCF_00201	CDS	1272	umuC_2		COG0389	Protein UmuC
+FCAAOLCF_00202	CDS	432	umuD_2	3.4.21.-	COG1974	Protein UmuD
+FCAAOLCF_00203	CDS	972	parM			Plasmid segregation protein ParM
+FCAAOLCF_00204	CDS	672				hypothetical protein
+FCAAOLCF_00205	CDS	231				hypothetical protein
+FCAAOLCF_00206	CDS	702	yhdJ	2.1.1.72	COG0863	DNA adenine methyltransferase YhdJ
+FCAAOLCF_00207	CDS	222				hypothetical protein
+FCAAOLCF_00208	CDS	420				hypothetical protein
+FCAAOLCF_00209	CDS	768				hypothetical protein
+FCAAOLCF_00210	CDS	429	klcA_2			Antirestriction protein KlcA
+FCAAOLCF_00211	CDS	507				hypothetical protein
+FCAAOLCF_00212	CDS	192				hypothetical protein
+FCAAOLCF_00213	CDS	255	holE_2	2.7.7.7		DNA polymerase III subunit theta
+FCAAOLCF_00214	CDS	318				hypothetical protein
+FCAAOLCF_00215	CDS	228				hypothetical protein
+FCAAOLCF_00216	CDS	231				hypothetical protein
+FCAAOLCF_00217	CDS	1356				hypothetical protein
+FCAAOLCF_00218	CDS	564				hypothetical protein
+FCAAOLCF_00219	CDS	321				hypothetical protein
+FCAAOLCF_00220	CDS	543	ssb			Plasmid-derived single-stranded DNA-binding protein
+FCAAOLCF_00221	CDS	249				hypothetical protein
+FCAAOLCF_00222	CDS	2058	spo0C		COG1475	Chromosome-partitioning protein Spo0J
+FCAAOLCF_00223	CDS	432	psiB			Protein PsiB
+FCAAOLCF_00224	CDS	729				hypothetical protein
+FCAAOLCF_00225	CDS	327				hypothetical protein
+FCAAOLCF_00226	CDS	375				hypothetical protein
+FCAAOLCF_00227	CDS	1080				hypothetical protein
+FCAAOLCF_00228	CDS	159	flmA			Stable plasmid inheritance protein
+FCAAOLCF_00229	CDS	273				hypothetical protein
+FCAAOLCF_00230	CDS	351				hypothetical protein
+FCAAOLCF_00231	CDS	318				hypothetical protein
+FCAAOLCF_00232	CDS	357				hypothetical protein
+FCAAOLCF_00233	CDS	213				hypothetical protein
+FCAAOLCF_00234	CDS	225				hypothetical protein
+FCAAOLCF_00235	CDS	321				hypothetical protein
+FCAAOLCF_00236	CDS	279	higA1		COG1396	Antitoxin HigA1
+FCAAOLCF_00237	CDS	414	higA		COG5499	Antitoxin HigA
+FCAAOLCF_00238	CDS	381				hypothetical protein
+FCAAOLCF_00239	CDS	348				hypothetical protein
+FCAAOLCF_00240	CDS	147				hypothetical protein
+FCAAOLCF_00241	CDS	834				hypothetical protein
+FCAAOLCF_00242	CDS	381				hypothetical protein
+FCAAOLCF_00243	CDS	822				hypothetical protein
+FCAAOLCF_00244	CDS	315				hypothetical protein
+FCAAOLCF_00245	CDS	486				hypothetical protein
+FCAAOLCF_00246	CDS	399	traM			Relaxosome protein TraM
+FCAAOLCF_00247	CDS	687	traJ			Protein TraJ
+FCAAOLCF_00248	CDS	387	traY			Relaxosome protein TraY
+FCAAOLCF_00249	CDS	369	traA			Pilin
+FCAAOLCF_00250	CDS	306				hypothetical protein
+FCAAOLCF_00251	CDS	567				hypothetical protein
+FCAAOLCF_00252	CDS	741				hypothetical protein
+FCAAOLCF_00253	CDS	1425				hypothetical protein
+FCAAOLCF_00254	CDS	585	traV			Protein TraV
+FCAAOLCF_00255	CDS	411				hypothetical protein
+FCAAOLCF_00256	CDS	219				hypothetical protein
+FCAAOLCF_00257	CDS	312				hypothetical protein
+FCAAOLCF_00258	CDS	405				hypothetical protein
+FCAAOLCF_00259	CDS	390				hypothetical protein
+FCAAOLCF_00260	CDS	390				hypothetical protein
+FCAAOLCF_00261	CDS	2640	traC			Protein TraC
+FCAAOLCF_00262	CDS	390				hypothetical protein
+FCAAOLCF_00263	CDS	627				hypothetical protein
+FCAAOLCF_00264	CDS	390				hypothetical protein
+FCAAOLCF_00265	CDS	990				hypothetical protein
+FCAAOLCF_00266	CDS	639				hypothetical protein
+FCAAOLCF_00267	CDS	1956				hypothetical protein
+FCAAOLCF_00268	CDS	255				hypothetical protein
+FCAAOLCF_00269	CDS	267				hypothetical protein
+FCAAOLCF_00270	CDS	327				hypothetical protein
+FCAAOLCF_00271	CDS	753				hypothetical protein
+FCAAOLCF_00272	CDS	240	traQ			Protein TraQ
+FCAAOLCF_00273	CDS	558				hypothetical protein
+FCAAOLCF_00274	CDS	444				hypothetical protein
+FCAAOLCF_00275	CDS	1368				hypothetical protein
+FCAAOLCF_00276	CDS	2850				hypothetical protein
+FCAAOLCF_00277	CDS	549	traS			Protein TraS
+FCAAOLCF_00278	CDS	732	ylpA			Lipoprotein YlpA
+FCAAOLCF_00279	CDS	690				hypothetical protein
+FCAAOLCF_00280	CDS	2313	traD			Coupling protein TraD
+FCAAOLCF_00281	CDS	5262	traI			Multifunctional conjugation protein TraI
+FCAAOLCF_00282	CDS	726				hypothetical protein
+FCAAOLCF_00283	CDS	594	finO			Fertility inhibition protein
+FCAAOLCF_00284	CDS	597				hypothetical protein
+FCAAOLCF_00285	CDS	645				hypothetical protein
+FCAAOLCF_00286	CDS	651				hypothetical protein
+FCAAOLCF_00287	CDS	309				hypothetical protein
+FCAAOLCF_00288	CDS	561	pld	3.1.4.4		Phospholipase D
+FCAAOLCF_00289	CDS	252				hypothetical protein

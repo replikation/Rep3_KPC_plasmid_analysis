@@ -1,0 +1,50 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+LPNBKDJC_00001	CDS	1026				hypothetical protein
+LPNBKDJC_00002	CDS	3030				hypothetical protein
+LPNBKDJC_00003	CDS	1716	xerD_1		COG4974	Tyrosine recombinase XerD
+LPNBKDJC_00004	CDS	909				hypothetical protein
+LPNBKDJC_00005	CDS	558	tnpR			Transposon Tn3 resolvase
+LPNBKDJC_00006	CDS	861	bla_1	3.5.2.6		Beta-lactamase TEM
+LPNBKDJC_00007	CDS	162				hypothetical protein
+LPNBKDJC_00008	CDS	252				hypothetical protein
+LPNBKDJC_00009	CDS	684				hypothetical protein
+LPNBKDJC_00010	CDS	444				hypothetical protein
+LPNBKDJC_00011	CDS	768	xerD_2		COG4974	Tyrosine recombinase XerD
+LPNBKDJC_00012	CDS	195				hypothetical protein
+LPNBKDJC_00013	CDS	390				hypothetical protein
+LPNBKDJC_00014	CDS	192				hypothetical protein
+LPNBKDJC_00015	CDS	324				hypothetical protein
+LPNBKDJC_00016	CDS	249				hypothetical protein
+LPNBKDJC_00017	CDS	465	nucH	3.1.31.1		Thermonuclease
+LPNBKDJC_00018	CDS	177				hypothetical protein
+LPNBKDJC_00019	CDS	369				hypothetical protein
+LPNBKDJC_00020	CDS	429	klcA			Antirestriction protein KlcA
+LPNBKDJC_00021	CDS	591				hypothetical protein
+LPNBKDJC_00022	CDS	459				hypothetical protein
+LPNBKDJC_00023	CDS	828				hypothetical protein
+LPNBKDJC_00024	CDS	1986				hypothetical protein
+LPNBKDJC_00025	CDS	714				hypothetical protein
+LPNBKDJC_00026	CDS	1023				Type IV secretion system protein VirB11
+LPNBKDJC_00027	CDS	348				hypothetical protein
+LPNBKDJC_00028	CDS	237				hypothetical protein
+LPNBKDJC_00029	CDS	360				hypothetical protein
+LPNBKDJC_00030	CDS	2580	virB4		COG3451	Type IV secretion system protein virB4
+LPNBKDJC_00031	CDS	813				hypothetical protein
+LPNBKDJC_00032	CDS	459				hypothetical protein
+LPNBKDJC_00033	CDS	975				hypothetical protein
+LPNBKDJC_00034	CDS	726				hypothetical protein
+LPNBKDJC_00035	CDS	834				hypothetical protein
+LPNBKDJC_00036	CDS	1374				hypothetical protein
+LPNBKDJC_00037	CDS	537				hypothetical protein
+LPNBKDJC_00038	CDS	192				hypothetical protein
+LPNBKDJC_00039	CDS	687	slt	4.2.2.-	COG0741	Soluble lytic murein transglycosylase
+LPNBKDJC_00040	CDS	351				hypothetical protein
+LPNBKDJC_00041	CDS	462	ssb		COG0629	Single-stranded DNA-binding protein
+LPNBKDJC_00042	CDS	240				hypothetical protein
+LPNBKDJC_00043	CDS	894				hypothetical protein
+LPNBKDJC_00044	CDS	450				hypothetical protein
+LPNBKDJC_00045	CDS	288				hypothetical protein
+LPNBKDJC_00046	CDS	2148				hypothetical protein
+LPNBKDJC_00047	CDS	1320				hypothetical protein
+LPNBKDJC_00048	CDS	1272	bla_2	3.5.2.6		Carbapenem-hydrolyzing beta-lactamase KPC
+LPNBKDJC_00049	CDS	516				Insertion sequence IS5376 putative ATP-binding protein

@@ -1,0 +1,23 @@
+##gff-version	3
+MG053313.1	.	delta tnpA	35049	36869	.	-	.	name=delta tnpA;description=truncated transposase;accession=YP_002291077.1;missmatches=0;evalue=0.0
+MG053313.1	.	thiAdelta1	12477	13781	.	-	.	name=thiAdelta1;description=putative transposase;accession=YP_001551934.1;missmatches=0;evalue=0.0
+MG053313.1	.	tet(A)	38250	39449	.	-	.	name=tet(A);description=tetracycline efflux MFS transporter Tet(A);accession=WP_000804064.1;missmatches=0;evalue=0.0
+MG053313.1	.	insD2	18565	19569	.	.	.	name=insD2;description=transposase;accession=YP_006966030.1;missmatches=0;evalue=0.0
+MG053313.1	.	tnpA	10110	11090	.	-	.	name=tnpA;description=ISKpn27 transposase;accession=YP_009328786.1;missmatches=0;evalue=0.0
+MG053313.1	.	blaKPC	8953	9834	.	-	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-2;accession=WP_004199234.1;missmatches=0;evalue=0.0
+MG053313.1	.	tnpA	7839	8703	.	.	.	name=tnpA;description=transposase;accession=YP_009328370.1;missmatches=0;evalue=0.0
+MG053313.1	.	aac(3)-II	2670	3530	.	-	.	name=aac(3)-II;description=aminoglycoside N-acetyltransferase AAC(3)-IId;accession=WP_000557454.1;missmatches=0;evalue=0.0
+MG053313.1	.	blaLAP	54614	55471	.	-	.	name=blaLAP;description=class A beta-lactamase LAP-2;accession=WP_012477595.1;missmatches=0;evalue=0.0
+MG053313.1	.	sul1	42200	43039	.	.	.	name=sul1;description=sulfonamide-resistant dihydropteroate synthase Sul1;accession=WP_000259031.1;missmatches=0;evalue=0.0
+MG053313.1	.	tnp	44144	44938	.	.	.	name=tnp;description=transposase of IS6100;accession=YP_067849.1;missmatches=0;evalue=0.0
+MG053313.1	.	tnpA	56961	57683	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+MG053313.1	.	tnpA	11726	12448	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+MG053313.1	.	tnpA	45809	46531	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+MG053313.1	.	insB4	4428	5149	.	-	.	name=insB4;description=transposase InsB4 for insertion sequence IS26;accession=YP_002894680.1;missmatches=0;evalue=0.0
+MG053313.1	.	Tn10L	3673	4374	.	.	.	name=Tn10L;description=Tn10 transposase for IS10 left;accession=NP_941297.1;missmatches=2;evalue=0.0
+MG053313.1	.	delta-tnpA	53909	54565	.	.	.	name=delta-tnpA;description=mutated transposase of IS2;accession=YP_007349574.1;missmatches=0;evalue=0.0
+MG053313.1	.	qnrS	52361	53017	.	-	.	name=qnrS;description=quinolone resistance pentapeptide repeat protein QnrS1;accession=WP_001516695.1;missmatches=0;evalue=0.0
+MG053313.1	.	tetR	39555	40205	.	.	.	name=tetR;description=TetRacycline repressor protein class a from transposon 1721;accession=YP_067900.1;missmatches=0;evalue=0.0
+MG053313.1	.	dfrA1	40682	41155	.	.	.	name=dfrA1;description=trimethoprim-resistant dihydrofolate reductase DfrA1;accession=WP_000777554.1;missmatches=0;evalue=0.0
+MG053313.1	.	tnpR	11213	11671	.	-	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_003108101.1;missmatches=14;evalue=0.0
+MG053313.1	.	qacE	41859	42206	.	.	.	name=qacE;description=quaternary ammonium compound efflux SMR transporter QacE delta 1;accession=WP_000679427.1;missmatches=0;evalue=0.0

@@ -1,0 +1,255 @@
+>Feature MH328006.1
+1182	202	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00001
+			product	hypothetical protein
+1862	1305	CDS
+			gene	tnpR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ADI2
+			locus_tag	HLCJMCGC_00002
+			product	Transposon Tn3 resolvase
+2025	5030	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00003
+			product	hypothetical protein
+5167	5340	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00004
+			product	hypothetical protein
+5863	5345	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00005
+			product	hypothetical protein
+6235	5876	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00006
+			product	hypothetical protein
+6768	6337	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00007
+			product	hypothetical protein
+7748	6768	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00008
+			product	hypothetical protein
+8668	8309	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00009
+			product	hypothetical protein
+8776	9300	CDS
+			dbxref	COG:COG0484
+			gene	dnaJ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P30725
+			locus_tag	HLCJMCGC_00010
+			product	Chaperone protein DnaJ
+9391	9933	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00011
+			product	hypothetical protein
+9930	10175	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00012
+			product	hypothetical protein
+10172	10393	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00013
+			product	hypothetical protein
+10398	10679	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00014
+			product	hypothetical protein
+11063	11275	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00015
+			product	hypothetical protein
+11321	11581	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00016
+			product	hypothetical protein
+11658	11795	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00017
+			product	hypothetical protein
+11885	12109	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00018
+			product	hypothetical protein
+12121	12396	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00019
+			product	hypothetical protein
+12418	12684	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00020
+			product	hypothetical protein
+13126	13680	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00021
+			product	hypothetical protein
+13682	14872	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00022
+			product	hypothetical protein
+15228	14902	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00023
+			product	hypothetical protein
+15448	16086	CDS
+			gene	virB1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RPY4
+			locus_tag	HLCJMCGC_00024
+			product	Type IV secretion system protein virB1
+16073	16360	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00025
+			product	hypothetical protein
+16379	19138	CDS
+			gene	virB4
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RPY1
+			locus_tag	HLCJMCGC_00026
+			product	Type IV secretion system protein virB4
+19195	19896	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00027
+			product	hypothetical protein
+19904	20161	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00028
+			product	hypothetical protein
+20175	21251	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00029
+			product	hypothetical protein
+21254	21391	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00030
+			product	hypothetical protein
+21378	22118	CDS
+			dbxref	COG:COG3736
+			gene	ptlE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7VSX6
+			locus_tag	HLCJMCGC_00031
+			product	Type IV secretion system protein PtlE
+22123	23043	CDS
+			gene	virB9
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RPX6
+			locus_tag	HLCJMCGC_00032
+			product	Type IV secretion system protein virB9
+23040	24551	CDS
+			dbxref	COG:COG2948
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q6G2B2
+			locus_tag	HLCJMCGC_00033
+			product	Type IV secretion system protein virB10
+24553	25614	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8FXK7
+			locus_tag	HLCJMCGC_00034
+			product	Type IV secretion system protein VirB11
+25616	27583	CDS
+			gene	virD4
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P18594
+			locus_tag	HLCJMCGC_00035
+			product	Protein VirD4
+27593	27979	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00036
+			product	hypothetical protein
+27982	28374	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00037
+			product	hypothetical protein
+28379	28726	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00038
+			product	hypothetical protein
+28870	29616	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00039
+			product	hypothetical protein
+29622	32021	CDS
+			EC_number	5.99.1.2
+			dbxref	COG:COG0550
+			gene	topB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P14294
+			locus_tag	HLCJMCGC_00040
+			product	DNA topoisomerase 3
+32025	32234	CDS
+			gene	ymoA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A3X1
+			locus_tag	HLCJMCGC_00041
+			product	Modulating protein YmoA
+32293	32763	CDS
+			gene	hns
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0DOA5
+			locus_tag	HLCJMCGC_00042
+			product	DNA-binding protein H-NS
+33020	33664	CDS
+			dbxref	COG:COG2894
+			gene	minD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q01464
+			locus_tag	HLCJMCGC_00043
+			product	Septum site-determining protein MinD
+33745	34029	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00044
+			product	hypothetical protein
+34041	34169	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00045
+			product	hypothetical protein
+37112	34146	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00046
+			product	hypothetical protein
+37676	37116	CDS
+			dbxref	COG:COG1961
+			gene	hin
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P03013
+			locus_tag	HLCJMCGC_00047
+			product	DNA-invertase hin
+38125	38685	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00048
+			product	hypothetical protein
+39219	39497	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00049
+			product	hypothetical protein
+39608	40033	CDS
+			gene	klcA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P52603
+			locus_tag	HLCJMCGC_00050
+			product	Antirestriction protein KlcA
+40161	40316	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00051
+			product	hypothetical protein
+40362	40658	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00052
+			product	hypothetical protein
+40663	41643	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HLCJMCGC_00053
+			product	hypothetical protein
+42774	41893	CDS
+			EC_number	3.5.2.6
+			gene	bla
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9F663
+			locus_tag	HLCJMCGC_00054
+			product	Carbapenem-hydrolyzing beta-lactamase KPC

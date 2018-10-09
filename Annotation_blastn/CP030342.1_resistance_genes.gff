@@ -1,0 +1,16 @@
+##gff-version	3
+CP030342.1	.	tnpA	73482	76511	.	-	.	name=tnpA;description=transposase TnpA;accession=YP_009328366.1;missmatches=0;evalue=0.0
+CP030342.1	.	tnpA	61731	64637	.	.	.	name=tnpA;description=Tn501 transposase;accession=YP_003829177.1;missmatches=2;evalue=0.0
+CP030342.1	.	tnpA	68836	70155	.	.	.	name=tnpA;description=transposase;accession=YP_008166926.1;missmatches=0;evalue=0.0
+CP030342.1	.	thiAdelta1	56487	57791	.	.	.	name=thiAdelta1;description=putative transposase;accession=YP_001551934.1;missmatches=0;evalue=0.0
+CP030342.1	.	tnpA	44402	45721	.	.	.	name=tnpA;description=putative transposase;accession=YP_008719594.1;missmatches=40;evalue=0.0
+CP030342.1	.	istA	72350	73375	.	-	.	name=istA;description=transposase IstA;accession=YP_009328367.1;missmatches=0;evalue=0.0
+CP030342.1	.	blaKPC	70405	71286	.	-	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-2;accession=WP_004199234.1;missmatches=0;evalue=0.0
+CP030342.1	.	blaTEM	58359	59219	.	-	.	name=blaTEM;description=class A beta-lactamase TEM-181;accession=WP_000027060.1;missmatches=2;evalue=0.0
+CP030342.1	.	blaOXA	59919	60743	.	-	.	name=blaOXA;description=oxacillin-hydrolyzing class D beta-lactamase OXA-9;accession=WP_000722315.1;missmatches=1;evalue=0.0
+CP030342.1	.	istB	71574	72353	.	-	.	name=istB;description=transposase helper protein IstB;accession=YP_009328368.1;missmatches=0;evalue=0.0
+CP030342.1	.	IncFIB(pQil)	33411	34150	.	.	.	name=IncFIB(pQil);description=unknown_protein;accession=unknown_accession;missmatches=0;evalue=0.0
+CP030342.1	.	tnpA	60963	61685	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP030342.1	.	tnpA	57820	58211	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP030342.1	.	insB	52298	52801	.	.	.	name=insB;description=InsB transposase;accession=YP_006953205.1;missmatches=0;evalue=0.0
+CP030342.1	.	tnpR	59402	59720	.	-	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_003108101.1;missmatches=9;evalue=1e-151

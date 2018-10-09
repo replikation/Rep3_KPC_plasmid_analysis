@@ -1,0 +1,18 @@
+##gff-version	3
+KY093013.1	.	tnpA	38302	41331	.	.	.	name=tnpA;description=transposase TnpA;accession=YP_008161910.1;missmatches=0;evalue=0.0
+KY093013.1	.	tnpA	46164	49115	.	-	.	name=tnpA;description=Tn501 transposase;accession=YP_003829177.1;missmatches=1;evalue=0.0
+KY093013.1	.	tnpA	53707	56668	.	.	.	name=tnpA;description=Tn3-family transposase;accession=YP_067891.1;missmatches=0;evalue=0.0
+KY093013.1	.	tnpA	44757	46076	.	-	.	name=tnpA;description=transposase;accession=YP_008166926.1;missmatches=0;evalue=0.0
+KY093013.1	.	tnpA	90923	92041	.	.	.	name=tnpA;description=IS186 transposase;accession=YP_003829040.1;missmatches=0;evalue=0.0
+KY093013.1	.	istA	41438	42463	.	.	.	name=istA;description=transposase IstA;accession=YP_009328367.1;missmatches=0;evalue=0.0
+KY093013.1	.	intI1	10105	11118	.	-	.	name=intI1;description=intI1;accession=YP_007447591.1;missmatches=0;evalue=0.0
+KY093013.1	.	tnpA	56747	57751	.	.	.	name=tnpA;description=transposase;accession=YP_008725238.1;missmatches=1;evalue=0.0
+KY093013.1	.	tnpA	35469	36426	.	.	.	name=tnpA;description=transposon Tn3 transposase;accession=YP_003108100.1;missmatches=1;evalue=0.0
+KY093013.1	.	blaKPC	43626	44507	.	.	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-3;accession=WP_004152396.1;missmatches=0;evalue=0.0
+KY093013.1	.	blaOXA	13664	14491	.	.	.	name=blaOXA;description=oxacillin-hydrolyzing class D beta-lactamase OXA-2;accession=WP_001007673.1;missmatches=0;evalue=0.0
+KY093013.1	.	aphA16	11877	12665	.	.	.	name=aphA16;description=APH(3') family aminoglycoside O-phosphotransferase AphA16;accession=WP_004206941.1;missmatches=0;evalue=0.0
+KY093013.1	.	istB	42460	43239	.	.	.	name=istB;description=transposase helper protein IstB;accession=YP_009328368.1;missmatches=0;evalue=0.0
+KY093013.1	.	ant(2'')-Ia	11048	11797	.	.	.	name=ant(2'')-Ia;description=aminoglycoside nucleotidyltransferase ANT(2'')-Ia;accession=WP_011977802.1;missmatches=1;evalue=0.0
+KY093013.1	.	tnpA	14753	15475	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=1;evalue=0.0
+KY093013.1	.	aadA10	12795	13634	.	.	.	name=aadA10;description=ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA10;accession=WP_070342359.1;missmatches=100;evalue=0.0
+KY093013.1	.	yacA	89038	89559	.	.	.	name=yacA;description=transposase protein A;accession=NP_065293.1;missmatches=29;evalue=0.0

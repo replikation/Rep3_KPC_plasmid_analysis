@@ -1,0 +1,157 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+IEOFGAFL_00001	CDS	723	repE			Replication initiation protein
+IEOFGAFL_00002	CDS	612				hypothetical protein
+IEOFGAFL_00003	CDS	1206	parA_1			Plasmid partition protein A
+IEOFGAFL_00004	CDS	975	virB_1		COG1475	Virulence regulon transcriptional activator VirB
+IEOFGAFL_00005	CDS	1272	umuC_1		COG0389	Protein UmuC
+IEOFGAFL_00006	CDS	432	umuD_1	3.4.21.-	COG1974	Protein UmuD
+IEOFGAFL_00007	CDS	1488	ltrA		COG3344	Group II intron-encoded protein LtrA
+IEOFGAFL_00008	CDS	972	parM			Plasmid segregation protein ParM
+IEOFGAFL_00009	CDS	672				hypothetical protein
+IEOFGAFL_00010	CDS	231				hypothetical protein
+IEOFGAFL_00011	CDS	702	yhdJ_1	2.1.1.72	COG0863	DNA adenine methyltransferase YhdJ
+IEOFGAFL_00012	CDS	222				hypothetical protein
+IEOFGAFL_00013	CDS	420				hypothetical protein
+IEOFGAFL_00014	CDS	768				hypothetical protein
+IEOFGAFL_00015	CDS	429	klcA			Antirestriction protein KlcA
+IEOFGAFL_00016	CDS	507				hypothetical protein
+IEOFGAFL_00017	CDS	192				hypothetical protein
+IEOFGAFL_00018	CDS	255	holE_1	2.7.7.7		DNA polymerase III subunit theta
+IEOFGAFL_00019	CDS	321				hypothetical protein
+IEOFGAFL_00020	CDS	228				hypothetical protein
+IEOFGAFL_00021	CDS	231				hypothetical protein
+IEOFGAFL_00022	CDS	1356				hypothetical protein
+IEOFGAFL_00023	CDS	564				hypothetical protein
+IEOFGAFL_00024	CDS	543	ssb			Plasmid-derived single-stranded DNA-binding protein
+IEOFGAFL_00025	CDS	249				hypothetical protein
+IEOFGAFL_00026	CDS	2058	spo0C_1		COG1475	Chromosome-partitioning protein Spo0J
+IEOFGAFL_00027	CDS	432	psiB_1			Protein PsiB
+IEOFGAFL_00028	CDS	729				hypothetical protein
+IEOFGAFL_00029	CDS	327				hypothetical protein
+IEOFGAFL_00030	CDS	375				hypothetical protein
+IEOFGAFL_00031	CDS	273				hypothetical protein
+IEOFGAFL_00032	CDS	351				hypothetical protein
+IEOFGAFL_00033	CDS	318				hypothetical protein
+IEOFGAFL_00034	CDS	357				hypothetical protein
+IEOFGAFL_00035	CDS	213				hypothetical protein
+IEOFGAFL_00036	CDS	225				hypothetical protein
+IEOFGAFL_00037	CDS	321				hypothetical protein
+IEOFGAFL_00038	CDS	279	higA1		COG1396	Antitoxin HigA1
+IEOFGAFL_00039	CDS	822				hypothetical protein
+IEOFGAFL_00040	CDS	315				hypothetical protein
+IEOFGAFL_00041	CDS	486				hypothetical protein
+IEOFGAFL_00042	CDS	384	traM			Relaxosome protein TraM
+IEOFGAFL_00043	CDS	738	traJ			Protein TraJ
+IEOFGAFL_00044	CDS	369	traA			Pilin
+IEOFGAFL_00045	CDS	306				hypothetical protein
+IEOFGAFL_00046	CDS	387				hypothetical protein
+IEOFGAFL_00047	CDS	705				hypothetical protein
+IEOFGAFL_00048	CDS	375				hypothetical protein
+IEOFGAFL_00049	CDS	360				hypothetical protein
+IEOFGAFL_00050	CDS	324				hypothetical protein
+IEOFGAFL_00051	CDS	729				hypothetical protein
+IEOFGAFL_00052	CDS	432	psiB_2			Protein PsiB
+IEOFGAFL_00053	CDS	1299				hypothetical protein
+IEOFGAFL_00054	CDS	663	spo0C_2		COG1475	Chromosome-partitioning protein Spo0J
+IEOFGAFL_00055	CDS	231				hypothetical protein
+IEOFGAFL_00056	CDS	270				hypothetical protein
+IEOFGAFL_00057	CDS	153				hypothetical protein
+IEOFGAFL_00058	CDS	261	holE_2	2.7.7.7		DNA polymerase III subunit theta
+IEOFGAFL_00059	CDS	192				hypothetical protein
+IEOFGAFL_00060	CDS	507				hypothetical protein
+IEOFGAFL_00061	CDS	780				hypothetical protein
+IEOFGAFL_00062	CDS	420				hypothetical protein
+IEOFGAFL_00063	CDS	222				hypothetical protein
+IEOFGAFL_00064	CDS	678	yhdJ_2	2.1.1.72	COG0863	DNA adenine methyltransferase YhdJ
+IEOFGAFL_00065	CDS	672	yedK	3.4.-.-	COG2135	Putative SOS response-associated peptidase YedK
+IEOFGAFL_00066	CDS	423	umuD_2	3.4.21.-	COG1974	Protein UmuD
+IEOFGAFL_00067	CDS	1272	umuC_2		COG0389	Protein UmuC
+IEOFGAFL_00068	CDS	972	virB_2		COG1475	Virulence regulon transcriptional activator VirB
+IEOFGAFL_00069	CDS	1206	parA_2			Plasmid partition protein A
+IEOFGAFL_00070	CDS	633	bin3_1			Putative transposon Tn552 DNA-invertase bin3
+IEOFGAFL_00071	CDS	951	rpnA	3.1.21.-	COG5464	Recombination-promoting nuclease RpnA
+IEOFGAFL_00072	CDS	612				hypothetical protein
+IEOFGAFL_00073	CDS	396				hypothetical protein
+IEOFGAFL_00074	CDS	408	rnt	3.1.13.-		Ribonuclease T
+IEOFGAFL_00075	CDS	981				hypothetical protein
+IEOFGAFL_00076	CDS	564	htrC			Heat shock protein C
+IEOFGAFL_00077	CDS	705				hypothetical protein
+IEOFGAFL_00078	CDS	642	cmlA	2.3.1.28		Chloramphenicol acetyltransferase 2
+IEOFGAFL_00079	CDS	501				hypothetical protein
+IEOFGAFL_00080	CDS	705				hypothetical protein
+IEOFGAFL_00081	CDS	738	bin3_2			Putative transposon Tn552 DNA-invertase bin3
+IEOFGAFL_00082	CDS	225				hypothetical protein
+IEOFGAFL_00083	CDS	177				hypothetical protein
+IEOFGAFL_00084	CDS	1005				hypothetical protein
+IEOFGAFL_00085	CDS	2967				hypothetical protein
+IEOFGAFL_00086	CDS	705				hypothetical protein
+IEOFGAFL_00087	CDS	705				hypothetical protein
+IEOFGAFL_00088	CDS	192				hypothetical protein
+IEOFGAFL_00089	CDS	240				hypothetical protein
+IEOFGAFL_00090	CDS	591				hypothetical protein
+IEOFGAFL_00091	CDS	711				hypothetical protein
+IEOFGAFL_00092	CDS	882	bla_1	3.5.2.6		Carbapenem-hydrolyzing beta-lactamase KPC
+IEOFGAFL_00093	CDS	981				hypothetical protein
+IEOFGAFL_00094	CDS	291				hypothetical protein
+IEOFGAFL_00095	CDS	225				hypothetical protein
+IEOFGAFL_00096	CDS	705				hypothetical protein
+IEOFGAFL_00097	CDS	192				hypothetical protein
+IEOFGAFL_00098	CDS	240				hypothetical protein
+IEOFGAFL_00099	CDS	591				hypothetical protein
+IEOFGAFL_00100	CDS	711				hypothetical protein
+IEOFGAFL_00101	CDS	882	bla_2	3.5.2.6		Carbapenem-hydrolyzing beta-lactamase KPC
+IEOFGAFL_00102	CDS	981				hypothetical protein
+IEOFGAFL_00103	CDS	291				hypothetical protein
+IEOFGAFL_00104	CDS	225				hypothetical protein
+IEOFGAFL_00105	CDS	705				hypothetical protein
+IEOFGAFL_00106	CDS	192				hypothetical protein
+IEOFGAFL_00107	CDS	240				hypothetical protein
+IEOFGAFL_00108	CDS	591				hypothetical protein
+IEOFGAFL_00109	CDS	711				hypothetical protein
+IEOFGAFL_00110	CDS	882	bla_3	3.5.2.6		Carbapenem-hydrolyzing beta-lactamase KPC
+IEOFGAFL_00111	CDS	981				hypothetical protein
+IEOFGAFL_00112	CDS	291				hypothetical protein
+IEOFGAFL_00113	CDS	225				hypothetical protein
+IEOFGAFL_00114	CDS	705				hypothetical protein
+IEOFGAFL_00115	CDS	192				hypothetical protein
+IEOFGAFL_00116	CDS	240				hypothetical protein
+IEOFGAFL_00117	CDS	591				hypothetical protein
+IEOFGAFL_00118	CDS	711				hypothetical protein
+IEOFGAFL_00119	CDS	882	bla_4	3.5.2.6		Carbapenem-hydrolyzing beta-lactamase KPC
+IEOFGAFL_00120	CDS	981				hypothetical protein
+IEOFGAFL_00121	CDS	291				hypothetical protein
+IEOFGAFL_00122	CDS	225				hypothetical protein
+IEOFGAFL_00123	CDS	705				hypothetical protein
+IEOFGAFL_00124	CDS	192				hypothetical protein
+IEOFGAFL_00125	CDS	240				hypothetical protein
+IEOFGAFL_00126	CDS	591				hypothetical protein
+IEOFGAFL_00127	CDS	711				hypothetical protein
+IEOFGAFL_00128	CDS	882	bla_5	3.5.2.6		Carbapenem-hydrolyzing beta-lactamase KPC
+IEOFGAFL_00129	CDS	981				hypothetical protein
+IEOFGAFL_00130	CDS	291				hypothetical protein
+IEOFGAFL_00131	CDS	225				hypothetical protein
+IEOFGAFL_00132	CDS	705				hypothetical protein
+IEOFGAFL_00133	CDS	1035	tnsB			Transposon Tn7 transposition protein TnsB
+IEOFGAFL_00134	CDS	708			COG2200	putative signaling protein
+IEOFGAFL_00135	CDS	237				hypothetical protein
+IEOFGAFL_00136	CDS	363	mta		COG0789	HTH-type transcriptional activator mta
+IEOFGAFL_00137	CDS	1695	merA	1.16.1.1		Mercuric reductase
+IEOFGAFL_00138	CDS	462	merC			Mercuric transport protein MerC
+IEOFGAFL_00139	CDS	276	merP			Mercuric transport protein periplasmic component
+IEOFGAFL_00140	CDS	351	merT			Mercuric transport protein MerT
+IEOFGAFL_00141	CDS	435	merR			Mercuric resistance operon regulatory protein
+IEOFGAFL_00142	CDS	1005				hypothetical protein
+IEOFGAFL_00143	CDS	354				hypothetical protein
+IEOFGAFL_00144	CDS	378				hypothetical protein
+IEOFGAFL_00145	CDS	1023				hypothetical protein
+IEOFGAFL_00146	CDS	1563	recF			DNA replication and repair protein RecF
+IEOFGAFL_00147	CDS	402	vapC	3.1.-.-	COG1487	tRNA(fMet)-specific endonuclease VapC
+IEOFGAFL_00148	CDS	231	vapB		COG4456	Antitoxin VapB
+IEOFGAFL_00149	CDS	312				hypothetical protein
+IEOFGAFL_00150	CDS	945				hypothetical protein
+IEOFGAFL_00151	CDS	393				hypothetical protein
+IEOFGAFL_00152	CDS	297				hypothetical protein
+IEOFGAFL_00153	CDS	1005				hypothetical protein
+IEOFGAFL_00154	CDS	780	xerD		COG4974	Tyrosine recombinase XerD
+IEOFGAFL_00155	CDS	258				hypothetical protein
+IEOFGAFL_00156	CDS	96				hypothetical protein

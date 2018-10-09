@@ -1,0 +1,16 @@
+LT216438.1	2907	86081	88987	plus	[gene=tnpA] [locus_tag=pECL8_p102] [db_xref=GeneID:9538108] [protein=Tn501 transposase] [protein_id=YP_003829177.1] [location=complement(93061..96012)] [gbkey=CDS]	0.0	2
+LT216438.1	1590	97832	99421	minus	[gene=tnpA] [locus_tag=pEC4365TF2_06] [db_xref=GeneID:30522679] [protein=transposase TnpA] [protein_id=YP_009328366.1] [location=6852..9881] [gbkey=CDS]	0.0	0
+LT216438.1	1181	10317	11497	plus	[gene=tnpA] [locus_tag=pEC4365TF2_06] [db_xref=GeneID:30522679] [protein=transposase TnpA] [protein_id=YP_009328366.1] [location=6852..9881] [gbkey=CDS]	0.0	0
+LT216438.1	1320	93186	94505	plus	[gene=tnpA] [locus_tag=FCF1305_p0038] [db_xref=GeneID:16039991] [protein=transposase] [protein_id=YP_008166926.1] [location=complement(34349..35668)] [gbkey=CDS]	0.0	0
+LT216438.1	1305	80837	82141	plus	[gene=thiAdelta1] [locus_tag=MAK1.112c] [db_xref=GeneID:5741254] [protein=putative transposase] [protein_id=YP_001551934.1] [location=complement(97298..98602)] [gbkey=CDS]	0.0	0
+LT216438.1	1320	68752	70071	plus	[gene=tnpA] [locus_tag=pN11x00042NDM_021] [db_xref=GeneID:17373197] [protein=putative transposase] [protein_id=YP_008719594.1] [location=28733..30052] [gbkey=CDS]	0.0	40
+LT216438.1	1026	96700	97725	minus	[gene=istA] [locus_tag=pEC4365TF2_07] [db_xref=GeneID:30522680] [protein=transposase IstA] [protein_id=YP_009328367.1] [location=9988..11013] [gbkey=CDS]	0.0	0
+LT216438.1	882	94755	95636	minus	[gene=blaKPC] [locus_tag=A7J11_00838] [protein=carbapenem-hydrolyzing class A beta-lactamase KPC-2] [protein_id=WP_004199234.1] [location=6..887] [gbkey=CDS]	0.0	0
+LT216438.1	861	82709	83569	minus	[gene=blaTEM] [locus_tag=A7J11_00887] [protein=class A beta-lactamase TEM-181] [protein_id=WP_000027060.1] [location=101..961] [gbkey=CDS]	0.0	2
+LT216438.1	825	84269	85093	minus	[gene=blaOXA] [locus_tag=A7J11_00977] [protein=oxacillin-hydrolyzing class D beta-lactamase OXA-9] [protein_id=WP_000722315.1] [location=101..925] [gbkey=CDS]	0.0	1
+LT216438.1	780	95924	96703	minus	[gene=istB] [locus_tag=FCF1305_p0036] [db_xref=GeneID:16039989] [protein=transposase helper protein IstB] [protein_id=YP_008166924.1] [location=32052..32831] [gbkey=CDS]	0.0	0
+LT216438.1	740	57761	58500	plus	[gene=IncFIB(pQil)]	0.0	0
+LT216438.1	723	85313	86035	minus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	0
+LT216438.1	392	82170	82561	plus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	0
+LT216438.1	504	76648	77151	plus	[gene=insB] [locus_tag=pNDM10505_135] [db_xref=GeneID:13906113] [protein=InsB transposase] [protein_id=YP_006953205.1] [location=107362..107865] [gbkey=CDS]	0.0	0
+LT216438.1	319	83752	84070	minus	[gene=tnpR] [locus_tag=pEK204_p10] [db_xref=GeneID:8319058] [protein=transposon Tn3 resolvase] [protein_id=YP_003108101.1] [location=11899..12492] [gbkey=CDS]	1e-151	9

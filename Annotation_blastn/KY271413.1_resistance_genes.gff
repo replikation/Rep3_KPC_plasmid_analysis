@@ -1,0 +1,14 @@
+##gff-version	3
+KY271413.1	.	tnpA	13258	16287	.	.	.	name=tnpA;description=transposase TnpA;accession=YP_009328366.1;missmatches=0;evalue=0.0
+KY271413.1	.	tnpA	19934	22885	.	-	.	name=tnpA;description=Tn501 transposase;accession=YP_003829287.1;missmatches=2;evalue=0.0
+KY271413.1	.	istA	16394	17419	.	.	.	name=istA;description=transposase IstA;accession=YP_009328367.1;missmatches=0;evalue=0.0
+KY271413.1	.	sul1	24914	25753	.	.	.	name=sul1;description=sulfonamide-resistant dihydropteroate synthase Sul1;accession=WP_000259031.1;missmatches=0;evalue=0.0
+KY271413.1	.	tnp	26858	27652	.	.	.	name=tnp;description=transposase of IS6100;accession=YP_067849.1;missmatches=0;evalue=0.0
+KY271413.1	.	istB	17416	18195	.	.	.	name=istB;description=transposase helper protein IstB;accession=YP_009328368.1;missmatches=0;evalue=0.0
+KY271413.1	.	intI1	10674	11380	.	-	.	name=intI1;description=intI1;accession=YP_007447591.1;missmatches=0;evalue=0.0
+KY271413.1	.	unknown_gene	23817	24404	.	.	.	name=unknown_gene;description=bifunctional aminoglycoside nucleotidyltransferase ANT(3'')-Ih/aminoglycoside N-acetyltransferase AAC(6')-Iid;accession=WP_063839878.1;missmatches=3;evalue=0.0
+KY271413.1	.	IncN	8301	8814	.	.	.	name=IncN;description=unknown_protein;accession=unknown_accession;missmatches=1;evalue=0.0
+KY271413.1	.	tnpA	19520	19901	.	-	.	name=tnpA;description=transposase;accession=YP_009328370.1;missmatches=0;evalue=0.0
+KY271413.1	.	blaKPC	18957	19334	.	.	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-30;accession=WP_085562399.1;missmatches=0;evalue=0.0
+KY271413.1	.	blaKPC	18582	18956	.	.	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-33;accession=WP_101140102.1;missmatches=0;evalue=0.0
+KY271413.1	.	qacE	24573	24920	.	.	.	name=qacE;description=quaternary ammonium compound efflux SMR transporter QacE delta 1;accession=WP_000679427.1;missmatches=0;evalue=0.0

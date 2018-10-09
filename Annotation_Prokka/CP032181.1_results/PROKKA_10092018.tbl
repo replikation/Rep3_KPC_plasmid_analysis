@@ -1,0 +1,432 @@
+>Feature CP032181.1
+1297	533	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00001
+			product	hypothetical protein
+1758	1348	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00002
+			product	hypothetical protein
+2025	1804	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00003
+			product	hypothetical protein
+2726	2025	CDS
+			EC_number	2.1.1.72
+			dbxref	COG:COG0863
+			gene	yhdJ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P28638
+			locus_tag	ENFFLKBF_00004
+			product	DNA adenine methyltransferase YhdJ
+3447	3112	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00005
+			product	hypothetical protein
+3677	3444	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00006
+			product	hypothetical protein
+4644	3712	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00007
+			product	hypothetical protein
+5305	5075	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00008
+			product	hypothetical protein
+6004	6984	CDS
+			gene	parM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P11904
+			locus_tag	ENFFLKBF_00009
+			product	Plasmid segregation protein ParM
+6987	7418	CDS
+			gene	stbB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P11906
+			locus_tag	ENFFLKBF_00010
+			product	Protein StbB
+8057	7452	CDS
+			EC_number	3.1.22.-
+			dbxref	COG:COG1961
+			gene	pinR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ADI0
+			locus_tag	ENFFLKBF_00011
+			product	Serine recombinase PinR
+8152	11049	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00012
+			product	hypothetical protein
+11138	11758	CDS
+			gene	bin3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P20384
+			locus_tag	ENFFLKBF_00013
+			product	Putative transposon Tn552 DNA-invertase bin3
+11908	12267	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00014
+			product	hypothetical protein
+13283	12924	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00015
+			product	hypothetical protein
+13667	13455	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00016
+			product	hypothetical protein
+13787	14971	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00017
+			product	hypothetical protein
+15248	16567	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00018
+			product	hypothetical protein
+17698	16817	CDS
+			EC_number	3.5.2.6
+			gene	bla
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9F663
+			locus_tag	ENFFLKBF_00019
+			product	Carbapenem-hydrolyzing beta-lactamase KPC
+18765	17986	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q45619
+			locus_tag	ENFFLKBF_00020
+			product	Insertion sequence IS5376 putative ATP-binding protein
+19787	18762	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00021
+			product	hypothetical protein
+22923	19894	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00022
+			product	hypothetical protein
+23033	24748	CDS
+			dbxref	COG:COG4974
+			gene	xerD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A8P8
+			locus_tag	ENFFLKBF_00023
+			product	Tyrosine recombinase XerD
+25043	25198	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00024
+			product	hypothetical protein
+25247	26239	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00025
+			product	hypothetical protein
+26266	26427	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00026
+			product	hypothetical protein
+27247	26636	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00027
+			product	hypothetical protein
+27794	27441	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00028
+			product	hypothetical protein
+30056	29037	CDS
+			gene	repA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q52221
+			locus_tag	ENFFLKBF_00029
+			product	Replication initiation protein
+31104	30553	CDS
+			EC_number	3.1.4.4
+			gene	pld
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q92G53
+			locus_tag	ENFFLKBF_00030
+			product	Phospholipase D
+31507	31199	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00031
+			product	hypothetical protein
+32154	31504	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00032
+			product	hypothetical protein
+32431	32210	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00033
+			product	hypothetical protein
+33077	32481	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00034
+			product	hypothetical protein
+33837	33244	CDS
+			gene	finO
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P29367
+			locus_tag	ENFFLKBF_00035
+			product	Fertility inhibition protein
+34719	33994	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00036
+			product	hypothetical protein
+40061	34800	CDS
+			gene	traI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P14565
+			locus_tag	ENFFLKBF_00037
+			product	Multifunctional conjugation protein TraI
+42382	40061	CDS
+			gene	traD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P09130
+			locus_tag	ENFFLKBF_00038
+			product	Coupling protein TraD
+42717	42454	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00039
+			product	hypothetical protein
+43430	42738	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00040
+			product	hypothetical protein
+44348	43677	CDS
+			gene	traS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P09129
+			locus_tag	ENFFLKBF_00041
+			product	Protein TraS
+47190	44365	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00042
+			product	hypothetical protein
+48560	47190	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00043
+			product	hypothetical protein
+48975	48547	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00044
+			product	hypothetical protein
+49540	48968	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00045
+			product	hypothetical protein
+49751	49512	CDS
+			gene	traQ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P18033
+			locus_tag	ENFFLKBF_00046
+			product	Protein TraQ
+50514	49762	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00047
+			product	hypothetical protein
+50861	50535	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00048
+			product	hypothetical protein
+51099	50872	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00049
+			product	hypothetical protein
+51370	51089	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00050
+			product	hypothetical protein
+53358	51403	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00051
+			product	hypothetical protein
+54064	53417	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00052
+			product	hypothetical protein
+54811	54209	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00053
+			product	hypothetical protein
+54868	55557	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00054
+			product	hypothetical protein
+56080	55532	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00055
+			product	hypothetical protein
+57087	56095	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00056
+			product	hypothetical protein
+57724	57098	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00057
+			product	hypothetical protein
+58113	57724	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00058
+			product	hypothetical protein
+60752	58113	CDS
+			gene	traC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P18004
+			locus_tag	ENFFLKBF_00059
+			product	Protein TraC
+61216	60824	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00060
+			product	hypothetical protein
+61520	61230	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00061
+			product	hypothetical protein
+61921	61517	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00062
+			product	hypothetical protein
+62299	61988	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00063
+			product	hypothetical protein
+62518	62300	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00064
+			product	hypothetical protein
+62826	62542	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00065
+			product	hypothetical protein
+63241	62831	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00066
+			product	hypothetical protein
+63942	63373	CDS
+			gene	traV
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P41069
+			locus_tag	ENFFLKBF_00067
+			product	Protein TraV
+64561	63965	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00068
+			product	hypothetical protein
+65978	64554	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00069
+			product	hypothetical protein
+66718	65978	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00070
+			product	hypothetical protein
+67271	66705	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00071
+			product	hypothetical protein
+67596	67291	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00072
+			product	hypothetical protein
+67978	67610	CDS
+			gene	traA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04737
+			locus_tag	ENFFLKBF_00073
+			product	Pilin
+69033	68332	CDS
+			gene	traJ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P05837
+			locus_tag	ENFFLKBF_00074
+			product	Protein TraJ
+69660	69268	CDS
+			gene	traM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P07294
+			locus_tag	ENFFLKBF_00075
+			product	Relaxosome protein TraM
+70094	70573	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00076
+			product	hypothetical protein
+71399	70611	CDS
+			gene	klcA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P52603
+			locus_tag	ENFFLKBF_00077
+			product	Antirestriction protein KlcA
+71697	71551	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00078
+			product	hypothetical protein
+72137	71790	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00079
+			product	hypothetical protein
+72584	72204	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00080
+			product	hypothetical protein
+73374	73198	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00081
+			product	hypothetical protein
+73817	73404	CDS
+			dbxref	COG:COG5499
+			gene	higA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P67701
+			locus_tag	ENFFLKBF_00082
+			product	Antitoxin HigA
+74096	73818	CDS
+			dbxref	COG:COG1396
+			gene	higA1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WJA7
+			locus_tag	ENFFLKBF_00083
+			product	Antitoxin HigA1
+74406	74086	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00084
+			product	hypothetical protein
+74711	74487	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00085
+			product	hypothetical protein
+74892	74722	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00086
+			product	hypothetical protein
+75320	74889	CDS
+			gene	psiB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P10031
+			locus_tag	ENFFLKBF_00087
+			product	Protein PsiB
+77366	75363	CDS
+			dbxref	COG:COG1475
+			gene	spo0C
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q72H91
+			locus_tag	ENFFLKBF_00088
+			product	Chromosome-partitioning protein Spo0J
+79138	78263	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00089
+			product	hypothetical protein
+79417	79187	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00090
+			product	hypothetical protein
+79735	79508	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00091
+			product	hypothetical protein
+80929	80531	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00092
+			product	hypothetical protein
+81173	80994	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ENFFLKBF_00093
+			product	hypothetical protein

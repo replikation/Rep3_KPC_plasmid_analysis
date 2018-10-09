@@ -1,0 +1,23 @@
+##gff-version	3
+KJ933392.1	.	tnpA	42517	45546	.	.	.	name=tnpA;description=transposase TnpA;accession=YP_008161910.1;missmatches=0;evalue=0.0
+KJ933392.1	.	tnpA	50645	52757	.	.	.	name=tnpA;description=transposase;accession=YP_006957364.1;missmatches=0;evalue=0.0
+KJ933392.1	.	tnpA	48972	50291	.	-	.	name=tnpA;description=transposase;accession=YP_008166926.1;missmatches=0;evalue=0.0
+KJ933392.1	.	istA	45653	46678	.	.	.	name=istA;description=transposase IstA;accession=YP_008166923.1;missmatches=0;evalue=0.0
+KJ933392.1	.	intI1	29632	30645	.	.	.	name=intI1;description=intI1;accession=YP_007447591.1;missmatches=0;evalue=0.0
+KJ933392.1	.	tnpA	39582	40641	.	.	.	name=tnpA;description=transposon Tn3 transposase;accession=YP_003108100.1;missmatches=20;evalue=0.0
+KJ933392.1	.	blaKPC	47841	48722	.	.	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-2;accession=WP_004199234.1;missmatches=0;evalue=0.0
+KJ933392.1	.	blaTEM	37978	38838	.	-	.	name=blaTEM;description=class A broad-spectrum beta-lactamase TEM-1;accession=WP_000027057.1;missmatches=0;evalue=0.0
+KJ933392.1	.	blaLAP	36939	37796	.	-	.	name=blaLAP;description=class A beta-lactamase LAP-1;accession=WP_031942394.1;missmatches=0;evalue=0.0
+KJ933392.1	.	blaSHV	3559	4419	.	.	.	name=blaSHV;description=class A extended-spectrum beta-lactamase SHV-12;accession=WP_002904004.1;missmatches=3;evalue=0.0
+KJ933392.1	.	tnpA of IS6100	27609	28403	.	-	.	name=tnpA of IS6100;description=IS6100 transposase;accession=YP_006965438.1;missmatches=0;evalue=0.0
+KJ933392.1	.	istB	46675	47454	.	.	.	name=istB;description=transposase helper protein IstB;accession=YP_008166924.1;missmatches=0;evalue=0.0
+KJ933392.1	.	tnpA3	2492	3415	.	.	.	name=tnpA3;description=Tn903 transposase;accession=NP_862988.1;missmatches=51;evalue=0.0
+KJ933392.1	.	tnpA	31632	32354	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+KJ933392.1	.	tnpA	9411	10133	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+KJ933392.1	.	tnpA	52791	53355	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+KJ933392.1	.	delta-tnpA	36234	36890	.	.	.	name=delta-tnpA;description=mutated transposase of IS2;accession=YP_007349574.1;missmatches=0;evalue=0.0
+KJ933392.1	.	qnrS	34686	35342	.	-	.	name=qnrS;description=quinolone resistance pentapeptide repeat protein QnrS1;accession=WP_001516695.1;missmatches=0;evalue=0.0
+KJ933392.1	.	tnpA	53328	53900	.	.	.	name=tnpA;description=transposase of Tn1000, belongs to the transposase 7 family;accession=YP_007349417.1;missmatches=0;evalue=0.0
+KJ933392.1	.	tnpR	39021	39607	.	-	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_003108101.1;missmatches=18;evalue=0.0
+KJ933392.1	.	IncN	39	552	.	.	.	name=IncN;description=unknown_protein;accession=unknown_accession;missmatches=3;evalue=0.0
+KJ933392.1	.	dfrA14	29003	29485	.	-	.	name=dfrA14;description=trimethoprim-resistant dihydrofolate reductase DfrA14;accession=WP_001348218.1;missmatches=0;evalue=0.0

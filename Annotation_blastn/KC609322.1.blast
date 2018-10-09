@@ -1,0 +1,4 @@
+KC609322.1	882	1238	2119	plus	[gene=blaKPC] [locus_tag=A7J11_02242] [protein=carbapenem-hydrolyzing class A beta-lactamase KPC-8] [protein_id=WP_063860797.1] [location=1..882] [gbkey=CDS]	0.0	1
+KC609322.1	865	2369	3233	minus	[gene=tnpA] [locus_tag=pEC4365TF2_10] [db_xref=GeneID:30522683] [protein=transposase] [protein_id=YP_009328370.1] [location=complement(13307..14626)] [gbkey=CDS]	0.0	0
+KC609322.1	723	53	775	minus	[gene=tnpA] [locus_tag=pKF140_067] [db_xref=GeneID:8877586] [protein=transposase TnpA] [protein_id=YP_003517597.1] [location=complement(46685..47407)] [gbkey=CDS]	0.0	1
+KC609322.1	565	6428	6992	minus	[gene=IncU]	0.0	3

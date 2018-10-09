@@ -1,0 +1,10 @@
+##gff-version	3
+JX104759.1	.	tnpA	18192	21221	.	-	.	name=tnpA;description=transposase TnpA;accession=YP_009328366.1;missmatches=0;evalue=0.0
+JX104759.1	.	tnpA	6441	9347	.	.	.	name=tnpA;description=Tn501 transposase;accession=YP_003829177.1;missmatches=3;evalue=0.0
+JX104759.1	.	tnpA	13546	14865	.	.	.	name=tnpA;description=transposase;accession=YP_008166926.1;missmatches=0;evalue=0.0
+JX104759.1	.	istA	17060	18085	.	-	.	name=istA;description=transposase IstA;accession=YP_009328367.1;missmatches=0;evalue=0.0
+JX104759.1	.	blaKPC	15115	15996	.	-	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-2;accession=WP_004199234.1;missmatches=0;evalue=0.0
+JX104759.1	.	istB	16284	17063	.	-	.	name=istB;description=transposase helper protein IstB;accession=YP_009328368.1;missmatches=0;evalue=0.0
+JX104759.1	.	tnpA	5673	6395	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+JX104759.1	.	tnpR	4274	4941	.	.	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_006953666.1;missmatches=4;evalue=0.0
+JX104759.1	.	IncX3	1	374	.	.	.	name=IncX3;description=unknown_protein;accession=unknown_accession;missmatches=0;evalue=0.0

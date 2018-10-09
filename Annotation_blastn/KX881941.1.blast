@@ -1,0 +1,8 @@
+KX881941.1	2952	28547	31498	plus	[gene=tnpA] [locus_tag=pECL8_p102] [db_xref=GeneID:9538108] [protein=Tn501 transposase] [protein_id=YP_003829177.1] [location=complement(93061..96012)] [gbkey=CDS]	0.0	1
+KX881941.1	882	26060	26941	plus	[gene=blaKPC] [locus_tag=A7J11_00838] [protein=carbapenem-hydrolyzing class A beta-lactamase KPC-2] [protein_id=WP_004199234.1] [location=6..887] [gbkey=CDS]	0.0	0
+KX881941.1	861	24941	25801	plus	[gene=blaTEM] [locus_tag=A7J11_00169] [protein=class A broad-spectrum beta-lactamase TEM-1] [protein_id=WP_000027057.1] [location=101..961] [gbkey=CDS]	0.0	0
+KX881941.1	924	44753	45676	minus	[gene=tnpA3] [locus_tag=p165897_076] [db_xref=GeneID:1446547] [protein=Tn903 transposase] [protein_id=NP_862988.1] [location=69416..70339] [gbkey=CDS]	0.0	42
+KX881941.1	723	23718	24440	plus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	0
+KX881941.1	679	27191	27869	minus	[gene=tnpA] [locus_tag=FCF1305_p0038] [db_xref=GeneID:16039991] [protein=transposase] [protein_id=YP_008166926.1] [location=complement(34349..35668)] [gbkey=CDS]	0.0	0
+KX881941.1	649	31531	32179	minus	[gene=tnpA] [locus_tag=FCF1305_p0038] [db_xref=GeneID:16039991] [protein=transposase] [protein_id=YP_008166926.1] [location=complement(34349..35668)] [gbkey=CDS]	0.0	0
+KX881941.1	514	5088	5601	minus	[gene=IncN]	0.0	3

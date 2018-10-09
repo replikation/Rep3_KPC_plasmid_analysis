@@ -1,0 +1,13 @@
+##gff-version	3
+CP030134.1	.	tniA	13746	14955	.	-	.	name=tniA;description=putative TniA transposase;accession=YP_008605064.1;missmatches=0;evalue=0.0
+CP030134.1	.	insD1	19739	20743	.	.	.	name=insD1;description=transposase InsD1 for insertion sequence IS4321R;accession=YP_002894677.1;missmatches=0;evalue=0.0
+CP030134.1	.	tnpA	11362	12342	.	-	.	name=tnpA;description=ISKpn27 transposase;accession=YP_009328786.1;missmatches=0;evalue=0.0
+CP030134.1	.	insC	2869	3837	.	.	.	name=insC;description=IS903 transposase;accession=YP_003937692.1;missmatches=0;evalue=0.0
+CP030134.1	.	blaKPC	10205	11086	.	-	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-2;accession=WP_004199234.1;missmatches=0;evalue=0.0
+CP030134.1	.	blaCTX-M	1959	2834	.	.	.	name=blaCTX-M;description=class A extended-spectrum beta-lactamase CTX-M-65;accession=WP_013188475.1;missmatches=0;evalue=0.0
+CP030134.1	.	tnpA	9091	9955	.	.	.	name=tnpA;description=transposase;accession=YP_008166926.1;missmatches=0;evalue=0.0
+CP030134.1	.	tnpA	12978	13700	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP030134.1	.	tnpA	5588	6310	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP030134.1	.	tnpA	744	1466	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=1;evalue=0.0
+CP030134.1	.	insB	21324	21827	.	-	.	name=insB;description=InsB transposase;accession=YP_006953205.1;missmatches=0;evalue=0.0
+CP030134.1	.	tnpR	12465	12923	.	-	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_003108101.1;missmatches=14;evalue=0.0

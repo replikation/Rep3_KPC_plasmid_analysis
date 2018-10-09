@@ -1,0 +1,127 @@
+Discrepancy Report Results
+
+Summary
+FATAL: MISSING_PROTEIN_ID:14 proteins have invalid IDs.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:CDS: 14 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:14 features have inconsistent gene locations.
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:15 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:MISSING_PROTEIN_ID::14 proteins have invalid IDs.
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1_1 (length 234)
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1_2 (length 133)
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1_3 (length 326)
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1_4 (length 293)
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1_5 (length 326)
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1_6 (length 98)
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1_7 (length 51)
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1_8 (length 141)
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1_9 (length 92)
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1_10 (length 186)
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1_11 (length 186)
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1_12 (length 260)
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1_13 (length 89)
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1_14 (length 191)
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 14 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1 (length 11275)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::14 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:CDS	hypothetical protein	MH558576.1:55-759	ELJHOJAB_00001
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:CDS	Transposon Tn3 resolvase	MH558576.1:871-1272	ELJHOJAB_00002
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:CDS	hypothetical protein	MH558576.1:1395-2375	ELJHOJAB_00003
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:CDS	Carbapenem-hydrolyzing beta-lactamase KPC	MH558576.1:2651-3532	ELJHOJAB_00004
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:CDS	hypothetical protein	MH558576.1:c4762-3782	ELJHOJAB_00005
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:CDS	hypothetical protein	MH558576.1:c5063-4767	ELJHOJAB_00006
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:CDS	hypothetical protein	MH558576.1:c5264-5109	ELJHOJAB_00007
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:CDS	Antirestriction protein KlcA	MH558576.1:c5817-5392	ELJHOJAB_00008
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:CDS	hypothetical protein	MH558576.1:c6206-5928	ELJHOJAB_00009
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:CDS	hypothetical protein	MH558576.1:c7300-6740	ELJHOJAB_00010
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:CDS	DNA-invertase hin	MH558576.1:7749-8309	ELJHOJAB_00011
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:CDS	hypothetical protein	MH558576.1:c9539-8757	ELJHOJAB_00012
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:CDS	hypothetical protein	MH558576.1:c10610-10341	ELJHOJAB_00013
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:CDS	hypothetical protein	MH558576.1:c11189-10614	ELJHOJAB_00014
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1:Annotated using prokka 1.14-dev from https://github.com/tseemann/prokka
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1 (length 11275)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1 (length 11275)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1 (length 11275)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1 (length 11275)
+
+DiscRep_ALL:MISSING_PROJECT::15 sequences do not include project.
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1 (length 11275)
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1_1 (length 234)
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1_2 (length 133)
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1_3 (length 326)
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1_4 (length 293)
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1_5 (length 326)
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1_6 (length 98)
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1_7 (length 51)
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1_8 (length 141)
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1_9 (length 92)
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1_10 (length 186)
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1_11 (length 186)
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1_12 (length 260)
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1_13 (length 89)
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1_14 (length 191)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+plasmid_files_fasta/MH558576.1_results/PROKKA_10092018:MH558576.1 (length 11275)
+

@@ -1,0 +1,25 @@
+KX928751.1	2041	58322	60361	plus	[gene=tnpA] [locus_tag=pEK204_p09] [db_xref=GeneID:8319057] [protein=transposon Tn3 transposase] [protein_id=YP_003108100.1] [location=complement(8772..11930)] [gbkey=CDS]	0.0	0
+KX928751.1	1266	53470	54735	plus	[gene=tnpA] [locus_tag=pECL46p093] [db_xref=GeneID:9538219] [protein=ISEcp1 transposase] [protein_id=YP_003829282.1] [location=76307..77572] [gbkey=CDS]	0.0	0
+KX928751.1	1028	7982	9009	plus	[gene=tnpA] [locus_tag=WOO1pR23_p1] [db_xref=GeneID:10594633] [protein=transposase] [protein_id=YP_004455302.1] [location=complement(34..3039)] [gbkey=CDS]	0.0	0
+KX928751.1	1015	10710	11724	plus	[gene=intI1] [locus_tag=ST67780_p1003] [db_xref=GeneID:14612604] [protein=intI1] [protein_id=YP_007447591.1] [location=complement(677..1690)] [gbkey=CDS]	0.0	1
+KX928751.1	698	38846	39543	plus	[gene=intI1] [locus_tag=ST67780_p1003] [db_xref=GeneID:14612604] [protein=intI1] [protein_id=YP_007447591.1] [location=complement(677..1690)] [gbkey=CDS]	0.0	1
+KX928751.1	981	4386	5366	plus	[gene=tnpA] [locus_tag=p628KPC_022] [db_xref=GeneID:30522712] [protein=ISKpn27 transposase] [protein_id=YP_009328786.1] [location=complement(20016..20996)] [gbkey=CDS]	0.0	0
+KX928751.1	981	62568	63548	minus	[gene=insH] [locus_tag=D647_p25035] [db_xref=GeneID:15407961] [protein=IS5 transposase] [protein_id=YP_007936898.1] [location=31642..32622] [gbkey=CDS]	0.0	3
+KX928751.1	882	5642	6523	plus	[gene=blaKPC] [locus_tag=A7J11_00838] [protein=carbapenem-hydrolyzing class A beta-lactamase KPC-2] [protein_id=WP_004199234.1] [location=6..887] [gbkey=CDS]	0.0	0
+KX928751.1	876	55070	55945	plus	[gene=blaCTX-M] [locus_tag=A7J11_00096] [protein=class A extended-spectrum beta-lactamase CTX-M-3] [protein_id=WP_011091028.1] [location=1..876] [gbkey=CDS]	0.0	0
+KX928751.1	861	56720	57580	minus	[gene=blaTEM] [locus_tag=A7J11_00169] [protein=class A broad-spectrum beta-lactamase TEM-1] [protein_id=WP_000027057.1] [location=101..961] [gbkey=CDS]	0.0	0
+KX928751.1	795	36823	37617	minus	[gene=tnp] [locus_tag=pFBAOT6.39] [db_xref=GOA:Q68E70,InterPro:IPR001584,InterPro:IPR004291,InterPro:IPR012337,UniProtKB/TrEMBL:Q68E70] [protein=transposase of IS6100] [protein_id=YP_067849.1] [location=complement(34336..35130)] [gbkey=CDS]	0.0	0
+KX928751.1	722	39590	40311	plus	[gene=insB4] [locus_tag=pAM04528_0144] [db_xref=GeneID:7886529] [protein=transposase InsB4 for insertion sequence IS26] [protein_id=YP_002894680.1] [location=complement(123834..124556)] [gbkey=CDS]	0.0	0
+KX928751.1	722	7215	7936	minus	[gene=insB4] [locus_tag=pAM04528_0144] [db_xref=GeneID:7886529] [protein=transposase InsB4 for insertion sequence IS26] [protein_id=YP_002894680.1] [location=complement(123834..124556)] [gbkey=CDS]	0.0	0
+KX928751.1	722	60434	61154	minus	[gene=insB4] [locus_tag=pAM04528_0144] [db_xref=GeneID:7886529] [protein=transposase InsB4 for insertion sequence IS26] [protein_id=YP_002894680.1] [location=complement(123834..124556)] [gbkey=CDS]	0.0	0
+KX928751.1	723	3029	3750	plus	[gene=tnpA] [locus_tag=pECL46p091] [db_xref=GeneID:9538217] [protein=IS26 transposase] [protein_id=YP_003829280.1] [location=73313..74035] [gbkey=CDS]	0.0	0
+KX928751.1	723	12171	12892	plus	[gene=tnpA] [locus_tag=pECL46p091] [db_xref=GeneID:9538217] [protein=IS26 transposase] [protein_id=YP_003829280.1] [location=73313..74035] [gbkey=CDS]	0.0	0
+KX928751.1	699	18889	19586	plus	[gene=insAB'] [locus_tag=pECFT_p16] [db_xref=GeneID:10549025] [protein=IS1 transposase frame shift product] [exception=ribosomal slippage] [protein_id=YP_004422908.1] [location=join(17295..17551,17551..17992)] [gbkey=CDS]	0.0	8
+KX928751.1	657	13971	14627	plus	[gene=qnrS] [locus_tag=A7J11_01491] [protein=quinolone resistance pentapeptide repeat protein QnrS1] [protein_id=WP_001516695.1] [location=101..757] [gbkey=CDS]	0.0	0
+KX928751.1	594	57762	58353	minus	[gene=tnpR] [locus_tag=ST624_p3024] [db_xref=GeneID:15140526] [protein=transposon Tn3 resolvase] [protein_id=YP_007749277.1] [location=complement(25298..25891)] [gbkey=CDS]	0.0	0
+KX928751.1	588	9864	10451	minus	[locus_tag=A7J11_02581] [protein=bifunctional aminoglycoside nucleotidyltransferase ANT(3'')-Ih/aminoglycoside N-acetyltransferase AAC(6')-Iid] [protein_id=WP_063839878.1] [location=101..1492] [gbkey=CDS]	0.0	1
+KX928751.1	514	252	765	plus	[gene=IncN]	0.0	2
+KX928751.1	483	38217	38699	minus	[gene=dfrA14] [locus_tag=A7J11_00060] [protein=trimethoprim-resistant dihydrofolate reductase DfrA14] [protein_id=WP_001348218.1] [location=101..583] [gbkey=CDS]	0.0	0
+KX928751.1	453	9315	9767	minus	[gene=arr-3] [locus_tag=A7J11_00539] [protein=NAD(+)--rifampin ADP-ribosyltransferase Arr-3] [protein_id=WP_001749986.1] [location=101..553] [gbkey=CDS]	0.0	0
+KX928751.1	459	3805	4263	plus	[gene=tnpR] [locus_tag=pEK204_p10] [db_xref=GeneID:8319058] [protein=transposon Tn3 resolvase] [protein_id=YP_003108101.1] [location=11899..12492] [gbkey=CDS]	0.0	14
+KX928751.1	388	6773	7160	minus	[gene=tnpA] [locus_tag=pEC4365TF2_10] [db_xref=GeneID:30522683] [protein=transposase] [protein_id=YP_009328370.1] [location=complement(13307..14626)] [gbkey=CDS]	0.0	0

@@ -1,0 +1,18 @@
+##gff-version	3
+MG700550.1	.	tnpA	61215	64221	.	-	.	name=tnpA;description=transposase TnpA;accession=YP_009328366.1;missmatches=20;evalue=0.0
+MG700550.1	.	tnpA	49671	52549	.	.	.	name=tnpA;description=Tn501 transposase;accession=YP_003829177.1;missmatches=4;evalue=0.0
+MG700550.1	.	thiAdelta1	42628	43919	.	.	.	name=thiAdelta1;description=putative transposase;accession=YP_001551934.1;missmatches=1;evalue=0.0
+MG700550.1	.	tnpA	56693	57995	.	.	.	name=tnpA;description=transposase;accession=YP_008166926.1;missmatches=4;evalue=0.0
+MG700550.1	.	tnpA	30693	32004	.	.	.	name=tnpA;description=putative transposase;accession=YP_008719594.1;missmatches=39;evalue=0.0
+MG700550.1	.	insH	93410	94381	.	-	.	name=insH;description=IS5 transposase;accession=YP_007936898.1;missmatches=11;evalue=0.0
+MG700550.1	.	blaKPC	58246	59118	.	-	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-2;accession=WP_004199234.1;missmatches=4;evalue=0.0
+MG700550.1	.	blaTEM	44480	45332	.	-	.	name=blaTEM;description=class A beta-lactamase TEM-156;accession=WP_061158039.1;missmatches=1;evalue=0.0
+MG700550.1	.	blaOXA	46027	46845	.	-	.	name=blaOXA;description=oxacillin-hydrolyzing class D beta-lactamase OXA-9;accession=WP_000722315.1;missmatches=3;evalue=0.0
+MG700550.1	.	aph(3')-Ia	47912	48720	.	.	.	name=aph(3')-Ia;description=aminoglycoside O-phosphotransferase APH(3')-Ia;accession=WP_063842148.1;missmatches=2;evalue=0.0
+MG700550.1	.	istB	59401	60173	.	-	.	name=istB;description=transposase helper protein IstB;accession=YP_009328368.1;missmatches=2;evalue=0.0
+MG700550.1	.	IncFIB(pQil)	19846	20581	.	.	.	name=IncFIB(pQil);description=unknown_protein;accession=unknown_accession;missmatches=0;evalue=0.0
+MG700550.1	.	tnpA	48908	49625	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=3;evalue=0.0
+MG700550.1	.	tnpA	47063	47779	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=3;evalue=0.0
+MG700550.1	.	tnpA	43948	44332	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=1;evalue=0.0
+MG700550.1	.	istA	60170	60848	.	-	.	name=istA;description=transposase IstA;accession=YP_009328367.1;missmatches=4;evalue=0.0
+MG700550.1	.	insAB'	38264	38960	.	.	.	name=insAB';description=IS1 transposase frame shift product;accession=YP_004422908.1;missmatches=86;evalue=0.0

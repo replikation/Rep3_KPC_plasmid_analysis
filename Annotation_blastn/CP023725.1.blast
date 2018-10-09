@@ -1,0 +1,23 @@
+CP023725.1	981	74970	75950	plus	[gene=tnpA] [locus_tag=p628KPC_022] [db_xref=GeneID:30522712] [protein=ISKpn27 transposase] [protein_id=YP_009328786.1] [location=complement(20016..20996)] [gbkey=CDS]	0.0	0
+CP023725.1	943	81888	82830	plus	[gene=tnpA] [locus_tag=pSH111_166_187] [db_xref=GeneID:13911975] [protein=TnpA transposase] [protein_id=YP_006957010.1] [location=complement(149919..152885)] [gbkey=CDS]	0.0	0
+CP023725.1	882	76226	77107	plus	[gene=blaKPC] [locus_tag=A7J11_00838] [protein=carbapenem-hydrolyzing class A beta-lactamase KPC-2] [protein_id=WP_004199234.1] [location=6..887] [gbkey=CDS]	0.0	0
+CP023725.1	865	77357	78221	minus	[gene=tnpA] [locus_tag=pEC4365TF2_10] [db_xref=GeneID:30522683] [protein=transposase] [protein_id=YP_009328370.1] [location=complement(13307..14626)] [gbkey=CDS]	0.0	0
+CP023725.1	723	97932	98654	minus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	0
+CP023725.1	723	90165	90887	minus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	0
+CP023725.1	723	14425	15147	plus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	0
+CP023725.1	723	71815	72537	minus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	0
+CP023725.1	723	60878	61600	minus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	0
+CP023725.1	723	42690	43412	minus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	0
+CP023725.1	723	62675	63397	plus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	0
+CP023725.1	723	73612	74334	plus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	0
+CP023725.1	723	82876	83598	plus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	0
+CP023725.1	330	14050	14379	plus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	8e-173	0
+CP023725.1	592	61646	62237	plus	[gene=tnpAIS1294] [locus_tag=pU302L_039] [db_xref=GeneID:7693011] [protein=IS1294 transposase] [protein_id=YP_194845.1] [location=29930..31129] [gbkey=CDS]	0.0	0
+CP023725.1	592	72583	73174	plus	[gene=tnpAIS1294] [locus_tag=pU302L_039] [db_xref=GeneID:7693011] [protein=IS1294 transposase] [protein_id=YP_194845.1] [location=29930..31129] [gbkey=CDS]	0.0	0
+CP023725.1	561	81324	81884	plus	[gene=tnpR] [locus_tag=pSH111_166_188] [db_xref=GeneID:13911976] [protein=TnpR, transposon] [protein_id=YP_006957011.1] [location=complement(152889..153449)] [gbkey=CDS]	0.0	0
+CP023725.1	576	71189	71763	minus	[gene=insAB'] [locus_tag=pECFT_p16] [db_xref=GeneID:10549025] [protein=IS1 transposase frame shift product] [exception=ribosomal slippage] [protein_id=YP_004422908.1] [location=join(17295..17551,17551..17992)] [gbkey=CDS]	0.0	6
+CP023725.1	419	59816	60233	plus	[gene=insAB'] [locus_tag=pECFT_p16] [db_xref=GeneID:10549025] [protein=IS1 transposase frame shift product] [exception=ribosomal slippage] [protein_id=YP_004422908.1] [location=join(17295..17551,17551..17992)] [gbkey=CDS]	0.0	7
+CP023725.1	559	60267	60825	minus	[gene=tnp] [locus_tag=pFPTB1_0035] [db_xref=GOA:Q6ZYM4,InterPro:IPR002513,UniProtKB/TrEMBL:Q6ZYM4] [protein=transposase] [protein_id=YP_002291083.1] [location=9604..12609] [gbkey=CDS]	0.0	2
+CP023725.1	504	54633	55136	plus	[gene=insB] [locus_tag=pNDM10505_135] [db_xref=GeneID:13906113] [protein=InsB transposase] [protein_id=YP_006953205.1] [location=107362..107865] [gbkey=CDS]	0.0	0
+CP023725.1	514	68768	69281	minus	[gene=IncN]	0.0	4
+CP023725.1	459	74389	74847	plus	[gene=tnpR] [locus_tag=pEK204_p10] [db_xref=GeneID:8319058] [protein=transposon Tn3 resolvase] [protein_id=YP_003108101.1] [location=11899..12492] [gbkey=CDS]	0.0	14

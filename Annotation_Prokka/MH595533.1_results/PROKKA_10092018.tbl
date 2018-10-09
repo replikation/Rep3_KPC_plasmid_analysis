@@ -1,0 +1,89 @@
+>Feature MH595533.1
+749	603	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OLOMKOJI_00001
+			product	hypothetical protein
+1894	1115	CDS
+			EC_number	2.7.1.95
+			gene	aphA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A3Y5
+			locus_tag	OLOMKOJI_00002
+			product	Aminoglycoside 3'-phosphotransferase
+1952	2059	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OLOMKOJI_00003
+			product	hypothetical protein
+2771	2487	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OLOMKOJI_00004
+			product	hypothetical protein
+2970	5099	CDS
+			gene	mobA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P07112
+			locus_tag	OLOMKOJI_00005
+			product	Mobilization protein A
+5160	5372	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OLOMKOJI_00006
+			product	hypothetical protein
+5374	5580	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OLOMKOJI_00007
+			product	hypothetical protein
+5610	6449	CDS
+			gene	repA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P20356
+			locus_tag	OLOMKOJI_00008
+			product	Regulatory protein RepA
+6436	7287	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OLOMKOJI_00009
+			product	hypothetical protein
+7657	8058	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OLOMKOJI_00010
+			product	hypothetical protein
+9144	8842	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OLOMKOJI_00011
+			product	hypothetical protein
+9501	9208	CDS
+			dbxref	COG:COG3093
+			gene	yddM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P67700
+			locus_tag	OLOMKOJI_00012
+			product	putative HTH-type transcriptional regulator YddM
+9839	10120	CDS
+			EC_number	3.1.-.-
+			gene	higB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7A225
+			locus_tag	OLOMKOJI_00013
+			product	Endoribonuclease HigB
+11140	11259	CDS
+			gene	rop
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P03051
+			locus_tag	OLOMKOJI_00014
+			product	Regulatory protein rop
+11964	12521	CDS
+			gene	tnpR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ADI2
+			locus_tag	OLOMKOJI_00015
+			product	Transposon Tn3 resolvase
+12830	13711	CDS
+			EC_number	3.5.2.6
+			gene	bla
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9F663
+			locus_tag	OLOMKOJI_00016
+			product	Carbapenem-hydrolyzing beta-lactamase KPC
+14800	13961	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OLOMKOJI_00017
+			product	hypothetical protein

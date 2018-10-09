@@ -1,0 +1,21 @@
+KC788405.1	1266	98250	99515	minus	[gene=tnpA] [locus_tag=pECL8_p097] [db_xref=GeneID:9538103] [protein=ISEcp1 transposase] [protein_id=YP_003829172.1] [location=85904..87169] [gbkey=CDS]	0.0	0
+KC788405.1	1266	42927	44192	minus	[gene=tnpA] [locus_tag=pECL8_p097] [db_xref=GeneID:9538103] [protein=ISEcp1 transposase] [protein_id=YP_003829172.1] [location=85904..87169] [gbkey=CDS]	0.0	0
+KC788405.1	1200	2647	3846	minus	[gene=tnpAIS1294] [locus_tag=pU302L_039] [db_xref=GeneID:7693011] [protein=IS1294 transposase] [protein_id=YP_194845.1] [location=29930..31129] [gbkey=CDS]	0.0	0
+KC788405.1	1146	40122	41267	minus	[gene=blaCMY] [locus_tag=A7J11_00540] [protein=class C beta-lactamase CMY-2] [protein_id=WP_000976514.1] [location=101..1246] [gbkey=CDS]	0.0	0
+KC788405.1	981	67892	68872	plus	[gene=tnpA] [locus_tag=p628KPC_022] [db_xref=GeneID:30522712] [protein=ISKpn27 transposase] [protein_id=YP_009328786.1] [location=complement(20016..20996)] [gbkey=CDS]	0.0	0
+KC788405.1	882	69148	70029	plus	[gene=blaKPC] [locus_tag=A7J11_00838] [protein=carbapenem-hydrolyzing class A beta-lactamase KPC-2] [protein_id=WP_004199234.1] [location=6..887] [gbkey=CDS]	0.0	0
+KC788405.1	876	97040	97915	minus	[gene=blaCTX-M] [locus_tag=A7J11_00096] [protein=class A extended-spectrum beta-lactamase CTX-M-3] [protein_id=WP_011091028.1] [location=1..876] [gbkey=CDS]	0.0	0
+KC788405.1	903	26701	27603	plus	[gene=ygdB] [locus_tag=orf00080] [db_xref=GeneID:20466813] [protein=putative transposase] [protein_id=YP_009060032.1] [location=52252..53154] [gbkey=CDS]	0.0	12
+KC788405.1	856	95393	96248	plus	[gene=blaTEM] [locus_tag=A7J11_00169] [protein=class A broad-spectrum beta-lactamase TEM-1] [protein_id=WP_000027057.1] [location=101..961] [gbkey=CDS]	0.0	3
+KC788405.1	906	41944	42849	plus	[gene=orf144] [locus_tag=pO86A1_p144] [db_xref=GeneID:4364147] [protein=insertion element IS2 transposase InsD] [protein_id=YP_788110.1] [location=106971..107876] [gbkey=CDS]	0.0	23
+KC788405.1	723	66533	67255	plus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	0
+KC788405.1	723	93781	94503	minus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	1
+KC788405.1	723	70720	71442	minus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	1
+KC788405.1	574	93169	93739	minus	[gene=tnp] [locus_tag=pFPTB1_0035] [db_xref=GOA:Q6ZYM4,InterPro:IPR002513,UniProtKB/TrEMBL:Q6ZYM4] [protein=transposase] [protein_id=YP_002291083.1] [location=9604..12609] [gbkey=CDS]	0.0	3
+KC788405.1	514	63625	64138	plus	[gene=IncN]	0.0	2
+KC788405.1	499	88367	88863	minus	[gene=IncFIC(FII)]	0.0	19
+KC788405.1	459	67311	67769	plus	[gene=tnpR] [locus_tag=pEK204_p10] [db_xref=GeneID:8319058] [protein=transposon Tn3 resolvase] [protein_id=YP_003108101.1] [location=11899..12492] [gbkey=CDS]	0.0	14
+KC788405.1	424	94785	95204	plus	[gene=tnpR] [locus_tag=ST624_p3024] [db_xref=GeneID:15140526] [protein=transposon Tn3 resolvase] [protein_id=YP_007749277.1] [location=complement(25298..25891)] [gbkey=CDS]	0.0	0
+KC788405.1	419	92718	93135	plus	[gene=insAB'] [locus_tag=pECFT_p16] [db_xref=GeneID:10549025] [protein=IS1 transposase frame shift product] [exception=ribosomal slippage] [protein_id=YP_004422908.1] [location=join(17295..17551,17551..17992)] [gbkey=CDS]	0.0	7
+KC788405.1	390	70279	70668	minus	[gene=tnpA] [locus_tag=pEC4365TF2_10] [db_xref=GeneID:30522683] [protein=transposase] [protein_id=YP_009328370.1] [location=complement(13307..14626)] [gbkey=CDS]	0.0	0
+KC788405.1	366	41621	41986	plus	[gene=orf230] [locus_tag=ST585_p115] [db_xref=GeneID:1238951] [protein=transposase] [protein_id=NP_640190.1] [location=169789..170154] [gbkey=CDS]	3e-159	20

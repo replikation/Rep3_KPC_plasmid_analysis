@@ -1,0 +1,6 @@
+MH133192.1	2385	1109	3492	plus	[gene=mobA] [db_xref=InterPro:IPR005094,UniProtKB/TrEMBL:G9A0C4] [protein=MobA protein] [protein_id=YP_005473816.1] [location=4884..7310] [gbkey=CDS]	0.0	58
+MH133192.1	882	9508	10389	minus	[gene=blaKPC] [locus_tag=A7J11_03402] [protein=carbapenem-hydrolyzing class A beta-lactamase KPC-21] [protein_id=WP_063860711.1] [location=1..882] [gbkey=CDS]	0.0	0
+MH133192.1	865	8394	9258	plus	[gene=tnpA] [locus_tag=pEC4365TF2_10] [db_xref=GeneID:30522683] [protein=transposase] [protein_id=YP_009328370.1] [location=complement(13307..14626)] [gbkey=CDS]	0.0	0
+MH133192.1	840	3621	4459	plus	[gene=repA] [db_xref=InterPro:IPR027417,UniProtKB/TrEMBL:G9A0C5] [protein=RepA protein] [protein_id=YP_005473817.1] [location=7381..8262] [gbkey=CDS]	0.0	35
+MH133192.1	657	5896	6552	minus	[gene=qnrS] [locus_tag=A7J11_01762] [protein=quinolone resistance pentapeptide repeat protein QnrS2] [protein_id=WP_012537714.1] [location=1..657] [gbkey=CDS]	0.0	0
+MH133192.1	450	3815	4264	minus	[gene=IncQ2]	0.0	5

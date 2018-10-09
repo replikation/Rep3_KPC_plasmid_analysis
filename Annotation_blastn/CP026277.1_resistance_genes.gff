@@ -1,0 +1,12 @@
+##gff-version	3
+CP026277.1	.	tnpA	51261	54227	.	-	.	name=tnpA;description=Tn3-family transposase;accession=YP_067891.1;missmatches=0;evalue=0.0
+CP026277.1	.	tnpA	36985	39097	.	.	.	name=tnpA;description=transposase;accession=YP_004455302.1;missmatches=0;evalue=0.0
+CP026277.1	.	tnpA	35312	36631	.	-	.	name=tnpA;description=transposase;accession=YP_008166926.1;missmatches=0;evalue=0.0
+CP026277.1	.	intI1	8861	9874	.	.	.	name=intI1;description=intI1;accession=YP_007447591.1;missmatches=0;evalue=0.0
+CP026277.1	.	blaKPC	34181	35062	.	.	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-2;accession=WP_004199234.1;missmatches=0;evalue=0.0
+CP026277.1	.	tnpA of IS6100	6838	7632	.	-	.	name=tnpA of IS6100;description=IS6100 transposase;accession=YP_006965438.1;missmatches=0;evalue=0.0
+CP026277.1	.	tnpA	32934	33656	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP026277.1	.	tnpA	39131	39695	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP026277.1	.	tnpA	32389	32961	.	-	.	name=tnpA;description=transposase of Tn1000, belongs to the transposase 7 family;accession=YP_007349417.1;missmatches=0;evalue=0.0
+CP026277.1	.	IncN	12961	13474	.	-	.	name=IncN;description=unknown_protein;accession=unknown_accession;missmatches=1;evalue=0.0
+CP026277.1	.	dfrA14	8232	8714	.	-	.	name=dfrA14;description=trimethoprim-resistant dihydrofolate reductase DfrA14;accession=WP_001348218.1;missmatches=0;evalue=0.0

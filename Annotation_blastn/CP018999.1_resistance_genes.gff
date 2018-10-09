@@ -1,0 +1,32 @@
+##gff-version	3
+CP018999.1	.	thiAdelta1	18592	19896	.	.	.	name=thiAdelta1;description=putative transposase;accession=YP_001551934.1;missmatches=0;evalue=0.0
+CP018999.1	.	intI1	10307	11320	.	.	.	name=intI1;description=intI1;accession=YP_007447591.1;missmatches=0;evalue=0.0
+CP018999.1	.	insD2	12804	13808	.	-	.	name=insD2;description=transposase;accession=YP_006966030.1;missmatches=0;evalue=0.0
+CP018999.1	.	tnpA	142166	143146	.	.	.	name=tnpA;description=ISKpn27 transposase;accession=YP_009328786.1;missmatches=0;evalue=0.0
+CP018999.1	.	insH	102543	103523	.	-	.	name=insH;description=IS5 transposase;accession=YP_007936898.1;missmatches=3;evalue=0.0
+CP018999.1	.	mph(A)	3198	4119	.	.	.	name=mph(A);description=Mph(A) family macrolide 2'-phosphotransferase;accession=WP_063853854.1;missmatches=2;evalue=0.0
+CP018999.1	.	blaKPC	143422	144303	.	.	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-2;accession=WP_004199234.1;missmatches=0;evalue=0.0
+CP018999.1	.	tnpA	144553	145417	.	-	.	name=tnpA;description=transposase;accession=YP_009328370.1;missmatches=0;evalue=0.0
+CP018999.1	.	aac(3)-II	137873	138733	.	-	.	name=aac(3)-II;description=aminoglycoside N-acetyltransferase AAC(3)-IId;accession=WP_000557454.1;missmatches=0;evalue=0.0
+CP018999.1	.	blaTEM	97914	98774	.	-	.	name=blaTEM;description=inhibitor-resistant class A broad-spectrum beta-lactamase TEM-40;accession=WP_021526512.1;missmatches=1;evalue=0.0
+CP018999.1	.	aph(6)-Id	123467	124312	.	-	.	name=aph(6)-Id;description=aminoglycoside O-phosphotransferase APH(6)-Id;accession=WP_001303005.1;missmatches=0;evalue=0.0
+CP018999.1	.	sul1	8314	9153	.	-	.	name=sul1;description=sulfonamide-resistant dihydropteroate synthase Sul1;accession=WP_000259031.1;missmatches=0;evalue=0.0
+CP018999.1	.	aph(3'')-Ib	124303	125138	.	-	.	name=aph(3'')-Ib;description=aminoglycoside O-phosphotransferase APH(3'')-Ib;accession=WP_001354041.1;missmatches=0;evalue=0.0
+CP018999.1	.	sul2	125168	125998	.	-	.	name=sul2;description=sulfonamide-resistant dihydropteroate synthase Sul2;accession=WP_012478625.1;missmatches=3;evalue=0.0
+CP018999.1	.	aph(3')-Ia	139860	140675	.	-	.	name=aph(3')-Ia;description=aminoglycoside O-phosphotransferase APH(3')-Ia;accession=WP_000018329.1;missmatches=1;evalue=0.0
+CP018999.1	.	tnp	6415	7209	.	-	.	name=tnp;description=transposase of IS6100;accession=YP_067849.1;missmatches=0;evalue=0.0
+CP018999.1	.	tnpA	2354	3076	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP018999.1	.	tnpA	136800	137522	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP018999.1	.	tnpA	127897	128619	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP018999.1	.	tnpA	19925	20647	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP018999.1	.	tnpA	100161	100883	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP018999.1	.	tnpA	122684	123406	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP018999.1	.	tnpA	11795	12517	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP018999.1	.	tnpA	138948	139670	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP018999.1	.	tnpA	140808	141530	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP018999.1	.	tnpR	98957	99550	.	-	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_003108101.1;missmatches=0;evalue=0.0
+CP018999.1	.	tnpR	141585	142043	.	.	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_003108101.1;missmatches=14;evalue=0.0
+CP018999.1	.	insB	21047	21550	.	-	.	name=insB;description=InsB transposase;accession=YP_006953205.1;missmatches=0;evalue=0.0
+CP018999.1	.	dfrA25	9678	10151	.	-	.	name=dfrA25;description=trimethoprim-resistant dihydrofolate reductase DfrA25;accession=WP_029391998.1;missmatches=0;evalue=0.0
+CP018999.1	.	IncQ1	127321	127770	.	.	.	name=IncQ1;description=unknown_protein;accession=unknown_accession;missmatches=0;evalue=0.0
+CP018999.1	.	qacE	9147	9494	.	-	.	name=qacE;description=quaternary ammonium compound efflux SMR transporter QacE delta 1;accession=WP_000679427.1;missmatches=0;evalue=0.0

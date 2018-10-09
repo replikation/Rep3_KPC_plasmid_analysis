@@ -1,0 +1,8 @@
+##gff-version	3
+MF156711.1	.	tnpA	10847	11827	.	-	.	name=tnpA;description=ISKpn27 transposase;accession=YP_009328786.1;missmatches=0;evalue=0.0
+MF156711.1	.	blaKPC	9146	10027	.	-	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-2;accession=WP_004199234.1;missmatches=0;evalue=0.0
+MF156711.1	.	tnpA	12364	13086	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+MF156711.1	.	tnpA	8222	8896	.	.	.	name=tnpA;description=transposase;accession=YP_009328370.1;missmatches=0;evalue=0.0
+MF156711.1	.	qnrS	14166	14822	.	.	.	name=qnrS;description=quinolone resistance pentapeptide repeat protein QnrS1;accession=WP_001516695.1;missmatches=0;evalue=0.0
+MF156711.1	.	blaTEM	10122	10691	.	-	.	name=blaTEM;description=inhibitor-resistant class A broad-spectrum beta-lactamase TEM-40;accession=WP_021526512.1;missmatches=1;evalue=0.0
+MF156711.1	.	tnpR	11950	12318	.	-	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_003108101.1;missmatches=12;evalue=8e-175

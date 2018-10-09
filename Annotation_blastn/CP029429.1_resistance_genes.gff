@@ -1,0 +1,23 @@
+##gff-version	3
+CP029429.1	.	tnpA	25423	28452	.	-	.	name=tnpA;description=transposase TnpA;accession=YP_008161910.1;missmatches=0;evalue=0.0
+CP029429.1	.	msr(E)	38373	39848	.	-	.	name=msr(E);description=ABC-F type ribosomal protection protein Msr(E);accession=WP_000052512.1;missmatches=0;evalue=0.0
+CP029429.1	.	tnpA	20678	21997	.	.	.	name=tnpA;description=transposase;accession=YP_008166926.1;missmatches=0;evalue=0.0
+CP029429.1	.	tnpA	35064	36338	.	.	.	name=tnpA;description=transposase;accession=YP_008725167.1;missmatches=0;evalue=0.0
+CP029429.1	.	istA	24291	25316	.	-	.	name=istA;description=transposase IstA;accession=YP_008166923.1;missmatches=0;evalue=0.0
+CP029429.1	.	intI1	15471	16484	.	-	.	name=intI1;description=intI1;accession=YP_007447591.1;missmatches=0;evalue=0.0
+CP029429.1	.	mph(E)	37433	38317	.	-	.	name=mph(E);description=Mph(E) family macrolide 2'-phosphotransferase;accession=WP_000155092.1;missmatches=0;evalue=0.0
+CP029429.1	.	blaKPC	22247	23128	.	-	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-2;accession=WP_004199234.1;missmatches=0;evalue=0.0
+CP029429.1	.	blaTEM	46752	47612	.	.	.	name=blaTEM;description=class A beta-lactamase TEM-181;accession=WP_000027060.1;missmatches=1;evalue=0.0
+CP029429.1	.	sul1	18395	19234	.	.	.	name=sul1;description=sulfonamide-resistant dihydropteroate synthase Sul1;accession=WP_000259031.1;missmatches=0;evalue=0.0
+CP029429.1	.	blaOXA	45228	46052	.	.	.	name=blaOXA;description=oxacillin-hydrolyzing class D beta-lactamase OXA-9;accession=WP_000722315.1;missmatches=0;evalue=0.0
+CP029429.1	.	aadA1	44380	45168	.	.	.	name=aadA1;description=ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1;accession=WP_001206315.1;missmatches=0;evalue=0.0
+CP029429.1	.	istB	23515	24294	.	-	.	name=istB;description=transposase helper protein IstB;accession=YP_008166924.1;missmatches=0;evalue=0.0
+CP029429.1	.	tnpA	36645	37367	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=1;evalue=0.0
+CP029429.1	.	tnpA	41761	42283	.	-	.	name=tnpA;description=IS26 transposase;accession=YP_003829289.1;missmatches=0;evalue=0.0
+CP029429.1	.	unknown_gene	43724	44310	.	.	.	name=unknown_gene;description=bifunctional aminoglycoside nucleotidyltransferase ANT(3'')-Ih/aminoglycoside N-acetyltransferase AAC(6')-Iid;accession=WP_063839878.1;missmatches=2;evalue=0.0
+CP029429.1	.	IncU	30395	30959	.	.	.	name=IncU;description=unknown_protein;accession=unknown_accession;missmatches=3;evalue=0.0
+CP029429.1	.	tnpR	42935	43522	.	.	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_003108101.1;missmatches=29;evalue=0.0
+CP029429.1	.	tnpR	46251	46569	.	.	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_003108101.1;missmatches=9;evalue=7e-152
+CP029429.1	.	dfrA5	17077	17550	.	.	.	name=dfrA5;description=trimethoprim-resistant dihydrofolate reductase DfrA5;accession=WP_001317507.1;missmatches=0;evalue=0.0
+CP029429.1	.	tnpA	42329	42960	.	-	.	name=tnpA;description=transposon Tn3 transposase;accession=YP_003108100.1;missmatches=60;evalue=0.0
+CP029429.1	.	qacE	18054	18401	.	.	.	name=qacE;description=quaternary ammonium compound efflux SMR transporter QacE delta 1;accession=WP_000679427.1;missmatches=0;evalue=0.0

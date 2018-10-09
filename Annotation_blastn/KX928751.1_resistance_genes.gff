@@ -1,0 +1,26 @@
+##gff-version	3
+KX928751.1	.	tnpA	58322	60361	.	.	.	name=tnpA;description=transposon Tn3 transposase;accession=YP_003108100.1;missmatches=0;evalue=0.0
+KX928751.1	.	tnpA	53470	54735	.	.	.	name=tnpA;description=ISEcp1 transposase;accession=YP_003829282.1;missmatches=0;evalue=0.0
+KX928751.1	.	tnpA	7982	9009	.	.	.	name=tnpA;description=transposase;accession=YP_004455302.1;missmatches=0;evalue=0.0
+KX928751.1	.	intI1	10710	11724	.	.	.	name=intI1;description=intI1;accession=YP_007447591.1;missmatches=1;evalue=0.0
+KX928751.1	.	intI1	38846	39543	.	.	.	name=intI1;description=intI1;accession=YP_007447591.1;missmatches=1;evalue=0.0
+KX928751.1	.	tnpA	4386	5366	.	.	.	name=tnpA;description=ISKpn27 transposase;accession=YP_009328786.1;missmatches=0;evalue=0.0
+KX928751.1	.	insH	62568	63548	.	-	.	name=insH;description=IS5 transposase;accession=YP_007936898.1;missmatches=3;evalue=0.0
+KX928751.1	.	blaKPC	5642	6523	.	.	.	name=blaKPC;description=carbapenem-hydrolyzing class A beta-lactamase KPC-2;accession=WP_004199234.1;missmatches=0;evalue=0.0
+KX928751.1	.	blaCTX-M	55070	55945	.	.	.	name=blaCTX-M;description=class A extended-spectrum beta-lactamase CTX-M-3;accession=WP_011091028.1;missmatches=0;evalue=0.0
+KX928751.1	.	blaTEM	56720	57580	.	-	.	name=blaTEM;description=class A broad-spectrum beta-lactamase TEM-1;accession=WP_000027057.1;missmatches=0;evalue=0.0
+KX928751.1	.	tnp	36823	37617	.	-	.	name=tnp;description=transposase of IS6100;accession=YP_067849.1;missmatches=0;evalue=0.0
+KX928751.1	.	insB4	39590	40311	.	.	.	name=insB4;description=transposase InsB4 for insertion sequence IS26;accession=YP_002894680.1;missmatches=0;evalue=0.0
+KX928751.1	.	insB4	7215	7936	.	-	.	name=insB4;description=transposase InsB4 for insertion sequence IS26;accession=YP_002894680.1;missmatches=0;evalue=0.0
+KX928751.1	.	insB4	60434	61154	.	-	.	name=insB4;description=transposase InsB4 for insertion sequence IS26;accession=YP_002894680.1;missmatches=0;evalue=0.0
+KX928751.1	.	tnpA	3029	3750	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829280.1;missmatches=0;evalue=0.0
+KX928751.1	.	tnpA	12171	12892	.	.	.	name=tnpA;description=IS26 transposase;accession=YP_003829280.1;missmatches=0;evalue=0.0
+KX928751.1	.	insAB'	18889	19586	.	.	.	name=insAB';description=IS1 transposase frame shift product;accession=YP_004422908.1;missmatches=8;evalue=0.0
+KX928751.1	.	qnrS	13971	14627	.	.	.	name=qnrS;description=quinolone resistance pentapeptide repeat protein QnrS1;accession=WP_001516695.1;missmatches=0;evalue=0.0
+KX928751.1	.	tnpR	57762	58353	.	-	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_007749277.1;missmatches=0;evalue=0.0
+KX928751.1	.	unknown_gene	9864	10451	.	-	.	name=unknown_gene;description=bifunctional aminoglycoside nucleotidyltransferase ANT(3'')-Ih/aminoglycoside N-acetyltransferase AAC(6')-Iid;accession=WP_063839878.1;missmatches=1;evalue=0.0
+KX928751.1	.	IncN	252	765	.	.	.	name=IncN;description=unknown_protein;accession=unknown_accession;missmatches=2;evalue=0.0
+KX928751.1	.	dfrA14	38217	38699	.	-	.	name=dfrA14;description=trimethoprim-resistant dihydrofolate reductase DfrA14;accession=WP_001348218.1;missmatches=0;evalue=0.0
+KX928751.1	.	arr-3	9315	9767	.	-	.	name=arr-3;description=NAD(+)--rifampin ADP-ribosyltransferase Arr-3;accession=WP_001749986.1;missmatches=0;evalue=0.0
+KX928751.1	.	tnpR	3805	4263	.	.	.	name=tnpR;description=transposon Tn3 resolvase;accession=YP_003108101.1;missmatches=14;evalue=0.0
+KX928751.1	.	tnpA	6773	7160	.	-	.	name=tnpA;description=transposase;accession=YP_009328370.1;missmatches=0;evalue=0.0

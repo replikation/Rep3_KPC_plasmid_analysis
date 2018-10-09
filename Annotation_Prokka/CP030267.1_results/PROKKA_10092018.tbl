@@ -1,0 +1,241 @@
+>Feature CP030267.1
+1425	34	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00001
+			product	hypothetical protein
+2034	1462	CDS
+			dbxref	COG:COG1961
+			gene	hin_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P03013
+			locus_tag	LADMFGBK_00002
+			product	DNA-invertase hin
+2716	2171	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00003
+			product	hypothetical protein
+4333	2777	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00004
+			product	hypothetical protein
+4496	5053	CDS
+			gene	tnpR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ADI2
+			locus_tag	LADMFGBK_00005
+			product	Transposon Tn3 resolvase
+5176	6156	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00006
+			product	hypothetical protein
+6399	6881	CDS
+			EC_number	3.5.2.6
+			gene	bla_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P62593
+			locus_tag	LADMFGBK_00007
+			product	Beta-lactamase TEM
+6976	7857	CDS
+			EC_number	3.5.2.6
+			gene	bla_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9F663
+			locus_tag	LADMFGBK_00008
+			product	Carbapenem-hydrolyzing beta-lactamase KPC
+9087	8107	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00009
+			product	hypothetical protein
+9388	9092	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00010
+			product	hypothetical protein
+9589	9434	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00011
+			product	hypothetical protein
+10142	9717	CDS
+			gene	klcA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P52603
+			locus_tag	LADMFGBK_00012
+			product	Antirestriction protein KlcA
+10531	10253	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00013
+			product	hypothetical protein
+11465	10905	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00014
+			product	hypothetical protein
+11660	12205	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00015
+			product	hypothetical protein
+12342	12914	CDS
+			dbxref	COG:COG1961
+			gene	hin_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P03013
+			locus_tag	LADMFGBK_00016
+			product	DNA-invertase hin
+12951	14342	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00017
+			product	hypothetical protein
+14695	14459	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00018
+			product	hypothetical protein
+15197	14925	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00019
+			product	hypothetical protein
+15528	15202	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00020
+			product	hypothetical protein
+15890	15531	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00021
+			product	hypothetical protein
+16583	15891	CDS
+			EC_number	4.2.2.-
+			dbxref	COG:COG0741
+			gene	slt
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AGC3
+			locus_tag	LADMFGBK_00022
+			product	Soluble lytic murein transglycosylase
+16777	16580	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00023
+			product	hypothetical protein
+17305	16787	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00024
+			product	hypothetical protein
+18728	17286	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00025
+			product	hypothetical protein
+19575	18730	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00026
+			product	hypothetical protein
+20302	19580	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00027
+			product	hypothetical protein
+21287	20313	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00028
+			product	hypothetical protein
+21791	21336	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00029
+			product	hypothetical protein
+22606	21791	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00030
+			product	hypothetical protein
+25182	22603	CDS
+			dbxref	COG:COG3451
+			gene	virB4
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9R2W4
+			locus_tag	LADMFGBK_00031
+			product	Type IV secretion system protein virB4
+25557	25198	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00032
+			product	hypothetical protein
+25903	25535	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00033
+			product	hypothetical protein
+25975	26316	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00034
+			product	hypothetical protein
+26838	26419	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00035
+			product	hypothetical protein
+27865	26849	CDS
+			dbxref	COG:COG4962
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WMT3
+			locus_tag	LADMFGBK_00036
+			product	Putative conjugal transfer protein
+28590	27877	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00037
+			product	hypothetical protein
+29613	31652	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00038
+			product	hypothetical protein
+31655	32491	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00039
+			product	hypothetical protein
+32484	32939	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00040
+			product	hypothetical protein
+32923	33525	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00041
+			product	hypothetical protein
+33981	33610	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00042
+			product	hypothetical protein
+34290	34544	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00043
+			product	hypothetical protein
+34729	34920	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00044
+			product	hypothetical protein
+35919	36674	CDS
+			dbxref	COG:COG4974
+			gene	xerD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WF33
+			locus_tag	LADMFGBK_00045
+			product	Tyrosine recombinase XerD
+36934	37386	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00046
+			product	hypothetical protein
+37554	38207	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00047
+			product	hypothetical protein
+38294	38557	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00048
+			product	hypothetical protein
+38619	38900	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00049
+			product	hypothetical protein
+38996	39199	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00050
+			product	hypothetical protein
+39308	39595	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00051
+			product	hypothetical protein
+39667	40107	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00052
+			product	hypothetical protein
+40120	40545	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LADMFGBK_00053
+			product	hypothetical protein

@@ -1,0 +1,10 @@
+CP006919.1	3030	2777	5806	plus	[gene=tnpA] [locus_tag=D647_p26021] [db_xref=GeneID:15564406] [protein=transposase] [protein_id=YP_008003448.1] [location=complement(18936..21965)] [gbkey=CDS]	0.0	0
+CP006919.1	2113	10905	13017	plus	[gene=tnpA] [locus_tag=D647_p6003] [db_xref=GeneID:13913822] [protein=Tn3 transposase] [protein_id=YP_006958958.1] [location=complement(77..3082)] [gbkey=CDS]	0.0	6
+CP006919.1	1320	9232	10551	minus	[gene=tnpA] [locus_tag=FCF1305_p0038] [db_xref=GeneID:16039991] [protein=transposase] [protein_id=YP_008166926.1] [location=complement(34349..35668)] [gbkey=CDS]	0.0	0
+CP006919.1	1026	5913	6938	plus	[gene=istA] [locus_tag=pEC4365TF2_07] [db_xref=GeneID:30522680] [protein=transposase IstA] [protein_id=YP_009328367.1] [location=9988..11013] [gbkey=CDS]	0.0	0
+CP006919.1	901	1	901	plus	[gene=tnpA] [locus_tag=pEK204_p09] [db_xref=GeneID:8319057] [protein=transposon Tn3 transposase] [protein_id=YP_003108100.1] [location=complement(8772..11930)] [gbkey=CDS]	0.0	0
+CP006919.1	882	8101	8982	plus	[gene=blaKPC] [locus_tag=A7J11_00124] [protein=carbapenem-hydrolyzing class A beta-lactamase KPC-3] [protein_id=WP_004152396.1] [location=1..882] [gbkey=CDS]	0.0	0
+CP006919.1	780	6935	7714	plus	[gene=istB] [locus_tag=pEC4365TF2_08] [db_xref=GeneID:30522681] [protein=transposase helper protein IstB] [protein_id=YP_009328368.1] [location=11010..11789] [gbkey=CDS]	0.0	0
+CP006919.1	723	22721	23443	minus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	0
+CP006919.1	587	23776	24362	minus	[locus_tag=A7J11_02581] [protein=bifunctional aminoglycoside nucleotidyltransferase ANT(3'')-Ih/aminoglycoside N-acetyltransferase AAC(6')-Iid] [protein_id=WP_063839878.1] [location=101..1492] [gbkey=CDS]	0.0	2
+CP006919.1	594	24564	25157	minus	[gene=tnpR] [locus_tag=pEK204_p10] [db_xref=GeneID:8319058] [protein=transposon Tn3 resolvase] [protein_id=YP_003108101.1] [location=11899..12492] [gbkey=CDS]	0.0	15

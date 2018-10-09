@@ -1,0 +1,15 @@
+CP018974.1	2952	64480	67431	minus	[gene=tnpA] [locus_tag=pECL8_p102] [db_xref=GeneID:9538108] [protein=Tn501 transposase] [protein_id=YP_003829177.1] [location=complement(93061..96012)] [gbkey=CDS]	0.0	1
+CP018974.1	981	55207	56187	plus	[gene=tnpA] [locus_tag=p628KPC_022] [db_xref=GeneID:30522712] [protein=ISKpn27 transposase] [protein_id=YP_009328786.1] [location=complement(20016..20996)] [gbkey=CDS]	0.0	0
+CP018974.1	951	60976	61926	plus	[gene=tnpA] [locus_tag=pNDM10505_121] [db_xref=GeneID:13906099] [protein=transposase TnpA for IS4321] [protein_id=YP_006953191.1] [location=complement(94931..95935)] [gbkey=CDS]	0.0	1
+CP018974.1	882	57123	58004	plus	[gene=blaKPC] [locus_tag=A7J11_00838] [protein=carbapenem-hydrolyzing class A beta-lactamase KPC-2] [protein_id=WP_004199234.1] [location=6..887] [gbkey=CDS]	0.0	0
+CP018974.1	865	58254	59118	minus	[gene=tnpA] [locus_tag=pEC4365TF2_10] [db_xref=GeneID:30522683] [protein=transposase] [protein_id=YP_009328370.1] [location=complement(13307..14626)] [gbkey=CDS]	0.0	0
+CP018974.1	831	51136	51966	plus	[gene=blaOXA] [locus_tag=A7J11_00713] [protein=oxacillin-hydrolyzing class D beta-lactamase OXA-1] [protein_id=WP_001334766.1] [location=101..931] [gbkey=CDS]	0.0	0
+CP018974.1	739	40066	40804	plus	[gene=IncL/M(pMU407)]	0.0	4
+CP018974.1	723	49585	50307	plus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	0
+CP018974.1	723	53120	53842	minus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	1
+CP018974.1	723	60201	60923	plus	[gene=tnpA] [locus_tag=pECL46p100] [db_xref=GeneID:9538226] [protein=IS26 transposase] [protein_id=YP_003829289.1] [location=87645..88367] [gbkey=CDS]	0.0	1
+CP018974.1	633	52104	52736	plus	[gene=catB3] [locus_tag=A7J11_00446] [protein=type B-3 chloramphenicol O-acetyltransferase CatB3] [protein_id=WP_000186237.1] [location=101..733] [gbkey=CDS]	0.0	0
+CP018974.1	588	50418	51005	plus	[locus_tag=A7J11_02581] [protein=bifunctional aminoglycoside nucleotidyltransferase ANT(3'')-Ih/aminoglycoside N-acetyltransferase AAC(6')-Iid] [protein_id=WP_063839878.1] [location=101..1492] [gbkey=CDS]	0.0	3
+CP018974.1	637	53888	54523	minus	[gene=tnpA] [locus_tag=pEK204_p09] [db_xref=GeneID:8319057] [protein=transposon Tn3 transposase] [protein_id=YP_003108100.1] [location=complement(8772..11930)] [gbkey=CDS]	0.0	20
+CP018974.1	570	56343	56912	plus	[gene=blaTEM] [locus_tag=A7J11_02924] [protein=inhibitor-resistant class A broad-spectrum beta-lactamase TEM-40] [protein_id=WP_021526512.1] [location=1..861] [gbkey=CDS]	0.0	1
+CP018974.1	588	54498	55084	plus	[gene=tnpR] [locus_tag=pEK204_p10] [db_xref=GeneID:8319058] [protein=transposon Tn3 resolvase] [protein_id=YP_003108101.1] [location=11899..12492] [gbkey=CDS]	0.0	30
