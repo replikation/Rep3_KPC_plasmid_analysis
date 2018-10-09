@@ -1,8 +1,11 @@
-# New Readme
+# Rep3_KPC_plasmid_analysis
 
-# For a fresh run with new data
+* this includes a step by step overview for the scripts used
+* each script tells you if a dependency/program is missing
+
+# For a fresh run with new data:
 * for a new analysis the following folder should be removed:
-```
+```bash
 Annotation_blastn/ #annotations made with blastn are stored here
 Annotation_Prokka/ #annotations made with prokka are stored here
 plasmid_bining/ #blastn based binning ist stored here
@@ -25,7 +28,7 @@ Options:
 * Expected threshold 10E-70
 
 Query sequence used:
-```bash
+```
 >NC_019161.1:c15996-15115 Klebsiella pneumoniae strain CRE79 plasmid pKPC-NY79, complete sequence
 ATGTCACTGTATCGCCGTCTAGTTCTGCTGTCTTGTCTCTCATGGCCGCTGGCTGGCTTTTCTGCCACCG
 CGCTGACCAACCTCGTCGCGGAACCATTCGCTAAACTCGAACAGGACTTTGGCGGCTCCATCGGTGTGTA
