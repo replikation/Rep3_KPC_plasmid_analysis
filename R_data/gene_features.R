@@ -1,14 +1,22 @@
-#Help here: https://rpubs.com/crazyhottommy/heatmap_demystified
+# installing stuff
+source("https://bioconductor.org/biocLite.R")
+biocLite("dplyr")
+biocLite("tidyr")
+biocLite("ggplot2")
+biocLite("RColorBrewer")
+biocLite("ggthemes")
+# open libs
 library(dplyr)
 library(tidyr)
 library(ggplot2)
 library(RColorBrewer)
 library(ggthemes)
+
 #change according to install location
-setwd("~/Work_projects/Rep3_K_metar/genefeatures")
+setwd("D:/GIT_Represetorys_for_coding/R_data")
 
 ## read table
-mut.tidy <- read.table("gentable.csv", sep=";", header = TRUE)
+mut.tidy <- read.table("genetable.csv", sep=";", header = TRUE)
 
 ## set heatmap value as factor (so each gets one colour)
 g <- sapply(mut.tidy, is.integer)
@@ -26,16 +34,3 @@ gg <- gg + scale_fill_manual(values=c("#eaeaea", "#5D737E", "#CC8B86", "#7FC6A4"
 gg <- gg + facet_grid(year ~ label, scales = "free", space = "free")
 gg
 
-#help("ggplot2")
-#old options
-#remove ticks
-#gg <- gg + theme(axis.ticks=element_blank())
-#gg <- gg + theme_tufte(base_family="Helvetica")
-#display.brewer.all() #get setname for next command
-#gg <- gg + scale_fill_brewer(palette = "Greys", direction = -1)
-
-#D6F8D6
-#7FC6A4
-#5D737E
-#55505C
-#FAF33E

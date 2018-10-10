@@ -56,8 +56,8 @@ Raoultella;109;0;Organism;2017
 Salmonella;109;0;Organism;2017
 Serratia;109;0;Organism;2017
 Resolvase found;109;5;Transpos.;2017
-Tn4401;;0;Transpos.;2017
-Tn4401 fragmented;;0;Transpos.;2017
+Tn4401;109;0;Transpos.;2017
+Tn4401 fragmented;109;0;Transpos.;2017
 CMY;3;0;β-lactamases;2006
 CTX-M;3;1;β-lactamases;2006
 DHA;3;0;β-lactamases;2006
@@ -115,8 +115,8 @@ Raoultella;3;0;Organism;2006
 Salmonella;3;0;Organism;2006
 Serratia;3;0;Organism;2006
 Resolvase found;3;5;Transpos.;2006
-Tn4401;;0;Transpos.;2006
-Tn4401 fragmented;;0;Transpos.;2006
+Tn4401;3;0;Transpos.;2006
+Tn4401 fragmented;3;0;Transpos.;2006
 CMY;83;0;β-lactamases;2010
 CTX-M;83;0;β-lactamases;2010
 DHA;83;0;β-lactamases;2010
@@ -174,8 +174,8 @@ Raoultella;83;0;Organism;2010
 Salmonella;83;0;Organism;2010
 Serratia;83;0;Organism;2010
 Resolvase found;83;5;Transpos.;2010
-Tn4401;;5;Transpos.;2010
-Tn4401 fragmented;;0;Transpos.;2010
+Tn4401;83;5;Transpos.;2010
+Tn4401 fragmented;83;0;Transpos.;2010
 CMY;133;0;β-lactamases;2012
 CTX-M;133;0;β-lactamases;2012
 DHA;133;0;β-lactamases;2012
@@ -233,8 +233,8 @@ Raoultella;133;0;Organism;2012
 Salmonella;133;0;Organism;2012
 Serratia;133;0;Organism;2012
 Resolvase found;133;5;Transpos.;2012
-Tn4401;;5;Transpos.;2012
-Tn4401 fragmented;;0;Transpos.;2012
+Tn4401;133;5;Transpos.;2012
+Tn4401 fragmented;133;0;Transpos.;2012
 CMY;67;0;β-lactamases;2007
 CTX-M;67;0;β-lactamases;2007
 DHA;67;0;β-lactamases;2007
@@ -292,8 +292,8 @@ Raoultella;67;0;Organism;2007
 Salmonella;67;0;Organism;2007
 Serratia;67;0;Organism;2007
 Resolvase found;67;5;Transpos.;2007
-Tn4401;;5;Transpos.;2007
-Tn4401 fragmented;;0;Transpos.;2007
+Tn4401;67;5;Transpos.;2007
+Tn4401 fragmented;67;0;Transpos.;2007
 CMY;65;0;β-lactamases;2013
 CTX-M;65;0;β-lactamases;2013
 DHA;65;0;β-lactamases;2013
@@ -351,8 +351,8 @@ Raoultella;65;0;Organism;2013
 Salmonella;65;0;Organism;2013
 Serratia;65;4;Organism;2013
 Resolvase found;65;5;Transpos.;2013
-Tn4401;;5;Transpos.;2013
-Tn4401 fragmented;;0;Transpos.;2013
+Tn4401;65;5;Transpos.;2013
+Tn4401 fragmented;65;0;Transpos.;2013
 CMY;90;0;β-lactamases;2012
 CTX-M;90;0;β-lactamases;2012
 DHA;90;0;β-lactamases;2012
@@ -410,8 +410,8 @@ Raoultella;90;0;Organism;2012
 Salmonella;90;0;Organism;2012
 Serratia;90;0;Organism;2012
 Resolvase found;90;5;Transpos.;2012
-Tn4401;;0;Transpos.;2012
-Tn4401 fragmented;;5;Transpos.;2012
+Tn4401;90;0;Transpos.;2012
+Tn4401 fragmented;90;5;Transpos.;2012
 CMY;84;0;β-lactamases;2010
 CTX-M;84;0;β-lactamases;2010
 DHA;84;0;β-lactamases;2010
@@ -469,8 +469,8 @@ Raoultella;84;0;Organism;2010
 Salmonella;84;0;Organism;2010
 Serratia;84;0;Organism;2010
 Resolvase found;84;5;Transpos.;2010
-Tn4401;;5;Transpos.;2010
-Tn4401 fragmented;;0;Transpos.;2010
+Tn4401;84;5;Transpos.;2010
+Tn4401 fragmented;84;0;Transpos.;2010
 CMY;46;0;β-lactamases;2011
 CTX-M;46;0;β-lactamases;2011
 DHA;46;0;β-lactamases;2011
@@ -528,8 +528,8 @@ Raoultella;46;0;Organism;2011
 Salmonella;46;0;Organism;2011
 Serratia;46;0;Organism;2011
 Resolvase found;46;5;Transpos.;2011
-Tn4401;;5;Transpos.;2011
-Tn4401 fragmented;;0;Transpos.;2011
+Tn4401;46;5;Transpos.;2011
+Tn4401 fragmented;46;0;Transpos.;2011
 CMY;76;0;β-lactamases;2011
 CTX-M;76;0;β-lactamases;2011
 DHA;76;0;β-lactamases;2011
@@ -587,8 +587,8 @@ Raoultella;76;0;Organism;2011
 Salmonella;76;0;Organism;2011
 Serratia;76;0;Organism;2011
 Resolvase found;76;5;Transpos.;2011
-Tn4401;;5;Transpos.;2011
-Tn4401 fragmented;;0;Transpos.;2011
+Tn4401;76;5;Transpos.;2011
+Tn4401 fragmented;76;0;Transpos.;2011
 CMY;6;0;β-lactamases;2010
 CTX-M;6;0;β-lactamases;2010
 DHA;6;0;β-lactamases;2010
@@ -646,8 +646,8 @@ Raoultella;6;0;Organism;2010
 Salmonella;6;0;Organism;2010
 Serratia;6;0;Organism;2010
 Resolvase found;6;5;Transpos.;2010
-Tn4401;;5;Transpos.;2010
-Tn4401 fragmented;;0;Transpos.;2010
+Tn4401;6;5;Transpos.;2010
+Tn4401 fragmented;6;0;Transpos.;2010
 CMY;19;0;β-lactamases;2010
 CTX-M;19;0;β-lactamases;2010
 DHA;19;0;β-lactamases;2010
@@ -705,8 +705,8 @@ Raoultella;19;0;Organism;2010
 Salmonella;19;0;Organism;2010
 Serratia;19;0;Organism;2010
 Resolvase found;19;5;Transpos.;2010
-Tn4401;;5;Transpos.;2010
-Tn4401 fragmented;;0;Transpos.;2010
+Tn4401;19;5;Transpos.;2010
+Tn4401 fragmented;19;0;Transpos.;2010
 CMY;104;0;β-lactamases;2006
 CTX-M;104;0;β-lactamases;2006
 DHA;104;0;β-lactamases;2006
@@ -764,8 +764,8 @@ Raoultella;104;0;Organism;2006
 Salmonella;104;0;Organism;2006
 Serratia;104;4;Organism;2006
 Resolvase found;104;5;Transpos.;2006
-Tn4401;;5;Transpos.;2006
-Tn4401 fragmented;;0;Transpos.;2006
+Tn4401;104;5;Transpos.;2006
+Tn4401 fragmented;104;0;Transpos.;2006
 CMY;50;0;β-lactamases;2015
 CTX-M;50;0;β-lactamases;2015
 DHA;50;0;β-lactamases;2015
@@ -823,8 +823,8 @@ Raoultella;50;0;Organism;2015
 Salmonella;50;0;Organism;2015
 Serratia;50;0;Organism;2015
 Resolvase found;50;5;Transpos.;2015
-Tn4401;;5;Transpos.;2015
-Tn4401 fragmented;;0;Transpos.;2015
+Tn4401;50;5;Transpos.;2015
+Tn4401 fragmented;50;0;Transpos.;2015
 CMY;86;0;β-lactamases;2012
 CTX-M;86;0;β-lactamases;2012
 DHA;86;0;β-lactamases;2012
@@ -882,8 +882,8 @@ Raoultella;86;0;Organism;2012
 Salmonella;86;0;Organism;2012
 Serratia;86;0;Organism;2012
 Resolvase found;86;5;Transpos.;2012
-Tn4401;;5;Transpos.;2012
-Tn4401 fragmented;;0;Transpos.;2012
+Tn4401;86;5;Transpos.;2012
+Tn4401 fragmented;86;0;Transpos.;2012
 CMY;8;0;β-lactamases;2016
 CTX-M;8;0;β-lactamases;2016
 DHA;8;0;β-lactamases;2016
@@ -941,8 +941,8 @@ Raoultella;8;0;Organism;2016
 Salmonella;8;0;Organism;2016
 Serratia;8;0;Organism;2016
 Resolvase found;8;5;Transpos.;2016
-Tn4401;;0;Transpos.;2016
-Tn4401 fragmented;;5;Transpos.;2016
+Tn4401;8;0;Transpos.;2016
+Tn4401 fragmented;8;5;Transpos.;2016
 CMY;132;0;β-lactamases;2007
 CTX-M;132;0;β-lactamases;2007
 DHA;132;0;β-lactamases;2007
@@ -1000,8 +1000,8 @@ Raoultella;132;0;Organism;2007
 Salmonella;132;0;Organism;2007
 Serratia;132;0;Organism;2007
 Resolvase found;132;5;Transpos.;2007
-Tn4401;;5;Transpos.;2007
-Tn4401 fragmented;;0;Transpos.;2007
+Tn4401;132;5;Transpos.;2007
+Tn4401 fragmented;132;0;Transpos.;2007
 CMY;66;0;β-lactamases;2014
 CTX-M;66;0;β-lactamases;2014
 DHA;66;0;β-lactamases;2014
@@ -1059,8 +1059,8 @@ Raoultella;66;0;Organism;2014
 Salmonella;66;0;Organism;2014
 Serratia;66;0;Organism;2014
 Resolvase found;66;0;Transpos.;2014
-Tn4401;;5;Transpos.;2014
-Tn4401 fragmented;;0;Transpos.;2014
+Tn4401;66;5;Transpos.;2014
+Tn4401 fragmented;66;0;Transpos.;2014
 CMY;62;0;β-lactamases;2016
 CTX-M;62;0;β-lactamases;2016
 DHA;62;0;β-lactamases;2016
@@ -1118,8 +1118,8 @@ Raoultella;62;0;Organism;2016
 Salmonella;62;0;Organism;2016
 Serratia;62;0;Organism;2016
 Resolvase found;62;5;Transpos.;2016
-Tn4401;;5;Transpos.;2016
-Tn4401 fragmented;;0;Transpos.;2016
+Tn4401;62;5;Transpos.;2016
+Tn4401 fragmented;62;0;Transpos.;2016
 CMY;96;0;β-lactamases;2015
 CTX-M;96;0;β-lactamases;2015
 DHA;96;0;β-lactamases;2015
@@ -1177,8 +1177,8 @@ Raoultella;96;0;Organism;2015
 Salmonella;96;0;Organism;2015
 Serratia;96;0;Organism;2015
 Resolvase found;96;5;Transpos.;2015
-Tn4401;;0;Transpos.;2015
-Tn4401 fragmented;;0;Transpos.;2015
+Tn4401;96;0;Transpos.;2015
+Tn4401 fragmented;96;0;Transpos.;2015
 CMY;43;0;β-lactamases;2013
 CTX-M;43;0;β-lactamases;2013
 DHA;43;0;β-lactamases;2013
@@ -1236,8 +1236,8 @@ Raoultella;43;0;Organism;2013
 Salmonella;43;0;Organism;2013
 Serratia;43;0;Organism;2013
 Resolvase found;43;5;Transpos.;2013
-Tn4401;;0;Transpos.;2013
-Tn4401 fragmented;;0;Transpos.;2013
+Tn4401;43;0;Transpos.;2013
+Tn4401 fragmented;43;0;Transpos.;2013
 CMY;115;0;β-lactamases;2013
 CTX-M;115;1;β-lactamases;2013
 DHA;115;0;β-lactamases;2013
@@ -1295,8 +1295,8 @@ Raoultella;115;0;Organism;2013
 Salmonella;115;0;Organism;2013
 Serratia;115;0;Organism;2013
 Resolvase found;115;5;Transpos.;2013
-Tn4401;;0;Transpos.;2013
-Tn4401 fragmented;;0;Transpos.;2013
+Tn4401;115;0;Transpos.;2013
+Tn4401 fragmented;115;0;Transpos.;2013
 CMY;92;0;β-lactamases;2014
 CTX-M;92;0;β-lactamases;2014
 DHA;92;0;β-lactamases;2014
@@ -1354,8 +1354,8 @@ Raoultella;92;0;Organism;2014
 Salmonella;92;0;Organism;2014
 Serratia;92;0;Organism;2014
 Resolvase found;92;5;Transpos.;2014
-Tn4401;;0;Transpos.;2014
-Tn4401 fragmented;;0;Transpos.;2014
+Tn4401;92;0;Transpos.;2014
+Tn4401 fragmented;92;0;Transpos.;2014
 CMY;145;0;β-lactamases;2014
 CTX-M;145;0;β-lactamases;2014
 DHA;145;0;β-lactamases;2014
@@ -1413,8 +1413,8 @@ Raoultella;145;0;Organism;2014
 Salmonella;145;0;Organism;2014
 Serratia;145;0;Organism;2014
 Resolvase found;145;5;Transpos.;2014
-Tn4401;;0;Transpos.;2014
-Tn4401 fragmented;;0;Transpos.;2014
+Tn4401;145;0;Transpos.;2014
+Tn4401 fragmented;145;0;Transpos.;2014
 CMY;127;0;β-lactamases;2012
 CTX-M;127;0;β-lactamases;2012
 DHA;127;0;β-lactamases;2012
@@ -1472,8 +1472,8 @@ Raoultella;127;0;Organism;2012
 Salmonella;127;0;Organism;2012
 Serratia;127;0;Organism;2012
 Resolvase found;127;5;Transpos.;2012
-Tn4401;;5;Transpos.;2012
-Tn4401 fragmented;;0;Transpos.;2012
+Tn4401;127;5;Transpos.;2012
+Tn4401 fragmented;127;0;Transpos.;2012
 CMY;28;0;β-lactamases;2015
 CTX-M;28;1;β-lactamases;2015
 DHA;28;0;β-lactamases;2015
@@ -1531,8 +1531,8 @@ Raoultella;28;0;Organism;2015
 Salmonella;28;0;Organism;2015
 Serratia;28;0;Organism;2015
 Resolvase found;28;5;Transpos.;2015
-Tn4401;;0;Transpos.;2015
-Tn4401 fragmented;;0;Transpos.;2015
+Tn4401;28;0;Transpos.;2015
+Tn4401 fragmented;28;0;Transpos.;2015
 CMY;79;0;β-lactamases;2008
 CTX-M;79;0;β-lactamases;2008
 DHA;79;0;β-lactamases;2008
@@ -1590,8 +1590,8 @@ Raoultella;79;0;Organism;2008
 Salmonella;79;0;Organism;2008
 Serratia;79;0;Organism;2008
 Resolvase found;79;5;Transpos.;2008
-Tn4401;;5;Transpos.;2008
-Tn4401 fragmented;;0;Transpos.;2008
+Tn4401;79;5;Transpos.;2008
+Tn4401 fragmented;79;0;Transpos.;2008
 CMY;16;0;β-lactamases;2010
 CTX-M;16;0;β-lactamases;2010
 DHA;16;0;β-lactamases;2010
@@ -1649,8 +1649,8 @@ Raoultella;16;0;Organism;2010
 Salmonella;16;0;Organism;2010
 Serratia;16;0;Organism;2010
 Resolvase found;16;5;Transpos.;2010
-Tn4401;;5;Transpos.;2010
-Tn4401 fragmented;;0;Transpos.;2010
+Tn4401;16;5;Transpos.;2010
+Tn4401 fragmented;16;0;Transpos.;2010
 CMY;54;0;β-lactamases;2009
 CTX-M;54;1;β-lactamases;2009
 DHA;54;0;β-lactamases;2009
@@ -1708,8 +1708,8 @@ Raoultella;54;0;Organism;2009
 Salmonella;54;0;Organism;2009
 Serratia;54;0;Organism;2009
 Resolvase found;54;5;Transpos.;2009
-Tn4401;;5;Transpos.;2009
-Tn4401 fragmented;;0;Transpos.;2009
+Tn4401;54;5;Transpos.;2009
+Tn4401 fragmented;54;0;Transpos.;2009
 CMY;123;0;β-lactamases;2010
 CTX-M;123;0;β-lactamases;2010
 DHA;123;0;β-lactamases;2010
@@ -1767,8 +1767,8 @@ Raoultella;123;0;Organism;2010
 Salmonella;123;0;Organism;2010
 Serratia;123;0;Organism;2010
 Resolvase found;123;5;Transpos.;2010
-Tn4401;;0;Transpos.;2010
-Tn4401 fragmented;;0;Transpos.;2010
+Tn4401;123;0;Transpos.;2010
+Tn4401 fragmented;123;0;Transpos.;2010
 CMY;148;0;β-lactamases;2010
 CTX-M;148;0;β-lactamases;2010
 DHA;148;0;β-lactamases;2010
@@ -1826,8 +1826,8 @@ Raoultella;148;0;Organism;2010
 Salmonella;148;0;Organism;2010
 Serratia;148;0;Organism;2010
 Resolvase found;148;0;Transpos.;2010
-Tn4401;;0;Transpos.;2010
-Tn4401 fragmented;;5;Transpos.;2010
+Tn4401;148;0;Transpos.;2010
+Tn4401 fragmented;148;5;Transpos.;2010
 CMY;11;0;β-lactamases;2010
 CTX-M;11;0;β-lactamases;2010
 DHA;11;0;β-lactamases;2010
@@ -1885,8 +1885,8 @@ Raoultella;11;0;Organism;2010
 Salmonella;11;0;Organism;2010
 Serratia;11;0;Organism;2010
 Resolvase found;11;5;Transpos.;2010
-Tn4401;;0;Transpos.;2010
-Tn4401 fragmented;;5;Transpos.;2010
+Tn4401;11;0;Transpos.;2010
+Tn4401 fragmented;11;5;Transpos.;2010
 CMY;128;0;β-lactamases;2011
 CTX-M;128;0;β-lactamases;2011
 DHA;128;0;β-lactamases;2011
@@ -1944,8 +1944,8 @@ Raoultella;128;0;Organism;2011
 Salmonella;128;0;Organism;2011
 Serratia;128;0;Organism;2011
 Resolvase found;128;5;Transpos.;2011
-Tn4401;;0;Transpos.;2011
-Tn4401 fragmented;;0;Transpos.;2011
+Tn4401;128;0;Transpos.;2011
+Tn4401 fragmented;128;0;Transpos.;2011
 CMY;102;0;β-lactamases;2011
 CTX-M;102;0;β-lactamases;2011
 DHA;102;0;β-lactamases;2011
@@ -2003,8 +2003,8 @@ Raoultella;102;0;Organism;2011
 Salmonella;102;0;Organism;2011
 Serratia;102;0;Organism;2011
 Resolvase found;102;5;Transpos.;2011
-Tn4401;;0;Transpos.;2011
-Tn4401 fragmented;;0;Transpos.;2011
+Tn4401;102;0;Transpos.;2011
+Tn4401 fragmented;102;0;Transpos.;2011
 CMY;117;0;β-lactamases;2012
 CTX-M;117;0;β-lactamases;2012
 DHA;117;0;β-lactamases;2012
@@ -2062,8 +2062,8 @@ Raoultella;117;0;Organism;2012
 Salmonella;117;0;Organism;2012
 Serratia;117;0;Organism;2012
 Resolvase found;117;5;Transpos.;2012
-Tn4401;;5;Transpos.;2012
-Tn4401 fragmented;;0;Transpos.;2012
+Tn4401;117;5;Transpos.;2012
+Tn4401 fragmented;117;0;Transpos.;2012
 CMY;39;0;β-lactamases;2013
 CTX-M;39;0;β-lactamases;2013
 DHA;39;0;β-lactamases;2013
@@ -2121,8 +2121,8 @@ Raoultella;39;0;Organism;2013
 Salmonella;39;0;Organism;2013
 Serratia;39;0;Organism;2013
 Resolvase found;39;5;Transpos.;2013
-Tn4401;;0;Transpos.;2013
-Tn4401 fragmented;;0;Transpos.;2013
+Tn4401;39;0;Transpos.;2013
+Tn4401 fragmented;39;0;Transpos.;2013
 CMY;4;1;β-lactamases;2013
 CTX-M;4;0;β-lactamases;2013
 DHA;4;0;β-lactamases;2013
@@ -2180,8 +2180,8 @@ Raoultella;4;0;Organism;2013
 Salmonella;4;0;Organism;2013
 Serratia;4;0;Organism;2013
 Resolvase found;4;5;Transpos.;2013
-Tn4401;;0;Transpos.;2013
-Tn4401 fragmented;;0;Transpos.;2013
+Tn4401;4;0;Transpos.;2013
+Tn4401 fragmented;4;0;Transpos.;2013
 CMY;121;0;β-lactamases;2011
 CTX-M;121;0;β-lactamases;2011
 DHA;121;0;β-lactamases;2011
@@ -2239,8 +2239,8 @@ Raoultella;121;0;Organism;2011
 Salmonella;121;0;Organism;2011
 Serratia;121;0;Organism;2011
 Resolvase found;121;5;Transpos.;2011
-Tn4401;;0;Transpos.;2011
-Tn4401 fragmented;;5;Transpos.;2011
+Tn4401;121;0;Transpos.;2011
+Tn4401 fragmented;121;5;Transpos.;2011
 CMY;44;0;β-lactamases;2013
 CTX-M;44;0;β-lactamases;2013
 DHA;44;0;β-lactamases;2013
@@ -2298,8 +2298,8 @@ Raoultella;44;0;Organism;2013
 Salmonella;44;0;Organism;2013
 Serratia;44;0;Organism;2013
 Resolvase found;44;5;Transpos.;2013
-Tn4401;;5;Transpos.;2013
-Tn4401 fragmented;;0;Transpos.;2013
+Tn4401;44;5;Transpos.;2013
+Tn4401 fragmented;44;0;Transpos.;2013
 CMY;114;0;β-lactamases;2013
 CTX-M;114;0;β-lactamases;2013
 DHA;114;0;β-lactamases;2013
@@ -2357,8 +2357,8 @@ Raoultella;114;0;Organism;2013
 Salmonella;114;0;Organism;2013
 Serratia;114;0;Organism;2013
 Resolvase found;114;5;Transpos.;2013
-Tn4401;;0;Transpos.;2013
-Tn4401 fragmented;;0;Transpos.;2013
+Tn4401;114;0;Transpos.;2013
+Tn4401 fragmented;114;0;Transpos.;2013
 CMY;81;0;β-lactamases;1997
 CTX-M;81;0;β-lactamases;1997
 DHA;81;0;β-lactamases;1997
@@ -2416,8 +2416,8 @@ Raoultella;81;0;Organism;1997
 Salmonella;81;0;Organism;1997
 Serratia;81;0;Organism;1997
 Resolvase found;81;5;Transpos.;1997
-Tn4401;;0;Transpos.;1997
-Tn4401 fragmented;;5;Transpos.;1997
+Tn4401;81;0;Transpos.;1997
+Tn4401 fragmented;81;5;Transpos.;1997
 CMY;68;0;β-lactamases;2017
 CTX-M;68;0;β-lactamases;2017
 DHA;68;0;β-lactamases;2017
@@ -2475,8 +2475,8 @@ Raoultella;68;0;Organism;2017
 Salmonella;68;0;Organism;2017
 Serratia;68;0;Organism;2017
 Resolvase found;68;5;Transpos.;2017
-Tn4401;;5;Transpos.;2017
-Tn4401 fragmented;;0;Transpos.;2017
+Tn4401;68;5;Transpos.;2017
+Tn4401 fragmented;68;0;Transpos.;2017
 CMY;69;0;β-lactamases;2010
 CTX-M;69;0;β-lactamases;2010
 DHA;69;0;β-lactamases;2010
@@ -2534,8 +2534,8 @@ Raoultella;69;0;Organism;2010
 Salmonella;69;0;Organism;2010
 Serratia;69;0;Organism;2010
 Resolvase found;69;5;Transpos.;2010
-Tn4401;;0;Transpos.;2010
-Tn4401 fragmented;;0;Transpos.;2010
+Tn4401;69;0;Transpos.;2010
+Tn4401 fragmented;69;0;Transpos.;2010
 CMY;144;0;β-lactamases;2017
 CTX-M;144;0;β-lactamases;2017
 DHA;144;0;β-lactamases;2017
@@ -2593,8 +2593,8 @@ Raoultella;144;0;Organism;2017
 Salmonella;144;0;Organism;2017
 Serratia;144;0;Organism;2017
 Resolvase found;144;5;Transpos.;2017
-Tn4401;;5;Transpos.;2017
-Tn4401 fragmented;;0;Transpos.;2017
+Tn4401;144;5;Transpos.;2017
+Tn4401 fragmented;144;0;Transpos.;2017
 CMY;12;0;β-lactamases;2017
 CTX-M;12;0;β-lactamases;2017
 DHA;12;0;β-lactamases;2017
@@ -2652,8 +2652,8 @@ Raoultella;12;0;Organism;2017
 Salmonella;12;0;Organism;2017
 Serratia;12;0;Organism;2017
 Resolvase found;12;5;Transpos.;2017
-Tn4401;;0;Transpos.;2017
-Tn4401 fragmented;;5;Transpos.;2017
+Tn4401;12;0;Transpos.;2017
+Tn4401 fragmented;12;5;Transpos.;2017
 CMY;13;0;β-lactamases;2014
 CTX-M;13;0;β-lactamases;2014
 DHA;13;0;β-lactamases;2014
@@ -2711,8 +2711,8 @@ Raoultella;13;0;Organism;2014
 Salmonella;13;0;Organism;2014
 Serratia;13;0;Organism;2014
 Resolvase found;13;5;Transpos.;2014
-Tn4401;;0;Transpos.;2014
-Tn4401 fragmented;;5;Transpos.;2014
+Tn4401;13;0;Transpos.;2014
+Tn4401 fragmented;13;5;Transpos.;2014
 CMY;17;0;β-lactamases;2017
 CTX-M;17;0;β-lactamases;2017
 DHA;17;0;β-lactamases;2017
@@ -2770,8 +2770,8 @@ Raoultella;17;0;Organism;2017
 Salmonella;17;0;Organism;2017
 Serratia;17;0;Organism;2017
 Resolvase found;17;5;Transpos.;2017
-Tn4401;;5;Transpos.;2017
-Tn4401 fragmented;;0;Transpos.;2017
+Tn4401;17;5;Transpos.;2017
+Tn4401 fragmented;17;0;Transpos.;2017
 CMY;91;0;β-lactamases;2005
 CTX-M;91;0;β-lactamases;2005
 DHA;91;0;β-lactamases;2005
@@ -2829,8 +2829,8 @@ Raoultella;91;0;Organism;2005
 Salmonella;91;0;Organism;2005
 Serratia;91;0;Organism;2005
 Resolvase found;91;5;Transpos.;2005
-Tn4401;;5;Transpos.;2005
-Tn4401 fragmented;;0;Transpos.;2005
+Tn4401;91;5;Transpos.;2005
+Tn4401 fragmented;91;0;Transpos.;2005
 CMY;40;0;β-lactamases;2015
 CTX-M;40;0;β-lactamases;2015
 DHA;40;0;β-lactamases;2015
@@ -2888,8 +2888,8 @@ Raoultella;40;0;Organism;2015
 Salmonella;40;0;Organism;2015
 Serratia;40;0;Organism;2015
 Resolvase found;40;5;Transpos.;2015
-Tn4401;;0;Transpos.;2015
-Tn4401 fragmented;;0;Transpos.;2015
+Tn4401;40;0;Transpos.;2015
+Tn4401 fragmented;40;0;Transpos.;2015
 CMY;59;0;β-lactamases;2013
 CTX-M;59;0;β-lactamases;2013
 DHA;59;0;β-lactamases;2013
@@ -2947,8 +2947,8 @@ Raoultella;59;0;Organism;2013
 Salmonella;59;0;Organism;2013
 Serratia;59;0;Organism;2013
 Resolvase found;59;5;Transpos.;2013
-Tn4401;;5;Transpos.;2013
-Tn4401 fragmented;;0;Transpos.;2013
+Tn4401;59;5;Transpos.;2013
+Tn4401 fragmented;59;0;Transpos.;2013
 CMY;72;0;β-lactamases;2014
 CTX-M;72;0;β-lactamases;2014
 DHA;72;0;β-lactamases;2014
@@ -3006,8 +3006,8 @@ Raoultella;72;0;Organism;2014
 Salmonella;72;0;Organism;2014
 Serratia;72;0;Organism;2014
 Resolvase found;72;5;Transpos.;2014
-Tn4401;;0;Transpos.;2014
-Tn4401 fragmented;;0;Transpos.;2014
+Tn4401;72;0;Transpos.;2014
+Tn4401 fragmented;72;0;Transpos.;2014
 CMY;15;0;β-lactamases;2010
 CTX-M;15;1;β-lactamases;2010
 DHA;15;0;β-lactamases;2010
@@ -3065,8 +3065,8 @@ Raoultella;15;0;Organism;2010
 Salmonella;15;0;Organism;2010
 Serratia;15;0;Organism;2010
 Resolvase found;15;5;Transpos.;2010
-Tn4401;;0;Transpos.;2010
-Tn4401 fragmented;;0;Transpos.;2010
+Tn4401;15;0;Transpos.;2010
+Tn4401 fragmented;15;0;Transpos.;2010
 CMY;20;0;β-lactamases;2005
 CTX-M;20;0;β-lactamases;2005
 DHA;20;0;β-lactamases;2005
@@ -3124,8 +3124,8 @@ Raoultella;20;0;Organism;2005
 Salmonella;20;0;Organism;2005
 Serratia;20;0;Organism;2005
 Resolvase found;20;5;Transpos.;2005
-Tn4401;;5;Transpos.;2005
-Tn4401 fragmented;;0;Transpos.;2005
+Tn4401;20;5;Transpos.;2005
+Tn4401 fragmented;20;0;Transpos.;2005
 CMY;57;0;β-lactamases;2006
 CTX-M;57;0;β-lactamases;2006
 DHA;57;0;β-lactamases;2006
@@ -3183,8 +3183,8 @@ Raoultella;57;0;Organism;2006
 Salmonella;57;0;Organism;2006
 Serratia;57;0;Organism;2006
 Resolvase found;57;5;Transpos.;2006
-Tn4401;;5;Transpos.;2006
-Tn4401 fragmented;;0;Transpos.;2006
+Tn4401;57;5;Transpos.;2006
+Tn4401 fragmented;57;0;Transpos.;2006
 CMY;38;0;β-lactamases;2010
 CTX-M;38;0;β-lactamases;2010
 DHA;38;0;β-lactamases;2010
@@ -3242,8 +3242,8 @@ Raoultella;38;0;Organism;2010
 Salmonella;38;0;Organism;2010
 Serratia;38;0;Organism;2010
 Resolvase found;38;5;Transpos.;2010
-Tn4401;;5;Transpos.;2010
-Tn4401 fragmented;;0;Transpos.;2010
+Tn4401;38;5;Transpos.;2010
+Tn4401 fragmented;38;0;Transpos.;2010
 CMY;14;0;β-lactamases;2016
 CTX-M;14;0;β-lactamases;2016
 DHA;14;0;β-lactamases;2016
@@ -3301,8 +3301,8 @@ Raoultella;14;0;Organism;2016
 Salmonella;14;0;Organism;2016
 Serratia;14;0;Organism;2016
 Resolvase found;14;5;Transpos.;2016
-Tn4401;;0;Transpos.;2016
-Tn4401 fragmented;;5;Transpos.;2016
+Tn4401;14;0;Transpos.;2016
+Tn4401 fragmented;14;5;Transpos.;2016
 CMY;29;0;β-lactamases;2016
 CTX-M;29;0;β-lactamases;2016
 DHA;29;0;β-lactamases;2016
@@ -3360,8 +3360,8 @@ Raoultella;29;0;Organism;2016
 Salmonella;29;0;Organism;2016
 Serratia;29;0;Organism;2016
 Resolvase found;29;0;Transpos.;2016
-Tn4401;;5;Transpos.;2016
-Tn4401 fragmented;;0;Transpos.;2016
+Tn4401;29;5;Transpos.;2016
+Tn4401 fragmented;29;0;Transpos.;2016
 CMY;52;0;β-lactamases;2017
 CTX-M;52;1;β-lactamases;2017
 DHA;52;0;β-lactamases;2017
@@ -3419,8 +3419,8 @@ Raoultella;52;0;Organism;2017
 Salmonella;52;0;Organism;2017
 Serratia;52;0;Organism;2017
 Resolvase found;52;5;Transpos.;2017
-Tn4401;;0;Transpos.;2017
-Tn4401 fragmented;;0;Transpos.;2017
+Tn4401;52;0;Transpos.;2017
+Tn4401 fragmented;52;0;Transpos.;2017
 CMY;142;0;β-lactamases;2015
 CTX-M;142;0;β-lactamases;2015
 DHA;142;0;β-lactamases;2015
@@ -3478,8 +3478,8 @@ Raoultella;142;0;Organism;2015
 Salmonella;142;0;Organism;2015
 Serratia;142;0;Organism;2015
 Resolvase found;142;5;Transpos.;2015
-Tn4401;;5;Transpos.;2015
-Tn4401 fragmented;;0;Transpos.;2015
+Tn4401;142;5;Transpos.;2015
+Tn4401 fragmented;142;0;Transpos.;2015
 CMY;116;0;β-lactamases;2016
 CTX-M;116;0;β-lactamases;2016
 DHA;116;0;β-lactamases;2016
@@ -3537,8 +3537,8 @@ Raoultella;116;0;Organism;2016
 Salmonella;116;0;Organism;2016
 Serratia;116;0;Organism;2016
 Resolvase found;116;5;Transpos.;2016
-Tn4401;;0;Transpos.;2016
-Tn4401 fragmented;;0;Transpos.;2016
+Tn4401;116;0;Transpos.;2016
+Tn4401 fragmented;116;0;Transpos.;2016
 CMY;22;0;β-lactamases;2016
 CTX-M;22;0;β-lactamases;2016
 DHA;22;0;β-lactamases;2016
@@ -3596,8 +3596,8 @@ Raoultella;22;0;Organism;2016
 Salmonella;22;0;Organism;2016
 Serratia;22;0;Organism;2016
 Resolvase found;22;5;Transpos.;2016
-Tn4401;;0;Transpos.;2016
-Tn4401 fragmented;;0;Transpos.;2016
+Tn4401;22;0;Transpos.;2016
+Tn4401 fragmented;22;0;Transpos.;2016
 CMY;87;0;β-lactamases;2015
 CTX-M;87;0;β-lactamases;2015
 DHA;87;0;β-lactamases;2015
@@ -3655,8 +3655,8 @@ Raoultella;87;0;Organism;2015
 Salmonella;87;0;Organism;2015
 Serratia;87;4;Organism;2015
 Resolvase found;87;5;Transpos.;2015
-Tn4401;;0;Transpos.;2015
-Tn4401 fragmented;;0;Transpos.;2015
+Tn4401;87;0;Transpos.;2015
+Tn4401 fragmented;87;0;Transpos.;2015
 CMY;21;0;β-lactamases;1997
 CTX-M;21;0;β-lactamases;1997
 DHA;21;0;β-lactamases;1997
@@ -3714,8 +3714,8 @@ Raoultella;21;0;Organism;1997
 Salmonella;21;0;Organism;1997
 Serratia;21;0;Organism;1997
 Resolvase found;21;5;Transpos.;1997
-Tn4401;;0;Transpos.;1997
-Tn4401 fragmented;;5;Transpos.;1997
+Tn4401;21;0;Transpos.;1997
+Tn4401 fragmented;21;5;Transpos.;1997
 CMY;95;0;β-lactamases;2015
 CTX-M;95;0;β-lactamases;2015
 DHA;95;0;β-lactamases;2015
@@ -3773,8 +3773,8 @@ Raoultella;95;0;Organism;2015
 Salmonella;95;0;Organism;2015
 Serratia;95;0;Organism;2015
 Resolvase found;95;5;Transpos.;2015
-Tn4401;;0;Transpos.;2015
-Tn4401 fragmented;;0;Transpos.;2015
+Tn4401;95;0;Transpos.;2015
+Tn4401 fragmented;95;0;Transpos.;2015
 CMY;93;0;β-lactamases;2016
 CTX-M;93;0;β-lactamases;2016
 DHA;93;0;β-lactamases;2016
@@ -3832,8 +3832,8 @@ Raoultella;93;0;Organism;2016
 Salmonella;93;0;Organism;2016
 Serratia;93;0;Organism;2016
 Resolvase found;93;5;Transpos.;2016
-Tn4401;;0;Transpos.;2016
-Tn4401 fragmented;;0;Transpos.;2016
+Tn4401;93;0;Transpos.;2016
+Tn4401 fragmented;93;0;Transpos.;2016
 CMY;10;0;β-lactamases;2016
 CTX-M;10;0;β-lactamases;2016
 DHA;10;0;β-lactamases;2016
@@ -3891,8 +3891,8 @@ Raoultella;10;0;Organism;2016
 Salmonella;10;0;Organism;2016
 Serratia;10;0;Organism;2016
 Resolvase found;10;5;Transpos.;2016
-Tn4401;;0;Transpos.;2016
-Tn4401 fragmented;;0;Transpos.;2016
+Tn4401;10;0;Transpos.;2016
+Tn4401 fragmented;10;0;Transpos.;2016
 CMY;138;0;β-lactamases;2014
 CTX-M;138;0;β-lactamases;2014
 DHA;138;0;β-lactamases;2014
@@ -3950,8 +3950,8 @@ Raoultella;138;0;Organism;2014
 Salmonella;138;0;Organism;2014
 Serratia;138;0;Organism;2014
 Resolvase found;138;5;Transpos.;2014
-Tn4401;;0;Transpos.;2014
-Tn4401 fragmented;;0;Transpos.;2014
+Tn4401;138;0;Transpos.;2014
+Tn4401 fragmented;138;0;Transpos.;2014
 CMY;18;0;β-lactamases;2014
 CTX-M;18;0;β-lactamases;2014
 DHA;18;0;β-lactamases;2014
@@ -4009,8 +4009,8 @@ Raoultella;18;0;Organism;2014
 Salmonella;18;0;Organism;2014
 Serratia;18;0;Organism;2014
 Resolvase found;18;5;Transpos.;2014
-Tn4401;;0;Transpos.;2014
-Tn4401 fragmented;;0;Transpos.;2014
+Tn4401;18;0;Transpos.;2014
+Tn4401 fragmented;18;0;Transpos.;2014
 CMY;130;0;β-lactamases;2015
 CTX-M;130;0;β-lactamases;2015
 DHA;130;0;β-lactamases;2015
@@ -4068,8 +4068,8 @@ Raoultella;130;0;Organism;2015
 Salmonella;130;0;Organism;2015
 Serratia;130;0;Organism;2015
 Resolvase found;130;5;Transpos.;2015
-Tn4401;;5;Transpos.;2015
-Tn4401 fragmented;;0;Transpos.;2015
+Tn4401;130;5;Transpos.;2015
+Tn4401 fragmented;130;0;Transpos.;2015
 CMY;94;0;β-lactamases;2014
 CTX-M;94;0;β-lactamases;2014
 DHA;94;0;β-lactamases;2014
@@ -4127,8 +4127,8 @@ Raoultella;94;0;Organism;2014
 Salmonella;94;0;Organism;2014
 Serratia;94;0;Organism;2014
 Resolvase found;94;5;Transpos.;2014
-Tn4401;;0;Transpos.;2014
-Tn4401 fragmented;;0;Transpos.;2014
+Tn4401;94;0;Transpos.;2014
+Tn4401 fragmented;94;0;Transpos.;2014
 CMY;111;0;β-lactamases;2014
 CTX-M;111;0;β-lactamases;2014
 DHA;111;0;β-lactamases;2014
@@ -4186,8 +4186,8 @@ Raoultella;111;0;Organism;2014
 Salmonella;111;0;Organism;2014
 Serratia;111;0;Organism;2014
 Resolvase found;111;5;Transpos.;2014
-Tn4401;;5;Transpos.;2014
-Tn4401 fragmented;;0;Transpos.;2014
+Tn4401;111;5;Transpos.;2014
+Tn4401 fragmented;111;0;Transpos.;2014
 CMY;41;0;β-lactamases;2015
 CTX-M;41;0;β-lactamases;2015
 DHA;41;0;β-lactamases;2015
@@ -4245,8 +4245,8 @@ Raoultella;41;0;Organism;2015
 Salmonella;41;0;Organism;2015
 Serratia;41;0;Organism;2015
 Resolvase found;41;5;Transpos.;2015
-Tn4401;;5;Transpos.;2015
-Tn4401 fragmented;;0;Transpos.;2015
+Tn4401;41;5;Transpos.;2015
+Tn4401 fragmented;41;0;Transpos.;2015
 CMY;31;0;β-lactamases;2015
 CTX-M;31;0;β-lactamases;2015
 DHA;31;0;β-lactamases;2015
@@ -4304,8 +4304,8 @@ Raoultella;31;0;Organism;2015
 Salmonella;31;0;Organism;2015
 Serratia;31;0;Organism;2015
 Resolvase found;31;5;Transpos.;2015
-Tn4401;;5;Transpos.;2015
-Tn4401 fragmented;;0;Transpos.;2015
+Tn4401;31;5;Transpos.;2015
+Tn4401 fragmented;31;0;Transpos.;2015
 CMY;112;0;β-lactamases;2016
 CTX-M;112;0;β-lactamases;2016
 DHA;112;0;β-lactamases;2016
@@ -4363,8 +4363,8 @@ Raoultella;112;0;Organism;2016
 Salmonella;112;0;Organism;2016
 Serratia;112;0;Organism;2016
 Resolvase found;112;0;Transpos.;2016
-Tn4401;;5;Transpos.;2016
-Tn4401 fragmented;;0;Transpos.;2016
+Tn4401;112;5;Transpos.;2016
+Tn4401 fragmented;112;0;Transpos.;2016
 CMY;146;0;β-lactamases;2015
 CTX-M;146;0;β-lactamases;2015
 DHA;146;0;β-lactamases;2015
@@ -4422,8 +4422,8 @@ Raoultella;146;0;Organism;2015
 Salmonella;146;0;Organism;2015
 Serratia;146;0;Organism;2015
 Resolvase found;146;5;Transpos.;2015
-Tn4401;;0;Transpos.;2015
-Tn4401 fragmented;;0;Transpos.;2015
+Tn4401;146;0;Transpos.;2015
+Tn4401 fragmented;146;0;Transpos.;2015
 CMY;136;0;β-lactamases;2015
 CTX-M;136;0;β-lactamases;2015
 DHA;136;0;β-lactamases;2015
@@ -4481,8 +4481,8 @@ Raoultella;136;0;Organism;2015
 Salmonella;136;0;Organism;2015
 Serratia;136;0;Organism;2015
 Resolvase found;136;5;Transpos.;2015
-Tn4401;;5;Transpos.;2015
-Tn4401 fragmented;;0;Transpos.;2015
+Tn4401;136;5;Transpos.;2015
+Tn4401 fragmented;136;0;Transpos.;2015
 CMY;119;0;β-lactamases;2018
 CTX-M;119;0;β-lactamases;2018
 DHA;119;0;β-lactamases;2018
@@ -4540,8 +4540,8 @@ Raoultella;119;0;Organism;2018
 Salmonella;119;0;Organism;2018
 Serratia;119;0;Organism;2018
 Resolvase found;119;5;Transpos.;2018
-Tn4401;;5;Transpos.;2018
-Tn4401 fragmented;;0;Transpos.;2018
+Tn4401;119;5;Transpos.;2018
+Tn4401 fragmented;119;0;Transpos.;2018
 CMY;82;0;β-lactamases;2018
 CTX-M;82;0;β-lactamases;2018
 DHA;82;0;β-lactamases;2018
@@ -4599,8 +4599,8 @@ Raoultella;82;0;Organism;2018
 Salmonella;82;0;Organism;2018
 Serratia;82;0;Organism;2018
 Resolvase found;82;5;Transpos.;2018
-Tn4401;;0;Transpos.;2018
-Tn4401 fragmented;;5;Transpos.;2018
+Tn4401;82;0;Transpos.;2018
+Tn4401 fragmented;82;5;Transpos.;2018
 CMY;9;0;β-lactamases;2005
 CTX-M;9;0;β-lactamases;2005
 DHA;9;0;β-lactamases;2005
@@ -4658,8 +4658,8 @@ Raoultella;9;0;Organism;2005
 Salmonella;9;0;Organism;2005
 Serratia;9;0;Organism;2005
 Resolvase found;9;5;Transpos.;2005
-Tn4401;;5;Transpos.;2005
-Tn4401 fragmented;;0;Transpos.;2005
+Tn4401;9;5;Transpos.;2005
+Tn4401 fragmented;9;0;Transpos.;2005
 CMY;25;0;β-lactamases;2015
 CTX-M;25;0;β-lactamases;2015
 DHA;25;0;β-lactamases;2015
@@ -4717,8 +4717,8 @@ Raoultella;25;0;Organism;2015
 Salmonella;25;0;Organism;2015
 Serratia;25;0;Organism;2015
 Resolvase found;25;5;Transpos.;2015
-Tn4401;;0;Transpos.;2015
-Tn4401 fragmented;;0;Transpos.;2015
+Tn4401;25;0;Transpos.;2015
+Tn4401 fragmented;25;0;Transpos.;2015
 CMY;99;0;β-lactamases;2017
 CTX-M;99;0;β-lactamases;2017
 DHA;99;0;β-lactamases;2017
@@ -4776,8 +4776,8 @@ Raoultella;99;0;Organism;2017
 Salmonella;99;0;Organism;2017
 Serratia;99;0;Organism;2017
 Resolvase found;99;5;Transpos.;2017
-Tn4401;;0;Transpos.;2017
-Tn4401 fragmented;;0;Transpos.;2017
+Tn4401;99;0;Transpos.;2017
+Tn4401 fragmented;99;0;Transpos.;2017
 CMY;78;0;β-lactamases;2016
 CTX-M;78;0;β-lactamases;2016
 DHA;78;0;β-lactamases;2016
@@ -4835,8 +4835,8 @@ Raoultella;78;0;Organism;2016
 Salmonella;78;0;Organism;2016
 Serratia;78;0;Organism;2016
 Resolvase found;78;5;Transpos.;2016
-Tn4401;;0;Transpos.;2016
-Tn4401 fragmented;;0;Transpos.;2016
+Tn4401;78;0;Transpos.;2016
+Tn4401 fragmented;78;0;Transpos.;2016
 CMY;35;0;β-lactamases;2017
 CTX-M;35;1;β-lactamases;2017
 DHA;35;0;β-lactamases;2017
@@ -4894,8 +4894,8 @@ Raoultella;35;0;Organism;2017
 Salmonella;35;0;Organism;2017
 Serratia;35;0;Organism;2017
 Resolvase found;35;5;Transpos.;2017
-Tn4401;;0;Transpos.;2017
-Tn4401 fragmented;;0;Transpos.;2017
+Tn4401;35;0;Transpos.;2017
+Tn4401 fragmented;35;0;Transpos.;2017
 CMY;49;0;β-lactamases;2008
 CTX-M;49;0;β-lactamases;2008
 DHA;49;0;β-lactamases;2008
@@ -4953,8 +4953,8 @@ Raoultella;49;0;Organism;2008
 Salmonella;49;0;Organism;2008
 Serratia;49;0;Organism;2008
 Resolvase found;49;5;Transpos.;2008
-Tn4401;;0;Transpos.;2008
-Tn4401 fragmented;;0;Transpos.;2008
+Tn4401;49;0;Transpos.;2008
+Tn4401 fragmented;49;0;Transpos.;2008
 CMY;51;0;β-lactamases;2017
 CTX-M;51;0;β-lactamases;2017
 DHA;51;0;β-lactamases;2017
@@ -5012,8 +5012,8 @@ Raoultella;51;0;Organism;2017
 Salmonella;51;0;Organism;2017
 Serratia;51;0;Organism;2017
 Resolvase found;51;5;Transpos.;2017
-Tn4401;;0;Transpos.;2017
-Tn4401 fragmented;;0;Transpos.;2017
+Tn4401;51;0;Transpos.;2017
+Tn4401 fragmented;51;0;Transpos.;2017
 CMY;5;0;β-lactamases;2017
 CTX-M;5;1;β-lactamases;2017
 DHA;5;0;β-lactamases;2017
@@ -5071,8 +5071,8 @@ Raoultella;5;0;Organism;2017
 Salmonella;5;0;Organism;2017
 Serratia;5;0;Organism;2017
 Resolvase found;5;5;Transpos.;2017
-Tn4401;;0;Transpos.;2017
-Tn4401 fragmented;;0;Transpos.;2017
+Tn4401;5;0;Transpos.;2017
+Tn4401 fragmented;5;0;Transpos.;2017
 CMY;37;0;β-lactamases;2016
 CTX-M;37;1;β-lactamases;2016
 DHA;37;0;β-lactamases;2016
@@ -5130,8 +5130,8 @@ Raoultella;37;0;Organism;2016
 Salmonella;37;0;Organism;2016
 Serratia;37;0;Organism;2016
 Resolvase found;37;5;Transpos.;2016
-Tn4401;;0;Transpos.;2016
-Tn4401 fragmented;;0;Transpos.;2016
+Tn4401;37;0;Transpos.;2016
+Tn4401 fragmented;37;0;Transpos.;2016
 CMY;2;0;β-lactamases;2014
 CTX-M;2;0;β-lactamases;2014
 DHA;2;0;β-lactamases;2014
@@ -5189,8 +5189,8 @@ Raoultella;2;0;Organism;2014
 Salmonella;2;0;Organism;2014
 Serratia;2;0;Organism;2014
 Resolvase found;2;5;Transpos.;2014
-Tn4401;;0;Transpos.;2014
-Tn4401 fragmented;;5;Transpos.;2014
+Tn4401;2;0;Transpos.;2014
+Tn4401 fragmented;2;5;Transpos.;2014
 CMY;1;0;β-lactamases;1998
 CTX-M;1;0;β-lactamases;1998
 DHA;1;0;β-lactamases;1998
@@ -5248,8 +5248,8 @@ Raoultella;1;0;Organism;1998
 Salmonella;1;4;Organism;1998
 Serratia;1;0;Organism;1998
 Resolvase found;1;5;Transpos.;1998
-Tn4401;;0;Transpos.;1998
-Tn4401 fragmented;;5;Transpos.;1998
+Tn4401;1;0;Transpos.;1998
+Tn4401 fragmented;1;5;Transpos.;1998
 CMY;98;0;β-lactamases;2015
 CTX-M;98;0;β-lactamases;2015
 DHA;98;0;β-lactamases;2015
@@ -5307,8 +5307,8 @@ Raoultella;98;4;Organism;2015
 Salmonella;98;0;Organism;2015
 Serratia;98;0;Organism;2015
 Resolvase found;98;5;Transpos.;2015
-Tn4401;;0;Transpos.;2015
-Tn4401 fragmented;;5;Transpos.;2015
+Tn4401;98;0;Transpos.;2015
+Tn4401 fragmented;98;5;Transpos.;2015
 CMY;89;0;β-lactamases;2018
 CTX-M;89;0;β-lactamases;2018
 DHA;89;0;β-lactamases;2018
@@ -5366,8 +5366,8 @@ Raoultella;89;0;Organism;2018
 Salmonella;89;0;Organism;2018
 Serratia;89;0;Organism;2018
 Resolvase found;89;0;Transpos.;2018
-Tn4401;;5;Transpos.;2018
-Tn4401 fragmented;;0;Transpos.;2018
+Tn4401;89;5;Transpos.;2018
+Tn4401 fragmented;89;0;Transpos.;2018
 CMY;97;0;β-lactamases;2005
 CTX-M;97;0;β-lactamases;2005
 DHA;97;0;β-lactamases;2005
@@ -5425,8 +5425,8 @@ Raoultella;97;0;Organism;2005
 Salmonella;97;0;Organism;2005
 Serratia;97;0;Organism;2005
 Resolvase found;97;5;Transpos.;2005
-Tn4401;;0;Transpos.;2005
-Tn4401 fragmented;;5;Transpos.;2005
+Tn4401;97;0;Transpos.;2005
+Tn4401 fragmented;97;5;Transpos.;2005
 CMY;34;0;β-lactamases;2006
 CTX-M;34;0;β-lactamases;2006
 DHA;34;1;β-lactamases;2006
@@ -5484,8 +5484,8 @@ Raoultella;34;0;Organism;2006
 Salmonella;34;0;Organism;2006
 Serratia;34;0;Organism;2006
 Resolvase found;34;5;Transpos.;2006
-Tn4401;;0;Transpos.;2006
-Tn4401 fragmented;;0;Transpos.;2006
+Tn4401;34;0;Transpos.;2006
+Tn4401 fragmented;34;0;Transpos.;2006
 CMY;74;0;β-lactamases;2011
 CTX-M;74;0;β-lactamases;2011
 DHA;74;0;β-lactamases;2011
@@ -5543,8 +5543,8 @@ Raoultella;74;0;Organism;2011
 Salmonella;74;0;Organism;2011
 Serratia;74;0;Organism;2011
 Resolvase found;74;5;Transpos.;2011
-Tn4401;;5;Transpos.;2011
-Tn4401 fragmented;;0;Transpos.;2011
+Tn4401;74;5;Transpos.;2011
+Tn4401 fragmented;74;0;Transpos.;2011
 CMY;108;0;β-lactamases;2010
 CTX-M;108;0;β-lactamases;2010
 DHA;108;0;β-lactamases;2010
@@ -5602,8 +5602,8 @@ Raoultella;108;0;Organism;2010
 Salmonella;108;0;Organism;2010
 Serratia;108;0;Organism;2010
 Resolvase found;108;0;Transpos.;2010
-Tn4401;;0;Transpos.;2010
-Tn4401 fragmented;;0;Transpos.;2010
+Tn4401;108;0;Transpos.;2010
+Tn4401 fragmented;108;0;Transpos.;2010
 CMY;85;0;β-lactamases;2005
 CTX-M;85;0;β-lactamases;2005
 DHA;85;0;β-lactamases;2005
@@ -5661,8 +5661,8 @@ Raoultella;85;0;Organism;2005
 Salmonella;85;0;Organism;2005
 Serratia;85;0;Organism;2005
 Resolvase found;85;5;Transpos.;2005
-Tn4401;;0;Transpos.;2005
-Tn4401 fragmented;;5;Transpos.;2005
+Tn4401;85;0;Transpos.;2005
+Tn4401 fragmented;85;5;Transpos.;2005
 CMY;70;0;β-lactamases;2011
 CTX-M;70;0;β-lactamases;2011
 DHA;70;0;β-lactamases;2011
@@ -5720,8 +5720,8 @@ Raoultella;70;0;Organism;2011
 Salmonella;70;0;Organism;2011
 Serratia;70;0;Organism;2011
 Resolvase found;70;5;Transpos.;2011
-Tn4401;;5;Transpos.;2011
-Tn4401 fragmented;;0;Transpos.;2011
+Tn4401;70;5;Transpos.;2011
+Tn4401 fragmented;70;0;Transpos.;2011
 CMY;124;0;β-lactamases;2016
 CTX-M;124;0;β-lactamases;2016
 DHA;124;0;β-lactamases;2016
@@ -5779,8 +5779,8 @@ Raoultella;124;0;Organism;2016
 Salmonella;124;0;Organism;2016
 Serratia;124;0;Organism;2016
 Resolvase found;124;5;Transpos.;2016
-Tn4401;;5;Transpos.;2016
-Tn4401 fragmented;;0;Transpos.;2016
+Tn4401;124;5;Transpos.;2016
+Tn4401 fragmented;124;0;Transpos.;2016
 CMY;125;0;β-lactamases;2009
 CTX-M;125;0;β-lactamases;2009
 DHA;125;0;β-lactamases;2009
@@ -5838,8 +5838,8 @@ Raoultella;125;0;Organism;2009
 Salmonella;125;0;Organism;2009
 Serratia;125;0;Organism;2009
 Resolvase found;125;5;Transpos.;2009
-Tn4401;;0;Transpos.;2009
-Tn4401 fragmented;;5;Transpos.;2009
+Tn4401;125;0;Transpos.;2009
+Tn4401 fragmented;125;5;Transpos.;2009
 CMY;153;0;β-lactamases;2016
 CTX-M;153;0;β-lactamases;2016
 DHA;153;0;β-lactamases;2016
@@ -5897,8 +5897,8 @@ Raoultella;153;0;Organism;2016
 Salmonella;153;0;Organism;2016
 Serratia;153;0;Organism;2016
 Resolvase found;153;0;Transpos.;2016
-Tn4401;;0;Transpos.;2016
-Tn4401 fragmented;;0;Transpos.;2016
+Tn4401;153;0;Transpos.;2016
+Tn4401 fragmented;153;0;Transpos.;2016
 CMY;140;0;β-lactamases;2016
 CTX-M;140;0;β-lactamases;2016
 DHA;140;0;β-lactamases;2016
@@ -5956,8 +5956,8 @@ Raoultella;140;0;Organism;2016
 Salmonella;140;0;Organism;2016
 Serratia;140;0;Organism;2016
 Resolvase found;140;5;Transpos.;2016
-Tn4401;;5;Transpos.;2016
-Tn4401 fragmented;;0;Transpos.;2016
+Tn4401;140;5;Transpos.;2016
+Tn4401 fragmented;140;0;Transpos.;2016
 CMY;103;0;β-lactamases;2010
 CTX-M;103;0;β-lactamases;2010
 DHA;103;0;β-lactamases;2010
@@ -6015,8 +6015,8 @@ Raoultella;103;0;Organism;2010
 Salmonella;103;0;Organism;2010
 Serratia;103;0;Organism;2010
 Resolvase found;103;5;Transpos.;2010
-Tn4401;;0;Transpos.;2010
-Tn4401 fragmented;;0;Transpos.;2010
+Tn4401;103;0;Transpos.;2010
+Tn4401 fragmented;103;0;Transpos.;2010
 CMY;64;0;β-lactamases;2009
 CTX-M;64;0;β-lactamases;2009
 DHA;64;0;β-lactamases;2009
@@ -6074,8 +6074,8 @@ Raoultella;64;0;Organism;2009
 Salmonella;64;0;Organism;2009
 Serratia;64;0;Organism;2009
 Resolvase found;64;5;Transpos.;2009
-Tn4401;;5;Transpos.;2009
-Tn4401 fragmented;;0;Transpos.;2009
+Tn4401;64;5;Transpos.;2009
+Tn4401 fragmented;64;0;Transpos.;2009
 CMY;143;0;β-lactamases;2016
 CTX-M;143;0;β-lactamases;2016
 DHA;143;0;β-lactamases;2016
@@ -6133,8 +6133,8 @@ Raoultella;143;0;Organism;2016
 Salmonella;143;0;Organism;2016
 Serratia;143;0;Organism;2016
 Resolvase found;143;5;Transpos.;2016
-Tn4401;;0;Transpos.;2016
-Tn4401 fragmented;;0;Transpos.;2016
+Tn4401;143;0;Transpos.;2016
+Tn4401 fragmented;143;0;Transpos.;2016
 CMY;23;0;β-lactamases;2010
 CTX-M;23;0;β-lactamases;2010
 DHA;23;0;β-lactamases;2010
@@ -6192,8 +6192,8 @@ Raoultella;23;0;Organism;2010
 Salmonella;23;0;Organism;2010
 Serratia;23;0;Organism;2010
 Resolvase found;23;5;Transpos.;2010
-Tn4401;;0;Transpos.;2010
-Tn4401 fragmented;;5;Transpos.;2010
+Tn4401;23;0;Transpos.;2010
+Tn4401 fragmented;23;5;Transpos.;2010
 CMY;100;0;β-lactamases;2015
 CTX-M;100;0;β-lactamases;2015
 DHA;100;0;β-lactamases;2015
@@ -6251,8 +6251,8 @@ Raoultella;100;0;Organism;2015
 Salmonella;100;0;Organism;2015
 Serratia;100;0;Organism;2015
 Resolvase found;100;5;Transpos.;2015
-Tn4401;;0;Transpos.;2015
-Tn4401 fragmented;;5;Transpos.;2015
+Tn4401;100;0;Transpos.;2015
+Tn4401 fragmented;100;5;Transpos.;2015
 CMY;53;0;β-lactamases;2016
 CTX-M;53;0;β-lactamases;2016
 DHA;53;0;β-lactamases;2016
@@ -6310,8 +6310,8 @@ Raoultella;53;0;Organism;2016
 Salmonella;53;0;Organism;2016
 Serratia;53;0;Organism;2016
 Resolvase found;53;5;Transpos.;2016
-Tn4401;;0;Transpos.;2016
-Tn4401 fragmented;;0;Transpos.;2016
+Tn4401;53;0;Transpos.;2016
+Tn4401 fragmented;53;0;Transpos.;2016
 CMY;7;0;β-lactamases;2010
 CTX-M;7;0;β-lactamases;2010
 DHA;7;0;β-lactamases;2010
@@ -6369,8 +6369,8 @@ Raoultella;7;0;Organism;2010
 Salmonella;7;0;Organism;2010
 Serratia;7;0;Organism;2010
 Resolvase found;7;5;Transpos.;2010
-Tn4401;;5;Transpos.;2010
-Tn4401 fragmented;;0;Transpos.;2010
+Tn4401;7;5;Transpos.;2010
+Tn4401 fragmented;7;0;Transpos.;2010
 CMY;61;0;β-lactamases;2013
 CTX-M;61;1;β-lactamases;2013
 DHA;61;0;β-lactamases;2013
@@ -6428,8 +6428,8 @@ Raoultella;61;0;Organism;2013
 Salmonella;61;0;Organism;2013
 Serratia;61;0;Organism;2013
 Resolvase found;61;5;Transpos.;2013
-Tn4401;;0;Transpos.;2013
-Tn4401 fragmented;;0;Transpos.;2013
+Tn4401;61;0;Transpos.;2013
+Tn4401 fragmented;61;0;Transpos.;2013
 CMY;135;0;β-lactamases;2011
 CTX-M;135;0;β-lactamases;2011
 DHA;135;0;β-lactamases;2011
@@ -6487,8 +6487,8 @@ Raoultella;135;0;Organism;2011
 Salmonella;135;0;Organism;2011
 Serratia;135;0;Organism;2011
 Resolvase found;135;5;Transpos.;2011
-Tn4401;;0;Transpos.;2011
-Tn4401 fragmented;;0;Transpos.;2011
+Tn4401;135;0;Transpos.;2011
+Tn4401 fragmented;135;0;Transpos.;2011
 CMY;120;0;β-lactamases;2015
 CTX-M;120;0;β-lactamases;2015
 DHA;120;0;β-lactamases;2015
@@ -6546,8 +6546,8 @@ Raoultella;120;0;Organism;2015
 Salmonella;120;0;Organism;2015
 Serratia;120;0;Organism;2015
 Resolvase found;120;5;Transpos.;2015
-Tn4401;;5;Transpos.;2015
-Tn4401 fragmented;;0;Transpos.;2015
+Tn4401;120;5;Transpos.;2015
+Tn4401 fragmented;120;0;Transpos.;2015
 CMY;33;0;β-lactamases;2015
 CTX-M;33;1;β-lactamases;2015
 DHA;33;0;β-lactamases;2015
@@ -6605,8 +6605,8 @@ Raoultella;33;0;Organism;2015
 Salmonella;33;0;Organism;2015
 Serratia;33;0;Organism;2015
 Resolvase found;33;5;Transpos.;2015
-Tn4401;;0;Transpos.;2015
-Tn4401 fragmented;;0;Transpos.;2015
+Tn4401;33;0;Transpos.;2015
+Tn4401 fragmented;33;0;Transpos.;2015
 CMY;73;0;β-lactamases;2016
 CTX-M;73;0;β-lactamases;2016
 DHA;73;0;β-lactamases;2016
@@ -6664,8 +6664,8 @@ Raoultella;73;0;Organism;2016
 Salmonella;73;0;Organism;2016
 Serratia;73;0;Organism;2016
 Resolvase found;73;5;Transpos.;2016
-Tn4401;;0;Transpos.;2016
-Tn4401 fragmented;;0;Transpos.;2016
+Tn4401;73;0;Transpos.;2016
+Tn4401 fragmented;73;0;Transpos.;2016
 CMY;147;0;β-lactamases;2016
 CTX-M;147;0;β-lactamases;2016
 DHA;147;0;β-lactamases;2016
@@ -6723,8 +6723,8 @@ Raoultella;147;0;Organism;2016
 Salmonella;147;0;Organism;2016
 Serratia;147;0;Organism;2016
 Resolvase found;147;0;Transpos.;2016
-Tn4401;;5;Transpos.;2016
-Tn4401 fragmented;;0;Transpos.;2016
+Tn4401;147;5;Transpos.;2016
+Tn4401 fragmented;147;0;Transpos.;2016
 CMY;77;0;β-lactamases;2013
 CTX-M;77;0;β-lactamases;2013
 DHA;77;0;β-lactamases;2013
@@ -6782,8 +6782,8 @@ Raoultella;77;0;Organism;2013
 Salmonella;77;0;Organism;2013
 Serratia;77;0;Organism;2013
 Resolvase found;77;5;Transpos.;2013
-Tn4401;;0;Transpos.;2013
-Tn4401 fragmented;;0;Transpos.;2013
+Tn4401;77;0;Transpos.;2013
+Tn4401 fragmented;77;0;Transpos.;2013
 CMY;139;0;β-lactamases;2013
 CTX-M;139;0;β-lactamases;2013
 DHA;139;0;β-lactamases;2013
@@ -6841,8 +6841,8 @@ Raoultella;139;0;Organism;2013
 Salmonella;139;0;Organism;2013
 Serratia;139;0;Organism;2013
 Resolvase found;139;5;Transpos.;2013
-Tn4401;;0;Transpos.;2013
-Tn4401 fragmented;;0;Transpos.;2013
+Tn4401;139;0;Transpos.;2013
+Tn4401 fragmented;139;0;Transpos.;2013
 CMY;55;0;β-lactamases;2009
 CTX-M;55;1;β-lactamases;2009
 DHA;55;0;β-lactamases;2009
@@ -6900,8 +6900,8 @@ Raoultella;55;0;Organism;2009
 Salmonella;55;0;Organism;2009
 Serratia;55;0;Organism;2009
 Resolvase found;55;5;Transpos.;2009
-Tn4401;;0;Transpos.;2009
-Tn4401 fragmented;;0;Transpos.;2009
+Tn4401;55;0;Transpos.;2009
+Tn4401 fragmented;55;0;Transpos.;2009
 CMY;149;0;β-lactamases;2016
 CTX-M;149;0;β-lactamases;2016
 DHA;149;0;β-lactamases;2016
@@ -6959,8 +6959,8 @@ Raoultella;149;0;Organism;2016
 Salmonella;149;0;Organism;2016
 Serratia;149;0;Organism;2016
 Resolvase found;149;5;Transpos.;2016
-Tn4401;;5;Transpos.;2016
-Tn4401 fragmented;;0;Transpos.;2016
+Tn4401;149;5;Transpos.;2016
+Tn4401 fragmented;149;0;Transpos.;2016
 CMY;106;0;β-lactamases;2016
 CTX-M;106;0;β-lactamases;2016
 DHA;106;0;β-lactamases;2016
@@ -7018,8 +7018,8 @@ Raoultella;106;0;Organism;2016
 Salmonella;106;0;Organism;2016
 Serratia;106;0;Organism;2016
 Resolvase found;106;5;Transpos.;2016
-Tn4401;;5;Transpos.;2016
-Tn4401 fragmented;;0;Transpos.;2016
+Tn4401;106;5;Transpos.;2016
+Tn4401 fragmented;106;0;Transpos.;2016
 CMY;110;0;β-lactamases;2015
 CTX-M;110;1;β-lactamases;2015
 DHA;110;0;β-lactamases;2015
@@ -7077,8 +7077,8 @@ Raoultella;110;0;Organism;2015
 Salmonella;110;0;Organism;2015
 Serratia;110;0;Organism;2015
 Resolvase found;110;5;Transpos.;2015
-Tn4401;;0;Transpos.;2015
-Tn4401 fragmented;;0;Transpos.;2015
+Tn4401;110;0;Transpos.;2015
+Tn4401 fragmented;110;0;Transpos.;2015
 CMY;105;0;β-lactamases;2012
 CTX-M;105;1;β-lactamases;2012
 DHA;105;0;β-lactamases;2012
@@ -7136,8 +7136,8 @@ Raoultella;105;0;Organism;2012
 Salmonella;105;0;Organism;2012
 Serratia;105;0;Organism;2012
 Resolvase found;105;5;Transpos.;2012
-Tn4401;;0;Transpos.;2012
-Tn4401 fragmented;;0;Transpos.;2012
+Tn4401;105;0;Transpos.;2012
+Tn4401 fragmented;105;0;Transpos.;2012
 CMY;48;0;β-lactamases;2018
 CTX-M;48;0;β-lactamases;2018
 DHA;48;0;β-lactamases;2018
@@ -7195,8 +7195,8 @@ Raoultella;48;0;Organism;2018
 Salmonella;48;0;Organism;2018
 Serratia;48;0;Organism;2018
 Resolvase found;48;5;Transpos.;2018
-Tn4401;;5;Transpos.;2018
-Tn4401 fragmented;;0;Transpos.;2018
+Tn4401;48;5;Transpos.;2018
+Tn4401 fragmented;48;0;Transpos.;2018
 CMY;42;0;β-lactamases;2018
 CTX-M;42;0;β-lactamases;2018
 DHA;42;0;β-lactamases;2018
@@ -7254,8 +7254,8 @@ Raoultella;42;0;Organism;2018
 Salmonella;42;0;Organism;2018
 Serratia;42;0;Organism;2018
 Resolvase found;42;5;Transpos.;2018
-Tn4401;;0;Transpos.;2018
-Tn4401 fragmented;;0;Transpos.;2018
+Tn4401;42;0;Transpos.;2018
+Tn4401 fragmented;42;0;Transpos.;2018
 CMY;45;0;β-lactamases;2018
 CTX-M;45;0;β-lactamases;2018
 DHA;45;0;β-lactamases;2018
@@ -7313,8 +7313,8 @@ Raoultella;45;0;Organism;2018
 Salmonella;45;0;Organism;2018
 Serratia;45;0;Organism;2018
 Resolvase found;45;5;Transpos.;2018
-Tn4401;;0;Transpos.;2018
-Tn4401 fragmented;;0;Transpos.;2018
+Tn4401;45;0;Transpos.;2018
+Tn4401 fragmented;45;0;Transpos.;2018
 CMY;122;0;β-lactamases;2017
 CTX-M;122;0;β-lactamases;2017
 DHA;122;0;β-lactamases;2017
@@ -7372,8 +7372,8 @@ Raoultella;122;0;Organism;2017
 Salmonella;122;0;Organism;2017
 Serratia;122;0;Organism;2017
 Resolvase found;122;5;Transpos.;2017
-Tn4401;;0;Transpos.;2017
-Tn4401 fragmented;;0;Transpos.;2017
+Tn4401;122;0;Transpos.;2017
+Tn4401 fragmented;122;0;Transpos.;2017
 CMY;129;0;β-lactamases;2017
 CTX-M;129;0;β-lactamases;2017
 DHA;129;0;β-lactamases;2017
@@ -7431,8 +7431,8 @@ Raoultella;129;0;Organism;2017
 Salmonella;129;0;Organism;2017
 Serratia;129;0;Organism;2017
 Resolvase found;129;5;Transpos.;2017
-Tn4401;;0;Transpos.;2017
-Tn4401 fragmented;;0;Transpos.;2017
+Tn4401;129;0;Transpos.;2017
+Tn4401 fragmented;129;0;Transpos.;2017
 CMY;131;0;β-lactamases;2017
 CTX-M;131;0;β-lactamases;2017
 DHA;131;0;β-lactamases;2017
@@ -7490,8 +7490,8 @@ Raoultella;131;0;Organism;2017
 Salmonella;131;0;Organism;2017
 Serratia;131;0;Organism;2017
 Resolvase found;131;5;Transpos.;2017
-Tn4401;;5;Transpos.;2017
-Tn4401 fragmented;;0;Transpos.;2017
+Tn4401;131;5;Transpos.;2017
+Tn4401 fragmented;131;0;Transpos.;2017
 CMY;107;0;β-lactamases;2017
 CTX-M;107;0;β-lactamases;2017
 DHA;107;0;β-lactamases;2017
@@ -7549,8 +7549,8 @@ Raoultella;107;0;Organism;2017
 Salmonella;107;0;Organism;2017
 Serratia;107;0;Organism;2017
 Resolvase found;107;5;Transpos.;2017
-Tn4401;;5;Transpos.;2017
-Tn4401 fragmented;;0;Transpos.;2017
+Tn4401;107;5;Transpos.;2017
+Tn4401 fragmented;107;0;Transpos.;2017
 CMY;58;0;β-lactamases;2016
 CTX-M;58;0;β-lactamases;2016
 DHA;58;0;β-lactamases;2016
@@ -7608,8 +7608,8 @@ Raoultella;58;0;Organism;2016
 Salmonella;58;0;Organism;2016
 Serratia;58;0;Organism;2016
 Resolvase found;58;5;Transpos.;2016
-Tn4401;;0;Transpos.;2016
-Tn4401 fragmented;;5;Transpos.;2016
+Tn4401;58;0;Transpos.;2016
+Tn4401 fragmented;58;5;Transpos.;2016
 CMY;47;0;β-lactamases;2017
 CTX-M;47;0;β-lactamases;2017
 DHA;47;0;β-lactamases;2017
@@ -7667,8 +7667,8 @@ Raoultella;47;0;Organism;2017
 Salmonella;47;0;Organism;2017
 Serratia;47;0;Organism;2017
 Resolvase found;47;0;Transpos.;2017
-Tn4401;;0;Transpos.;2017
-Tn4401 fragmented;;0;Transpos.;2017
+Tn4401;47;0;Transpos.;2017
+Tn4401 fragmented;47;0;Transpos.;2017
 CMY;80;0;β-lactamases;2009
 CTX-M;80;0;β-lactamases;2009
 DHA;80;0;β-lactamases;2009
@@ -7726,8 +7726,8 @@ Raoultella;80;0;Organism;2009
 Salmonella;80;0;Organism;2009
 Serratia;80;0;Organism;2009
 Resolvase found;80;5;Transpos.;2009
-Tn4401;;0;Transpos.;2009
-Tn4401 fragmented;;0;Transpos.;2009
+Tn4401;80;0;Transpos.;2009
+Tn4401 fragmented;80;0;Transpos.;2009
 CMY;26;0;β-lactamases;2018
 CTX-M;26;0;β-lactamases;2018
 DHA;26;0;β-lactamases;2018
@@ -7785,8 +7785,8 @@ Raoultella;26;0;Organism;2018
 Salmonella;26;0;Organism;2018
 Serratia;26;0;Organism;2018
 Resolvase found;26;5;Transpos.;2018
-Tn4401;;0;Transpos.;2018
-Tn4401 fragmented;;0;Transpos.;2018
+Tn4401;26;0;Transpos.;2018
+Tn4401 fragmented;26;0;Transpos.;2018
 CMY;56;0;β-lactamases;2015
 CTX-M;56;0;β-lactamases;2015
 DHA;56;0;β-lactamases;2015
@@ -7844,8 +7844,8 @@ Raoultella;56;0;Organism;2015
 Salmonella;56;0;Organism;2015
 Serratia;56;0;Organism;2015
 Resolvase found;56;5;Transpos.;2015
-Tn4401;;0;Transpos.;2015
-Tn4401 fragmented;;0;Transpos.;2015
+Tn4401;56;0;Transpos.;2015
+Tn4401 fragmented;56;0;Transpos.;2015
 CMY;134;0;β-lactamases;2012
 CTX-M;134;0;β-lactamases;2012
 DHA;134;0;β-lactamases;2012
@@ -7903,8 +7903,8 @@ Raoultella;134;0;Organism;2012
 Salmonella;134;0;Organism;2012
 Serratia;134;4;Organism;2012
 Resolvase found;134;5;Transpos.;2012
-Tn4401;;0;Transpos.;2012
-Tn4401 fragmented;;0;Transpos.;2012
+Tn4401;134;0;Transpos.;2012
+Tn4401 fragmented;134;0;Transpos.;2012
 CMY;24;0;β-lactamases;2017
 CTX-M;24;1;β-lactamases;2017
 DHA;24;0;β-lactamases;2017
@@ -7962,8 +7962,8 @@ Raoultella;24;0;Organism;2017
 Salmonella;24;0;Organism;2017
 Serratia;24;0;Organism;2017
 Resolvase found;24;5;Transpos.;2017
-Tn4401;;0;Transpos.;2017
-Tn4401 fragmented;;0;Transpos.;2017
+Tn4401;24;0;Transpos.;2017
+Tn4401 fragmented;24;0;Transpos.;2017
 CMY;32;0;β-lactamases;2017
 CTX-M;32;1;β-lactamases;2017
 DHA;32;0;β-lactamases;2017
@@ -8021,8 +8021,8 @@ Raoultella;32;0;Organism;2017
 Salmonella;32;0;Organism;2017
 Serratia;32;0;Organism;2017
 Resolvase found;32;5;Transpos.;2017
-Tn4401;;0;Transpos.;2017
-Tn4401 fragmented;;0;Transpos.;2017
+Tn4401;32;0;Transpos.;2017
+Tn4401 fragmented;32;0;Transpos.;2017
 CMY;36;0;β-lactamases;2017
 CTX-M;36;1;β-lactamases;2017
 DHA;36;0;β-lactamases;2017
@@ -8080,8 +8080,8 @@ Raoultella;36;0;Organism;2017
 Salmonella;36;0;Organism;2017
 Serratia;36;0;Organism;2017
 Resolvase found;36;5;Transpos.;2017
-Tn4401;;0;Transpos.;2017
-Tn4401 fragmented;;0;Transpos.;2017
+Tn4401;36;0;Transpos.;2017
+Tn4401 fragmented;36;0;Transpos.;2017
 CMY;137;0;β-lactamases;2017
 CTX-M;137;0;β-lactamases;2017
 DHA;137;0;β-lactamases;2017
@@ -8139,8 +8139,8 @@ Raoultella;137;0;Organism;2017
 Salmonella;137;0;Organism;2017
 Serratia;137;0;Organism;2017
 Resolvase found;137;5;Transpos.;2017
-Tn4401;;0;Transpos.;2017
-Tn4401 fragmented;;0;Transpos.;2017
+Tn4401;137;0;Transpos.;2017
+Tn4401 fragmented;137;0;Transpos.;2017
 CMY;88;0;β-lactamases;2017
 CTX-M;88;0;β-lactamases;2017
 DHA;88;0;β-lactamases;2017
@@ -8198,8 +8198,8 @@ Raoultella;88;0;Organism;2017
 Salmonella;88;0;Organism;2017
 Serratia;88;0;Organism;2017
 Resolvase found;88;5;Transpos.;2017
-Tn4401;;5;Transpos.;2017
-Tn4401 fragmented;;0;Transpos.;2017
+Tn4401;88;5;Transpos.;2017
+Tn4401 fragmented;88;0;Transpos.;2017
 CMY;101;0;β-lactamases;2017
 CTX-M;101;1;β-lactamases;2017
 DHA;101;0;β-lactamases;2017
@@ -8257,8 +8257,8 @@ Raoultella;101;4;Organism;2017
 Salmonella;101;0;Organism;2017
 Serratia;101;0;Organism;2017
 Resolvase found;101;5;Transpos.;2017
-Tn4401;;0;Transpos.;2017
-Tn4401 fragmented;;0;Transpos.;2017
+Tn4401;101;0;Transpos.;2017
+Tn4401 fragmented;101;0;Transpos.;2017
 CMY;60;0;β-lactamases;2017
 CTX-M;60;1;β-lactamases;2017
 DHA;60;0;β-lactamases;2017
@@ -8316,8 +8316,8 @@ Raoultella;60;0;Organism;2017
 Salmonella;60;0;Organism;2017
 Serratia;60;0;Organism;2017
 Resolvase found;60;5;Transpos.;2017
-Tn4401;;0;Transpos.;2017
-Tn4401 fragmented;;0;Transpos.;2017
+Tn4401;60;0;Transpos.;2017
+Tn4401 fragmented;60;0;Transpos.;2017
 CMY;118;0;β-lactamases;2017
 CTX-M;118;0;β-lactamases;2017
 DHA;118;0;β-lactamases;2017
@@ -8375,8 +8375,8 @@ Raoultella;118;0;Organism;2017
 Salmonella;118;0;Organism;2017
 Serratia;118;0;Organism;2017
 Resolvase found;118;5;Transpos.;2017
-Tn4401;;0;Transpos.;2017
-Tn4401 fragmented;;0;Transpos.;2017
+Tn4401;118;0;Transpos.;2017
+Tn4401 fragmented;118;0;Transpos.;2017
 CMY;71;0;β-lactamases;2018
 CTX-M;71;0;β-lactamases;2018
 DHA;71;0;β-lactamases;2018
@@ -8434,8 +8434,8 @@ Raoultella;71;0;Organism;2018
 Salmonella;71;0;Organism;2018
 Serratia;71;0;Organism;2018
 Resolvase found;71;5;Transpos.;2018
-Tn4401;;0;Transpos.;2018
-Tn4401 fragmented;;0;Transpos.;2018
+Tn4401;71;0;Transpos.;2018
+Tn4401 fragmented;71;0;Transpos.;2018
 CMY;141;0;β-lactamases;2017
 CTX-M;141;0;β-lactamases;2017
 DHA;141;0;β-lactamases;2017
@@ -8493,8 +8493,8 @@ Raoultella;141;0;Organism;2017
 Salmonella;141;0;Organism;2017
 Serratia;141;0;Organism;2017
 Resolvase found;141;5;Transpos.;2017
-Tn4401;;5;Transpos.;2017
-Tn4401 fragmented;;0;Transpos.;2017
+Tn4401;141;5;Transpos.;2017
+Tn4401 fragmented;141;0;Transpos.;2017
 CMY;63;0;β-lactamases;2017
 CTX-M;63;0;β-lactamases;2017
 DHA;63;0;β-lactamases;2017
@@ -8552,8 +8552,8 @@ Raoultella;63;0;Organism;2017
 Salmonella;63;0;Organism;2017
 Serratia;63;0;Organism;2017
 Resolvase found;63;0;Transpos.;2017
-Tn4401;;5;Transpos.;2017
-Tn4401 fragmented;;0;Transpos.;2017
+Tn4401;63;5;Transpos.;2017
+Tn4401 fragmented;63;0;Transpos.;2017
 CMY;27;0;β-lactamases;2018
 CTX-M;27;0;β-lactamases;2018
 DHA;27;0;β-lactamases;2018
@@ -8611,8 +8611,8 @@ Raoultella;27;0;Organism;2018
 Salmonella;27;0;Organism;2018
 Serratia;27;0;Organism;2018
 Resolvase found;27;5;Transpos.;2018
-Tn4401;;0;Transpos.;2018
-Tn4401 fragmented;;0;Transpos.;2018
+Tn4401;27;0;Transpos.;2018
+Tn4401 fragmented;27;0;Transpos.;2018
 CMY;30;0;β-lactamases;2011
 CTX-M;30;0;β-lactamases;2011
 DHA;30;0;β-lactamases;2011
@@ -8670,8 +8670,8 @@ Raoultella;30;0;Organism;2011
 Salmonella;30;0;Organism;2011
 Serratia;30;0;Organism;2011
 Resolvase found;30;5;Transpos.;2011
-Tn4401;;0;Transpos.;2011
-Tn4401 fragmented;;0;Transpos.;2011
+Tn4401;30;0;Transpos.;2011
+Tn4401 fragmented;30;0;Transpos.;2011
 CMY;126;0;β-lactamases;2018
 CTX-M;126;0;β-lactamases;2018
 DHA;126;0;β-lactamases;2018
@@ -8729,8 +8729,8 @@ Raoultella;126;0;Organism;2018
 Salmonella;126;0;Organism;2018
 Serratia;126;0;Organism;2018
 Resolvase found;126;0;Transpos.;2018
-Tn4401;;0;Transpos.;2018
-Tn4401 fragmented;;0;Transpos.;2018
+Tn4401;126;0;Transpos.;2018
+Tn4401 fragmented;126;0;Transpos.;2018
 CMY;151;0;β-lactamases;2014
 CTX-M;151;0;β-lactamases;2014
 DHA;151;0;β-lactamases;2014
@@ -8788,8 +8788,8 @@ Raoultella;151;0;Organism;2014
 Salmonella;151;0;Organism;2014
 Serratia;151;0;Organism;2014
 Resolvase found;151;0;Transpos.;2014
-Tn4401;;0;Transpos.;2014
-Tn4401 fragmented;;0;Transpos.;2014
+Tn4401;151;0;Transpos.;2014
+Tn4401 fragmented;151;0;Transpos.;2014
 CMY;75;0;β-lactamases;2014
 CTX-M;75;0;β-lactamases;2014
 DHA;75;0;β-lactamases;2014
@@ -8847,8 +8847,8 @@ Raoultella;75;0;Organism;2014
 Salmonella;75;0;Organism;2014
 Serratia;75;0;Organism;2014
 Resolvase found;75;5;Transpos.;2014
-Tn4401;;0;Transpos.;2014
-Tn4401 fragmented;;0;Transpos.;2014
+Tn4401;75;0;Transpos.;2014
+Tn4401 fragmented;75;0;Transpos.;2014
 CMY;113;0;β-lactamases;2005
 CTX-M;113;0;β-lactamases;2005
 DHA;113;0;β-lactamases;2005
@@ -8906,8 +8906,8 @@ Raoultella;113;0;Organism;2005
 Salmonella;113;0;Organism;2005
 Serratia;113;0;Organism;2005
 Resolvase found;113;0;Transpos.;2005
-Tn4401;;5;Transpos.;2005
-Tn4401 fragmented;;0;Transpos.;2005
+Tn4401;113;5;Transpos.;2005
+Tn4401 fragmented;113;0;Transpos.;2005
 CMY;150;0;β-lactamases;2011
 CTX-M;150;0;β-lactamases;2011
 DHA;150;0;β-lactamases;2011
@@ -8965,8 +8965,8 @@ Raoultella;150;0;Organism;2011
 Salmonella;150;0;Organism;2011
 Serratia;150;0;Organism;2011
 Resolvase found;150;5;Transpos.;2011
-Tn4401;;0;Transpos.;2011
-Tn4401 fragmented;;0;Transpos.;2011
+Tn4401;150;0;Transpos.;2011
+Tn4401 fragmented;150;0;Transpos.;2011
 CMY;152;0;β-lactamases;2018
 CTX-M;152;0;β-lactamases;2018
 DHA;152;0;β-lactamases;2018
@@ -9024,5 +9024,5 @@ Raoultella;152;0;Organism;2018
 Salmonella;152;0;Organism;2018
 Serratia;152;0;Organism;2018
 Resolvase found;152;5;Transpos.;2018
-Tn4401;;0;Transpos.;2018
-Tn4401 fragmented;;0;Transpos.;2018
+Tn4401;152;0;Transpos.;2018
+Tn4401 fragmented;152;0;Transpos.;2018

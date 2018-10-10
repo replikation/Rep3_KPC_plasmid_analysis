@@ -103,9 +103,9 @@ for x in plasmids_binning_results/* ; do
 	getname2=$(echo "$getname" | cut -f1 -d ".") #removed versions like .1 or .2 to find files better
 	transposontype=$(cat Additional_Tn4401_information/blast_results/${getname2}*.txt)
 	if grep -q "Tn4401" <<< $transposontype ; then tn=5; else tn=0; fi
-	printf "Tn4401;$plasmid_type;$tn;Transpos.;$getyear\n">>R_data/genetable.csv
+	printf "Tn4401;$gettype;$tn;Transpos.;$getyear\n">>R_data/genetable.csv
 	if grep -q "fragmented" <<< $transposontype ; then tn=5; else tn=0; fi
-        printf "Tn4401 fragmented;$plasmid_type;$tn;Transpos.;$getyear\n">>R_data/genetable.csv
+        printf "Tn4401 fragmented;$gettype;$tn;Transpos.;$getyear\n">>R_data/genetable.csv
 done
 
 

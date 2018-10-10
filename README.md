@@ -74,10 +74,18 @@ GCTAGACTCGCGCTCGAGGGATTGGGCGTCAACGGGCAGTAA
 * does a blast based plasmid binning
 * moves also largest plasmid of each bin to a seperate folder called `plasmids_binning_results/`
 
+## execute kpc_6_Tn4401_check.sh
+* blasts a tn4401 reference sequence against the representative plasmid group members
+* script checks the blast output to see if its Tn4401 or fragmented or something else
+* everything used for this is stored under `Additional_Tn4401_information`
+
 # Data visualizazion
 ## kpc_7_data_collection_for_R.sh
 * gets all available organism and checks which plasmid group it has
 * does the same with beta-lactamases and Inc-groups
+* creates a file under `R_data/genetable.csv` for R visualization
+* the R script is also located in `R_data/`
+* creates also a few summary .csv files under `R_data` for data visualisation
 
 ### Gathering the first "year" description
 * gets collection date from genbank if  present
