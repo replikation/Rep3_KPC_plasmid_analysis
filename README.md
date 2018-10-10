@@ -75,7 +75,7 @@ GCTAGACTCGCGCTCGAGGGATTGGGCGTCAACGGGCAGTAA
 * moves also largest plasmid of each bin to a seperate folder called `plasmids_binning_results/`
 
 # Data visualizazion
-## kpc_6_data_collection_for_R.sh
+## kpc_7_data_collection_for_R.sh
 * gets all available organism and checks which plasmid group it has
 * does the same with beta-lactamases and Inc-groups
 
