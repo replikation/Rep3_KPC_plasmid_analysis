@@ -2,8 +2,6 @@
 ##_________year_file__________________##
 ########################################
 echo "Creating a year list first for each plasmidgroup first"
-for z in plasmid_bining/*/year.tmp ; do rm $z ; done
-
 for x in plasmid_bining/* ; do
 acclist=$(ls $x)
 touch $x/year.tmp
@@ -107,13 +105,34 @@ for x in plasmids_binning_results/* ; do
 	if grep -q "fragmented" <<< $transposontype ; then tn=5; else tn=0; fi
         printf "Tn4401 fragmented;$gettype;$tn;Transpos.;$getyear\n">>R_data/genetable.csv
 done
-
+for z in plasmid_bining/*/year.tmp ; do rm $z ; done
 
 ########################################
 ##_________summary_4_paper____________##
 ########################################
 
-# creating percentages and stuff for an excel file
+# creating a summary file und R_data/summary.csv
+echo "Creating statistics table under R_data/summary.csv"
+listofgenes=$(cat R_data/genetable.csv | tail -n +2 | cut -f1 -d";" | sort | uniq)
+printf "name,hits,total,percent\n"> R_data/summary.csv
+total=$(cat R_data/genetable.csv | cut -f2 -d";" | sort | uniq | wc -l)
+while IFS= read -r z || [[ -n "$z" ]]; do
+    hits=$(cat R_data/genetable.csv | cut -f3,1 -d";" | grep -w "$z" | grep -wv "0" | wc -l)
+    #total_per_cat=(cat R_data/genetable.csv | grep -w "$z" | cut -f3,4 -d";" |  grep -wv "0" | wc -l)
+    percent=$(echo "scale=2; 100*$hits/$total" | bc -l)
+printf "$z,$hits,$total,$percent\n">> R_data/summary.csv
+done < <(printf '%s\n' "$listofgenes")
 
 
-
+printf "group,amount,basepair_median\n"> R_data/summary_plasmids.csv
+for x in plasmid_bining/*; do
+	type=$(echo "$x" | cut -f2 -d"/")
+	amount=$(ls $x | wc -l)
+	bp="0"
+	for y in $x/*.fasta; do
+		get_bp=$(tail -n+2 $y | wc -m)
+		bp=$(($bp + $get_bp))
+	done
+	basepair_median=$(echo "scale=2; $bp/$amount" | bc -l)
+printf "${type},${amount},${basepair_median}\n">> R_data/summary_plasmids.csv
+done
