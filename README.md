@@ -1,5 +1,8 @@
 # Rep3_KPC_plasmid_analysis
 
+![](https://img.shields.io/badge/made%20with-shell-green.svg)
+![](https://img.shields.io/badge/licence-GPL--3.0-lightgrey.svg)
+
 * this includes a step by step overview for the scripts used
 * each script tells you if a dependency/program is missing
 
