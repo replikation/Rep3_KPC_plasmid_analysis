@@ -1,4 +1,4 @@
-# Rep3_KPC_plasmid_analysis
+# KPC plasmid analysis
 
 ![](https://img.shields.io/badge/made%20with-shell-green.svg)
 ![](https://img.shields.io/badge/licence-GPL--3.0-lightgrey.svg)
