@@ -2,13 +2,7 @@
 #!/usr/bin/bash
 RED='\033[0;31m'
 NC='\033[0m'
-GRE='\033[0;32m'
-# Absolute path to this script, e.g. /home/user/bin/cb_test.sh
-SCRIPT=$(readlink -f "$0")
-# Absolute path this script is in, thus /home/user/bin
-SCRIPTPATH=$(dirname "$SCRIPT")
 CPU=$(lscpu -p | egrep -v '^#' | wc -l)
-
 
 #dependencies
 type prokka >/dev/null 2>&1 || { echo -e >&2 "${RED}  prokka not found. Aborting.${NC}"; exit 1; }

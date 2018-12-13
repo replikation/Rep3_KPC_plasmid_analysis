@@ -1,9 +1,5 @@
 #!/bin/bash
 #!/usr/bin/bash
-RED='\033[0;31m'
-NC='\033[0m'
-GRE='\033[0;32m'
-CPU=$(lscpu -p | egrep -v '^#' | wc -l)
 
 mkdir -p KPC_fusion_plasmids/
 for x in Annotation_blastn/*.gff; do

@@ -1,3 +1,4 @@
+#!/bin/bash
 ########################################
 ##_________year_file__________________##
 ########################################
@@ -49,7 +50,7 @@ for x in plasmids_binning_results/* ; do
 	#umuD/C error prone DNA poly
 	if grep -q "umu" <<< $prokres ; then umu=2; else umu=0; fi
 	printf "umuC/D;$gettype;$umu;features;$getyear\n">>R_data/genetable.csv
-	#daugther cell distro parA/B/M and stbA/B/C (highly similar sequence wise) stbA is synonym for parM 
+	#daugther cell distro parA/B/M and stbA/B/C (highly similar sequence wise) stbA is synonym for parM
 	#searches for stb if par not found
 	if grep -q "par" <<< $prokres ; then par=2; else par=0; fi
 	if [[ "$par" == "0" ]]; then if grep -q "stb" <<< $prokres ; then par=2; fi ; fi
@@ -111,14 +112,12 @@ for z in plasmid_bining/*/year.tmp ; do rm $z ; done
 ##_________summary_4_paper____________##
 ########################################
 
-# creating a summary file und R_data/summary.csv
 echo "Creating statistics table under R_data/summary.csv"
 listofgenes=$(cat R_data/genetable.csv | tail -n +2 | cut -f1 -d";" | sort | uniq)
 printf "name,hits,total,percent\n"> R_data/summary.csv
-total=$(cat R_data/genetable.csv | cut -f2 -d";" | sort | uniq | wc -l)
+total=$(cat R_data/genetable.csv | tail -n +2 | cut -f2 -d";" | sort | uniq | wc -l)
 while IFS= read -r z || [[ -n "$z" ]]; do
-    hits=$(cat R_data/genetable.csv | cut -f3,1 -d";" | grep -w "$z" | grep -wv "0" | wc -l)
-    #total_per_cat=(cat R_data/genetable.csv | grep -w "$z" | cut -f3,4 -d";" |  grep -wv "0" | wc -l)
+    hits=$(cat R_data/genetable.csv | tail -n +2 | cut -f3,1 -d";" | grep -w "$z" | grep -wv "0" | wc -l)
     percent=$(echo "scale=2; 100*$hits/$total" | bc -l)
 printf "$z,$hits,$total,$percent\n">> R_data/summary.csv
 done < <(printf '%s\n' "$listofgenes")

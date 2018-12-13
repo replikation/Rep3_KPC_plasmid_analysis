@@ -1,12 +1,5 @@
 #!/bin/bash
 #!/usr/bin/bash
-RED='\033[0;31m'
-NC='\033[0m'
-GRE='\033[0;32m'
-# Absolute path to this script, e.g. /home/user/bin/cb_test.sh
-SCRIPT=$(readlink -f "$0")
-# Absolute path this script is in, thus /home/user/bin
-SCRIPTPATH=$(dirname "$SCRIPT")
 CPU=$(lscpu -p | egrep -v '^#' | wc -l)
 
 mkdir -p Additional_Tn4401_information/Plasmid_Group_blast_database
@@ -53,8 +46,7 @@ for x in plasmids_binning_results/*.fasta; do
 			if (($diff2 > 100)); then lengthok="fragmented"; else lengthok="Tn4401"; fi
 		else lengthok="Tn4401"; fi
 	else lengthok="nothing"; fi
-	echo "${accnumb}: total length ${totallength}bp; $fragments blast-hit(s), ${diff}bp or ${diff2}bp between these fragments" 
+	echo "${accnumb}: total length ${totallength}bp; $fragments blast-hit(s), ${diff}bp or ${diff2}bp between these fragments"
 	echo "    Result: $lengthok"
 	echo "$lengthok" > Additional_Tn4401_information/blast_results/$accnumb.txt
 done
-

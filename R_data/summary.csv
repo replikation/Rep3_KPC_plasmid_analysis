@@ -1,51 +1,51 @@
 name,hits,total,percent
-Acinetobacter,1,154,.64
-Aeromonas,8,154,5.19
-Arsenic Res.,15,154,9.74
-Citrobacter,18,154,11.68
-CMY,1,154,.64
-Copper Res.,9,154,5.84
-CTX-M,19,154,12.33
-DHA,1,154,.64
-Enterbacter,1,154,.64
-Enterobacter,26,154,16.88
-Enterobacteriaceae,2,154,1.29
-Escherichia,42,154,27.27
-FOX,2,154,1.29
-GES,1,154,.64
-IncA/C,1,154,.64
-IncA/C2,9,154,5.84
-IncFIA,6,154,3.89
-IncFIB,15,154,9.74
-IncFII,3,154,1.94
-IncI2,1,154,.64
-IncL/M,6,154,3.89
-IncN,25,154,16.23
-IncP,3,154,1.94
-IncQ1,5,154,3.24
-IncQ2,1,154,.64
-IncU,4,154,2.59
-IncX3,3,154,1.94
-Klebsiella,101,154,65.58
-LAP,2,154,1.29
-Leclercia,2,154,1.29
-Mercuric Res.,60,154,38.96
-Morganella,2,154,1.29
-OXA,41,154,26.62
-Pantoea,1,154,.64
-Plasmid-segregation,79,154,51.29
-Proteus,4,154,2.59
-PSE,3,154,1.94
-Pseudomonas,7,154,4.54
-psiA/B,63,154,40.90
-Raoultella,2,154,1.29
-Resolvase found,140,154,90.90
-Salmonella,1,154,.64
-Serratia,4,154,2.59
-SHV,16,154,10.38
-TEM,76,154,49.35
-Tn4401,77,154,50.00
-Tn4401 fragmented,20,154,12.98
-Toxin-antitoxin,92,154,59.74
-umuC/D,105,154,68.18
-VEB,1,154,.64
+Acinetobacter,1,153,.65
+Aeromonas,8,153,5.22
+Arsenic Res.,15,153,9.80
+CMY,1,153,.65
+CTX-M,19,153,12.41
+Citrobacter,18,153,11.76
+Copper Res.,9,153,5.88
+DHA,1,153,.65
+Enterbacter,1,153,.65
+Enterobacter,26,153,16.99
+Enterobacteriaceae,2,153,1.30
+Escherichia,42,153,27.45
+FOX,2,153,1.30
+GES,1,153,.65
+IncA/C,1,153,.65
+IncA/C2,9,153,5.88
+IncFIA,6,153,3.92
+IncFIB,15,153,9.80
+IncFII,3,153,1.96
+IncI2,1,153,.65
+IncL/M,6,153,3.92
+IncN,25,153,16.33
+IncP,3,153,1.96
+IncQ1,5,153,3.26
+IncQ2,1,153,.65
+IncU,4,153,2.61
+IncX3,3,153,1.96
+Klebsiella,101,153,66.01
+LAP,2,153,1.30
+Leclercia,2,153,1.30
+Mercuric Res.,60,153,39.21
+Morganella,2,153,1.30
+OXA,41,153,26.79
+PSE,3,153,1.96
+Pantoea,1,153,.65
+Plasmid-segregation,79,153,51.63
+Proteus,4,153,2.61
+Pseudomonas,7,153,4.57
+Raoultella,2,153,1.30
+Resolvase found,140,153,91.50
+SHV,16,153,10.45
+Salmonella,1,153,.65
+Serratia,4,153,2.61
+TEM,76,153,49.67
+Tn4401,77,153,50.32
+Tn4401 fragmented,20,153,13.07
+Toxin-antitoxin,92,153,60.13
+VEB,1,153,.65
+psiA/B,63,153,41.17
+umuC/D,105,153,68.62
